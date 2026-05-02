@@ -1,0 +1,24 @@
+{
+  "name": "imi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txdywy/imi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/txdywy/imi/issues"
+  },
+  "homepage": "https://github.com/txdywy/imi#readme",
+  "dependencies": {
+    "google-news-url-decoder": "^1.2.1"
+  }
+}

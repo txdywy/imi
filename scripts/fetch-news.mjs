@@ -1,6 +1,7 @@
 /**
- * IMI News Fetcher
+ * IMI News Fetcher v2
  * Fetches Xiaomi-related news from multiple sources
+ * Extracts article images via og:image from resolved Google News URLs
  * Run via GitHub Actions every hour
  */
 
@@ -41,16 +42,11 @@ const SOURCES = {
     }
 };
 
-const XIAOMI_KEYWORDS = [
-    '小米', 'xiaomi', 'mi ', 'redmi', 'poco', 'mix ', 'su7', 'yu7', 'yu9',
-    'hyperos', 'miui', 'mimo', '雷军', 'lei jun', '罗福莉', 'luo fuli',
-    '澎湃', '米家', 'miloco', 'xiaomi auto', 'xiaomi car', 'xiaomi ev',
-    '卢伟冰', '林斌', '小米汽车', '小米手机'
-];
-
 const FETCH_TIMEOUT = 15000;
 const MAX_ITEMS_PER_SOURCE = 30;
 const MAX_AGE_DAYS = 30;
+const IMAGE_RESOLVE_CONCURRENCY = 5;
+const IMAGE_RESOLVE_DELAY = 500; // ms between requests
 
 // --- Main ---
 async function main() {
@@ -77,11 +73,19 @@ async function main() {
     const results = await Promise.all(fetchPromises);
     results.forEach((items) => allItems.push(...items));
 
+    // Resolve images for new items (only items without cached images)
+    const existingImageMap = new Map();
+    for (const item of existingNews) {
+        if (item.image && item.link) {
+            existingImageMap.set(normalizeUrl(item.link), item.image);
+        }
+    }
+
+    await resolveImages(allItems, existingImageMap);
+
     // Merge with existing (dedup by link)
     const seen = new Set();
     const merged = [];
-
-    // Add new items first
     for (const item of allItems) {
         const key = normalizeUrl(item.link);
         if (!seen.has(key)) {
@@ -90,10 +94,8 @@ async function main() {
         }
     }
 
-    // Add existing items not yet expired
     const cutoff = new Date();
     cutoff.setDate(cutoff.getDate() - MAX_AGE_DAYS);
-
     for (const item of existingNews) {
         const key = normalizeUrl(item.link);
         if (!seen.has(key) && new Date(item.date) > cutoff) {
@@ -102,20 +104,96 @@ async function main() {
         }
     }
 
-    // Sort by date descending
     merged.sort((a, b) => new Date(b.date) - new Date(a.date));
-
-    // Limit total items
     const final = merged.slice(0, 500);
 
     writeFileSync(DATA_PATH, JSON.stringify(final, null, 2), 'utf-8');
     console.log(`[IMI] Wrote ${final.length} items to news.json (${allItems.length} new fetched)`);
 }
 
+// --- Image Resolution ---
+async function resolveImages(items, existingImageMap) {
+    // Only resolve for items missing images that are Google News links
+    const toResolve = items.filter((item) => {
+        if (item.image) return false;
+        const cached = existingImageMap.get(normalizeUrl(item.link));
+        if (cached) { item.image = cached; return false; }
+        return item.link?.includes('news.google.com/rss/articles/');
+    });
+
+    if (toResolve.length === 0) {
+        console.log('[IMI] No images to resolve');
+        return;
+    }
+
+    console.log(`[IMI] Resolving images for ${toResolve.length} items...`);
+    let resolved = 0;
+
+    // Try to load google-news-url-decoder
+    let GoogleDecoder;
+    try {
+        const mod = await import('google-news-url-decoder');
+        GoogleDecoder = mod.GoogleDecoder;
+    } catch {
+        console.log('[IMI] google-news-url-decoder not available, skipping image resolution');
+        return;
+    }
+
+    const decoder = new GoogleDecoder();
+
+    // Process in batches with rate limiting
+    for (let i = 0; i < toResolve.length; i += IMAGE_RESOLVE_CONCURRENCY) {
+        const batch = toResolve.slice(i, i + IMAGE_RESOLVE_CONCURRENCY);
+        const promises = batch.map(async (item) => {
+            try {
+                const imageUrl = await resolveArticleImage(decoder, item.link);
+                if (imageUrl) {
+                    item.image = imageUrl;
+                    resolved++;
+                }
+            } catch {}
+        });
+        await Promise.all(promises);
+        if (i + IMAGE_RESOLVE_CONCURRENCY < toResolve.length) {
+            await sleep(IMAGE_RESOLVE_DELAY);
+        }
+    }
+
+    console.log(`[IMI] Resolved ${resolved}/${toResolve.length} images`);
+}
+
+async function resolveArticleImage(decoder, googleNewsUrl) {
+    try {
+        const { status, decoded_url } = await decoder.decode(googleNewsUrl);
+        if (!status || !decoded_url) return '';
+
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 8000);
+
+        const resp = await fetch(decoded_url, {
+            signal: controller.signal,
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+                'Accept': 'text/html'
+            }
+        });
+        clearTimeout(timeout);
+
+        if (!resp.ok) return '';
+
+        const html = await resp.text();
+        // Extract og:image
+        const m = html.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i)
+            || html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
+        return m ? m[1] : '';
+    } catch {
+        return '';
+    }
+}
+
 // --- Fetch a single source ---
 async function fetchSource(key, source) {
     console.log(`[IMI] Fetching ${source.name}...`);
-
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT);
 
@@ -127,20 +205,10 @@ async function fetchSource(key, source) {
                 'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
             }
         });
-
         clearTimeout(timeout);
-
-        if (!resp.ok) {
-            console.log(`[IMI] ${source.name} returned ${resp.status}`);
-            return [];
-        }
-
+        if (!resp.ok) { console.log(`[IMI] ${source.name} returned ${resp.status}`); return []; }
         const text = await resp.text();
-
-        if (source.type === 'atom') {
-            return parseAtom(text, source);
-        }
-        return parseRSS(text, source);
+        return source.type === 'atom' ? parseAtom(text, source) : parseRSS(text, source);
     } catch (err) {
         clearTimeout(timeout);
         throw err;
@@ -159,33 +227,19 @@ function parseRSS(xml, source) {
         const pubDate = extractTag(raw, 'pubDate');
         const sourceName = extractTag(raw, 'source') || source.name;
 
-        // For 36kr, filter by Xiaomi keywords
-        if (source.keywordFilter && !isXiaomiRelated(title + ' ' + description)) {
-            continue;
-        }
-
+        if (source.keywordFilter && !isXiaomiRelated(title + ' ' + description)) continue;
         if (!title || !link) continue;
 
-        // Try to extract image from description or media:content
         const image = extractImage(raw);
-
-        // Use actual source name to strip it from title/description
-        let cleanTitle = stripHtml(title);
-        let cleanDesc = stripHtml(description);
-        if (sourceName) {
-            const srcPattern = new RegExp(`\\s*[-–—]\\s*${escapeRegex(sourceName)}$`, 'i');
-            cleanTitle = cleanTitle.replace(srcPattern, '');
-            cleanDesc = cleanDesc.replace(new RegExp(`\\s*${escapeRegex(sourceName)}$`, 'i'), '');
-        }
-        // Fallback: remove Google News source suffix patterns
-        cleanTitle = cleanTitle.replace(/\s*-\s*Google\s*News$/i, '').replace(/\s*-\s*Google\s*新闻$/i, '');
-        cleanDesc = cleanDesc.replace(/\s*-\s*Google\s*News$/i, '').replace(/\s*-\s*Google\s*新闻$/i, '');
+        const cleanTitle = cleanSourceFromText(stripHtml(title), sourceName);
+        const cleanDesc = cleanSourceFromText(stripHtml(description), sourceName);
+        const date = safeDate(pubDate);
 
         items.push({
-            title: cleanTitle.trim(),
-            description: cleanDesc.slice(0, 300).trim(),
+            title: cleanTitle,
+            description: cleanDesc.slice(0, 300),
             link: cleanLink(link),
-            date: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
+            date,
             source: cleanText(sourceName),
             image: image || '',
             category: classify(title + ' ' + description)
@@ -214,7 +268,7 @@ function parseAtom(xml, source) {
             title: cleanText(title),
             description: cleanText(content).slice(0, 300),
             link: cleanLink(link),
-            date: updated ? new Date(updated).toISOString() : new Date().toISOString(),
+            date: safeDate(updated),
             source: source.name,
             image: '',
             category: classify(title + ' ' + content)
@@ -228,39 +282,28 @@ function parseAtom(xml, source) {
 // --- Classification ---
 function classify(text) {
     const lower = text.toLowerCase();
-    const scores = {
-        auto: 0,
-        phone: 0,
-        iot: 0,
-        software: 0,
-        ai: 0,
-        people: 0
-    };
-
+    const scores = {};
     const rules = {
         auto: ['su7', 'yu7', 'yu9', '小米汽车', 'xiaomi auto', 'xiaomi car', 'xiaomi ev', '纽北', 'nurburgring', '电动车', 'electric vehicle', 'xiaomi suv', ' ev ', 'ev launch', 'ev push', 'automotive', '充电桩', '小米车'],
         phone: ['xiaomi 16', 'xiaomi 15', 'xiaomi 14', 'redmi', 'poco', 'mix ', '小米手机', 'smartphone', 'xiaomi pad', '小米平板'],
         iot: ['iot', '智能家居', '手环', 'band', 'watch', '电视', 'tv', '路由器', 'router', '米家', 'mi home', 'smart home', '穿戴', 'wearable', '耳机', 'earbuds', 'xiaomi buds'],
         software: ['hyperos', 'miui', '澎湃os', '系统更新', 'system update', 'ota', 'android', '澎湃'],
-        ai: ['mimo', ' ai ', '人工智能', '大模型', 'llm', '机器学习', 'machine learning', '深度学习', 'deep learning', 'ml ', 'transformer', 'milmo', 'milnm'],
+        ai: ['mimo', ' ai ', '人工智能', '大模型', 'llm', '机器学习', 'machine learning', '深度学习', 'deep learning', 'ml ', 'transformer'],
         people: ['雷军', 'lei jun', '罗福莉', 'luo fuli', '林斌', '卢伟冰']
     };
 
     for (const [cat, keywords] of Object.entries(rules)) {
+        scores[cat] = 0;
         for (const kw of keywords) {
-            if (lower.includes(kw)) scores[cat] += 1;
+            if (lower.includes(kw)) scores[cat]++;
         }
     }
 
     let best = 'phone';
     let bestScore = 0;
     for (const [cat, score] of Object.entries(scores)) {
-        if (score > bestScore) {
-            bestScore = score;
-            best = cat;
-        }
+        if (score > bestScore) { bestScore = score; best = cat; }
     }
-
     return best;
 }
 
@@ -270,31 +313,21 @@ function escapeRegex(str) {
 }
 
 function extractTag(xml, tag) {
-    // Handle CDATA
     const cdataMatch = xml.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>`, 'i'));
     if (cdataMatch) return cdataMatch[1].trim();
-
     const match = xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'));
     return match ? match[1].trim() : '';
 }
 
 function extractImage(xml) {
-    // media:content
     const mediaMatch = xml.match(/<media:content[^>]*url="([^"]+)"/i);
     if (mediaMatch) return mediaMatch[1];
-
-    // media:thumbnail
     const thumbMatch = xml.match(/<media:thumbnail[^>]*url="([^"]+)"/i);
     if (thumbMatch) return thumbMatch[1];
-
-    // enclosure
     const encMatch = xml.match(/<enclosure[^>]*url="([^"]+)"[^>]*type="image/i);
     if (encMatch) return encMatch[1];
-
-    // img in description
     const imgMatch = xml.match(/<img[^>]*src="([^"]+)"/i);
     if (imgMatch) return imgMatch[1];
-
     return '';
 }
 
@@ -326,23 +359,38 @@ function cleanText(text) {
         .trim();
 }
 
+function cleanSourceFromText(text, sourceName) {
+    if (!text) return '';
+    let cleaned = text;
+    if (sourceName) {
+        const srcPattern = new RegExp(`\\s*[-–—]\\s*${escapeRegex(sourceName)}$`, 'i');
+        cleaned = cleaned.replace(srcPattern, '');
+        cleaned = cleaned.replace(new RegExp(`\\s*${escapeRegex(sourceName)}$`, 'i'), '');
+    }
+    cleaned = cleaned.replace(/\s*-\s*Google\s*News$/i, '').replace(/\s*-\s*Google\s*新闻$/i, '');
+    return cleaned.trim();
+}
+
+function safeDate(dateStr) {
+    if (!dateStr) return new Date().toISOString();
+    const d = new Date(dateStr);
+    if (isNaN(d.getTime())) return new Date().toISOString();
+    return d.toISOString();
+}
+
 function cleanLink(link) {
     if (!link) return '';
-    // Google News article redirects
     if (link.includes('news.google.com/rss/articles/')) {
-        // Try to decode the base64-encoded article ID
         try {
             const id = link.split('/articles/')[1]?.split('?')[0];
             if (id) {
                 const decoded = Buffer.from(id, 'base64').toString('utf-8');
-                // Extract URL from decoded content (format: bytes\x12\x1bURL...)
                 const urlMatch = decoded.match(/https?:\/\/[^\s\x00-\x1f]+/);
                 if (urlMatch) return urlMatch[0].replace(/[^\x20-\x7E]+$/, '');
             }
         } catch {}
         return link;
     }
-    // Regular URL with query param
     const match = link.match(/url=([^&]+)/);
     if (match) return decodeURIComponent(match[1]);
     return link.trim();
@@ -360,7 +408,15 @@ function normalizeUrl(url) {
 
 function isXiaomiRelated(text) {
     const lower = text.toLowerCase();
-    return XIAOMI_KEYWORDS.some((kw) => lower.includes(kw.toLowerCase()));
+    return ['小米', 'xiaomi', 'mi ', 'redmi', 'poco', 'mix ', 'su7', 'yu7', 'yu9',
+        'hyperos', 'miui', 'mimo', '雷军', 'lei jun', '罗福莉', 'luo fuli',
+        '澎湃', '米家', 'miloco', 'xiaomi auto', 'xiaomi car', 'xiaomi ev',
+        '卢伟冰', '林斌', '小米汽车', '小米手机'
+    ].some((kw) => lower.includes(kw));
+}
+
+function sleep(ms) {
+    return new Promise((r) => setTimeout(r, ms));
 }
 
 // --- Run ---
