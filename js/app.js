@@ -45,6 +45,7 @@
         setupMusic();
         setupHeroParticles();
         setupScrollReveal();
+        setupImageErrorHandling();
         await loadData();
     }
 
@@ -198,6 +199,11 @@
     }
 
     // --- Music (Web Audio API ambient pad) ---
+    let _masterGain = null;
+    let _musicOscs = [];
+    let _musicNoise = null;
+    let _musicLFOs = [];
+
     function setupMusic() {
         const btn = $('#musicToggle');
         if (!btn) return;
@@ -216,68 +222,83 @@
     }
 
     function startMusic() {
-        if (musicCtx) { musicCtx.close(); musicCtx = null; }
-        musicCtx = new (window.AudioContext || window.webkitAudioContext)();
-        const now = musicCtx.currentTime;
-        const masterGain = musicCtx.createGain();
-        masterGain.gain.setValueAtTime(0, now);
-        masterGain.gain.linearRampToValueAtTime(0.08, now + 2);
-        masterGain.connect(musicCtx.destination);
+        stopMusic();
+        try {
+            musicCtx = new (window.AudioContext || window.webkitAudioContext)();
+            const now = musicCtx.currentTime;
 
-        // Ambient pad: 3 detuned oscillators through lowpass filter
-        const filter = musicCtx.createBiquadFilter();
-        filter.type = 'lowpass';
-        filter.frequency.setValueAtTime(600, now);
-        filter.Q.setValueAtTime(0.5, now);
-        filter.connect(masterGain);
+            _masterGain = musicCtx.createGain();
+            _masterGain.gain.setValueAtTime(0, now);
+            _masterGain.gain.linearRampToValueAtTime(0.06, now + 3);
+            _masterGain.connect(musicCtx.destination);
 
-        const freqs = [130.81, 196.00, 261.63]; // C3, G3, C4
-        freqs.forEach((f, i) => {
-            const osc = musicCtx.createOscillator();
-            osc.type = 'sine';
-            osc.frequency.setValueAtTime(f, now);
-            osc.detune.setValueAtTime(i * 4, now);
-            const g = musicCtx.createGain();
-            g.gain.setValueAtTime(0.3, now);
-            osc.connect(g);
-            g.connect(filter);
-            osc.start(now);
+            const filter = musicCtx.createBiquadFilter();
+            filter.type = 'lowpass';
+            filter.frequency.setValueAtTime(500, now);
+            filter.Q.setValueAtTime(0.7, now);
+            filter.connect(_masterGain);
 
-            // Gentle LFO for movement
-            const lfo = musicCtx.createOscillator();
-            lfo.type = 'sine';
-            lfo.frequency.setValueAtTime(0.05 + i * 0.02, now);
-            const lfoGain = musicCtx.createGain();
-            lfoGain.gain.setValueAtTime(3, now);
-            lfo.connect(lfoGain);
-            lfoGain.connect(osc.detune);
-            lfo.start(now);
-        });
+            // Warm pad: C3, E3, G3 (C major chord, soft)
+            const freqs = [130.81, 164.81, 196.00];
+            _musicOscs = [];
+            _musicLFOs = [];
 
-        // Soft noise layer
-        const bufferSize = musicCtx.sampleRate * 2;
-        const noiseBuffer = musicCtx.createBuffer(1, bufferSize, musicCtx.sampleRate);
-        const data = noiseBuffer.getChannelData(0);
-        for (let i = 0; i < bufferSize; i++) data[i] = (Math.random() * 2 - 1) * 0.02;
-        const noise = musicCtx.createBufferSource();
-        noise.buffer = noiseBuffer;
-        noise.loop = true;
-        const noiseFilter = musicCtx.createBiquadFilter();
-        noiseFilter.type = 'bandpass';
-        noiseFilter.frequency.setValueAtTime(200, now);
-        noiseFilter.Q.setValueAtTime(1, now);
-        noise.connect(noiseFilter);
-        noiseFilter.connect(masterGain);
-        noise.start(now);
+            freqs.forEach((f, i) => {
+                const osc = musicCtx.createOscillator();
+                osc.type = 'sine';
+                osc.frequency.setValueAtTime(f, now);
+                osc.detune.setValueAtTime(i * 3, now);
+                const g = musicCtx.createGain();
+                g.gain.setValueAtTime(0.25, now);
+                osc.connect(g);
+                g.connect(filter);
+                osc.start(now);
+                _musicOscs.push(osc);
+
+                const lfo = musicCtx.createOscillator();
+                lfo.type = 'sine';
+                lfo.frequency.setValueAtTime(0.03 + i * 0.015, now);
+                const lfoG = musicCtx.createGain();
+                lfoG.gain.setValueAtTime(2, now);
+                lfo.connect(lfoG);
+                lfoG.connect(osc.detune);
+                lfo.start(now);
+                _musicLFOs.push(lfo);
+            });
+
+            // Soft noise texture
+            const buf = musicCtx.createBuffer(1, musicCtx.sampleRate * 2, musicCtx.sampleRate);
+            const ch = buf.getChannelData(0);
+            for (let i = 0; i < ch.length; i++) ch[i] = (Math.random() * 2 - 1) * 0.015;
+            _musicNoise = musicCtx.createBufferSource();
+            _musicNoise.buffer = buf;
+            _musicNoise.loop = true;
+            const nf = musicCtx.createBiquadFilter();
+            nf.type = 'bandpass';
+            nf.frequency.setValueAtTime(180, now);
+            nf.Q.setValueAtTime(0.8, now);
+            _musicNoise.connect(nf);
+            nf.connect(_masterGain);
+            _musicNoise.start(now);
+        } catch (e) {
+            console.warn('Music init failed:', e);
+        }
     }
 
     function stopMusic() {
-        if (musicCtx) {
-            const now = musicCtx.currentTime;
-            musicCtx.destination.gain?.setValueAtTime?.(0, now);
-            musicCtx.close();
-            musicCtx = null;
+        if (_masterGain && musicCtx) {
+            try {
+                const now = musicCtx.currentTime;
+                _masterGain.gain.linearRampToValueAtTime(0, now + 0.5);
+                const ctx = musicCtx;
+                setTimeout(() => { try { ctx.close(); } catch {} }, 600);
+            } catch {}
         }
+        _masterGain = null;
+        _musicOscs = [];
+        _musicLFOs = [];
+        _musicNoise = null;
+        musicCtx = null;
     }
 
     // --- Hero Particles ---
@@ -294,6 +315,24 @@
             p.style.width = p.style.height = (1 + Math.random() * 3) + 'px';
             container.appendChild(p);
         }
+    }
+
+    // --- Image Error Handling (event delegation) ---
+    function setupImageErrorHandling() {
+        document.addEventListener('error', (e) => {
+            if (e.target.tagName !== 'IMG' || !e.target.dataset.phCat) return;
+            const cat = e.target.dataset.phCat;
+            const mode = e.target.dataset.phMode;
+            if (mode === 'featured') {
+                // Replace with placeholder for featured cards
+                const wrap = e.target.closest('.featured-card-img');
+                if (wrap) wrap.innerHTML = generatePlaceholder(cat);
+            } else {
+                // Replace with placeholder for timeline cards
+                const wrap = e.target.parentElement;
+                if (wrap) wrap.innerHTML = generatePlaceholder(cat);
+            }
+        }, true); // use capture phase for error events
     }
 
     // --- Scroll Reveal ---
@@ -456,7 +495,7 @@
         section.style.display = '';
         grid.innerHTML = featured.map((item, i) => {
             const imgHtml = item.image
-                ? `<div class="featured-card-img"><img src="${esc(item.image)}" alt="${esc(item.title)}" loading="lazy" onerror="this.parentElement.style.display='none'"></div>`
+                ? `<div class="featured-card-img"><img src="${esc(item.image)}" alt="${esc(item.title)}" loading="lazy" data-ph-cat="${item.category}" data-ph-mode="featured"></div>`
                 : `<div class="featured-card-img">${generatePlaceholder(item.category)}</div>`;
             return `<a href="${esc(item.link)}" target="_blank" rel="noopener" class="featured-card" style="animation-delay:${i * 0.1}s">
                 ${imgHtml}
@@ -527,7 +566,7 @@
         const catInfo = CATEGORY_MAP[cat] || { label: cat, icon: '' };
         const delay = (index % PER_PAGE) * 0.05;
         const imgHtml = item.image
-            ? `<img src="${esc(item.image)}" alt="${esc(item.title)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'img-placeholder\\'>${esc(generatePlaceholderSVG(cat))}</div>'">`
+            ? `<img src="${esc(item.image)}" alt="${esc(item.title)}" loading="lazy" data-ph-cat="${cat}">`
             : generatePlaceholder(cat);
         return `<a href="${esc(item.link)}" target="_blank" rel="noopener" class="timeline-card border-${cat}" style="animation-delay:${delay}s">
             <div class="timeline-card-image">${imgHtml}</div>
@@ -558,72 +597,114 @@
         if (empty) empty.style.display = 'flex';
     }
 
-    // --- Placeholder Image Generation ---
+    // --- Placeholder Image Generation (Xiaomi-inspired) ---
     const PLACEHOLDER_CONFIGS = {
         auto: {
-            bg: 'linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)',
+            gradient: ['#0D0D1A', '#1A0A2E', '#2D1B69'],
             accent: '#FF6900',
-            icon: '<path d="M8 28h32M8 28a3 3 0 01-3-3v-6a3 3 0 013-3h32a3 3 0 013 3v6a3 3 0 01-3 3M8 28l-2 4h36l-2-4" stroke="#FF6900" stroke-width="2" stroke-linecap="round" fill="none"/>',
-            label: 'SU7'
+            accentLight: '#FF8533',
+            icon: 'M8 28h32M8 28a3 3 0 01-3-3v-6a3 3 0 013-3h32a3 3 0 013 3v6a3 3 0 01-3 3M8 28l-2 4h36l-2-4',
+            label: 'XIAOMI AUTO',
+            sub: 'SU7 / YU7 / YU9'
         },
         phone: {
-            bg: 'linear-gradient(135deg, #2d1b69 0%, #11998e 100%)',
+            gradient: ['#0A0A1A', '#1A0A3E', '#2D1B69'],
             accent: '#6C5CE7',
-            icon: '<rect x="17" y="6" width="14" height="36" rx="3" stroke="#6C5CE7" stroke-width="2" fill="none"/><circle cx="24" cy="36" r="2" fill="#6C5CE7"/>',
-            label: 'Mi Phone'
+            accentLight: '#A29BFE',
+            icon: 'M17 6h14a3 3 0 013 3v30a3 3 0 01-3 3H17a3 3 0 01-3-3V9a3 3 0 013-3z M21 36h6',
+            label: 'XIAOMI',
+            sub: 'Smartphone'
         },
         iot: {
-            bg: 'linear-gradient(135deg, #0a3d62 0%, #079992 100%)',
+            gradient: ['#0A1628', '#0A2E3D', '#0D4F4F'],
             accent: '#00B894',
-            icon: '<circle cx="24" cy="24" r="6" stroke="#00B894" stroke-width="2" fill="none"/><path d="M24 14v4m0 12v4M14 24h4m12 0h4" stroke="#00B894" stroke-width="2" stroke-linecap="round"/>',
-            label: 'IoT'
+            accentLight: '#55EFC4',
+            icon: 'M24 18a6 6 0 100 12 6 6 0 000-12z M24 10v4 M24 34v4 M10 24h4 M34 24h4',
+            label: 'MI IoT',
+            sub: 'Smart Home'
         },
         software: {
-            bg: 'linear-gradient(135deg, #0c2461 0%, #0984e3 100%)',
+            gradient: ['#0A0A2E', '#0C1E4A', '#0A3D7D'],
             accent: '#0984E3',
-            icon: '<polyline points="18 14 10 24 18 34" stroke="#0984E3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><polyline points="30 14 38 24 30 34" stroke="#0984E3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>',
-            label: 'HyperOS'
+            accentLight: '#74B9FF',
+            icon: 'M18 14l-8 10 8 10 M30 14l8 10-8 10',
+            label: 'HyperOS',
+            sub: 'System Update'
         },
         ai: {
-            bg: 'linear-gradient(135deg, #2d1b69 0%, #e84393 100%)',
+            gradient: ['#1A0A2E', '#2D0A3E', '#4A0E5C'],
             accent: '#E84393',
-            icon: '<circle cx="24" cy="20" r="8" stroke="#E84393" stroke-width="2" fill="none"/><path d="M16 34c0-4.4 3.6-8 8-8s8 3.6 8 8" stroke="#E84393" stroke-width="2" stroke-linecap="round" fill="none"/>',
-            label: 'MiMo AI'
+            accentLight: '#FD79A8',
+            icon: 'M24 14a8 8 0 100 16 8 8 0 000-16z M16 32c0-4.4 3.6-8 8-8s8 3.6 8 8',
+            label: 'MiMo AI',
+            sub: 'Intelligence'
         },
         people: {
-            bg: 'linear-gradient(135deg, #2d3436 0%, #636e72 100%)',
+            gradient: ['#1A1A1A', '#2D2D2D', '#3D3D3D'],
             accent: '#FDCB6E',
-            icon: '<circle cx="24" cy="18" r="7" stroke="#FDCB6E" stroke-width="2" fill="none"/><path d="M14 40c0-5.5 4.5-10 10-10s10 4.5 10 10" stroke="#FDCB6E" stroke-width="2" stroke-linecap="round" fill="none"/>',
-            label: 'People'
+            accentLight: '#FFEAA7',
+            icon: 'M24 16a7 7 0 100 14 7 7 0 000-14z M14 40c0-5.5 4.5-10 10-10s10 4.5 10 10',
+            label: 'XIAOMI',
+            sub: 'Leadership'
         }
     };
 
+    // Unique ID counter for SVG patterns
+    let _phId = 0;
+
     function generatePlaceholderSVG(category) {
         const cfg = PLACEHOLDER_CONFIGS[category] || PLACEHOLDER_CONFIGS.phone;
+        const id = 'ph' + (++_phId);
         return `<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-            <defs><linearGradient id="pg-${category}" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="${cfg.accent}" stop-opacity="0.15"/><stop offset="100%" stop-color="${cfg.accent}" stop-opacity="0.05"/></linearGradient></defs>
-            <rect width="48" height="48" rx="8" fill="url(#pg-${category})"/>
-            ${cfg.icon}
+            <defs><linearGradient id="${id}" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="${cfg.gradient[0]}"/><stop offset="50%" stop-color="${cfg.gradient[1]}"/><stop offset="100%" stop-color="${cfg.gradient[2]}"/></linearGradient></defs>
+            <rect width="48" height="48" rx="8" fill="url(#${id})"/>
+            <circle cx="24" cy="24" r="12" stroke="${cfg.accent}" stroke-width="1" opacity="0.3" fill="none"/>
+            <g transform="translate(12,12) scale(0.5)" stroke="${cfg.accent}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.8"><path d="${cfg.icon}"/></g>
         </svg>`;
     }
 
     function generatePlaceholder(category) {
         const cfg = PLACEHOLDER_CONFIGS[category] || PLACEHOLDER_CONFIGS.phone;
-        return `<div class="placeholder-img">
+        const id = 'p' + (++_phId);
+        return `<div class="placeholder-img placeholder-${category}">
             <svg viewBox="0 0 400 280" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
                 <defs>
-                    <linearGradient id="bg-${category}" x1="0%" y1="0%" x2="100%" y2="100%">
-                        <stop offset="0%" stop-color="${cfg.accent}" stop-opacity="0.12"/>
-                        <stop offset="100%" stop-color="${cfg.accent}" stop-opacity="0.04"/>
+                    <linearGradient id="${id}-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stop-color="${cfg.gradient[0]}"/>
+                        <stop offset="50%" stop-color="${cfg.gradient[1]}"/>
+                        <stop offset="100%" stop-color="${cfg.gradient[2]}"/>
                     </linearGradient>
-                    <pattern id="grid-${category}" width="20" height="20" patternUnits="userSpaceOnUse">
-                        <circle cx="10" cy="10" r="0.5" fill="${cfg.accent}" opacity="0.15"/>
+                    <radialGradient id="${id}-glow" cx="30%" cy="40%" r="60%">
+                        <stop offset="0%" stop-color="${cfg.accent}" stop-opacity="0.2"/>
+                        <stop offset="100%" stop-color="${cfg.accent}" stop-opacity="0"/>
+                    </radialGradient>
+                    <radialGradient id="${id}-glow2" cx="80%" cy="70%" r="40%">
+                        <stop offset="0%" stop-color="${cfg.accentLight}" stop-opacity="0.1"/>
+                        <stop offset="100%" stop-color="${cfg.accentLight}" stop-opacity="0"/>
+                    </radialGradient>
+                    <pattern id="${id}-dots" width="24" height="24" patternUnits="userSpaceOnUse">
+                        <circle cx="12" cy="12" r="0.6" fill="${cfg.accent}" opacity="0.12"/>
                     </pattern>
+                    <pattern id="${id}-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+                        <path d="M40 0L0 0 0 40" fill="none" stroke="${cfg.accent}" stroke-width="0.3" opacity="0.08"/>
+                    </pattern>
+                    <clipPath id="${id}-clip"><rect width="400" height="280" rx="0"/></clipPath>
                 </defs>
-                <rect width="400" height="280" fill="url(#bg-${category})"/>
-                <rect width="400" height="280" fill="url(#grid-${category})"/>
-                <g transform="translate(176,104) scale(2.5)" opacity="0.6">${cfg.icon}</g>
-                <text x="200" y="230" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="${cfg.accent}" opacity="0.5">${cfg.label}</text>
+                <g clip-path="url(#${id}-clip)">
+                    <rect width="400" height="280" fill="url(#${id}-bg)"/>
+                    <rect width="400" height="280" fill="url(#${id}-grid)"/>
+                    <rect width="400" height="280" fill="url(#${id}-dots)"/>
+                    <rect width="400" height="280" fill="url(#${id}-glow)"/>
+                    <rect width="400" height="280" fill="url(#${id}-glow2)"/>
+                    <circle cx="200" cy="130" r="50" stroke="${cfg.accent}" stroke-width="0.8" fill="none" opacity="0.15"/>
+                    <circle cx="200" cy="130" r="35" stroke="${cfg.accent}" stroke-width="0.5" fill="none" opacity="0.1"/>
+                    <circle cx="200" cy="130" r="70" stroke="${cfg.accent}" stroke-width="0.3" fill="none" opacity="0.08"/>
+                    <g transform="translate(180,110) scale(1.2)" stroke="${cfg.accent}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"><path d="${cfg.icon}"/></g>
+                    <text x="200" y="200" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="${cfg.accent}" opacity="0.6">${cfg.label}</text>
+                    <text x="200" y="218" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="400" letter-spacing="1" fill="${cfg.accentLight}" opacity="0.35">${cfg.sub}</text>
+                    <line x1="160" y1="230" x2="240" y2="230" stroke="${cfg.accent}" stroke-width="0.5" opacity="0.15"/>
+                    <text x="200" y="252" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="9" font-weight="500" letter-spacing="2" fill="${cfg.accent}" opacity="0.2">IMI</text>
+                </g>
             </svg>
         </div>`;
     }
