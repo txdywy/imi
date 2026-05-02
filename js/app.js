@@ -26,6 +26,9 @@
     let currentSort = 'newest';
     let searchQuery = '';
     let filterCounts = {};
+    let currentOSFilter = 'all';
+    let updatesDisplayed = 0;
+    const UPDATES_PER_PAGE = 15;
     let musicCtx = null;
     let musicPlaying = false;
 
@@ -39,6 +42,7 @@
         setupSearch();
         setupFilters();
         setupSort();
+        setupUpdatesFilters();
         setupNav();
         setupMobileNav();
         setupModal();
@@ -110,6 +114,68 @@
         });
     }
 
+    // --- Updates Filters ---
+    function setupUpdatesFilters() {
+        $$('.updates-filter').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                $$('.updates-filter').forEach((b) => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentOSFilter = btn.dataset.os;
+                updatesDisplayed = 0;
+                renderUpdates();
+            });
+        });
+    }
+
+    function renderUpdates() {
+        const container = $('#updatesList');
+        const moreBtn = $('#updatesMore');
+        if (!container) return;
+
+        const updates = allNews
+            .filter((n) => n.isUpdate)
+            .filter((n) => currentOSFilter === 'all' || n.osType === currentOSFilter)
+            .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        if (updatesDisplayed === 0) container.innerHTML = '';
+
+        const batch = updates.slice(updatesDisplayed, updatesDisplayed + UPDATES_PER_PAGE);
+        const html = batch.map((item, i) => {
+            const osClass = item.osType ? item.osType.toLowerCase().replace(/[\s]/g, '') : 'hyperos';
+            const osBadgeClass = osClass === 'hyperos' ? 'hyperos'
+                : osClass === 'miui' ? 'miui'
+                : osClass === 'android' ? 'android'
+                : osClass === '澎湃os' ? 'pengpai'
+                : 'hyperos';
+            const typeClass = item.updateType || 'update';
+            const typeLabels = { stable: '正式版', beta: '测试版', security: '安全更新', firmware: '固件', update: '更新' };
+            const delay = (i % UPDATES_PER_PAGE) * 0.04;
+
+            return `<a href="${esc(item.link)}" target="_blank" rel="noopener" class="update-item" style="animation-delay:${delay}s">
+                <div class="update-badges">
+                    <span class="update-os-badge ${osBadgeClass}">${esc(item.osType || 'OS')}</span>
+                    ${item.updateVersion ? `<span class="update-version">v${esc(item.updateVersion)}</span>` : ''}
+                    <span class="update-type-badge ${typeClass}">${typeLabels[typeClass] || '更新'}</span>
+                </div>
+                <div class="update-body">
+                    <h4 class="update-title">${esc(item.title)}</h4>
+                    ${item.device ? `<span class="update-device">${esc(item.device)}</span>` : ''}
+                    <div class="update-meta">
+                        <span>${esc(item.source || '')}</span>
+                        <span>${formatDate(item.date)}</span>
+                    </div>
+                </div>
+            </a>`;
+        }).join('');
+
+        if (html) container.insertAdjacentHTML('beforeend', html);
+        updatesDisplayed += batch.length;
+
+        if (moreBtn) moreBtn.style.display = updatesDisplayed < updates.length ? 'block' : 'none';
+        const btn = moreBtn?.querySelector('.btn-load-more');
+        if (btn) btn.onclick = () => renderUpdates();
+    }
+
     // --- Sort ---
     function setupSort() {
         $$('.sort-btn').forEach((btn) => {
@@ -125,7 +191,7 @@
     // --- Nav ---
     function setupNav() {
         const links = $$('.nav-link');
-        const sections = ['timeline', 'products', 'tech', 'about'];
+        const sections = ['timeline', 'updates', 'products', 'tech', 'about'];
         links.forEach((link) => {
             link.addEventListener('click', () => {
                 links.forEach((l) => l.classList.remove('active'));
@@ -382,6 +448,7 @@
             updateStats();
             updateFilterCounts();
             applyFilters();
+            renderUpdates();
         } catch (err) {
             console.error('Failed to load news data:', err);
             showEmpty();

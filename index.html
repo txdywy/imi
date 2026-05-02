@@ -29,6 +29,7 @@
             </a>
             <nav class="nav" id="mainNav" aria-label="主导航">
                 <a href="#timeline" class="nav-link active" data-nav="timeline">时间线</a>
+                <a href="#updates" class="nav-link" data-nav="updates">版本</a>
                 <a href="#products" class="nav-link" data-nav="products">产品</a>
                 <a href="#tech" class="nav-link" data-nav="tech">技术</a>
                 <a href="#about" class="nav-link" data-nav="about">关于</a>
@@ -58,6 +59,7 @@
     <div class="mobile-nav-overlay" id="mobileNavOverlay">
         <nav class="mobile-nav" aria-label="移动端导航">
             <a href="#timeline" class="mobile-nav-link" data-nav="timeline">时间线</a>
+            <a href="#updates" class="mobile-nav-link" data-nav="updates">版本</a>
             <a href="#products" class="mobile-nav-link" data-nav="products">产品</a>
             <a href="#tech" class="mobile-nav-link" data-nav="tech">技术</a>
             <a href="#about" class="mobile-nav-link" data-nav="about">关于</a>
@@ -141,6 +143,27 @@
                     重点关注
                 </h2>
                 <div class="featured-grid" id="featuredGrid"></div>
+            </div>
+        </section>
+
+        <!-- Version Tracker -->
+        <section class="updates" id="updates">
+            <div class="container">
+                <h2 class="section-title">
+                    <span class="title-accent"></span>
+                    版本追踪
+                </h2>
+                <div class="updates-filters" id="updatesFilters">
+                    <button class="updates-filter active" data-os="all">全部</button>
+                    <button class="updates-filter" data-os="HyperOS">HyperOS</button>
+                    <button class="updates-filter" data-os="MIUI">MIUI</button>
+                    <button class="updates-filter" data-os="Android">Android</button>
+                    <button class="updates-filter" data-os="澎湃OS">澎湃OS</button>
+                </div>
+                <div class="updates-list" id="updatesList"></div>
+                <div class="updates-more" id="updatesMore" style="display:none;">
+                    <button class="btn-load-more">查看更多更新</button>
+                </div>
             </div>
         </section>
 

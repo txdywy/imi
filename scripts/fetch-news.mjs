@@ -39,6 +39,38 @@ const SOURCES = {
         url: 'https://github.com/XiaomiMiMo.atom',
         name: 'GitHub XiaomiMiMo',
         type: 'atom'
+    },
+    // Software update dedicated sources
+    hyperOSUpdate: {
+        url: 'https://news.google.com/rss/search?q=%22HyperOS%22+update+OR+rollout+OR+OTA&hl=en&gl=US&ceid=US:en',
+        name: 'HyperOS Updates',
+        type: 'rss',
+        isUpdate: true
+    },
+    miuiUpdate: {
+        url: 'https://news.google.com/rss/search?q=%22MIUI%22+update+OR+rollout+OR+OTA&hl=en&gl=US&ceid=US:en',
+        name: 'MIUI Updates',
+        type: 'rss',
+        isUpdate: true
+    },
+    hyperOSUpdateCN: {
+        url: 'https://news.google.com/rss/search?q=HyperOS+%E6%9B%B4%E6%96%B0+OR+%E6%8E%A8%E9%80%81+OR+OTA+OR+%E5%8D%87%E7%BA%A7&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
+        name: 'HyperOS 更新',
+        type: 'rss',
+        isUpdate: true
+    },
+    xdaXiaomi: {
+        url: 'https://www.xda-developers.com/feed/tag/xiaomi/',
+        name: 'XDA Xiaomi',
+        type: 'rss',
+        keywordFilter: true,
+        isUpdate: true
+    },
+    ximitime: {
+        url: 'https://ximitime.com/feed/',
+        name: 'XimiTime',
+        type: 'rss',
+        isUpdate: true
     }
 };
 
@@ -235,15 +267,21 @@ function parseRSS(xml, source) {
         const cleanDesc = cleanSourceFromText(stripHtml(description), sourceName);
         const date = safeDate(pubDate);
 
-        items.push({
+        const fullText = title + ' ' + description;
+        const category = source.isUpdate ? 'software' : classify(fullText);
+        const versionInfo = source.isUpdate ? extractVersionInfo(fullText) : null;
+
+        const item = {
             title: cleanTitle,
             description: cleanDesc.slice(0, 300),
             link: cleanLink(link),
             date,
             source: cleanText(sourceName),
             image: image || '',
-            category: classify(title + ' ' + description)
-        });
+            category
+        };
+        if (versionInfo) Object.assign(item, versionInfo);
+        items.push(item);
     }
 
     console.log(`[IMI] ${source.name}: ${items.length} items`);
@@ -305,6 +343,40 @@ function classify(text) {
         if (score > bestScore) { bestScore = score; best = cat; }
     }
     return best;
+}
+
+// --- Version Info Extraction ---
+function extractVersionInfo(text) {
+    const info = {};
+    const lower = text.toLowerCase();
+
+    // Extract version number (e.g., HyperOS 3.1, MIUI 15, V14.0.2, 2.0.301.0)
+    const versionMatch = text.match(/(?:HyperOS|MIUI|澎湃OS)\s*(\d+(?:\.\d+)*)/i)
+        || text.match(/[vV](\d+(?:\.\d+){1,3})/i)
+        || text.match(/(\d+\.\d+\.\d+(?:\.\d+)?)/);
+    if (versionMatch) info.updateVersion = versionMatch[1];
+
+    // Detect OS type
+    if (/hyperos/i.test(lower)) info.osType = 'HyperOS';
+    else if (/miui/i.test(lower)) info.osType = 'MIUI';
+    else if (/澎湃os/i.test(lower)) info.osType = '澎湃OS';
+    else if (/android\s*\d+/i.test(lower)) info.osType = 'Android';
+
+    // Detect update type
+    if (/stable|正式版|稳定版|正式/i.test(lower)) info.updateType = 'stable';
+    else if (/beta|测试版|内测|公测/i.test(lower)) info.updateType = 'beta';
+    else if (/security|安全补丁|安全更新/i.test(lower)) info.updateType = 'security';
+    else if (/firmware|固件/i.test(lower)) info.updateType = 'firmware';
+    else info.updateType = 'update';
+
+    // Extract device name
+    const deviceMatch = text.match(/(Xiaomi\s+\d+\s*(?:Ultra|Pro)?|Redmi\s+\w+(?:\s+\w+)?|POCO\s+\w+(?:\s+\w+)?|Mi\s+\d+\s*(?:Ultra|Pro|T)?|MIX\s+\w+|Pad\s+\d+\s*\w*|K\s*Pad\s*\w*)/i);
+    if (deviceMatch) info.device = deviceMatch[1].trim();
+
+    // Mark as software update
+    info.isUpdate = true;
+
+    return info;
 }
 
 // --- Helpers ---
