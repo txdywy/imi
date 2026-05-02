@@ -40,7 +40,10 @@ jobs:
           git config user.email "bot@imi.dev"
           git add data/news.json
           if ! git diff --staged --quiet; then
-            git pull --rebase origin main
+            git stash
+            git pull --rebase origin main || true
+            git stash pop || true
+            git add data/news.json
             git commit -m "chore: update news data $(date -u '+%Y-%m-%d %H:%M')"
             git push
           else
