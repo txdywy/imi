@@ -159,7 +159,7 @@
     "title": "拒绝盲目堆料，小米YU7 GT重新定义纯血长途旅行车",
     "description": "拒绝盲目堆料，小米YU7 GT重新定义纯血长途旅行车",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvc3RfM2dIUlBfbjIzR0RpT0gtc1Rmd0NYVVZudDhPME5HSnQwUGN3cnREbHRpYV8tNUl1akI1QnJCcUJTYjJMRkw3cWpvS2VabUVweWQ3ZTgyWjA?oc=5",
-    "date": "2026-05-02T11:33:35.000Z",
+    "date": "2026-05-02T11:34:06.000Z",
     "source": "汽车之家",
     "image": "https://img3.autoimg.cn/chejiahaodfs/g34/M0B/C2/50/autohomecar__ChxpV2n13t-ASN9VAAmWX8SR1AU083.jpg",
     "category": "auto"
@@ -743,7 +743,7 @@
     "title": "Xiaomi Smart Band 10 Pro leaks with a suave ceramic design",
     "description": "Xiaomi Smart Band 10 Pro leaks with a suave ceramic design",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajFXSWo5bFdvTjZERWhFWThaQ0NLYnZSSERoemhKd1R0V1NNVkRObWFOZjF0azVxcUNpUVh3a0tPbGl0WW5Sb2EtWTg3MW5INm5DdFZNb1dMaXRIMTZmckRXTkZvclZpeERXYkpVWVZfTk9nV0JHelE3bDMyeXIzV1J1ZGxzQQ?oc=5",
-    "date": "2026-05-01T10:01:31.000Z",
+    "date": "2026-05-01T10:02:26.000Z",
     "source": "Android Authority",
     "image": "https://www.androidauthority.com/wp-content/uploads/2024/12/xiaomi-smart-band-9-pro-and-9-active-with-replacement-bands.jpg",
     "category": "iot"
@@ -1081,6 +1081,19 @@
     "isUpdate": true
   },
   {
+    "title": "Xiaomi HyperOS 3.1 stable rollout begins: These devices are getting it first",
+    "description": "Xiaomi HyperOS 3.1 stable rollout begins: These devices are getting it first",
+    "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNeXI0QThDeEJISEQtbFpZQVl1YVczWVMxbWRPMHotcG1nRG9fYWs1bmpwcFFBQ0dzOU9ZQ1RobC00QlRNc1NjSVdDTXVrNDAxdTFEb2pJdHUxS3RJckIyMmlwek00MUhaelZScnYtMlQ5S3I3MzJ5U1VUNWQtUDlaYlJtSlFuclkzdlktNllSOFo4dmhTV3psREZwVjhPb2VrbElnMGVTS2VPcFFtWFhxRzdHZGI2MTNUQmNNcEQwNTBiVDBCRGJ1OGlyRzZ6cmtudUhqWUJqMmxVSnQ1V2pUeGNjWWtCS19HWFNLYW5VZlpieDNYM2sxY3dCc25fc05MenkzWmt6aFlUQnJlRjVpS3RZeF82aXAwQ3doVXBoajdqZTVobWJ3ZVpvdXRHdjdKZjRCcTVnLVQ2Q29CNm1INXRtRlRmZGZ6ZVFLNkdfV1hsSzBRTDIzdW03eENNUGt4a3ZBZ2I0WXo1Nm91SmxzOFhiNDFsVlVaMGpnSm9iOGxnZXNVSlpodzZvRFEwb3B5?oc=5",
+    "date": "2026-04-18T10:34:54.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "stable",
+    "isUpdate": true
+  },
+  {
     "title": "HyperOS 3 bringing display improvements to older Xiaomi phones",
     "description": "HyperOS 3 bringing display improvements to older Xiaomi phones",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmUzOVRDaUFiNU82RnpLOEptV3ZfTkQ1aUZlSEY0dzhUSXVoNE5rc3RZN0NZX254ODZ2bGVJNGdGRFZHLUMzOGhNcHNsdEhMZ2FwaXZTeFFfN3F1dXFadmN3NzFwcWxkMllWLVV4eDY4ZEx3bmJzaE9XVkI4emd1UG1kVzZnbkNTamlnTnkzeVhMTU1jMHJERNIBngFBVV95cUxQeVJmbFNBMDd6RFcxUEpJTFktRHB1SUhYdXF4RWFtMTRNV2RqRnRwRnJsTWNSTGtMaUNsRlR2Q1hKcW9OUmxETERFV0ZYZnhEY3ZSbnVXWFhGZi1GUW5lNG5ITURNUUVmZDh3YjBhbVRlRkhRUHE4ajNpeXV0ZUF0eVJaOGxEMHBFZDVOa243OHB1T09FNTRKV2ltZkEwdw?oc=5",
@@ -1250,18 +1263,6 @@
     "isUpdate": true
   },
   {
-    "title": "Xiaomi is Officially Killing Off MIUI After 16 Years",
-    "description": "Xiaomi is Officially Killing Off MIUI After 16 Years",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUFrVjNMcm5oMFotUm5fcEZZRzlIemE1Y3ZwT3NpdWFrRHE5X0RFSU8xWU5CZnpVUE9OcU94dGQ3SkhKV0JHLTRQRDRqVzVjV3NIamZLOVZPUlg5eFMtT1E0VlZidUt0ZHd3ckJfRmRDb0RHbC00M0I4OXRoMTZGT29aZVdDUzNKOHlZRl9Pa0ZTQdIBlwFBVV95cUxOdUxuM1h6TWg2cWVrQXlSTGo4Z2NOWE1ONzdVaDhURThib0JFT2hwVlFjT3RJeEg0RTFiNjQ2TjFoc2IzS08tM1dpanpsVXJPR2plTzZ0N2gzaUUwNnhqVF9mNGdVbnh2SlVrT2FHNDdPSVVTbFZxajBmMHNhWDVCcFZCbmhiYm50WDRQbnBBcmQzQXAxdTRZ?oc=5",
-    "date": "2026-03-25T07:00:00.000Z",
-    "source": "ProPakistani",
-    "image": "https://propakistani.pk/wp-content/uploads/2026/03/MIUI-Dead.jpg",
-    "category": "software",
-    "osType": "MIUI",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
     "title": "Xiaomi shares HyperOS 3.1 stable rollout time and eligible devices",
     "description": "Xiaomi shares HyperOS 3.1 stable rollout time and eligible devices",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXpmVTZMTzBkQ29mTm1ROVNwSC1ZY0NUaWx3ZFZVRFhIdXFFV0NQeG0zUFZYZnU3Mlh2VXowZFdaQXhWeXZZaVRGTlJuWFdNcFRPT2RkeWVqYVh0enFKUVk4N1ZlV1o1aThvbFhGZXR3bHVGVlljT2lqZVNOZ1dHNnBkeDR5Zm84ZHJ5VldlcUVkdmxlbFhUem9weXpaZ9IBowFBVV95cUxNdnBqU2t5cW9aLUc4LVRncG9tT3VlT09HbENlQmdrSzBSZExHZ1k1M1NHY2hJaE1UaFZ2aXIzanJCYktzQnhuQS1fY0hkYjAtalNmOEVLaWlaM3lFUUFYMnBBUkxmbV8yN2Fpd2I1bHBNbGEzUWFuRkJfUlBKYkNqUGNHbV9UaW1rQVlBS0lsOXJqVmdoX2FhNnE0MGpQREJfNVNF?oc=5",
@@ -1313,19 +1314,6 @@
     "isUpdate": true
   },
   {
-    "title": "Xiaomi HyperOS 4.0 (Android 17) Eligible Devices: List",
-    "description": "Xiaomi HyperOS 4.0 (Android 17) Eligible Devices: List",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJCWjE1LWFoaXdaYW9xbVNKeU94VFU0RGhWR3RpcW8yYkkzNjV6M2h5NjFubWFxYldVWGQzZ0hDcXpVTXFianI3eFJZeFd1bHA2YzRsbGloZzVyOHRxQVRRdzVHRzVXRWxNOWtSaFlmanBKc05fSkZOQlhiYkZpb2toYVJZZGVxREHSAY8BQVVfeXFMTTdkMU1PamI2MzI3NExTa2ZfOUtWdXNCNHNhQkpoR1Q4Q0hkb21CMDY5OWN0ZXQwQTJGMW5reU5udVNUMkhKakRsbFFrRFlPdVBDLUtSeTVkdkdqbEVnUFluZUh5SjJ6TzNFbWUyZTZxZl92VjE0NW5RQVZEM2hKQUR6WU5mdG9VWnp6ZXR3YTg?oc=5",
-    "date": "2026-02-16T08:00:00.000Z",
-    "source": "Huawei Central",
-    "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/HyperOS-imagfe.jpg",
-    "category": "software",
-    "updateVersion": "4.0",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
     "title": "小米、红米和 Poco 获得Android 17 HyperOS 更新资格的完整名单提前出现",
     "description": "小米、红米和 Poco 获得Android 17 HyperOS 更新资格的完整名单提前出现",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVW9VQktIM3Y0VXFLTkdsZXVOTl9OdXNZbnJIbUJLblQ2ZGhwTU1meF9nempwbW1fYW10amtFcVhoRERyR0NzaGNpZ1lDWk5VaEtIRkJzVEVyZkdHTHFjbFFmN1k2eWlrNFhqU0E5Z3UyTUU1dkRoYURmYw?oc=5",
@@ -1350,11 +1338,11 @@
     "isUpdate": true
   },
   {
-    "title": "官方EOL计划曝光：REDMI Note 13系列或错过HyperOS 4-",
+    "title": "官方EOL计划曝光：REDMI Note 13系列或错过HyperOS 4-腾讯新闻",
     "description": "官方EOL计划曝光：REDMI Note 13系列或错过HyperOS 4-腾讯新闻",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUQmRuV3ZwRnhwT09kcVV4OUpyUG9KY1ZhYnZTWTlrQk5yTUFDVlFaRjFuRmp6YUhUclhoT3RUeTZsYUNoVXpodXI5eXdvVjNKX2JyVmdB?oc=5",
     "date": "2026-02-12T08:00:00.000Z",
-    "source": "腾讯新闻",
+    "source": "QQ News",
     "image": "https://inews.gtimg.com/om_ls/O159m-kMHe09tu-9nJdMHC-I2yRtf5vIFHBlgnfjzgw88AA_640330/0",
     "category": "software",
     "updateVersion": "4",
@@ -1368,7 +1356,7 @@
     "description": "小米HyperOS 2月补丁全线发布 覆盖旗舰与中端机型",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbTRZbDQ0VDQwelk3N2twZEFBMkUwaWEwcXpBMWVxcXh6NlNYUDJtU0l3bEwzQjZsbUxfYUtkSklrblFvS1BYeVNyYWpXTTFUX0JCdkRB?oc=5",
     "date": "2026-02-10T08:00:00.000Z",
-    "source": "腾讯新闻",
+    "source": "QQ News",
     "image": "https://inews.gtimg.com/om_ls/Of9qD_djZaSi1A3kFwlWlXJGlbXvQV16L62PL8eWocvW0AA_640330/0",
     "category": "software",
     "updateVersion": "2",
@@ -1442,11 +1430,11 @@
     "isUpdate": true
   },
   {
-    "title": "遗憾！小米超20款产品无缘升级HyperOS 3.1 含小米12-",
+    "title": "遗憾！小米超20款产品无缘升级HyperOS 3.1 含小米12-腾讯新闻",
     "description": "遗憾！小米超20款产品无缘升级HyperOS 3.1 含小米12-腾讯新闻",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ybDROSWpnSC1tY2Q1OXJjNFZRRGJiajIxdzFuZHJMYU00ZXJyU1JTaDRFdVZhdGc3QUhELWY5SnA2dWJqNDdKdV9TYjgwZWpCT01uYlBn?oc=5",
     "date": "2026-01-27T08:00:00.000Z",
-    "source": "腾讯新闻",
+    "source": "QQ News",
     "image": "https://inews.gtimg.com/om_ls/O2WH9_TiLazAbrgqOU4_KBNi2Rg3Sw2e5NRGuDU-9w0X4AA_640330/0",
     "category": "software",
     "updateVersion": "3.1",
@@ -1459,7 +1447,7 @@
     "description": "澎湃OS这次的更新，让我觉得小米有事瞒着我们",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yVFNiM1BhUWNGYktIZ0xxS0lWeXNfMlB4dlZWOVJxb0l1czJCQ1VBcmpfcHNUU2ozRHZaZ3dCWUlhUFNpWDNmMWlzNkwtc09tdFdSVmZ3?oc=5",
     "date": "2026-01-27T08:00:00.000Z",
-    "source": "腾讯新闻",
+    "source": "QQ News",
     "image": "https://inews.gtimg.com/om_ls/ODlDQpqnTKztVu6T2FcPbwr8e4Y04fBZoDryip1s3ayGMAA_640330/0",
     "category": "software",
     "osType": "澎湃OS",
@@ -1493,11 +1481,11 @@
     "isUpdate": true
   },
   {
-    "title": "小米HyperOS 3更新接近尾声多数设备已完成升级-",
+    "title": "小米HyperOS 3更新接近尾声多数设备已完成升级-腾讯新闻",
     "description": "小米HyperOS 3更新接近尾声多数设备已完成升级-腾讯新闻",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80Z3IzVGI0c081N1FfaGl5UFE0RHFJcFVqTm5CNHNTZHpVNlUwZkFwZnZJRVV2Wnl2dUNpdER2d0NfNkFpaTlYY05YZE5DR1daYU5xTHZn?oc=5",
     "date": "2026-01-07T08:00:00.000Z",
-    "source": "腾讯新闻",
+    "source": "QQ News",
     "image": "https://inews.gtimg.com/om_ls/OpDr4h8_KECUKAnk-nz0FC6YX3k5hO-1-DoLfAAT4KuawAA_640330/0",
     "category": "software",
     "updateVersion": "3",
@@ -1617,7 +1605,7 @@
     "description": "最后一舞？部分小米机型安卓15版澎湃OS 3更新后止步",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWRW80a2RtUTItdmZXZEZFRkZQbGJaMHBpSzN6aUN1SXhuanJ4Uk0wd0l2TmpaUTFsRHdXVkNZelpWSWxTSUxFaF9ib1A5djhVODVMS1FR?oc=5",
     "date": "2025-11-12T08:00:00.000Z",
-    "source": "腾讯新闻",
+    "source": "QQ News",
     "image": "https://inews.gtimg.com/om_ls/O4nS2VqKnk3AhwQU5tCM5li1bLfm-qC9g0r88Fj4RMzAcAA_640330/0",
     "category": "software",
     "updateVersion": "3",
@@ -1650,6 +1638,20 @@
     "updateVersion": "3",
     "osType": "HyperOS",
     "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "HyperOS 3 update for Xiaomi 14 Ultra: Rollout timeframe leaked",
+    "description": "HyperOS 3 update for Xiaomi 14 Ultra: Rollout timeframe leaked",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZldjMDdyMkdiZE53Vlc3Mk5YN09SczAyUGQwamtPblN1LVNOQ29xc3NQMnhqcGEtakJsVjVkdUZfYm10eDFFN1YzZzAyN1RLZGhBZS1jRnFPdENQSjN5OVg2dDM1SXRNYjlFQmxmYzlWeU1nNGVkOURZdVAtUmdIUWJPRXpaYVlrYjMwa0dLZERxTjFVWmp2T29icU5sS01LdVNXWWVWUS1BQQ?oc=5",
+    "date": "2025-11-07T08:00:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-14-ultra-colors.jpg",
+    "category": "software",
+    "updateVersion": "3",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "Xiaomi 14 Ultra",
     "isUpdate": true
   },
   {
@@ -2096,19 +2098,6 @@
     "isUpdate": true
   },
   {
-    "title": "Xiaomi confirms that MIUI 12 is now available on over 30 smartphones",
-    "description": "Xiaomi confirms that MIUI 12 is now available on over 30 smartphones",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0FjNjl1UWc0LUNQRzh0Y1RhNTJfcC05M2Y5ak1lbk0yX0RjNXBWeDRKM0pfZzBjUW1KTV90SllaeUZBb0xWTHdKREFvblRtcFBCbEppQW1MLVJnb25PQWhGWEJEOHMtMS12cXk0UmJNMjkyMjBMWDZfb2VJM3J2VnF2bFAtUy1XS2JhNlZpRW5vTE40cGhKeEhpR25CWDZPUlM2NHBISENFUWFDT1BzQXFB?oc=5",
-    "date": "2020-12-03T08:00:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/download49.png",
-    "category": "software",
-    "updateVersion": "12",
-    "osType": "MIUI",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
     "title": "The Xiaomi Redmi Note 8 bags an unusual MIUI 12 update",
     "description": "The Xiaomi Redmi Note 8 bags an unusual MIUI 12 update",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzhNTlBYVHVpOExhQXg4bFZuWXBVdFJid0hKSTNnMGlST01uT2YtaDQwclU2Nkw0TjdvR195QXdVT3NrTm1MQld2a0JsaXBoNnJfZGptNlYweXJ4ZlB1dU1vaHdUYVR0ell4R1h2ejQyX0dWV2I1X1ZsZC1FY0xEaGhrQjJQb0o4LUY3akNHcGQwVF9NcnBTN3VOUldlV0E?oc=5",
@@ -2176,20 +2165,6 @@
     "isUpdate": true
   },
   {
-    "title": "Stable MIUI 12 for the Poco X2 stalls as Xiaomi extends MIUI 12 rollout for the Mi 9; full-screen gestures arriving for Redmi K20 Pro in a subsequent update",
-    "description": "Stable MIUI 12 for the Poco X2 stalls as Xiaomi extends MIUI 12 rollout for the Mi 9; full-screen gestures arriving for Redmi K20 Pro in a subsequent update",
-    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORjFtblBOdG5ybmpXbmhqaEUxV0ZpWS1GQXFVeUVfTDJfckp6WVJabE5kSndjemxBX1dkUlJld1ZpYTRsYzFpMTRzcFhEcTNvUDZvRVNKYkwtS2UxN20yeUZlbWVpUGxST1I2QUhRbDVBN0lpQTJGOVgtUi1laTV5MWdoV19ZS1ppOTh5VG0xMmwzRXlqRzlNVmk4UEpYZmtjT2Qtc2JvUnVIaDhKTHNrTDNYNngtakVDelNDejBQT05WYUtQajYzWlYwUEZ4UDlxZ2NtY3RtQmxZODhMZ1lrZW53Sm1PZ05tVUNGb21qbGlGNXlYTkJvcUU4ejRINFpaSjdkdkJVaUJVNjZ6N0xTMEh4cHdoX0VEZjRHVlFPREtTN3lTTWc?oc=5",
-    "date": "2020-07-09T07:00:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitled_1_1_4.png",
-    "category": "software",
-    "updateVersion": "12",
-    "osType": "MIUI",
-    "updateType": "stable",
-    "device": "Poco X2 stalls",
-    "isUpdate": true
-  },
-  {
     "title": "Xiaomi releases MIUI 12 global update with more privacy controls, revamped user interface",
     "description": "Xiaomi releases MIUI 12 global update with more privacy controls, revamped user interface",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmFiSzVFYVI4NnBZTTc3VXJKTTlCbE9Gclo1akZicmdSX2Y5WF8wb3hWdUZieHR2ZDIwbFRRUldxb0JXQlpYOE5MTXN5b2wyQnhSVTBET01TUGRPS1hLaUtBVXZJREVBb1hEWS1yQk8zaFYwakotZVFLc2RNNzVYSjB4Y3U4TFE3aklKam0yWV82NUY3bUhQZ0ZES0NVM092YUlvRWlSLVpHd2lUSnVRZF9iZ2FDVTdVejQ2YkI3Tzk?oc=5",
@@ -2254,6 +2229,44 @@
     "osType": "MIUI",
     "updateType": "update",
     "device": "Redmi Note 7",
+    "isUpdate": true
+  },
+  {
+    "title": "Pokémon Go is banning Xiaomi phone owners after recent MIUI update [Updated]",
+    "description": "Pokémon Go is banning Xiaomi phone owners after recent MIUI update [Updated]",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjZTaWhmU3RyWE5NOVRKaDJocGh3aXBGT0YtajlRQ041QjRPamw5c0haWEUyNExUNlpuY0RhQnZYbkptb2FsMHphTURmcm9EclM3SHQ3V0hjcTloRmdJbVA0Vm1tNjN4WVA3ZzBmY29mbWxDLTdYODBScER2TlpWMkhKM3E3U1c3bVpocFFtMkhXRURfZGpraDdR?oc=5",
+    "date": "2019-10-01T07:00:00.000Z",
+    "source": "Android Central",
+    "image": "https://cdn.mos.cms.futurecdn.net/pFayEMuXsEAtu45dqiRNtN-1172-80.jpg",
+    "category": "software",
+    "osType": "MIUI",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi said to be rolling out MIUI 10 to another 20 models from today",
+    "description": "Xiaomi said to be rolling out MIUI 10 to another 20 models from today",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Nck9UMDloSm8zLTVmampNVndobTNnYTVYUlNNVkNxeG9lSno4VG9VQ2JxQnQxZUVDWmxOUTZOcE12cGNCUjNsaHE2bXVHZ3hFZTNLMlZKVzkzbFdPQTI1aDNpNVEzcmRnTzFRVkpvZw?oc=5",
+    "date": "2018-11-07T08:00:00.000Z",
+    "source": "Android Authority",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2018/06/xiaomi-miui-10.jpg",
+    "category": "software",
+    "updateVersion": "10",
+    "osType": "MIUI",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "MIUI 10 global beta details revealed: When will your phone get the update?",
+    "description": "MIUI 10 global beta details revealed: When will your phone get the update?",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMUxQRndZUGQ0UGs0Y2FldGxRaWZGQ2NSaFpYVFk4VS1WY2RHa1BBdE5vVWFueUczWElzLTJ6N1ZXeWtjMU9WUEdTUktxcHdqQjQxNFVBeDNZVWI4bE1FdUduZDhyR3JoZjVmTQ?oc=5",
+    "date": "2018-06-30T07:00:00.000Z",
+    "source": "Android Authority",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2018/06/miui-10-english.jpg",
+    "category": "software",
+    "updateVersion": "10",
+    "osType": "MIUI",
+    "updateType": "beta",
     "isUpdate": true
   }
 ]
