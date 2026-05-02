@@ -105,9 +105,11 @@
     // --- Filters ---
     function setupFilters() {
         $$('.filter-btn').forEach((btn) => {
+            btn.setAttribute('aria-pressed', btn.classList.contains('active'));
             btn.addEventListener('click', () => {
-                $$('.filter-btn').forEach((b) => b.classList.remove('active'));
+                $$('.filter-btn').forEach((b) => { b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); });
                 btn.classList.add('active');
+                btn.setAttribute('aria-pressed', 'true');
                 currentCategory = btn.dataset.category;
                 applyFilters();
             });
@@ -179,9 +181,11 @@
     // --- Sort ---
     function setupSort() {
         $$('.sort-btn').forEach((btn) => {
+            btn.setAttribute('aria-pressed', btn.classList.contains('active'));
             btn.addEventListener('click', () => {
-                $$('.sort-btn').forEach((b) => b.classList.remove('active'));
+                $$('.sort-btn').forEach((b) => { b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); });
                 btn.classList.add('active');
+                btn.setAttribute('aria-pressed', 'true');
                 currentSort = btn.dataset.sort;
                 applyFilters();
             });
@@ -261,6 +265,11 @@
         close?.addEventListener('click', () => modal.classList.remove('open'));
         modal?.addEventListener('click', (e) => {
             if (e.target === modal) modal.classList.remove('open');
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && modal.classList.contains('open')) {
+                modal.classList.remove('open');
+            }
         });
     }
 
@@ -419,8 +428,12 @@
             $$('.reveal-item:not(.revealed)').forEach((el) => observer.observe(el));
         };
         observeAll();
-        // Re-observe after dynamic content loads
-        const mutObs = new MutationObserver(observeAll);
+        // Re-observe after dynamic content loads, then auto-disconnect
+        const mutObs = new MutationObserver(() => {
+            observeAll();
+            clearTimeout(mutObs._timer);
+            mutObs._timer = setTimeout(() => mutObs.disconnect(), 8000);
+        });
         mutObs.observe(document.body, { childList: true, subtree: true });
     }
 
@@ -585,13 +598,13 @@
         const loading = $('#loading');
         const empty = $('#emptyState');
         if (!container) return;
-        loading.style.display = 'none';
+        if (loading) loading.style.display = 'none';
         if (filteredNews.length === 0) {
             container.innerHTML = '';
-            empty.style.display = 'flex';
+            if (empty) empty.style.display = 'flex';
             return;
         }
-        empty.style.display = 'none';
+        if (empty) empty.style.display = 'none';
         container.innerHTML = '';
         displayedCount = 0;
         loadMoreItems();
@@ -599,6 +612,7 @@
 
     function loadMoreItems() {
         const container = $('#timelineContainer');
+        if (!container) return;
         const batch = filteredNews.slice(displayedCount, displayedCount + PER_PAGE);
         const grouped = {};
         batch.forEach((item) => {
@@ -781,12 +795,13 @@
         const date = new Date(dateStr);
         if (isNaN(date.getTime())) return '未知日期';
         const now = new Date();
-        const diff = now - date;
-        const days = Math.floor(diff / 86400000);
-        if (days === 0) return '今天';
-        if (days === 1) return '昨天';
-        if (days === 2) return '前天';
-        if (days < 7) return `${days}天前`;
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        const itemDate = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+        const diffDays = Math.round((today - itemDate) / 86400000);
+        if (diffDays === 0) return '今天';
+        if (diffDays === 1) return '昨天';
+        if (diffDays === 2) return '前天';
+        if (diffDays < 7) return `${diffDays}天前`;
         return date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
     }
 

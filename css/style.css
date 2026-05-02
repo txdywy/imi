@@ -112,7 +112,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
     position: absolute;
     top: -100%;
     left: 16px;
-    z-index: 9999;
+    z-index: 9998;
     padding: 8px 16px;
     background: var(--mi-orange);
     color: white;
@@ -273,11 +273,12 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
     z-index: 999;
     background: rgba(0,0,0,0.5);
     backdrop-filter: blur(4px);
+    visibility: hidden;
     opacity: 0;
     pointer-events: none;
-    transition: opacity var(--transition);
+    transition: opacity var(--transition), visibility var(--transition);
 }
-.mobile-nav-overlay.open { opacity: 1; pointer-events: auto; }
+.mobile-nav-overlay.open { opacity: 1; visibility: visible; pointer-events: auto; }
 
 .mobile-nav {
     position: absolute;
