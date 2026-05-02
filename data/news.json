@@ -32,7 +32,7 @@
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CVWRSY20zMDNNaGZSdHM1ZXN2cVRPMkJQWjE1aVloMnVXaGotMnFEN3RNMVlYTVd6WFJ6aWlwRmhEdF96MFk5VnlsRnMwemE3TTNxcmFELUhyMVRrWGxVNVBTVzF5SXB0Nm84?oc=5",
     "date": "2026-05-02T09:38:17.000Z",
     "source": "汽车之家",
-    "image": "",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M05/C1/AC/autohomecar__ChxpWGn10CCACz4wAAu_q22yfTQ093.png",
     "category": "auto"
   },
   {
@@ -206,6 +206,15 @@
     "date": "2026-05-02T04:40:54.000Z",
     "source": "新浪财经",
     "image": "https://n.sinaimg.cn/spider20260502/740/w660h880/20260502/a07a-aef1780ee779a913e7aacea823d5e085.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "极氪001 vs 小米SU7 空间大一倍，充电快一倍，真香！",
+    "description": "极氪001 vs 小米SU7 空间大一倍，充电快一倍，真香！",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hZTF3T2R1Y1BGLUZsTno1UDFRSzZScGo3Z2xGeURIVVo1eElXUGN6Rkw1dlNlS1NtcVJxSjEydlpKNHQtMnB0TzdxWUlQZTFISXBpWGVWc1NNN28?oc=5",
+    "date": "2026-05-02T04:19:12.000Z",
+    "source": "汽车之家",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M03/C0/A9/autohomecar__Chto52n1SFqAO5KOAALKDhtV7tI36.jpeg",
     "category": "auto"
   },
   {
@@ -430,7 +439,10 @@
     "date": "2026-05-01T10:38:58.000Z",
     "source": "Nokiamob",
     "image": "https://nokiamob.net/wp-content/uploads/2026/05/Xiaomi-1.jpg",
-    "category": "software"
+    "category": "software",
+    "osType": "Android",
+    "updateType": "beta",
+    "isUpdate": true
   },
   {
     "title": "小米SU7、YU7、SU7 Ultra迎来Xiaomi HyperOS 1.11.0 OTA升级",
@@ -724,6 +736,15 @@
     "source": "Carscoops",
     "image": "https://www.carscoops.com/wp-content/uploads/2026/04/Xiaomi-YU7-GT-1ppp-copy.jpg",
     "category": "auto"
+  },
+  {
+    "title": "China’s smartphone king takes on Elon Musk in Europe with premium EVs",
+    "description": "China’s smartphone king takes on Elon Musk in Europe with premium EVs",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmpLeENSeDB1NWVERGhTZno0SFZLdVlRU05md1VnSDE2VmhNcllGcUR2SmJFOHlIeFJhMmNTX3dTWHpjTUZXV1pCakNkMGduOTlKWEFfNFVWcjFHUF9ydlc4SG16MFpZa2RXbS1iVVJsWmc5RVZ2VDNIQXhuWnNNdUxnTGI?oc=5",
+    "date": "2026-04-26T04:00:59.000Z",
+    "source": "Financial Times",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28c7323e-cebe-459d-ab3d-5d6301e0821e.jpg?source=next-barrier-page",
+    "category": "phone"
   },
   {
     "title": "HyperOS 3 bringing display improvements to older Xiaomi phones",
@@ -1193,12 +1214,12 @@
     "isUpdate": true
   },
   {
-    "title": "小米 17 Pro 系列手机推送澎湃 HyperOS 3.0.34.0 版本，背屏可养小宠物",
-    "description": "小米 17 Pro 系列手机推送澎湃 HyperOS 3.0.34.0 版本，背屏可养小宠物",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXhCRkcxMllOelQ2TjlObkVldENUZU5wSnpzRXJYTmkyaHQzUnpIbXR4Snd3TTBEdlBLLUhlS0J6MFNRcDNPcFdlM29QNTJSNWVrYll3aUJnVjJJbjVjeHRqUXpKc2lMalQycEhOcXhtUDdjVE5TLWVuRWpncEEtdXdLQnVINVRkNTM5X2Vn?oc=5",
+    "title": "小米17 Pro系列推送HyperOS 3.0.34.0版本，可养小宠物",
+    "description": "小米17 Pro系列推送HyperOS 3.0.34.0版本，可养小宠物",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1czdlbTRvWU1xbGVRLTlJSlJqb1BQWlN2Z1RSc3UxcmQ4Q2Z0Ui05NGE0WnVua1ViX0MzN0JpY0FZLUtDRDFtRHpUMEg?oc=5",
     "date": "2025-12-07T08:00:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20251207/515/w1269h846/20251207/14d6-fe3d886f811c5ede451d3bc884896ebb.jpg",
+    "source": "凤凰网科技",
+    "image": "https://x0.ifengimg.com/ucms/2025_50/F160F7250A5135A938FA9EC49D64447B5BADEE91_size182_w1035_h582.jpg",
     "category": "software",
     "updateVersion": "3.0.34.0",
     "osType": "HyperOS",
