@@ -18,6 +18,15 @@
     "category": "iot"
   },
   {
+    "title": "雷军邀请试驾YU7_新浪新闻",
+    "description": "雷军邀请试驾YU7_新浪新闻",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BNktlZHVQWFQ2UW1RaTRNUlNmNXJ4RDBkMWhQa0VrUGdWcmlDNTl2MVplY19rTURiOUdYcEU5Y1NOM2xUS3ZYZTlKMVlNTDZST3RXUU9tWmd6V1A1c1ZoZFJOSQ?oc=5",
+    "date": "2026-05-02T10:19:00.000Z",
+    "source": "手机新浪网",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "【视频】沉浸式看车：2025款小米YU7 后驱版",
     "description": "【视频】沉浸式看车：2025款小米YU7 后驱版",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YWdQM0NSYnJhWDlxc0doRXJORFlDSzgwMGhEbXppRUhtemc4aGpSbUFYMmRGdTNfa2paT3IwVGJtVWtreXBiN1FoU3ZmNWxEUm1EandRUHJHRHk4Q1VoUmRNR1RUSHk2WWpR?oc=5",
@@ -920,6 +929,19 @@
     "isUpdate": true
   },
   {
+    "title": "Stable HyperOS 3.1 lands on first batch of global Xiaomi phones and tablets",
+    "description": "Stable HyperOS 3.1 lands on first batch of global Xiaomi phones and tablets",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9yaUwzb2dKUWtxVXBNY0kxeUl3bDMwb2pKSDVFU2trTi0zQlB3dXBhdmh0M1VvVzlVUG9fWGVxcjBFT1BweXhtbUpTN1lfU0Z6dzRKRXRmV3REWWJ6Q00xM0k3dENld1JQcEl4R25PejAzeTd1ZkU2ZHFycjBIbHpOWjJUZmVVZWFQWG1Yb3p5UmNzLUdxcDREOG5QN0IzMW50Z2E2SlQtQ09lam5nSnVVdEt2NkwtdG50ag?oc=5",
+    "date": "2026-04-01T07:00:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-HyperOS-3.1-update-lands-on-first-global-phones-and-tablets.jpg",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "stable",
+    "isUpdate": true
+  },
+  {
     "title": "小米HyperOS 3.1全球测试版正式推送 小米17系列尝鲜",
     "description": "小米HyperOS 3.1全球测试版正式推送 小米17系列尝鲜",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Yc3kyaFBmRl9wUTNVRkZKSFh0ZU9kc1dPbjVzT3Z6RFZ5U0hUMEdOTHJEZVN2dzNYRjhUdHJnelFwdVdsNm5wag?oc=5",
@@ -1059,19 +1081,6 @@
     "isUpdate": true
   },
   {
-    "title": "Xiaomi’s HyperOS 3.1 makes software updates seamless and easier to install with Super OTA",
-    "description": "Xiaomi’s HyperOS 3.1 makes software updates seamless and easier to install with Super OTA",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVmc0a3VMLXFlQTlQWG5DWVpfUHpaWm5nS2hXdmZlV1hkMFRVWUQ4TzZWMEx5VktCU25VTHhEV1M2R0l6TGtRU2Y5QWFaNHFmZ2ZhVGJybmZFMkhEYlIzQzgyUE5XeFhFS1NIdlg0MHZLcXYtc21aRVFERjU5Ykdfek5Qa25Jb2ZseGNPaHFYd2FsSU55RTZmdmFOVWlYdTRWaDhhVXpnNHpVR290R3pSRjViUW1ZXzNjVU9JSDB6WWRQbm40Y0tDUDlDTFhKTGZxOE1ReGljSHN6RUk?oc=5",
-    "date": "2026-02-06T19:43:03.000Z",
-    "source": "MSN",
-    "image": "",
-    "category": "software",
-    "updateVersion": "3.1",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
     "title": "稳定版 HyperOS 3 为 20 款红米和小米新设备上线",
     "description": "稳定版 HyperOS 3 为 20 款红米和小米新设备上线",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtZ1haNlNKd0JLWUtqVkNQMEdGbUVncGN2cDNEbHVKelN3VTlSYmM5NE5XTW8tOGpSbkRiUWlEZVNVVXFsWGloMlBpLTc4M2twWEhzSEJtTlFycWlDeXRGRHdSQXR4cW9PM3VDLQ?oc=5",
@@ -1093,6 +1102,19 @@
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-HyperOS-3-rollout-is-almost-complete.jpg",
     "category": "software",
     "updateVersion": "3",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi HyperOS 3.1 Is Here: New Features, Eligible Devices",
+    "description": "Xiaomi HyperOS 3.1 Is Here: New Features, Eligible Devices",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEhDNWJlODdxWXBuU1NhMUdUZ1ZpUGVROFJneDRxRmFtR055azZ0TUxmdElVT1lESmMxa0s5UVVFNUZrVUVMMlhKdDlIdGNqcVFUV0VmOGlBZ25lVEdwX2tmdzc4Q0NUNncwYkx5TTE3OGZZRzcxcFJPUmVpQmFiTloyV2xlblEyY1dEZ0FZMno?oc=5",
+    "date": "2026-01-29T08:00:00.000Z",
+    "source": "nokiapoweruser.com",
+    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/01/Xiaomi-HyperOS-3.1-launch-promo.jpg",
+    "category": "software",
+    "updateVersion": "3.1",
     "osType": "HyperOS",
     "updateType": "update",
     "isUpdate": true
@@ -1295,19 +1317,6 @@
     "isUpdate": true
   },
   {
-    "title": "Four more phones pick up stable HyperOS 3 update based on Android 16",
-    "description": "Four more phones pick up stable HyperOS 3 update based on Android 16",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1ZNeXpmQU9FZlJ0NjRwWldmVzFqcE1rVGpqQjQ2STBCTDF2bVl5QjZ3OVgwc3FWcGNyS1J4VkZWMHRfTEJZRjRGaGU2Mm5PaXZFNE5rMFQ1aVlpbkVNdGFnbWI1WXBIT2J6cjNPUTJiMWdvSjFxSGs0V3ctaDZNRTlpekI5OUROV0ZoTndmU1lmbDk5UVpxZnFLd2ZKaFVoUm9fWFZDVzhMY0FpS3NGdnR5SQ?oc=5",
-    "date": "2025-11-21T08:00:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HyperOS-3-featured-1-.jpg",
-    "category": "software",
-    "updateVersion": "3",
-    "osType": "HyperOS",
-    "updateType": "stable",
-    "isUpdate": true
-  },
-  {
     "title": "最后一舞？部分小米机型安卓15版澎湃OS 3更新后止步",
     "description": "最后一舞？部分小米机型安卓15版澎湃OS 3更新后止步",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWRW80a2RtUTItdmZXZEZFRkZQbGJaMHBpSzN6aUN1SXhuanJ4Uk0wd0l2TmpaUTFsRHdXVkNZelpWSWxTSUxFaF9ib1A5djhVODVMS1FR?oc=5",
@@ -1398,6 +1407,20 @@
     "updateVersion": "3",
     "osType": "HyperOS",
     "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi starts global rollout of stable HyperOS 3 update for Poco devices",
+    "description": "Xiaomi starts global rollout of stable HyperOS 3 update for Poco devices",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQXzJleWpaZmczMGh2cEZpMzZQQnJLQzZHbEZTWlRsQTZNbWZ1VmRoT1NOSUsteHVDM3U2aGVWdVk2bkE2S1JmQXkxU2pRLTFqWXViWnpIWGZqbThsLWtxbFo4c0xPN0pFNVNhMmRLMWVvMnhwMHhSWEJGVlBzaWtmNzZReF80ZVNRVTFKSXhaMG02VmtMVEhWU2xhdU9FNXRsT3dGY2R5ZDBGLVZZSEdUaUZfdVNBQVRz?oc=5",
+    "date": "2025-10-31T07:00:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Poco-F7-Ultra-recieves-global-stable-HyperOS-3-update.jpg",
+    "category": "software",
+    "updateVersion": "3",
+    "osType": "HyperOS",
+    "updateType": "stable",
+    "device": "Poco devices",
     "isUpdate": true
   },
   {
@@ -1845,20 +1868,6 @@
     "isUpdate": true
   },
   {
-    "title": "New MIUI 12 updates arrive for the Redmi Note 9 and Mi 9T",
-    "description": "New MIUI 12 updates arrive for the Redmi Note 9 and Mi 9T",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnZUNThIV2dpN3VrVUsxZm9DdXFyQ3J2am9sS2tTLWVEQmUyaWJGaE5qNEVQV2ktbTNHczBqLXJ6TGhneDFPa2hZRVhsM3o4TEVaTnY1OHd3OThaZExiTHBEY0hFU2Fkdl95VVA0MHhFQ0t5YlJHeFBIblRXUDg0bXBBOUhXSERYRkNzbmliNGdCS3Y5T2xzMFBIeXV4bV8tS3k4?oc=5",
-    "date": "2020-07-22T07:00:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/redmi_note_9_6.JPG",
-    "category": "software",
-    "updateVersion": "12",
-    "osType": "MIUI",
-    "updateType": "update",
-    "device": "Redmi Note 9",
-    "isUpdate": true
-  },
-  {
     "title": "Xiaomi releases MIUI 12 global update with more privacy controls, revamped user interface",
     "description": "Xiaomi releases MIUI 12 global update with more privacy controls, revamped user interface",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmFiSzVFYVI4NnBZTTc3VXJKTTlCbE9Gclo1akZicmdSX2Y5WF8wb3hWdUZieHR2ZDIwbFRRUldxb0JXQlpYOE5MTXN5b2wyQnhSVTBET01TUGRPS1hLaUtBVXZJREVBb1hEWS1yQk8zaFYwakotZVFLc2RNNzVYSjB4Y3U4TFE3aklKam0yWV82NUY3bUhQZ0ZES0NVM092YUlvRWlSLVpHd2lUSnVRZF9iZ2FDVTdVejQ2YkI3Tzk?oc=5",
@@ -1962,6 +1971,19 @@
     "updateVersion": "10",
     "osType": "MIUI",
     "updateType": "beta",
+    "isUpdate": true
+  },
+  {
+    "title": "MIUI 10 features: 7 improvements you should know about",
+    "description": "MIUI 10 features: 7 improvements you should know about",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HYkphWmFmM0cwNzY5ZllwXzVsbEYtTjJHU0paMTljVmpqbW9QeW5WbnREMmlQTlM2UVhrUXdFa1E5ZUtBaDhEX1ZQZTV1Rk05UVBTTUZjVW9vNkFBeXQ0T3NtNzd5bzhj?oc=5",
+    "date": "2018-06-09T07:00:00.000Z",
+    "source": "Android Authority",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2018/06/xiaomi-miui-10.jpg",
+    "category": "software",
+    "updateVersion": "10",
+    "osType": "MIUI",
+    "updateType": "update",
     "isUpdate": true
   },
   {
