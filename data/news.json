@@ -1,5 +1,23 @@
 [
   {
+    "title": "小米成立新公司，雷军正式造电池",
+    "description": "小米成立新公司，雷军正式造电池",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CdE1jOGp4alBVeVRKV2NyRmdjZUdRYXNWZTJmYUpJSU5tUThXenVTdXpadmtIX1ZRX29IN0p0Vy1LWlJfWGM5eHdaQ0RFb0Nic3BaVjdLYjk3dmdpUUY4Zmg4Wmw4VXM3LUdn?oc=5",
+    "date": "2026-05-06T23:51:25.000Z",
+    "source": "车家号",
+    "image": "https://img3.autoimg.cn/chejiahaodfs/g34/M01/FB/F5/autohomecar__ChxpV2n70BuAEk9AABivtp1wWyI591.jpg",
+    "category": "people"
+  },
+  {
+    "title": "【视频】小米SU7、小米YU7销量持续增长，为何股价却腰斩了",
+    "description": "【视频】小米SU7、小米YU7销量持续增长，为何股价却腰斩了",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdTQxVmRHTjRRZjRFaWFwWWVCaGVtSEVoV3JVSXJnZk8xd1dFaG1sOUloQW1wNkxLbWVVR0VGQ2JscnNQNzh4UmwtTGNwQzBvUS1MQl9EYmo5MGM?oc=5",
+    "date": "2026-05-06T23:21:40.000Z",
+    "source": "车家号",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "小米YU7 MAX上市_新浪新闻",
     "description": "小米YU7 MAX上市_新浪新闻",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kaElGekRudVIzWFR5S09qRldhMGcxdFFYNzFzdVlJb19fZHU5bi1fMjQ5THMxMzUyVWptYXpHT3pBUWhHWkRfT19QTDJsYm9ta2xqdTk0M2lnRmlwUmdsdmc5Zw?oc=5",
@@ -4553,27 +4571,5 @@
     "source": "汽车之家",
     "image": "",
     "category": "auto"
-  },
-  {
-    "title": "【视频】2026 北京车展小米Vision GT",
-    "description": "【视频】2026 北京车展小米Vision GT",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjSHJzUU1HWWlKYWllUGRmakgxNVVtS21KakxRYi1UUjJKaVlEYm43bXlpa1hMSlQ2b0hLR2xsV2ZSVEprNTVHRmlBeUdWOFdmLVlvZnRlVEROdko3X0c5SDcyMkhSdm82a3NF?oc=5",
-    "date": "2026-05-02T09:49:37.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi Releases Android 17 Beta With HyperOS 3.3 — Four Devices Eligible Right Now",
-    "description": "Xiaomi Releases Android 17 Beta With HyperOS 3.3 — Four Devices Eligible Right Now",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd29FdmNRUFNHcGNmaXltSTVtSU5tOEdDampLNmJTSnl4RGQ1aE8zUTYzbnlPU2xGY2J5bmozUFF5YXdlZUp2SjU1SnJHZV9tTEVZWm1uV1B2WV9BejgxMlZVdmZuVDdjTFpUUkZLbzRSOVRKREh6U2E0eDI2RVZOZlNFMTJCbDBES05ya293aXNxT0VwR1dCYzJFYVRCa1NCTHgxaVdRNHRVV2pOTDB0X2VoVDNKbXV1aFE?oc=5",
-    "date": "2026-05-02T09:44:32.000Z",
-    "source": "Gizchina.com",
-    "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-05%2Fimage-1777714546477-69f5c5762b691.jpg",
-    "category": "software",
-    "updateVersion": "3.3",
-    "osType": "HyperOS",
-    "updateType": "beta",
-    "isUpdate": true
   }
 ]
