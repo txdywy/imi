@@ -1,5 +1,23 @@
 [
   {
+    "title": "小米YU7 MAX上市_新浪新闻",
+    "description": "小米YU7 MAX上市_新浪新闻",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kaElGekRudVIzWFR5S09qRldhMGcxdFFYNzFzdVlJb19fZHU5bi1fMjQ5THMxMzUyVWptYXpHT3pBUWhHWkRfT19QTDJsYm9ta2xqdTk0M2lnRmlwUmdsdmc5Zw?oc=5",
+    "date": "2026-05-06T22:23:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi SU7 hits 80,000 locked orders",
+    "description": "Xiaomi SU7 hits 80,000 locked orders",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VV1NYWVdhTGxIb0UwM3hralpCajQ1QjJYeTZ3U1hMT0RQQXhyNjhhVUxJUHlDdlRLV2lzbXBfZUFYelJPakJ1MQ?oc=5",
+    "date": "2026-05-06T22:06:15.000Z",
+    "source": "KrASIA",
+    "image": "/images/icons/android-icon-192x192.png",
+    "category": "auto"
+  },
+  {
     "title": "想绕过宁德时代自己干？小米或下场造电池，成为第二个比亚迪？",
     "description": "想绕过宁德时代自己干？小米或下场造电池，成为第二个比亚迪？",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1LXlRRWpwVXdqQ2FRaTB1eWhBRlRicGROdkRGOWtERGdiSGNxeXNjUXp4cUdHMVBKZFhPU010dl9XRlEzQ0V0aDhGVW5RZw?oc=5",
@@ -391,7 +409,7 @@
     "title": "全新品牌？不用小米标？小米全尺寸SUV新谍照曝光",
     "description": "全新品牌？不用小米标？小米全尺寸SUV新谍照曝光",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQnFRVFR0M3BQT2pDRzRLbzJfZk1FRHRCdzluYTc5X1FqUHFRZlVzUERhQ3ZNZ2UtWkxSbEZfQTVRNWYyZGxwSFhzWG9FTHdGOFd4YV94Q3JGUHM?oc=5",
-    "date": "2026-05-06T10:05:56.000Z",
+    "date": "2026-05-06T10:05:05.000Z",
     "source": "车家号",
     "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M02/F8/D4/autohomecar__ChxpVmn7D5eAFIGTAA-WKTmqws4775.png",
     "category": "iot"
@@ -4557,23 +4575,5 @@
     "osType": "HyperOS",
     "updateType": "beta",
     "isUpdate": true
-  },
-  {
-    "title": "小米新一代SU7锁单量破7万 首销期后将调整选装配置",
-    "description": "小米新一代SU7锁单量破7万 首销期后将调整选装配置",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Q3kwWlpseVl2X0VKdFlPSkRkaXlLVVpIWU9oalVaaU1vTDJ3VE9YYlpKYUlCUzJVZ2lCaVdjSTM5a1NnLXh2emlLSnRoWDhjbFZDZ1JrR3UxaGM?oc=5",
-    "date": "2026-05-02T09:39:03.000Z",
-    "source": "车家号",
-    "image": "http://www2.autoimg.cn/chejiahaodfs/g34/M01/BF/0C/autohomecar__ChtpWGn1wp2AQGBbAABUXvpBtXE954.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "新一代小米SU7锁单量已超7万台首销期权益将结束",
-    "description": "新一代小米SU7锁单量已超7万台首销期权益将结束",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CVWRSY20zMDNNaGZSdHM1ZXN2cVRPMkJQWjE1aVloMnVXaGotMnFEN3RNMVlYTVd6WFJ6aWlwRmhEdF96MFk5VnlsRnMwemE3TTNxcmFELUhyMVRrWGxVNVBTVzF5SXB0Nm84?oc=5",
-    "date": "2026-05-02T09:38:17.000Z",
-    "source": "汽车之家",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M05/C1/AC/autohomecar__ChxpWGn10CCACz4wAAu_q22yfTQ093.png",
-    "category": "auto"
   }
 ]
