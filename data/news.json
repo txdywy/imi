@@ -1,5 +1,36 @@
 [
   {
+    "title": "HyperOS 4 leak reveals Xiaomi’s possible new “Liquid Glass” UI redesign",
+    "description": "A new leaked screenshot allegedly belonging to Xiaomi HyperOS 4 has surfaced online, revealing what appears to be a redesigned theme material selector for Xiaomi’s next major operating system update. While the authenticity of the image has not yet been verified, the interface shown in the leak sugge",
+    "link": "https://ximitime.com/hyperos-4-leak-reveals-xiaomis-possible-new-liquid-glass-ui-redesign-96800/",
+    "date": "2026-05-11T16:58:33.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/05/HyperOS-4-Leaked-screenshots-1024x512.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "销量跻身国产前五，小米汽车4月销量远超3万交付目标",
+    "description": "销量跻身国产前五，小米汽车4月销量远超3万交付目标",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNcVJlLTFIWmxaeTl5WWlGa2RhX3RWYS1VNHZWekRJR3pab3JZYi1OUHFrN1JveGtQRlc4T1hqd3hWaGFLWkxfMkJWX09NQ0xCMWQtTUd5VFRJTGRvWUdGSGhXWjN0c2d2V3g4N1diT0c1bmsxX0E?oc=5",
+    "date": "2026-05-11T15:56:33.000Z",
+    "source": "Sina finance",
+    "image": "//n.sinaimg.cn/front20260512ac/300/w720h380/20260512/0843-a12e2e20f86875082040533ea54536be.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：小米YU7交付大提速 最快一周就能开走",
+    "description": "雷军：小米YU7交付大提速 最快一周就能开走",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54QWF2V2JXTWF6S0hhT3VtLWRuWVZSVWpBdks2eExxVmNOOUhKVzRLVkxxWVJWNEMwV2ExU0hVYzBLMVdsb3dUNHlReFJrbTJQbV9ZWURqOXc?oc=5",
+    "date": "2026-05-11T15:10:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260511/a25aba3a8ac2426fa3050f63c5a84d08.png",
+    "category": "auto"
+  },
+  {
     "title": "小米汽车销量跻身国产前五_新浪新闻",
     "description": "小米汽车销量跻身国产前五_新浪新闻",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ocDNtWWR2bWJNOUI4TnI3NHBMN0pHOHRMWHBrNXVyTC1kMHBtRS1EU3NpVTNpamhneFJ6cGdabDZ6V1dIM0puOUhYQWJIenVtV1VvYUhySHM1SlFzcGxDbUhIdw?oc=5",
@@ -135,6 +166,15 @@
     "category": "iot"
   },
   {
+    "title": "Xiaomi HyperOS 4 (Android 17) launch timeline leaked",
+    "description": "Xiaomi HyperOS 4 (Android 17) launch timeline leaked",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0p1ZmdCcEp5UGlIS25ZVzFQOEp4ZEpSS205b3pURkFIYmNqbzJCVmk4ajZDTEhJRXNlT3U3MkR1bURSOUVUaVpNd25LcTg2SVNpajFRR0JHT2tWUzRUUFpIa05iZUxSQ3lWa18yazBtQm9zV2NQUEo4cEtqd21yWGkzOHZqWDlu0gGOAUFVX3lxTE1EWjNGTmtuRC03VzhmRmF1c2liTElWdXUwNk12aF96NXk4bG5Tb01POEplSFdZdlZYanJvdEtWaExuY2FXRVJDdDFKeHpPLUhWUXMtMDU1NGM3b3B0UDFlaUpTVDZUUENaaS1KMGEtY3BuV1QzajY2VklteE85OXpuVG1uc2dFUWo3SnA2dEE?oc=5",
+    "date": "2026-05-11T11:07:05.000Z",
+    "source": "Huawei Central",
+    "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/HyperOS-phone1.jpg",
+    "category": "software"
+  },
+  {
     "title": "小米又胜诉！用户造谣小米汽车线束质量差被判侵权并公开道歉",
     "description": "小米又胜诉！用户造谣小米汽车线束质量差被判侵权并公开道歉",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jbWpqSWJGWmkxX01MT1YtY3dSV0Z1YkZLYkVHNE92WGdUTzZhLWNqWkwyaFNBRU9LMFdPZHhDRktwcWFEZnVfZFlLbC1FZTdTR1JmMTlSelM?oc=5",
@@ -142,15 +182,6 @@
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260511/b21e82ad33a64eaea501c9d74630c42a.png",
     "category": "auto"
-  },
-  {
-    "title": "Xiaomi HyperOS 4 (Android 17) launch timeline leaked",
-    "description": "Xiaomi HyperOS 4 (Android 17) launch timeline leaked",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0p1ZmdCcEp5UGlIS25ZVzFQOEp4ZEpSS205b3pURkFIYmNqbzJCVmk4ajZDTEhJRXNlT3U3MkR1bURSOUVUaVpNd25LcTg2SVNpajFRR0JHT2tWUzRUUFpIa05iZUxSQ3lWa18yazBtQm9zV2NQUEo4cEtqd21yWGkzOHZqWDlu0gGOAUFVX3lxTE1EWjNGTmtuRC03VzhmRmF1c2liTElWdXUwNk12aF96NXk4bG5Tb01POEplSFdZdlZYanJvdEtWaExuY2FXRVJDdDFKeHpPLUhWUXMtMDU1NGM3b3B0UDFlaUpTVDZUUENaaS1KMGEtY3BuV1QzajY2VklteE85OXpuVG1uc2dFUWo3SnA2dEE?oc=5",
-    "date": "2026-05-11T10:52:20.000Z",
-    "source": "Huawei Central",
-    "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/HyperOS-phone1.jpg",
-    "category": "software"
   },
   {
     "title": "小米推出Xiaomi Life自动折叠晴雨伞米色款：适配小米汽车储物格",
@@ -353,6 +384,15 @@
     "category": "phone"
   },
   {
+    "title": "Xiaomi launches new affordable 8K wireless gaming mouse with flagship PixArt sensor",
+    "description": "Xiaomi launches new affordable 8K wireless gaming mouse with flagship PixArt sensor",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVVoTHNUOXZuVy1FVTFxSWlnWnVZSFhWWHRNVkRZdzFadVA3RVVfXzZvLWVDUEEwMk9vRVFpb0g3SFF4QndMaXZOa1NkY29Ob0dJUGgxRGN1WmR1R2pXSnFPOFN0SHJHSDB3aWRYVDgzM3dsS0xZSGpHYWVCWW5jSzBoZmxfOGN3enNZdXVFUUpDUGJna1FLQV85TFdJZjVOR0pjcEJVaXdlb2YzbmVQUjhRLUhncm4yaXBPSzhmSUNxZk5ma0lj?oc=5",
+    "date": "2026-05-11T07:03:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Gaming-Mouse-2-released.jpg",
+    "category": "phone"
+  },
+  {
     "title": "小米独立汽车品牌寻天呼之欲出！已注册超40个商标 对标理想问界",
     "description": "小米独立汽车品牌寻天呼之欲出！已注册超40个商标 对标理想问界",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10QUZCa0I2SGhIaVlPeG54V1NpTVd3TXh4cUY3d2J6Y3c5N3psNUFMNFNwLWxEbTF0cnE3ZGtaWDdQemNyREVFSmc0bEFQaWVlNmdobldLbFQ?oc=5",
@@ -387,6 +427,15 @@
     "source": "车家号",
     "image": "",
     "category": "auto"
+  },
+  {
+    "title": "New Xiaomi UltraThin Magnetic Power Bank debuts with 45W fast charging support",
+    "description": "New Xiaomi UltraThin Magnetic Power Bank debuts with 45W fast charging support",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEt2MDgyRi02bDJGUXhQNXZEa0VIMlM3WkY1WFJXQkRfZDRkQS1EX3AxODdOVE55empUdXFYSnNrRlRxa09lMk5IUS1rOHBfYnhVc0EtZ1RqdXpxWklXSkR0OExja0sySUVlWVFrTFk2QmZUZXozRHM0ekg1elhoQTVydkZSZjh1WUd6Q0owdlptUlBBX1RJdU5vdWVocG44d3EwME12QUJ1OVNlRndVdkR5alNlYWhiOGNaeXlmX1I?oc=5",
+    "date": "2026-05-11T06:07:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-launches-10000mAh-UltraThin-Magnetic-Power-Bank-45W.jpg",
+    "category": "iot"
   },
   {
     "title": "吉利银河TT曝光，撞脸小米SU7，动力参数超越特斯拉Model 3",
@@ -548,6 +597,15 @@
     "date": "2026-05-11T02:30:57.000Z",
     "source": "车家号",
     "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "G Sachs Expects XIAOMI-W (01810.HK) 1Q26 Total Revenue YoY -12%, Smart EV and New Businesses as Growth Drivers",
+    "description": "G Sachs Expects XIAOMI-W (01810.HK) 1Q26 Total Revenue YoY -12%, Smart EV and New Businesses as Growth Drivers",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1plNGt1aWtCTEloS0hlbGkwY1lNcFZWQnhpcEdWNzdwZFFfLUJSYlZkX21zYXp0d1hHdkgydDVORXg2Qko3Rld6dUlvMUVYNU9LNDU5TVJpQWo3cVljWE9kZHAxOXN1WUxFbjU3Nkt2QTFKQVRybHhTNFR3TW14NEY0cTdGcmtxS05Jc090TGdCYVRF?oc=5",
+    "date": "2026-05-11T02:26:00.000Z",
+    "source": "AASTOCKS.com",
+    "image": "https://plib.aastocks.com/aafnnews/image/medialib/20260224113110750_m.jpg",
     "category": "auto"
   },
   {
@@ -1599,6 +1657,15 @@
     "date": "2026-05-09T12:18:54.000Z",
     "source": "凤凰网财经",
     "image": "https://x0.ifengimg.com/ucms/2026_19/42F5EDD17B731B031FF1D98D82B97487A6F85251_size103_w975_h549.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi 17 Ultra: Photo tour across China",
+    "description": "Xiaomi 17 Ultra: Photo tour across China",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnZob1ZveldwM3lMREd2Vjlrdnp5UXFmdGIwM2RoazNVMFNNdUlCTmZaNG9ueGppUTBjVFVTcHlUVVNDUjA4OU5ZNUowOXpNTU8waF9BVmt4TGZtcE15SkpmX2RvQlhUNDlFYUxfMElxX0pJazBHMWYzZ2p2ZGdILV8yOEYzdFI2TFpmVw?oc=5",
+    "date": "2026-05-09T12:06:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Xiaomi/17_Ultra/IMG_20260212_182158.jpg",
     "category": "phone"
   },
   {
@@ -4501,68 +4568,5 @@
     "source": "36kr.com",
     "image": "https://img.36krcdn.com/hsossms/20260507/v2_e4f3a3b72fe24358927245b4053f73e6@1743780481@ai_oswg1091060oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "phone"
-  },
-  {
-    "title": "震惊！小米手机跌出前五出货量下滑19%，汽车业务是「罪魁祸首」？",
-    "description": "震惊！小米手机跌出前五出货量下滑19%，汽车业务是「罪魁祸首」？",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtYk5VN2FmYmd5VFFGZ2phMnp4cndiTlNqSW9nMFFoajQ1aXhLSkpoVkliQ0htSWZXRHZwS1JwU09UZ01JSk5rZUY1RDJJeWx3Q25v?oc=5",
-    "date": "2026-05-07T01:50:00.000Z",
-    "source": "36氪",
-    "image": "https://img.36krcdn.com/hsossms/20260507/v2_e4f3a3b72fe24358927245b4053f73e6@1743780481@ai_oswg1091060oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "小米增程SUV谍照曝光，“昆仑”下半年发布",
-    "description": "小米增程SUV谍照曝光，“昆仑”下半年发布",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52RjhkMXU2S0xrVTA4endCTkxXc1o0SHBVX1hERE9nZFlDNzN4YlhOdnd3VW82TWk2SUExQUdQcWF3WDVOX1JnWTJ0aVVTbDNEUzFBbHJEa0g?oc=5",
-    "date": "2026-05-07T01:23:30.000Z",
-    "source": "爱咖号",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "18.98万拿下准新小米SU7！超长续航智驾版",
-    "description": "18.98万拿下准新小米SU7！超长续航智驾版",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92S25GMVQ0ZjdacVlyN1FHVkZzZ1dIQ29sUmVoU2R0dVlPajZPLXVpN2ktaXJkX1ZmTktuUGRoUWdaS0ZDbDJ0bHpmV0l2OFowSUNXeFNkV2FfQzg?oc=5",
-    "date": "2026-05-07T01:18:04.000Z",
-    "source": "车家号",
-    "image": "https://img3.autoimg.cn/chejiahaodfs/g33/M04/01/1F/autohomecar__ChxpVmn75TqADVgGAA_oJLzUqXo662.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "新一代小米SU7锁单7万台，仅售21万多，还要啥特斯拉MODEL 3？",
-    "description": "新一代小米SU7锁单7万台，仅售21万多，还要啥特斯拉MODEL 3？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5abU03a2pCS0xiX0phTlRBSzdKdlRCLTlpMWNRbndZWElZd19IckJ6dnhoRXF3TnVKTTljdlN5bnpUQjllNEtKMXY5aF8zOE9BQlFXYmMtV2F6NzQ?oc=5",
-    "date": "2026-05-07T01:06:37.000Z",
-    "source": "车家号",
-    "image": "https://img3.autoimg.cn/chejiahaodfs/g33/M06/01/65/autohomecar__Chto52n76iKAYIClAAJIuMlM-iw269.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米成立新公司，要造电池？",
-    "description": "小米成立新公司，要造电池？",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lSEdLOWJycE8xbkZRY3dNNzllbG5kWElFYnRUaU9IZlJtSlJRbUR4bUxVc1FZUlU1aXU2bk91cG1rYnRfeUp3T3JwSlVQYUhIWHNz?oc=5",
-    "date": "2026-05-07T00:43:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "有钱人真多，新一代小米SU7锁单超过8万",
-    "description": "有钱人真多，新一代小米SU7锁单超过8万",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiLUNkMWlKRjFqQ01kUDFJTkNNRG1tYzRfOEQ2RFZEbGJxclpDRXdaMEMxQWVoTjZnTTdDWTBTNzZZVFFMaHhBdzlSc1ZNSmZCYkZCc3hnSHU0d0E?oc=5",
-    "date": "2026-05-07T00:16:29.000Z",
-    "source": "车家号",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M03/00/BA/autohomecar__ChxpVWn72K-AD7ktAAl7VsRxNjA842.png",
-    "category": "auto"
-  },
-  {
-    "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
-    "description": "今日热点导览 小米汽车：新一代SU7上市仅48天，锁单已超过80000台 胖东来19名管理人员被降级，1名管理人员被免职 追觅俞浩：建议年轻人别炒股 五一档票房7.58亿元 三星电子借AI热潮市值突破1万亿美元 TOP3大新闻 三星宣布停止在中国大陆市场销售所有家电产品 5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规，继续为用户提供规范的售后服务，保障用户合法权益不受影响。对于三星手机业务是否也会退出中国",
-    "link": "https://36kr.com/p/3798462137637892?f=rss",
-    "date": "2026-05-06T23:58:15.000Z",
-    "source": "36氪",
-    "image": "",
-    "category": "ai"
   }
 ]
