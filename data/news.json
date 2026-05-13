@@ -1,5 +1,19 @@
 [
   {
+    "title": "Xiaomi Pushes HyperOS 3.1 to 85% of Eligible Devices Worldwide",
+    "description": "Xiaomi has reached a critical milestone in its software deployment strategy, as HyperOS 3.1 distribution has now surpassed 85% globally. The update, built on Android 16, has already been delivered to nearly all eligible devices across Xiaomi, REDMI, and POCO ecosystems—marking one of the fastest rol",
+    "link": "https://ximitime.com/xiaomi-pushes-hyperos-3-1-to-85-of-eligible-devices-worldwide-96876/",
+    "date": "2026-05-13T21:08:31.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/04/Xiaomi-15-HyperOS-3.1-1024x576.jpg",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "POCO ecosystems",
+    "isUpdate": true
+  },
+  {
     "title": "【视频】小米SU7二手车保值率崩了",
     "description": "【视频】小米SU7二手车保值率崩了",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkbmt2a2FXT05BbUJRenJUNFkzbjEteVg3Tk5UVHRIakpwNWE5dVQ5ZG5oTC1HaWNhMTRYeGhuSi1QY2pEMnhyeG5Mejd1dnI4c0tUTWJ2ekhibEU?oc=5",
@@ -211,6 +225,15 @@
     "date": "2026-05-13T12:52:00.000Z",
     "source": "手机新浪网",
     "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米SU7 Ultra挖孔机盖案一审宣判：小米夸大宣传但不构成欺诈，退还2万元定金-腾讯新闻",
+    "description": "小米SU7 Ultra挖孔机盖案一审宣判：小米夸大宣传但不构成欺诈，退还2万元定金-腾讯新闻",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tV2poTGRLanU2SDAxWWJ6SEYzQjV1VkpzeE44RHdCS3Rsb0N2aEZCMGUwTURwUEU2bVZmRUJUU2tyelpNeXNfb1JyZzJnYzFYZlB0UFdYanQxSjZfSUZaUEJkbWJsZXQxc092Tw?oc=5",
+    "date": "2026-05-13T12:47:00.000Z",
+    "source": "QQ News",
+    "image": "https://inews.gtimg.com/news_ls/ODJlvHA7b7sBcH88twtybjran56qsCYgd2lwgV8nA3aUIAA_640330/0",
     "category": "auto"
   },
   {
@@ -4553,24 +4576,6 @@
     "date": "2026-05-09T06:30:00.000Z",
     "source": "新浪网",
     "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米大家电部智能技术负责人：如何用AI算法做空调节能",
-    "description": "小米大家电部智能技术负责人：如何用AI算法做空调节能",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNdFN5ZEpBTVN4Ym9BWjJpczRDVTd2ZXpKTmNfUFpPYi1HUXE1N2lhN1huLWc5blh2WnNCOS1jNkVCbFNQOElJbkhyWDlTUUFLU0hLRktSMFZfM2plM0s5RW0xb2xQODQ4Q1U1WWpnS19RcTI3RTR5YVR5dlk?oc=5",
-    "date": "2026-05-09T06:27:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260509/301/w660h441/20260509/1cb2-11ebc1b462c4159aff4b97acd7f6ad64.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "传小米汽车规划独立子品牌 “寻天”， 首款SUV昆仑N3下半年上市",
-    "description": "传小米汽车规划独立子品牌 “寻天”， 首款SUV昆仑N3下半年上市",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3hKSXY0cGNBOFFmSmFob3lvc2d0R0RzVW1Dd0Y1MmpDY0NaM1JoN092cm5DS0RQRkZVeEtEUDJITGJqVkJodnl3MzllemVnaGNUZTRaS2gyTjcyMXJkRS1kbnIyd0Z5cjNjTGVmM3VLcm9ZTU5ycjdDSjNSNUlQN0k3YU1sWFl1?oc=5",
-    "date": "2026-05-09T06:08:25.000Z",
-    "source": "搜狐网",
-    "image": "//q0.itc.cn/images01/20260509/fd5804bba93b4734b6f3ade8c476ffbc.png",
     "category": "auto"
   }
 ]
