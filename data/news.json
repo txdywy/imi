@@ -1,5 +1,14 @@
 [
   {
+    "title": "Xiaomi 17 Max pictures, official photos",
+    "description": "Xiaomi 17 Max pictures, official photos",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTlZQdmFqLUp6WENGd2NHOXhpNWdvbUdodmVDemJOZ19ibk9GMDZFMjRJbllzV21JVTFqZ21WMWZldFVEODlNQmxrazBWUGhPUWU4Wk94VlpiVG1EYWx6RksyNTVWVERzcXdWSA?oc=5",
+    "date": "2026-05-15T12:46:48.000Z",
+    "source": "GSMArena.com",
+    "image": "",
+    "category": "iot"
+  },
+  {
     "title": "Xiaomi 17 Max's 200MP Camera Samples Show Leica Magic — and Gigantic File Sizes",
     "description": "Xiaomi 17 Max's 200MP Camera Samples Show Leica Magic — and Gigantic File Sizes",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGlJbm11bmdYWGNrcTJBbS1CSFVuYmE0TGZvNUNCamZOSnJVMi1Ob290ajMtdlZWU1l0SVZELWg1WUF3S3dfMVZGUjNqSlZ1bV9aeUlJMEViaWJ1ZXFnWmtuMVdDd24yWWh4UWF3Z1NUNkN2MUtUUFViODZlVml2b0Z6WHpoVlR3VEFRdUVUelR3M084TVZWWnR2OVFRNWZFNm9qNS1hNHEtR19ncXAzNERfZzFxbGgwVmp0bkFlMA?oc=5",
@@ -70,7 +79,7 @@
     "description": "【视频】开了一年小米SU7ultra，我移情别恋了吗？真实车主分享驾驶感受！",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qem1pRUZRYTBzY2k4XzZZeVV0OUdXQ1ZYdzAxT3pCUFdISVlEcHFsQ1piMFh4RGE4d1cxOUU2ZHYxSlROam1FaUFfam9ESkdWSlU4dUdZS0s4WE0?oc=5",
     "date": "2026-05-15T10:44:05.000Z",
-    "source": "汽车之家",
+    "source": "车家号",
     "image": "",
     "category": "auto"
   },
@@ -85,6 +94,15 @@
   },
   {
     "title": "Xiaomi 13T finally nears HyperOS 3 release after months of chaos",
+    "description": "Xiaomi 13T finally nears HyperOS 3 release after months of chaos",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVdzRGppQ1lZTDN4WnlFZ0hZSVNuVURsWC1TVDZwdEJqTnlmY3NLVFN6emZjQkpZQk9XMktvQ1FtVlNqUk5wRmluaEVPa2RWVjR0V3k1Y1ZPeU9WWXJObGl2enVMNGlRRTZrdDNwbFBTRGJWMi15Y010cXI2WmpfX3pzRDhZeGpRUmhMOTFQdDZlYnF0Qkpv?oc=5",
+    "date": "2026-05-15T10:31:29.000Z",
+    "source": "XiaomiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/03/Xiaomi-13T-Pro-HyperOS-3-update.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi 13T finally nears HyperOS 3 release after months of chaos",
     "description": "The long wait for Xiaomi 13T users may finally be ending. Xiaomi has received new internal Xiaomi HyperOS 3 builds for both Global and EEA variants today, signaling that the Android 16-based update is now in its final preparation stage and could be released very soon. Xiaomi actually started interna",
     "link": "https://ximitime.com/xiaomi-13t-finally-nears-hyperos-3-release-after-months-of-chaos-96985/",
     "date": "2026-05-15T10:31:29.000Z",
@@ -96,6 +114,15 @@
     "updateType": "update",
     "device": "Xiaomi 13",
     "isUpdate": true
+  },
+  {
+    "title": "小米集团回购326万股 金额9999万港元",
+    "description": "小米集团回购326万股 金额9999万港元",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CQzNsUzJaRlVRNldPdmlkc2RzdjlVWERxZkJGX1BHclU4Z0RoUGJFeHRSUGdCS0dqU3JfekRleW1UczRkT3N2aUxtaDVtb25acXdWSWYyZ2pudmNuRkIwUWRpRDY3VldEc211NC1RVQ?oc=5",
+    "date": "2026-05-15T10:25:47.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "Xiaomi Group-W (01810) repurchased 3.256 million shares at a cost of HKD 99.9947 million on May 15.",
@@ -138,7 +165,7 @@
     "description": "【视频】小米 vs 特斯拉：科技巨头的跨界对决",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rMjlQTkp4NzhoTTItb0hURzNUTDB1VWhoaFd5Szk3UFNhdGlDekRGdFFhVkNITVoyQWhuTnQ0bmoyMlpRd3RsNDBuMVdBRUJKWmxlQ3FnV0hFeEk?oc=5",
     "date": "2026-05-15T09:39:05.000Z",
-    "source": "汽车之家",
+    "source": "车家号",
     "image": "",
     "category": "iot"
   },
@@ -147,9 +174,18 @@
     "description": "【视频】小米的新牌寻天，押注增程SUV，但有个问题值得琢磨",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45NTE3ZzJ4a1FnYVZONC04NTJjX01yVmpDWFRnbVVWaFJUTF9PaklkdFM0M2R3SlpEVldtdUtVX0s2WFVZN3VBNFcxcmdnNVUwNDdZeUNhNzdzSmc?oc=5",
     "date": "2026-05-15T09:34:36.000Z",
-    "source": "汽车之家",
+    "source": "车家号",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "雷军谦卑求合影？两人十几年前就认识",
+    "description": "雷军谦卑求合影？两人十几年前就认识",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPdDZTZS1aY0ZJMjVIem1kT3BiSElPUHZsZ2YtSzhLZ1pDZGFiTXhBS2c5cmNkaGg0T1F1VUx2aVdUT2xvclE4Z05ObEFaXzV1X1hEWFpkTHVEak0?oc=5",
+    "date": "2026-05-15T09:28:18.000Z",
+    "source": "车家号",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M02/7C/B9/autohomecar__ChxpVmoG4hmAPCZEAAje_E7aSTM415.png",
+    "category": "people"
   },
   {
     "title": "小米618开启：小米 15 Ultra直降1500元，百款家电至高立省4500元",
@@ -215,15 +251,6 @@
     "category": "iot"
   },
   {
-    "title": "雷军谦卑求合影？两人十几年前就认识",
-    "description": "雷军谦卑求合影？两人十几年前就认识",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPdDZTZS1aY0ZJMjVIem1kT3BiSElPUHZsZ2YtSzhLZ1pDZGFiTXhBS2c5cmNkaGg0T1F1VUx2aVdUT2xvclE4Z05ObEFaXzV1X1hEWFpkTHVEak0?oc=5",
-    "date": "2026-05-15T08:29:22.000Z",
-    "source": "车家号",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M02/7C/B9/autohomecar__ChxpVmoG4hmAPCZEAAje_E7aSTM415.png",
-    "category": "people"
-  },
-  {
     "title": "REDMI 17 and POCO C95 Pro spotted on GSMA database with new model numbers",
     "description": "A new GSMA database registration has revealed two upcoming Xiaomi smartphones: the REDMI 17 and POCO C95 Pro. However, the most interesting part is not just the names themselves. Xiaomi appears to have completely changed the expected model numbers of these devices compared to earlier leaks, suggesti",
     "link": "https://ximitime.com/redmi-17-and-poco-c95-pro-spotted-on-gsma-database-with-new-model-numbers-96980/",
@@ -273,6 +300,15 @@
     "source": "Slator",
     "image": "https://slator.com/assets/2026/05/Xiaomi-Releases-OmniVoice-TTS.png",
     "category": "phone"
+  },
+  {
+    "title": "小米已注册多款新车关联商标 密集布局未来车型",
+    "description": "小米已注册多款新车关联商标 密集布局未来车型",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtcWdWRkZ0S3VNd1dPdkVGUTEyYkI1SHo1S2R5cUE4eU5IWjhrSko5eWhNTV92MF9yMmFmTDUxVVIyVERyQUtZMG9jQVNVT2ZUOXRKdG9yUE9SanBMeHEzQ1dPQ3hmNmVtalA0N0Yza1E?oc=5",
+    "date": "2026-05-15T07:58:49.000Z",
+    "source": "中华网",
+    "image": "",
+    "category": "iot"
   },
   {
     "title": "小米手环 10 Pro 联动小米汽车新增驾驶提醒功能，本月见",
@@ -520,6 +556,15 @@
     "date": "2026-05-15T04:49:04.000Z",
     "source": "凤凰网汽车",
     "image": "https://x0.ifengimg.com/res/2026/7D531F82EDA6C0D0AF67BE3E5116D011C52B53AA_size99_w1365_h910.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：5月16日起，小米YU7 GT实车陆续进店，覆盖全国82个城市268家店，5月底正式发布",
+    "description": "雷军：5月16日起，小米YU7 GT实车陆续进店，覆盖全国82个城市268家店，5月底正式发布",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZElsYUMxMEZScTdxVG1UQWtvc09UdXpjVktkTllFWUJIYkFIV2NfbXdPajZFaE5RMUIzM0tTdGJTNmJPOUN4clNpWVpTOUpCZGJibVZac25POVFIUWQ0NzhDSUJ2bjBUYU14WDNsbnVrWmVnOFNxTmdIY3N5R0R5QmczZ0pzOGZtZktCNm4yei1rWkhYbmNkN1owdHd5eUFDamRBMDQ3WHhvN2xBbkZObUQ1b3RsNV8ydXkwV2tiXzB5WmstR2NicFZBb3lvb0o3?oc=5",
+    "date": "2026-05-15T04:37:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/finance/crawl/742/w550h192/20260515/850f-e94d2faee00a49fdf95449d3bcf99865.png",
     "category": "auto"
   },
   {
@@ -1207,7 +1252,7 @@
     "description": "雷军宴会上“追星”马斯克，二人握手合影",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Fc0c1WVlYbVU5cmNWejRsUUZEZ3pheFcxS2xfeGlROXdqQlljajB0dnlSZzJsUW41S3pPM1JRX29wVFdYaW9UZ2dpUGdJaVFxYlNfZGdOTHBuWG5BUUtTbmdwUXpiZFJaQkE?oc=5",
     "date": "2026-05-14T14:01:00.000Z",
-    "source": "观察者网",
+    "source": "观察者",
     "image": "",
     "category": "people"
   },
@@ -4600,51 +4645,6 @@
     "date": "2026-05-12T02:27:30.000Z",
     "source": "车家号",
     "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M0A/4A/D0/autohomecar__ChtpWGoCja-ANQHpABNaGULSdR4749.png",
-    "category": "auto"
-  },
-  {
-    "title": "造谣“小米汽车线束质量最差”，一网络用户公开道歉-拆车",
-    "description": "造谣“小米汽车线束质量最差”，一网络用户公开道歉-拆车",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mc2lKWnNrWnlKY0xxLV9reGNSTFo5U21SVWdUWWhaVUx3S055TVEtYlNxaW8tYVF6cnRkcG1WbUxDWm0zbEFBRWVya0kxUWlNZXJGM0dLVUNmbVdrazZKLU5tTE5YR3UtbEp2RlhYUWo?oc=5",
-    "date": "2026-05-12T02:26:21.000Z",
-    "source": "金融界",
-    "image": "https://img.jrjimg.cn/2026/05/20260512101415631.png",
-    "category": "auto"
-  },
-  {
-    "title": "这款小米电竞鼠标新品的拆解图，是不是很高级？ ​",
-    "description": "这款小米电竞鼠标新品的拆解图，是不是很高级？ ​",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Rd2FvVjlxVWFRRnB3TVJLMi0tNlhNSzFTYnFNSUdTbXZ1NjRhaTVTeThzV2JQdGVMRHZyeUhTbm0xZGNWZlNKUjJTbWF5UGdIUlBibG1wd1lVWG5xU1NOUzlnRQ?oc=5",
-    "date": "2026-05-12T02:13:00.000Z",
-    "source": "手机新浪网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "小米新一代智能座舱入网_新浪新闻",
-    "description": "小米新一代智能座舱入网_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSXlrenQ0dHFtSlc3N21lQjlyR0xCb3IyQTRNQjZMV1lKRXhPeTNLVmNrdFZZNW5SYmR1djNFNWRkLVNPa1V3WEFhODVpRGQ2cWRsWnRjQk10T056TWZldFhPYw?oc=5",
-    "date": "2026-05-12T01:24:00.000Z",
-    "source": "手机新浪网",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "【视频】销量还要涨？新款小米YU7申报信息曝光",
-    "description": "【视频】销量还要涨？新款小米YU7申报信息曝光",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qZjg5VFozVkU4VVhZd2NLV1RlOUtpY1JKdVdEel9rUjRWXzkzSUtGMTcyYnBCd01xMlFqcG1MbnBfYzdpcUo1MUFlOEFSMnJkdGVpOGN6NU0wMFU?oc=5",
-    "date": "2026-05-12T01:22:25.000Z",
-    "source": "车家号",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "重回巅峰？小米YU7将推低价版，配激光雷达，这次还能争销冠吗！",
-    "description": "重回巅峰？小米YU7将推低价版，配激光雷达，这次还能争销冠吗！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VUHBrNjVNVU9fWktNb1JmLUFEazdraUNPZWZ2eU81LTdQN2owME5CNThZQ0ZYQXh5ekJIbElpQ1hkSHJ5eFo5NlhpdURSeDJLM1pDRW42NHNHU2s?oc=5",
-    "date": "2026-05-12T01:20:55.000Z",
-    "source": "车家号",
-    "image": "https://img3.autoimg.cn/chejiahaodfs/g33/M05/4E/47/autohomecar__ChxpVmoCfQ6AMEI4AAZKCs4LBFk924.jpg",
     "category": "auto"
   }
 ]
