@@ -148,15 +148,6 @@
   },
   {
     "title": "Xiaomi confirms new XRING chip is coming this year",
-    "description": "Xiaomi confirms new XRING chip is coming this year",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM294OXZHSnVTTzQzcDE1NnE1MXllMDRITlJ2cDgwRThScFBMQWlKUVhjSTV1RGt2bGcxY1N3QWdUUDQ5NVY3UGpCTFJoUVVJNGw0R1ZMeFlkRWZzcUdGdFcwUjFMSF8wQjNnYWJiNG12NVdKN1ljTnJ1dHVNRVZwdzhubmw?oc=5",
-    "date": "2026-05-16T14:42:11.000Z",
-    "source": "XiaomiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2025/05/XRING-O1.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi confirms new XRING chip is coming this year",
     "description": "Xiaomi has officially confirmed that its next-generation XRING chipset will be introduced this year, marking another major step in the company’s self-developed silicon strategy. During a live-streamed event, Xiaomi Group Partner and President Lu Weibing said the next XRING chip “will definitely be i",
     "link": "https://ximitime.com/xiaomi-confirms-new-xring-chip-is-coming-this-year-97013/",
     "date": "2026-05-16T14:42:11.000Z",
@@ -165,6 +156,15 @@
     "category": "software",
     "updateType": "update",
     "isUpdate": true
+  },
+  {
+    "title": "Xiaomi confirms new XRING chip is coming this year",
+    "description": "Xiaomi confirms new XRING chip is coming this year",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM294OXZHSnVTTzQzcDE1NnE1MXllMDRITlJ2cDgwRThScFBMQWlKUVhjSTV1RGt2bGcxY1N3QWdUUDQ5NVY3UGpCTFJoUVVJNGw0R1ZMeFlkRWZzcUdGdFcwUjFMSF8wQjNnYWJiNG12NVdKN1ljTnJ1dHVNRVZwdzhubmw?oc=5",
+    "date": "2026-05-16T14:42:11.000Z",
+    "source": "XiaomiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2025/05/XRING-O1.jpg",
+    "category": "iot"
   },
   {
     "title": "北京小米门店送车厘子_新浪新闻",
@@ -331,7 +331,7 @@
   {
     "title": "雷军黄仁勋晚宴同框：姿态亲密似兄弟",
     "description": "雷军黄仁勋晚宴同框：姿态亲密似兄弟",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Id05XY054QkdTWVlQOTdrRnJUeER0cEltekI3a1U1TFJSRlQ1ZHhNT1NmSTg0bDI0Z25qVjdvSE9BZXdKa3M1c09JMC10UDdtdzRvX2dnZkc4Q191M3o3aHlhNVZYMG5NS2hoa1FsbEtkXzlldV9CcW1kaw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbUVlWWlQNWFQd3A5Z2xQZUxiZzFhd1NMSWkwQl9tTndSQzlhQTQyNWktNDRUSDE3UXdBVk1OeXFDQlI3QzR6aDlSR0Q0Q2h0ZHNpaGFJelhqWF9zRFc5cG5jVWVDU1JvNUhjU3hGQmp1NWhFSElrZ3prNm8?oc=5",
     "date": "2026-05-16T11:29:00.000Z",
     "source": "新浪财经",
     "image": "//n.sinaimg.cn/spider20260516/559/w600h759/20260516/a490-741df630b9059daa3a408e5145248772.jpg",
@@ -340,7 +340,7 @@
   {
     "title": "雷军黄仁勋晚宴同框：姿态亲密似兄弟",
     "description": "雷军黄仁勋晚宴同框：姿态亲密似兄弟",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbUVlWWlQNWFQd3A5Z2xQZUxiZzFhd1NMSWkwQl9tTndSQzlhQTQyNWktNDRUSDE3UXdBVk1OeXFDQlI3QzR6aDlSR0Q0Q2h0ZHNpaGFJelhqWF9zRFc5cG5jVWVDU1JvNUhjU3hGQmp1NWhFSElrZ3prNm8?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Id05XY054QkdTWVlQOTdrRnJUeER0cEltekI3a1U1TFJSRlQ1ZHhNT1NmSTg0bDI0Z25qVjdvSE9BZXdKa3M1c09JMC10UDdtdzRvX2dnZkc4Q191M3o3aHlhNVZYMG5NS2hoa1FsbEtkXzlldV9CcW1kaw?oc=5",
     "date": "2026-05-16T11:29:00.000Z",
     "source": "新浪财经",
     "image": "//n.sinaimg.cn/spider20260516/559/w600h759/20260516/a490-741df630b9059daa3a408e5145248772.jpg",
@@ -2588,8 +2588,8 @@
     "category": "iot"
   },
   {
-    "title": "雷军宴会上“追星”马斯克，二人握手合影-观察者网",
-    "description": "雷军宴会上“追星”马斯克，二人握手合影-观察者网",
+    "title": "雷军宴会上“追星”马斯克，二人握手合影",
+    "description": "雷军宴会上“追星”马斯克，二人握手合影",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Fc0c1WVlYbVU5cmNWejRsUUZEZ3pheFcxS2xfeGlROXdqQlljajB0dnlSZzJsUW41S3pPM1JRX29wVFdYaW9UZ2dpUGdJaVFxYlNfZGdOTHBuWG5BUUtTbmdwUXpiZFJaQkE?oc=5",
     "date": "2026-05-14T14:01:00.000Z",
     "source": "观察者",
@@ -3275,8 +3275,8 @@
     "isUpdate": true
   },
   {
-    "title": "Xiaomi",
-    "description": "Xiaomi",
+    "title": "Xiaomi | Overview, History, & Facts",
+    "description": "Xiaomi | Overview, History, & Facts",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQnJpWFZWOTMtSTRWSFdDaFhBMkprWnpCQlgxNm4wVkxGN1JQcDJ2M09DUVNoMnN3TTcxQzRMR1U0U1ltSzNqX0RPdmZMRGxP?oc=5",
     "date": "2026-05-14T05:00:00.000Z",
     "source": "Britannica",
