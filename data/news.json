@@ -1,5 +1,14 @@
 [
   {
+    "title": "预计售40-45万元 小米YU7 GT将5月21日正式上市",
+    "description": "预计售40-45万元 小米YU7 GT将5月21日正式上市",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DU3R4Tng0ZThnUnk2RDRsSlFWMjl3SGloVTFyeGt4TFlPRUo3bTA2anREM2xXUE9WelRtZHVxSWVGTndzWjV1bjVKRjdvRWVQR0o2bFJKZ0N6dEd1ZHZRRkdqaUZfQlpVdkRxaQ?oc=5",
+    "date": "2026-05-18T19:33:04.000Z",
+    "source": "太平洋汽车",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "Xiaomi Readies High-Performance YU7 GT SUV for China’s Premium EV Market",
     "description": "Xiaomi Readies High-Performance YU7 GT SUV for China’s Premium EV Market",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTVyOW02cklybVNmaVhlc2JOcU9BN3BjQi1lSThtOW1YNC01WDdaZkVmNkpYc0JES0ZodE10TlFpb19YSTVNSHFKOTZoTTJwVmJhZkhXTnZnMWdKVEY0c3BILUlRbUJ1ZlNCTHQtNlZHU3Y5cGUtNGs5cW54QlJON3l2bmhvY0dLNXFhUm8wWW0zWEVwSzVvYkdkdnlyWDdqRklCU1gweUdzeGxxaVVJcDBNczhPeEZHOVNV?oc=5",
@@ -153,13 +162,26 @@
     "category": "ai"
   },
   {
+    "title": "小米YU7 GT：名字里藏着“伟大旅程”",
+    "description": "小米YU7 GT：名字里藏着“伟大旅程”",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWo2ZEg5Q3FDZUZiSzBHX0ROcU1CNi01Z01LZG9aeTNwcmNvWHI1czRPSnRDbS1oTXBHNVZqQ2VTVkh5MEZXTjhRVEM4LTNfb290bXVRd09neERiTlBlNU5fQzV6RnVkNHdVa3pfVHRleEl6cFRkZkdxM3ljM2RDaGZRNUZiOFk5LXRkWXFpQ1c2cHFxSTdLMXhOSVdhS2oyVk1zNlJaNA?oc=5",
+    "date": "2026-05-18T14:09:10.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260518/231/w660h371/20260518/2506-23c7e52c40ea96a8d701c5576c54e5d8.jpg",
+    "category": "auto"
+  },
+  {
     "title": "HyperOS 4 Launcher APK leaked with new Liquid Glass UI",
     "description": "HyperOS 4 Launcher APK leaked with new Liquid Glass UI",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWldZeEw3NmRBX3F0eEM2SVNwQWlZVkZrOUhUZUJPLVhhRDRwLVdPX1I5TjVRaWNUamdoVzZac3NWSXlEaS1QRmdCOERSTE5PRklhc3hMMFpGYmlVWkxUdkt0YVN0ZzBsNElpRlNvYS16U3I5N1BoTjFUNExHVzUzcHpzZWtCM3ZVX0E?oc=5",
     "date": "2026-05-18T14:06:43.000Z",
     "source": "XiaomiTime",
     "image": "https://ximitime.com/wp-content/uploads/2026/05/HyperOS-4-Launcher-1.jpg",
-    "category": "software"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "HyperOS 4 Launcher APK leaked with new Liquid Glass UI",
@@ -190,6 +212,15 @@
     "date": "2026-05-18T13:54:00.000Z",
     "source": "新浪网",
     "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米今年最重磅的发布会来了：所有新品都在这了",
+    "description": "小米今年最重磅的发布会来了：所有新品都在这了",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81T2lWbS1pM2V0NE5XdXRBYzkyU0ZpSklLcTNKQVlxQzhOalpBeVFna3R6bjBndGpMWUl5c21xZ1JfT3JYYzN5MWV3Yk11QnU3Tkd4aGpub3Y?oc=5",
+    "date": "2026-05-18T13:51:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260518/b1ab486b3e59405fab3cb6e5f20fef0e.png",
     "category": "phone"
   },
   {
@@ -835,6 +866,19 @@
     "category": "auto"
   },
   {
+    "title": "HyperOS 3.1 update is yet to reach these Xiaomi devices",
+    "description": "HyperOS 3.1 update is yet to reach these Xiaomi devices",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2N6aG5FeVpURWt5eXNjei0tVzZnRUowemp2SHNta2hoTzFLel9tV2xYcWo2R3lJTVQzUFFmb1VFWGxBNUFfaV9GWkkyQ1hXYjk5X2JMZlhodG1Zd0Q3anl2TW9iUHVjMU5wSGJfRklpUnBDUGtFUDlUYllpYTRTRzBJZlpVU1RnWm5uaHY4OWpiWWNFRy1FTVBIODR2eEg2SER5ZllUSTRtc1phT1RNSw?oc=5",
+    "date": "2026-05-18T04:05:36.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
     "title": "小米发布会定档！YU7 GT、小米17 Max全都有",
     "description": "小米发布会定档！YU7 GT、小米17 Max全都有",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZQUltUHdSUkEyVXNJTXlhYzRnak54OTRnTkFIV3U1bmdnMk82SkZkMnBZeUplbDhYV3AtLXplRzlsdF9DQVhScktxZHBxR3RPeWFRRHpCNHA5NzdiMHZKTGpybVBWMXQ0c3l6WWEtYVcwUQ?oc=5",
@@ -999,6 +1043,15 @@
     "source": "新浪网",
     "image": "",
     "category": "auto"
+  },
+  {
+    "title": "雷军、李斌们“肉身”开卷，不如给用户一碗实在",
+    "description": "雷军、李斌们“肉身”开卷，不如给用户一碗实在",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52bnk5Z0dhTWYzMjBncGhIQ0l2UUw3dC1hbEd1MkUzUmN3SE5KaUtRWVdjSWh0NHRJUmMzb3VzQXRZZVNjcUdrTjg1UFlBYWdGMDBXUW5oX1VTdjBSMTFKdmFVSFhxWWFTSkc0dHV0UF9uNUZveEE?oc=5",
+    "date": "2026-05-18T01:59:00.000Z",
+    "source": "新浪新闻_手机新浪网",
+    "image": "http://n.sinaimg.cn/spider20260517/285/w1079h806/20260517/d2e5-26457e91bdf2e52efa112c37e3993ebe.png",
+    "category": "people"
   },
   {
     "title": "小米官宣：YU7 GT将于5月21日发布",
@@ -4573,50 +4626,5 @@
     "source": "Forbes",
     "image": "https://imageio.forbes.com/specials-images/imageserve/6a05df3e8288406389b4fd01/0x0.jpg?format=jpg&amp;crop=3000,1689,x0,y149,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
     "category": "auto"
-  },
-  {
-    "title": "雷军在晚宴与马斯克合影互动，13年前雷军曾赴美拜访马斯克，参观特斯拉总部工厂",
-    "description": "雷军在晚宴与马斯克合影互动，13年前雷军曾赴美拜访马斯克，参观特斯拉总部工厂",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81NG1DeGFRUjZZUFc3VzM3aEFxc3VfVkk3b0xDa0FqbnhkT3o5a01WLUZESGgyajdFZjN2VTJfZ0M1V3VFRVpibDBkNkdfSkQtWVlCNUNEaU1qb3NKOHBTZmRXZENuQW9qU2FndG1vWHdiRGJab0E?oc=5",
-    "date": "2026-05-14T14:33:00.000Z",
-    "source": "Sina finance",
-    "image": "//n.sinaimg.cn/spider20260514/72/w1080h592/20260514/4844-4ae34a5fa493019533c65880d0c66f5c.jpg",
-    "category": "people"
-  },
-  {
-    "title": "雷军在晚宴与马斯克合影互动，13年前雷军曾赴美拜访马斯克，参观特斯拉总部工厂",
-    "description": "雷军在晚宴与马斯克合影互动，13年前雷军曾赴美拜访马斯克，参观特斯拉总部工厂",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZFcHN6NGhTckxOYm9UWFdySDhiMmJBNDQwZmIxa0w4b3FMN1c1WFQ4NUtjaVZGajBHdHoxV1ZiSllPa2VVdkZuRk5YSnlfajAzYjNPc1E4VmdYNTN3R20wN0VBcXlFeFpnTG5OZEJLT3IyalluQklUZFp3bUsxR210N0s?oc=5",
-    "date": "2026-05-14T14:33:00.000Z",
-    "source": "Sina finance",
-    "image": "//n.sinaimg.cn/spider20260514/72/w1080h592/20260514/4844-4ae34a5fa493019533c65880d0c66f5c.jpg",
-    "category": "people"
-  },
-  {
-    "title": "Selfie-taking moment between tech CEOs Elon Musk and Lei Jun going viral on Weibo",
-    "description": "Selfie-taking moment between tech CEOs Elon Musk and Lei Jun going viral on Weibo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcFBRXzFRYUtLMU9veHd2S2FMY3RsREU5dnZMenMtakFXaXhwd3dYYTdCRG5VRmVzbzkwYTAxUWVFY2V6S0lnZEFXWnNLWWR5YzZXODF3Q1FGemRZVk1UZHdqNmRtTDFGSEltX19aU3pmWlNETmxjbVoyem13UVdCMURmbGVBTmN0YjlFVHd0RW9aNFhzeXFLaVl1OERYV1RsNkMyM0o3NkV0M0RuYklKOU9uaXoxcWRHOU00NlRkQUpMTXM?oc=5",
-    "date": "2026-05-14T14:24:14.000Z",
-    "source": "The Tribune",
-    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk4ZjRhZTkwLTRmYTAtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-    "category": "people"
-  },
-  {
-    "title": "追星成功！雷军主动合影马斯克，小米、特斯拉要合作了？",
-    "description": "追星成功！雷军主动合影马斯克，小米、特斯拉要合作了？",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96X0Z0Y2JWX1gyQ2xUNC1Ia1FMWFR1alVqVzZlYncxQWdJV0ZFbUl3NkdsZE5Qd1ljbkFJZlJqXzdDTWVvazY0Z2lwcjZXNUZPRVhMeFNIM2hFaFAwRmhRUkFwdlFHUy1tbXBDWjF3bnROcUNZX0RJT0l0Sno?oc=5",
-    "date": "2026-05-14T14:21:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260514/330/w660h470/20260514/e151-49b11e6686aaac3ee517965d3d5c1372.jpg",
-    "category": "people"
-  },
-  {
-    "title": "小米补课AI",
-    "description": "小米补课AI",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bUFORzg1SFQ5RlBfY3p0R3Y5TEdVc0s1NU5jTFR4OWRCdVg2dnVQa0h6TWpvbV8yVTJWdjFaR2pVLUduRHJLUWdhaHZLWm1iVlkzdk9sX19KdlF2SnRrRw?oc=5",
-    "date": "2026-05-14T14:19:31.000Z",
-    "source": "东方财富",
-    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
-    "category": "phone"
   }
 ]
