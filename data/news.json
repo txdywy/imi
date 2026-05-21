@@ -1,5 +1,414 @@
 [
   {
+    "title": "更轻薄更强大，全新小米手环10 Pro发布",
+    "description": "更轻薄更强大，全新小米手环10 Pro发布",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSWFzUzRjYVcyQ3JFVWNSdHdsMVJaXy05dzZzYno3bnZybUtxbFc2VFhvdGIzWUF0OVV2QXpRdG5QaHo5QlgxSXlZVTdNTWdfVVQwdndKNDNOeElOaHpUdGFzOXRkRF85WG8xRTl3d2J3QU84YnhSLXdUVldieVo4V3R1b0ZhQ25qUFAzazdTYmVJMDBMempTaU1sRGNsNUFDR1hOLVdma0ljRjJhQ0lUWE9kbW96OWwta0pVN3U3TjlQMEtPMHpJTUNneGFMMGJsSV8zT2N5aWJLVUxEOTZ2NWtORU9SOTNKNnpmV3RwZlhRUGVmdm03Y3Y2U2lQeW9JbkNVR2JzbnZpdw?oc=5",
+    "date": "2026-05-21T15:19:20.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/spider20260521/195/w650h345/20260521/ce1e-ced281416acf66be739807f1bbc74211.png",
+    "category": "iot"
+  },
+  {
+    "title": "为何又发布小米YU7标准版？雷军：少了一款竞争特别不利，把标准版加回来，认真向特斯拉学习",
+    "description": "为何又发布小米YU7标准版？雷军：少了一款竞争特别不利，把标准版加回来，认真向特斯拉学习",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTTJLeUFZeGVHMGVGbFFfLWZXR29KQTJKOVAtNHU0d25LNFpvV3dUQmVKeXRoQi1iWEFJekZmRGFyUWNoQTdxbGxLXzNkQ19lTnN1RXNHd0FhWWFDMU9fTDcya1JLbXBCUWttU0RSdTNvYVhfeTZTdDRQVTNnTXVvU3RLR3llbmE4TlVXbmJpN2tWeWxRWEw4cWRpU0ptWWp1QlYwMzA5Ny1xMEV0RFRCT3k1LTNMOXF3SW0wOEgxbVN2b05oVDVwTkh4NDE0eVhNUVVHOUZiTzBLYVpoblU0NDhRNWZWT2xZckowOGVYNDB3ZVF1?oc=5",
+    "date": "2026-05-21T15:18:25.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/transform/483/w550h733/20260521/fb14-bab608a94d381156454c8dfe761ddd7e.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "HyperOS 3.1 Launcher May Update Released for Xiaomi Devices",
+    "description": "Xiaomi has officially started rolling out a new update for the HyperOS 3.1 Launcher application. The latest build, RELEASE-6.01.05.2347-05061701, is now available for users running Xiaomi HyperOS 2 and newer versions. While this release does not introduce any visible new features, it focuses on impr",
+    "link": "https://ximitime.com/hyperos-3-1-launcher-may-update-released-for-xiaomi-devices-97130/",
+    "date": "2026-05-21T15:17:26.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/05/HyperOS-3.1-launcher-1024x512.jpg",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "雷军回应只公布锁单数据：去年小米YU7 3分钟大定超过20万辆，行业没有人信，觉得数据有问题",
+    "description": "雷军回应只公布锁单数据：去年小米YU7 3分钟大定超过20万辆，行业没有人信，觉得数据有问题",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORDNIWmtQTnY5SmQtX1B5alBDb3d2OHN4ZGdOdE03d1dNS3BBUmpPTm40TlhFd1lDcWdpalBhUkZ1aUx2Qy1KUzJKZVItUUwwZjUtQ0dIQ0hkWXpFRFpycjlfVEZxUnVzcDF3Q1EtemlwcXpJX21KRlM1YWkwNzhUOFZueE8tWk1HemowNVhNVnBvcVB5bnVOMnZDdDB4Zmw0MGpyazNHOS1YUUFENHZsZUlfZWtUSXNoNXpfbHdxeHRvQ0NDcmtpSmNHMzB1MGRpVU9jeUpHS3R0SEV6YkdfZ24zdHBxektYWFRPMVhDempQTjRP?oc=5",
+    "date": "2026-05-21T15:17:21.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/transform/483/w550h733/20260521/ebe9-2870b29419a2c1e0ae463931efa6ae3f.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "【网通社快报】小米YU7GT发布：售价38.99万元，刷新纽北最速SUV纪录",
+    "description": "【网通社快报】小米YU7GT发布：售价38.99万元，刷新纽北最速SUV纪录",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qTWZWYVJ2VEZiUjdEb1FueS05Nnp6TkgtRklkWkhGME9uSHNSLW1PODVWSGhMVjJBQjFCUnNJanhfSFZrRGYwUlpoTFE?oc=5",
+    "date": "2026-05-21T15:08:57.000Z",
+    "source": "凤凰网汽车",
+    "image": "https://x0.ifengimg.com/res/2026/7D531F82EDA6C0D0AF67BE3E5116D011C52B53AA_size99_w1365_h910.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Why is Xiaomi stock sliding today?",
+    "description": "Why is Xiaomi stock sliding today?",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEkzeW9HRVFsYXFnYjZYTGhhNkczdUNPMUVDMTgyU2lSR2hWN3ZKb19feDVHRGZJNzVsaDM5TVdiUTIyREV5TWpvZGJTOHB1SGdaWUJDQ09OaVBZZ2xTZGFtOFllMlVHN1YxeFQ2cXpEa2l1ZFhnUlU4NktXMjVHN05laktfcFg1ay15bWprYXJ4OFpUUGhVREgxaw?oc=5",
+    "date": "2026-05-21T14:53:36.000Z",
+    "source": "Investing.com",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "雷军回应为何只公布锁单量：去年大定量太惊人了没人信 都觉得有问题",
+    "description": "雷军回应为何只公布锁单量：去年大定量太惊人了没人信 都觉得有问题",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWFFLMXRsc1ZDZFBSUVVNd1lfd2FyNTYxbVRXdmtGR1hLNmU3WlUycnZHamVpLU14d3FNMV9Mal92WndBZkpwRG1vMkg0bmRfcVRZNlRXTFVMMmdRWVFWZnJDUjU4d3FfSGJJLWJzZDlJTlFqNmptSDc5N0gwMENkb3B1RVBZNjFpV01SUzdFZ04tSU1hZjk0OGtMdVpkLTBfbmFXbm9Uc3NTdXFmSHV5a3NXRDhKZlRkNUdobGk2M3VIQmFlX0pUWmVNX3g2d1RXLUNuV1dxVXYzUlJQaEZmR1UyQTNFUHcyNG1yWjVKUW1heU5TbFJjMUgtalE4c1pIcHgza2FtYUZtUQ?oc=5",
+    "date": "2026-05-21T14:42:57.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/spider20260521/600/w600h800/20260521/d8cb-2e48bbed76e4e00579de4bc8655fa359.jpg",
+    "category": "people"
+  },
+  {
+    "title": "Xiaomi 17 Max to launch in China on May 21",
+    "description": "Xiaomi 17 Max to launch in China on May 21",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHBlWnlDYW5JTUl4NXZRajMyLXZGb2QwdEhvdjgxZzR0dnY2RURmTTQ4VW9OdFIzbTVkNzJtT0N1aTRkWDdONGxrWHBCeWRpTTNfUkNkMGk4d0dJaDJ6b2lmeFNSSHJVcUxFX1RaZnB3cjFURHBfenNnMVN6NlRBTnR5bVZ6TUE4bGI5NzdnR01PT25qQlEtVlVBdWFRVHJvcms2eWdianFrSlV6dlJJRGk3YlpJTk9XTkN1V20wc1hzcTFJVDA1b1R1cnk?oc=5",
+    "date": "2026-05-21T14:41:24.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi Launches New, Cheaper YU7 Aims to ‘Once Again Challenge’ Tesla Model Y",
+    "description": "Xiaomi Launches New, Cheaper YU7 Aims to ‘Once Again Challenge’ Tesla Model Y",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHFaM3NPeks0bi0tdmkwQm5xQUxiVTNnX25nMzVnZURyZGFmTXpyWFdWRmpZbWZTSUNzSHprTnptdXJ3dldlaHVSNVdMOFNTeVFBM21qQzN5T0pPVGVGR2RYTzI0TE5VcUhuak9QS1FHNnlwcnZEN0piQUJuWHlqamRWeGFoczRfcHFPOVVBZTgtZmROOFI3ajNvQ3c0UmNkS05na1YxeWNHN2JOdk95Zg?oc=5",
+    "date": "2026-05-21T14:40:03.000Z",
+    "source": "eletric-vehicles.com",
+    "image": "https://eletric-vehicles.com/wp-content/uploads/2026/05/Xiaomi_YU7_Ext_24.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi launches high-performance YU7 GT SUV as it chases elite drivers",
+    "description": "Xiaomi launches high-performance YU7 GT SUV as it chases elite drivers",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xRk1YeE1SX3JPSzh5NldwenJpRldHWUhwaWpTUG13YjBJMFM1VXlYdDNJNGtPQnVWTTRpVHkzSUFZdzNTZ2xXUmwycGhkaExrdE1CWEVZSFZOcWxITVRQZ0gtQXhIYjdEalRTOExPa0NTaTlqUnhMd1lNdUliUQ?oc=5",
+    "date": "2026-05-21T14:37:04.000Z",
+    "source": "CnEVPost",
+    "image": "https://cnevpost.com/wp-content/uploads/2026/05/2026052114333994.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米汽车副总裁宋钢：小米与特斯拉非常像，希望把先进的制造理念、制造体系和制造技术带到小米",
+    "description": "小米汽车副总裁宋钢：小米与特斯拉非常像，希望把先进的制造理念、制造体系和制造技术带到小米",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ib3ZDZ3lHbVBxelBZeWxiRUx4S09UUEpiYVRraHZGenBjSUVEUXBwakJZcUxDN01XNm9TeGpid3RWOXVxcWdCVXBjUDluYWRMb1ctSzJHRkJJZDQxVVBlMkNjWWctSk1IeWdxSkU4UklsWHIwRHEw?oc=5",
+    "date": "2026-05-21T14:37:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/finance/transform/483/w550h733/20260521/e67c-47e66360d5c47519ed75c031d7c8fb37.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军发布小米17 Max：6.9英寸大屏、徕卡两亿主摄、8000mAh电池，国补后4299元起",
+    "description": "雷军发布小米17 Max：6.9英寸大屏、徕卡两亿主摄、8000mAh电池，国补后4299元起",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XbkR4OHoyNHhwVngtQ3VBMk50Y1pLc2xPVmh1UGluNVZPM1h6d0lPSXpIUzdPLTJqZ2wxTFZPZ2VKQVl2UHc?oc=5",
+    "date": "2026-05-21T14:29:38.000Z",
+    "source": "智东西",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "为何执着纽北刷圈？小米胡峥楠：纽北是高性能车试炼场，要被国际用户认可、同行尊重，纽北必须要做",
+    "description": "为何执着纽北刷圈？小米胡峥楠：纽北是高性能车试炼场，要被国际用户认可、同行尊重，纽北必须要做",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGRrdV9JWXpUdHNUWURLX0UySFpjYzZNWUhPRkx5NmNMT0ZNYjNoSFRUUHVXNVNFNThGUW9pbWlLdlFIX1pubTgxUXc1QUg2RExNTW5NN0N5bDFmUmlMZVpCdVFWMUFXNmQ4ZTVIZG4wVmU0WmZlT09ZYy1BUWZzZG1GQVU3dGRkb2N6cGZ4WldTN1RWaGhxVEgzTWlqNmc?oc=5",
+    "date": "2026-05-21T14:26:58.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/transform/483/w550h733/20260521/148c-3f89ec47d2b9ba10048c1c88c9f20564.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军回应被保时捷反超：祝贺保时捷破纪录，你追我赶才是更健康的态度，争取未来再次反超",
+    "description": "雷军回应被保时捷反超：祝贺保时捷破纪录，你追我赶才是更健康的态度，争取未来再次反超",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMmV0R1piUF9hQWFqLWN0cmNYSHdrMzhwNzBDUVJ0eHFwZzRkQ0NyMGZwQWtuelhfRzJoNXZBVnhDUzBsdC14dHFKT0dZOERta29VT2VGNG1oeFV2Z092WjRTRG1JLTdzaVhEQ0l2OU9USzc2U3hTdkt0NldmdDM0NTVySXFkdWNBRjVtTzgwejFhbVNNX21pc1F4VnI3QXBleTlrM3NMNTV3bFVtb0ltWXkzY0podHFIS09fa2pxaGRoLVU0QW0wcnF5akprTXRybVY4Y2VWb2J0MHpXTE1jQXB2SXdJN3FIcDhiZDA0RllJdHEwWDBmM0NGX01oZHdMUHRqcTNOUFY?oc=5",
+    "date": "2026-05-21T14:24:52.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/transform/483/w550h733/20260521/2958-8ff56879e8eced3ab47bea75dd2bea45.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "小米雷军回应纽北纪录被保时捷反超：祝贺保时捷破纪录，车企之间你追我赶才是更健康的态度",
+    "description": "小米雷军回应纽北纪录被保时捷反超：祝贺保时捷破纪录，车企之间你追我赶才是更健康的态度",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1BlamhmLUpMbGRwYVFaYkRNdWVtR1RVeXlIdzlEd2czN1RLTzFNRG5DM0F2SVQxcXFZbTJuOHg0ZnpGbHE4NW8wNHQ5MGZfeWFPdTBWa24yd3BjaVhzVFNaOEFGVk9hMmE5MjA5TUJzMDdyZ0JRNFc2UHVVQmtEd1hWNkVLbGxN?oc=5",
+    "date": "2026-05-21T14:24:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/o6Lb-fzihnep5208756.png",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi’s new YU7 undercuts Tesla Model Y by $4,350 with 50 km more range",
+    "description": "Xiaomi’s new YU7 undercuts Tesla Model Y by $4,350 with 50 km more range",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGFyQl9oc1dsTWhMSFFqZ182WnJRNmFlQVItRmIzUS1JVFJVeThNV2htcDdTTS0zWmllRGlHYmd1LUdGRTExZEdOZ3UxSE1oTzlOdl9DdHB1NkVkVVRDa2dQeUlWZ05EVUttbm9YRXhUQmZPaDJ6YkRWNk5HQzV5S2Zobk9tNU83V2c?oc=5",
+    "date": "2026-05-21T14:22:00.000Z",
+    "source": "Electrek",
+    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/Xiaomi-YU7-hero.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "category": "auto"
+  },
+  {
+    "title": "雷军发布小米YU 7 GT，成为“纽北史上最速SUV”",
+    "description": "雷军发布小米YU 7 GT，成为“纽北史上最速SUV”",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54cFlYLTNGNmJDMml0TUFWYUN4N01Ba1VDUnVjN0RLLV9xU2syaXZRY2hrRHZlY3pSNmI0TDJQdWZ1MkdZNEpQUzBjajd2cHJNcVZxanpBR2Y1Y3pUamdOVA?oc=5",
+    "date": "2026-05-21T14:11:00.000Z",
+    "source": "光明网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi launches new, cheaper standard version of YU7 to further challenge Tesla Model Y",
+    "description": "Xiaomi launches new, cheaper standard version of YU7 to further challenge Tesla Model Y",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlJLNzBGWDFVeW9uV3VZN3huWVpUYnNLU2EzSUFOUU1yb1o0NTlrYmh2blFlbkN4bnp1ZzN2Tl9MTVk1cnNlOTdWOUV4UzJkUWNtRjRoZ2pZbmtUbjF4T0F3TFM2clBXV0FYZEJ6TlhtT1BLRzhONWs5QzZOUDdNMVdlZkh1eEpSOHNTYmlKYlNmVGc?oc=5",
+    "date": "2026-05-21T14:09:57.000Z",
+    "source": "CnEVPost",
+    "image": "https://cnevpost.com/wp-content/uploads/2026/05/2026052114064528.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军发布新车型小米YU7 GT 售价38.99万元起",
+    "description": "雷军发布新车型小米YU7 GT 售价38.99万元起",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wRTM1WnFXdFcya0RMb3pOWFZIU0dNUUJlQlZVcnl1Z3BlanJaNkF3WGRCTnRHUUoxVWE0VmktT2NTMmRENTdiejUwU1VlS3JhaE1ULVd1Rk9wbHByaDVWRXhydEFrdjV4MGstRkcwLVBUR0NWdVltalJRQi0?oc=5",
+    "date": "2026-05-21T14:08:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260521/356/w660h496/20260521/04d1-dc682578816cd6100744b9e6d9c197a9.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军回应只公布锁单数据：去年小米YU7 3 分钟大定超过20 万辆，行业没有人信，觉得数据有问题",
+    "description": "雷军回应只公布锁单数据：去年小米YU7 3 分钟大定超过20 万辆，行业没有人信，觉得数据有问题",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vYUthcGJFVmY1YkkwU0ZtT2JRTm9ESWxDQ09teXFUeWp1anBxTVRqOW1GeXVPQno0RkNuazhKVkszekE4SFNyZW1ZXzRaVldXekZYTWQ3RG4tdXZpMFFPWEowLUdfZmlWcEtlTXZpczVZYmdocW1mU3pHNFJFTnM?oc=5",
+    "date": "2026-05-21T14:07:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260521/160/w1440h1920/20260521/0213-50a20e5bffd2adc5fe231ad15127016a.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：小米YU7标准版23.35万定价顶着压力，最早是23.99万，努力让大家感受到诚意",
+    "description": "雷军：小米YU7标准版23.35万定价顶着压力，最早是23.99万，努力让大家感受到诚意",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TMmR5Q095bGZWeWNROHpEVzdPZ2ctN3lRWGZKT1VCTXZRVzd1MWxFbFdHbTNQVHpNNXY3ZUpYeUtNRDQ4czczd3dRX3g5MWl4enRITFF1Tk96QUp6cWFXbmxXZnFBUThCSlI5MzR2REhfdXVwWHhj?oc=5",
+    "date": "2026-05-21T14:05:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/finance/transform/483/w550h733/20260521/f3fe-ceddbfbecfd3f8682c2369be753de641.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+    "description": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsSW1TQThTNDZPaU9lajRBUDQzc01PVFJDb0JJUk5hamEtYkhpblVfXzVpLWFHQ2tYRl9odURNa2dmdlpEYXlGOFBrYkJwQzhlckxjNDhaRFpxZnQ4NmNFWWJuOU5RZlZYUlh5dkU5bnkwUQ?oc=5",
+    "date": "2026-05-21T14:04:03.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/sinakd20260521s/200/w640h360/20260521/a94d-de7f7a82c797559d74480685a29834ee.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军回应只公布锁单数据：去年小米YU7 3分钟大定超过20万辆，行业没有人信，觉得数据有问题",
+    "description": "雷军回应只公布锁单数据：去年小米YU7 3分钟大定超过20万辆，行业没有人信，觉得数据有问题",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnRqaThlZEswbkJYTUlBV2ZnYXV1cVlRQkJmQkRBTlVSMF9oVmFQc3BxZ0kwOVpadThOSzZyaE9FTWZKVG50UjdEbnJhTUVvanJoOUkyVUVBZXoyQmxuaTV6cXRlUUFSRE9oRUNLMENiNkx3UjV6NEh4QXdDU1FFcWswcE4zOVRCRzdraFhpcXFMLXJ0NGpVZXVBNm9hWXJBaW9ER2xwMDRYbHJqT0FBWFR1N3J5WFItbFBuTU1JTk4zdWk2eXI0WmNVMnRacmc?oc=5",
+    "date": "2026-05-21T13:59:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/finance/transform/483/w550h733/20260521/ebe9-2870b29419a2c1e0ae463931efa6ae3f.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "最便宜和最贵的小米YU7都来了！雷军现场玩梗“干翻特斯拉”",
+    "description": "最便宜和最贵的小米YU7都来了！雷军现场玩梗“干翻特斯拉”",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MLXNvcmdlM1lrcW1FOF9QdWMyT0RTWGJsNWpqY2gySWVjVmh1VldhN2ttZHlfRG5kcnhSRUU3Q0c1Y0xmZE0xWHRaRVg?oc=5",
+    "date": "2026-05-21T13:53:43.000Z",
+    "source": "凤凰网汽车",
+    "image": "https://x0.ifengimg.com/res/2026/026898FB6FB9C4F18B05982242F9202697D8F8BF_size325_w850_h450.png",
+    "category": "auto"
+  },
+  {
+    "title": "公牛把小米告了！355亿插座大佬3年套现超30亿",
+    "description": "公牛把小米告了！355亿插座大佬3年套现超30亿",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVC0ydllPS0JZRXVKQ2QtTTh6ejFROF9sQW5UY0dvVG1qOE9pR09IS3VDRDM5aEMxdFdJalhaMjUwQzFMSFJJSTJhbXB3Tzd2dUhJdjNTWVQ3TUFzRjB2WjBKZzVEYlRWNktESE5RbFBhVkVkVkx0Q25fSHBZVlR2UTIyWDlOS1RfbUdtNXlZbDdRcFl3SHp2UHFic1NtTzlPenhOVG0tdw?oc=5",
+    "date": "2026-05-21T13:52:35.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/crawl/76/w550h326/20260521/6bf0-ffebd119146b215d272d4982e1393006.png",
+    "category": "phone"
+  },
+  {
+    "title": "小米17 Max手机发布：8000mAh电池、2亿像素徕卡主摄|屏幕|大底|微距|变焦|高画质_手机新浪网",
+    "description": "小米17 Max手机发布：8000mAh电池、2亿像素徕卡主摄|屏幕|大底|微距|变焦|高画质_手机新浪网",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeERFdG5DMTh1Si1zUlBBTHJ1RW5XamU2ZjNraFpnX3phWndQLVFjcm1naGtUdXJnMmJQaGpfMXhBTDV1ZlZKZFRBSkE2R3NZT2lENlNpR1FCY1AzOTJKSzBQUUt6d0lrVnhMb3Rhc3A0ek4yTzRHcU44NTNkUWE1MXI0TjlrT0d0M3VpTDRZLUxVZzhfYTZoR2V5dnFKTTA4ajFsaTNrSQ?oc=5",
+    "date": "2026-05-21T13:36:37.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260521/740/w660h880/20260521/3277-1cf704c46833e5c32b7cbb0195f4ef77.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米未来5年预计投入超2000亿元",
+    "description": "小米未来5年预计投入超2000亿元",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZTkVJc0E0empvYTdqWUxfZ2ZIemd0Y2NwbnZ3Zk5mMl9ic29wRHdvSEY4RlJ2RWIxZm1jV0JFNENMYlJ2eGZKazk5cU11RHVVbnpWMlRNam05VDdnWDJGYkMxaGpmcjlMUzE3R2FYQkozSkRKSkpqRw?oc=5",
+    "date": "2026-05-21T13:36:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260521/384/w2048h1536/20260521/ec61-6c2a104911d0c6d2e6315dd876d69358.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi New Product Launch Event: The large-screen flagship 17 Max starts at RMB 4,799, and the sports-car-grade SUV YU7 GT makes a stunning debut.",
+    "description": "Xiaomi New Product Launch Event: The large-screen flagship 17 Max starts at RMB 4,799, and the sports-car-grade SUV YU7 GT makes a stunning debut.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmpyRkxhWGgzUTdQNGM0VlFIVUZYV08xVWx1UDZqcVBDenI1dmhWQ3NwRGMtMm5BeE80eEhZZ2ZtbF9XTms5ZzNlZ21BalhyRHhTcFRfLXpoWDZBY3oxUEs3X3RCVVRJVHQ1ZHZDSndPRVE0VWtwQVFjNlg2UGVZTWk2WXo2WUxoNXoxTDZoU1FsWUtaVUxXTjM4R3pvWGd3Tkln?oc=5",
+    "date": "2026-05-21T13:35:58.000Z",
+    "source": "富途牛牛",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米YU7 GT亮相：38.99万起 雷军称人生就是一场伟大的旅程",
+    "description": "小米YU7 GT亮相：38.99万起 雷军称人生就是一场伟大的旅程",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zdE43a3RnaUVUSDRWWlpuOEpMU2MyV3hRdFdZaHNmcUhVSDZtbXNNdGg3bEpPRnQyRE1wRVpReGRXZUpOLTZsZUhZQ2hWS3ZxQ3E5eVJrb1hhazhTZWpXeDdSb2NXR1hlUkl0U2ZLOUJkNlRiQWc?oc=5",
+    "date": "2026-05-21T13:34:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260521/80/w1070h610/20260521/79ef-9d719a2e959c26f25e58c5fd19ef783f.png",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi Debuts Sporty Electric SUV as Smartphone Business Flags",
+    "description": "Xiaomi Debuts Sporty Electric SUV as Smartphone Business Flags",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmVudVNIN1dVMXZ5VDZ0dEF2RE4wN3lmSkM2YXhMUXBabEtCb2NSNU02QlNjVmV4RnA2SEgtenA1b0x5ZEpvX1Q2cDVBeHVBdTVlNVdIa1N1TGRmTmc3MDI0clpGcFpOMTlVY2UzemxUeUNXLUJNdVo4MjBhVFVpTnhZaHZvdDdieHBYbTVXY1QzTTgzZlVhUzd2ZHdBU0ZOc0VfbEJmWnFOWURhS1V6QzRtcw?oc=5",
+    "date": "2026-05-21T13:16:21.000Z",
+    "source": "Bloomberg.com",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "38.99万元！小米跑车级SUV YU7 GT上市 雷军：坚决反对在市政公路上危险驾驶",
+    "description": "38.99万元！小米跑车级SUV YU7 GT上市 雷军：坚决反对在市政公路上危险驾驶",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82ODVyNkhWeW1VZHBkbENTMk1lbzZkU3kyMXhCLXpFTXpEaGZOMzh0TkxEQkxkbmNkdlc0TUF6Q09iYVZMWWswU2wySjBwQU1MeDhidXl5aUJkVHUtSVoxYk1KUE9QZw?oc=5",
+    "date": "2026-05-21T13:11:00.000Z",
+    "source": "每日经济新闻",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "雷军发布YU7 GT、小米17 Max，售价公布！",
+    "description": "雷军发布YU7 GT、小米17 Max，售价公布！",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FVmtlRG1WbEcxX0dCcWxPaDV6eXFrSlU3T1hHc19PNDM5OVU4dWlRUjFnVzlhZzhYUG9fa0tHVy0ybF81ckt4X0wtSmhwalRMS3lWRnVOcnViOEgyZ3poUktHV0R4bkNiMkJOYk5R?oc=5",
+    "date": "2026-05-21T13:07:00.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi launches YU7 GT in China: a performance SUV starting at 57,300 USD",
+    "description": "Xiaomi launches YU7 GT in China: a performance SUV starting at 57,300 USD",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOenNhdFNlVmZubGtfbEZCU0pnQ2tsUHplWHRNeG1WYzJmUkhucG9mZGxSOHlyenMzSTVYeGxzeXV5ZzlaWVpndjltalJhRDlvb25kbDBOZm5RSjJYTWRlUm5EdFlVemJjbHd0U25aRTdiTzd5eG5zVFhjczZrOGg5TVFWMkxEamdnTTNPYWt1dTB5UlViUUpKMlhwYW04Qy1CQmJUeVBXY3Q3ZnA5?oc=5",
+    "date": "2026-05-21T12:51:00.000Z",
+    "source": "CarNewsChina.com",
+    "image": "https://carnewschina.com/wp-content/uploads/2026/05/e59bbee78987-130-1200x900.png",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi 17 Max Is Official — 8,000mAh, 200MP Leica, Starting at 4,299 Yuan (~$594)",
+    "description": "Xiaomi 17 Max Is Official — 8,000mAh, 200MP Leica, Starting at 4,299 Yuan (~$594)",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekpJTTMxUkRzNlpRdUxDVENDQU5QeV9uWTZDV3BVMzhFeS1NTFIzVTJUemdMZlh3cGIzUDhsVjhnbU82U1FiaFVxZ1hJNHRYYWNvYUlkbUNQSUdUZzdOd2dVVGpZVWV2WXl6MGRGUXFacjVpS3BTQjR2NUxMcURtTG4wU1JXbEV5Q1dldjBta2VDQ1dDQnpaUHNETG00YjkyaDhXS0p1cmR2V0RkQmdr?oc=5",
+    "date": "2026-05-21T12:47:08.000Z",
+    "source": "Gizchina.com",
+    "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-05%2Fimage-1779367488408-6a0efe447c6ef.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米YU7 GT发布：零百加速2.92s，售价38.99万元|小米汽车|雷军|小米科技|电机|双腔_手机新浪网",
+    "description": "小米YU7 GT发布：零百加速2.92s，售价38.99万元|小米汽车|雷军|小米科技|电机|双腔_手机新浪网",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRm83N3Rzbl9yR2diME1EdURod0xFbnVjRWpEdUNtRzhlWllLMEVtWk5fSllNajFpeG14bnNzY1dDeHFJRFl1aXlFZ2l3VWc2UlVTR2h2Z2VQOHpEUjlpZ2JjcXVjbkR4Q2lVU2xZRGhsNXlEbS1jZ3lqZUhBMXNoTzJpQmttT3Z3NXljYnpqWXNXWURWMTJYV1BjaDk1bGJCcVpQSlJuaVBVdXROTGhLMmdVMjhfQ2pPSGVvSXRDdmpWeW9tYmxzOXV6dnlRMld1QnZ5U1ZyZzVydnZSNVlIYVQ0eGxSZGRCWWgxWFBaT0lROVVlN3RPdEZscmg2VUcxWmhObkk0cTdvOGVlOW9z?oc=5",
+    "date": "2026-05-21T12:37:16.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/transform/162/w550h412/20260521/74ba-ce9ee8c64b82eac055c69477496a982a.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：输给全球销冠不丢人，小米YU7彰显了王者之气和巨大的潜力",
+    "description": "雷军：输给全球销冠不丢人，小米YU7彰显了王者之气和巨大的潜力",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnOGdLb1VScjR2Q1NSeTdFcmhiWTZwYUdUS3E4cGFIZFJCVTFBQjUyczdnMUtlamxaMVF1XzhoWUdTVkE1Y2o0TjNKanJrUV9FR2xmWGloRHhpbkNDb1hxSzBMMmpMa1ljTXJBbFd4cV9STjdxbFE?oc=5",
+    "date": "2026-05-21T12:29:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/sinakd20260521s/183/w690h293/20260521/c509-2353753599a900458fc4d67eef3d4c31.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi New Product Launch Event: Xiaomi 17 Max starts at RMB 4,799; new car YU7 GT makes a stunning debut",
+    "description": "Xiaomi New Product Launch Event: Xiaomi 17 Max starts at RMB 4,799; new car YU7 GT makes a stunning debut",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlgtTjdMUS03UnB1N21tYXNIb0c1LUdISnV5TGFtVHNWLXhZaGcwYmx3TjVvZEJNZnZiMFI3TG1jSTY4Z3Frbi1OeDlObzhaLU8yRUNaOXdJNzg4OUxTblVPTjVJVnh0VXhNU21KN1dRaGFINU52UjlPeXd4TW1IdzhtTVR0bXJRN2tDeHFJN29neTdWX1duZzlGdHEwdw?oc=5",
+    "date": "2026-05-21T12:27:19.000Z",
+    "source": "Moomoo",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi’s EV sets record as world’s fastest SUV at Germany's racetrack",
+    "description": "Xiaomi’s EV sets record as world’s fastest SUV at Germany's racetrack",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3BkNkliR3A3S0ZhNG5jZTJyNjh0SGFqbTdyY2MzdUJodFRpNHNXMGp2a2RKZHhaMzI0V2JNTVF5WmJhLTdud1FfQXhScHY2ZTFWZ2t1cXQ4LTMySjlZZnl5c2wxaEJCZWYzUHMtTG5MY0VtSzRKUzJLWUZqdzcwQ3pEUWo2ZXVzOElWOVNqa045YVRISTlPU2J2ZFV0WXlWZjhVLXJlVkhFeG5EZTBxaFoyazVXVU9YckZQSmRJeThlWll0?oc=5",
+    "date": "2026-05-21T12:22:46.000Z",
+    "source": "VnExpress International",
+    "image": "https://vcdn1-english.vnecdn.net/2026/05/21/2026051501283361-1779346769-1755-1779346855.png?w=680&h=0&q=100&dpr=1&fit=crop&s=Ve2_sXesRx7cqZneYY1f1w",
+    "category": "auto"
+  },
+  {
+    "title": "小米YU7 GT正式发布，售价38.99万元",
+    "description": "36氪获悉，小米YU7 GT正式发布，售价38.99万元。搭载小米电机V8s EVO、相较上一代V8s电机，最高转速提升至28000rpm。配备双电机系统，最大马力可达1003PS、最高时速达300km/h、零百加速2.92s。此外，小米YU7 GT再以7分22秒755的成绩刷新纽北SUV圈速纪录14s，成为纽北史上最速SUV。",
+    "link": "https://36kr.com/newsflashes/3819014010242436?f=rss",
+    "date": "2026-05-21T12:21:56.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：小米YU7 GT以7分22秒755成绩刷新纽北SUV圈速纪录14s，成为纽北史上最速SUV",
+    "description": "雷军：小米YU7 GT以7分22秒755成绩刷新纽北SUV圈速纪录14s，成为纽北史上最速SUV",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Bek9GTi0yQVkzdVRhVy1IOTZON2g1NXpGU1pGTXdBamM4VXhNWFYzZmJ4Z1Q3Mjd6alR0c3ZvdFozNXpNamM0dzd6bFFraGdtN0k3cG9WZ0JYcVBkM2tZeHY1V3VVejJiQ2ZoWE9sV0M0aGtjZTFR?oc=5",
+    "date": "2026-05-21T12:15:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/finance/transform/162/w550h412/20260521/1429-c84d068c966ca29a4298243a504b81f3.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi launches new YU7 Standard Edition at 34,300 USD to challenge Tesla Model Y in China",
+    "description": "Xiaomi launches new YU7 Standard Edition at 34,300 USD to challenge Tesla Model Y in China",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemhaUXIwWkVtd18yUHluS2FBRUtZR3lWSTA5VVJOOTNHZzNPUEVYTXYtTm9STlpYdDBQVExvbUVsM2hiM2MzTktOVlRRcnA5R1ZDX05aS29jU2cxeVlRRVVVT3lDWVlPaWNwd2ZOMms4TzNWVml6NC1STi1nbkl4Z3lXbkJPVFJ6VG9hSl9EQWlRMnozNGJSdGFYazhBeUVDYlU4RVJJYXZLSXBiTlJMSHdYa0JlU2tCaEkyTWdvbWJiUGVR?oc=5",
+    "date": "2026-05-21T12:14:00.000Z",
+    "source": "CarNewsChina.com",
+    "image": "https://carnewschina.com/wp-content/uploads/2026/05/e59bbee78987-128-675x900.png",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi launches new flagship phone with 200MP Leica camera and bright OLED display",
+    "description": "Xiaomi launches new flagship phone with 200MP Leica camera and bright OLED display",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQW9OX0VoLVlmNXNXQ0pEV1FYTk9PU3BXWHA4cDFxVDhmMk9VU21iZF9hemhaaFpiaEViMllibGZHVm9ETWp6S1E2VGVoekEteEFpWlQybFRLQlAwSVZ1OEZuLXp0M3dsTUZ3dDM2aTNnZGl2X3lsRkVwUHVEcU9hcDlHejN0ZGhDa3A1S0xuLVpURnBMVkxQdXJCZEN0UC1rQmZFOUpfQnlLZkJiWGxfOWhBU3dROFlZYmpQMEZVVnJnZkF0T1E?oc=5",
+    "date": "2026-05-21T12:14:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-Max-launched.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "23.35万！小米YU7真标准版发布：辅助驾驶满配、续航643公里",
+    "description": "23.35万！小米YU7真标准版发布：辅助驾驶满配、续航643公里",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1hvRkFocjJBODRWd3lXWHQ1ZUxlRm5HallUY2hqdlVSQzk2UU1RMnFxT0RLUVdZcDlZX1g5TnFZVHFmVE9VU2pMYWxPVVZDanVMdlpWcE5JcDRDak5mc0pxMjhKNDNXU0dKVnFBajNlZG5KVmtGWk1URWFiTTNKcm9IWVpKTVV1c0lsYnJtS3JnM3F5aUx3dlAwWFB6VFMwTEhSOUFnTlBwZGh2TEVGWmpRdmtucktYYzhxNXhCX2x4ekc5OFhxcUFvaTY2S1hTb285Y0JNMDBNVWE1RFJDbVJDNGhvcHFWVEE?oc=5",
+    "date": "2026-05-21T12:11:15.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/spider20260521/78/w600h278/20260521/2730-226d8ebe3679a23e4a99a9ce20737171.png",
+    "category": "auto"
+  },
+  {
+    "title": "【网通社快报】小米发布YU7标准版车型，售价23.35万元起，CLTC续航643km",
+    "description": "【网通社快报】小米发布YU7标准版车型，售价23.35万元起，CLTC续航643km",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxSDN4NkFZZUxfSjkxZ1ppMkhvUkkwVWUzS1BWOXU4Q1dUYTd5cEdnWjdQaldMVUl1UFR0U2gtY3hWY2Y2Y0c3MEQwREo?oc=5",
+    "date": "2026-05-21T11:58:00.000Z",
+    "source": "凤凰网汽车",
+    "image": "https://x0.ifengimg.com/res/2026/7D531F82EDA6C0D0AF67BE3E5116D011C52B53AA_size99_w1365_h910.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米YU7标准版发布，售价23.35万元起",
+    "description": "36氪获悉，小米YU7标准版发布，售价23.35万元起。性能方面，零百加速5.90s，最大马力320PS，最高时速220km/h；续航方面，73kWh CLTC续航643km；充电方面，10%-80% 最快充电时间只需20分钟，15分钟充电补能405km。",
+    "link": "https://36kr.com/newsflashes/3818978257684098?f=rss",
+    "date": "2026-05-21T11:45:34.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "Xiaomi YU7 GT Dethrones Audi RS Q8 To Become ‘Fastest SUV At Nurburgring’",
     "description": "Xiaomi YU7 GT Dethrones Audi RS Q8 To Become ‘Fastest SUV At Nurburgring’",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc043TWJtSzU5eVlJRFR3LUV0aVYxRTN0SmI1bFZhQ1QzVk56djl1NzFwNVI3eGdqZHRLbEFPalFGSzAyYV9lMVJrc3JkZzJqSmF3Q05Eai1sLWJCTUhnTGhlVHBnRm9sT0dmd1hJN0JuUTBlQkpvY3BPREIyLW0zQUNYVEw1bE1PSUk5YnNld0RDbjBiOXltd3RGQWl2MkRra0oxaW5UY0p5aTVnaEE?oc=5",
@@ -16,15 +425,6 @@
     "source": "每日经济新闻",
     "image": "",
     "category": "phone"
-  },
-  {
-    "title": "Xiaomi 17 Max to launch in China on May 21",
-    "description": "Xiaomi 17 Max to launch in China on May 21",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHBlWnlDYW5JTUl4NXZRajMyLXZGb2QwdEhvdjgxZzR0dnY2RURmTTQ4VW9OdFIzbTVkNzJtT0N1aTRkWDdONGxrWHBCeWRpTTNfUkNkMGk4d0dJaDJ6b2lmeFNSSHJVcUxFX1RaZnB3cjFURHBfenNnMVN6NlRBTnR5bVZ6TUE4bGI5NzdnR01PT25qQlEtVlVBdWFRVHJvcms2eWdianFrSlV6dlJJRGk3YlpJTk9XTkN1V20wc1hzcTFJVDA1b1R1cnk?oc=5",
-    "date": "2026-05-21T11:15:27.000Z",
-    "source": "MSN",
-    "image": "",
-    "category": "iot"
   },
   {
     "title": "小米：过去 5 年总投入 1055 亿元，未来 5 年预计投入超 2000 亿元",
@@ -4196,416 +4596,6 @@
     "date": "2026-05-18T02:59:59.000Z",
     "source": "车家号",
     "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M06/A0/17/autohomecar__ChxpVWoKft6AQ0QwAAHiBCUYBnU941.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "#小米[超话]##小米YU7GT发布会定档##雷军解读小米YU7GT命名#5月18日，雷军官宣小米GT 将于5月21日晚7点发布。稍后，雷军发文解释“GT”的含义，雷军称：GT，源于意大利语Gran Turismo，译为“伟大旅程”。其表示：小米YU7 GT，为热爱驾驶的人而来，也为向往",
-    "description": "#小米[超话]##小米YU7GT发布会定档##雷军解读小米YU7GT命名#5月18日，雷军官宣小米GT 将于5月21日晚7点发布。稍后，雷军发文解释“GT”的含义，雷军称：GT，源于意大利语Gran Turismo，译为“伟大旅程”。其表示：小米YU7 GT，为热爱驾驶的人而来，也为向往",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkRXVQTUluclBncHViWTVwV2ZfaG9PRXRZYkRVeWUweGJ0U0kzZllKaFRIVE16NUlVMUtyaEpwZXQ2Q0NuVWNJaXJiWDg0eWp4S3ZWVXM3OEZyU1B1NWZMZG9RYw?oc=5",
-    "date": "2026-05-18T02:53:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi announces Xiaomi 17 Max, Band 10 Pro and YU7 GT launch date",
-    "description": "Xiaomi announces Xiaomi 17 Max, Band 10 Pro and YU7 GT launch date",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWERtekhMdTAyemRJSWJLamJqWENXdExqTTdFU0ZLNWQtbnZ0YzhXbGVZZXhCSGhsd2w0U0dsZng1RVJyVGR1Q0h6SnRrbmt5OGs1bVFXVGRabU9pWGlITm10YmRyWERJY0syanBmU1lYOWJ5NmJzRTF3ci1EcEtmRE96cEllbWpaWC1Ta1hfSGFqR2pjYVJyaExJdHFkc00waFc5M29HYw?oc=5",
-    "date": "2026-05-18T02:44:57.000Z",
-    "source": "Gizmochina",
-    "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-Smart-Band-10-Pro-Apple-Ecosystem-Support.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米发布会定档！YU7 GT、小米17 Max全都有",
-    "description": "小米发布会定档！YU7 GT、小米17 Max全都有",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaW9RZXcyZjRpbjdHN3RfMlh0VDB5bnNqQXZPcTk4UW5qVm5SemlhSXpUbUp6WkpMNUVyQkZlQ1hQRENiaDA3YmI5STZ2aVJnOEw5a1BkMGZQeWdpbnZUS3A0aE9lRG8yNUdZVkpOSnlhTHhrZEY3MUNwUlJOLXM?oc=5",
-    "date": "2026-05-18T02:44:00.000Z",
-    "source": "新浪网",
-    "image": "//n.sinaimg.cn/spider20260518/333/w730h403/20260518/e539-173a71f90248b373e5beaa71d46198cb.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7 GT定档本月21日上市",
-    "description": "小米YU7 GT定档本月21日上市",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZmY2c21zTG5LZUIwanBRRTI1UHdmWE1wWWdoYlNVNk9UMk1tdkxYeEZjNUgtZlpIRy1wSTFVclZ5WkNYaE9pS3RtYk5MaHd1akl5TWw3WHFZblh2SGxneFFSWmJOTC1aeDRz?oc=5",
-    "date": "2026-05-18T02:33:03.000Z",
-    "source": "中金在线",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
-    "description": "Xiaomi YU7 GT to launch on May 21 with 300 km/h top speed and 705 km range",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEg2N3EwSzFQYTlqeGFna1I4LWlvVjdmRExDdF8wWHlJd1JmdnJVc3FUakp0VXR3QjM2S3VzZ0I4eUx0endHOHpQOWlxWFlVamRjaGpJc2Vsd0h3WEMwYVhrT25CMjNFSklNLXdxVFZlV2pDOGxqck1VQTRwSkxVQTRlQUVteWEwcy15YUZ4bm1YSVlEa1loRXdRQXJ4bFJFdXhxTnE3eFhvMGFQalRISg?oc=5",
-    "date": "2026-05-18T02:29:00.000Z",
-    "source": "CarNewsChina.com",
-    "image": "https://carnewschina.com/wp-content/uploads/2026/05/e59bbee78987e8bdace68da216_9e9ab98e6b885_webhook_1500x900_q85_1779071387.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军宣布：小米YU7 GT将于5月21日晚19:00发布",
-    "description": "雷军宣布：小米YU7 GT将于5月21日晚19:00发布",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ya1JlY0tvWVlFVzlRdlFnZ0JMMTNwX1JJa2pNRDlHUG81SjdwZ0NXWnFyM2Y1bjBzdVZLVmhfNnIteUVudFVsWXRrMk9XTS1iVGNuaVV1RUNBT19hcFY0V3RJSnFhTlZOV0piSXFZUzlsTmRXcEE?oc=5",
-    "date": "2026-05-18T02:28:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260518/613/w809h604/20260518/b639-3e65bd86b9aa13b096d22c499d346a83.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米发布HyperOS 3系统修复报告 涉及多款机型已知问题",
-    "description": "小米发布HyperOS 3系统修复报告 涉及多款机型已知问题",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRF9BT0hmX3hiNEUzMkZZRlJTaUpRQy1lNkdFUTFkYVdNLU9DRzhTUDNuTUVDNlg2Nk1neWNzOERxdWdYNUpxTmJhcTE2Q3lvak5fRXhtZVp5RlBYRHY2T3NtQVVqME9Ld3k1RV9odF9veEpLa3hHVlRhZ0dWM0RjQ204WmR3R0ZO?oc=5",
-    "date": "2026-05-18T02:02:00.000Z",
-    "source": "搜狐网",
-    "image": "https://q2.itc.cn/q_70/images03/20260518/5067d811ff704bd6a6a3068660e98a0b.jpeg",
-    "category": "software",
-    "updateVersion": "3",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "小米YU7GT发布会定档_新浪新闻",
-    "description": "小米YU7GT发布会定档_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RaU9zbGdzSDh3N294MFd3Szdmc3NMWUlYeU9Sc3A5S29hcWJKVnhYZGJQa25Lb215UWpUMzdLZ3dQZThINzRLZ0hHS1JQY1VUR1puWl9iN05ObDlKSVJsNUsxMA?oc=5",
-    "date": "2026-05-18T02:00:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "雷军、李斌们“肉身”开卷，不如给用户一碗实在",
-    "description": "雷军、李斌们“肉身”开卷，不如给用户一碗实在",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52bnk5Z0dhTWYzMjBncGhIQ0l2UUw3dC1hbEd1MkUzUmN3SE5KaUtRWVdjSWh0NHRJUmMzb3VzQXRZZVNjcUdrTjg1UFlBYWdGMDBXUW5oX1VTdjBSMTFKdmFVSFhxWWFTSkc0dHV0UF9uNUZveEE?oc=5",
-    "date": "2026-05-18T01:59:00.000Z",
-    "source": "新浪新闻_手机新浪网",
-    "image": "http://n.sinaimg.cn/spider20260517/285/w1079h806/20260517/d2e5-26457e91bdf2e52efa112c37e3993ebe.png",
-    "category": "people"
-  },
-  {
-    "title": "小米官宣：YU7 GT将于5月21日发布",
-    "description": "小米官宣：YU7 GT将于5月21日发布",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2XzNCejh4aWNlN1ZzcFR3YkhXNkxGMUxMVFk5ODU0MzdkbUFSWExIVGxuV3lCTEhhUHVfVUpINTdPc1FfRHJrZEQ0Zk5BYnd1TVZneWJMdlJIT0pxeV9uNXBMaERTbWNSekRKUFE0WVNDY0pLWlE?oc=5",
-    "date": "2026-05-18T01:59:00.000Z",
-    "source": "新浪网",
-    "image": "//n.sinaimg.cn/spider20260518/359/w628h531/20260518/58e4-15652fc4b24fe30d0e78e18c0192cad5.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军宣布小米YU7 GT发布_新浪新闻",
-    "description": "雷军宣布小米YU7 GT发布_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5bWxsdmpfMXJNNnk0WC00XzlxQU5abVFoR1lQQl9xVUNlcGJxNUJ4SWpRMGwwc0pGVGtwSHZ6ZDV5QjhsXzRGREJBTTZ3bXp5UzVndEJnS3JyMU94SGJiNFZFaw?oc=5",
-    "date": "2026-05-18T01:57:14.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "雷军宣布：小米YU7 GT将于5月21日晚19:00发布，首款耳夹式耳机等“人车家全生态”新品同场发布",
-    "description": "雷军宣布：小米YU7 GT将于5月21日晚19:00发布，首款耳夹式耳机等“人车家全生态”新品同场发布",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxOVo1NTVRYWFnUy1FWVJVcDY4SjRMYml1YnFkSTJYN0xzek9UNFVQeWR6STNfOGxwenN6ZVhYS2pMSWppRVJkaXd5MEJUaHdSYmtVUVdhT1lNRm5CbHdxMW9lRVpZVTJkZW5qMW50ajdzTG9YRnc?oc=5",
-    "date": "2026-05-18T01:46:00.000Z",
-    "source": "新浪网",
-    "image": "//n.sinaimg.cn/sinakd20260518s/78/w616h262/20260518/72ee-c333ec8277a7c9d48fd1a72ec7479b0e.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米新品发布会定档：YU7 GT、17 Max等新品同场发布",
-    "description": "小米新品发布会定档：YU7 GT、17 Max等新品同场发布",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91akNlMmJ5TlpVNGg1ZkRJSVExdEFSYmxQaDdIMFdkM1lvN0FwcUI2ZG1NMGxodWViQ0haTEFkNmQyWU80MWNkWg?oc=5",
-    "date": "2026-05-18T01:36:13.000Z",
-    "source": "凤凰网",
-    "image": "https://x0.ifengimg.com/ucms/2026_21/C31C1F1C4AB1962A124F37C587B9958492F0775C_size38_w690_h388.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "热搜第一！苹果华为小米手机集体降价：最高3000元",
-    "description": "热搜第一！苹果华为小米手机集体降价：最高3000元",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZzZzR0lXb1B4S2RDV0s3NGx3U2Nvb2xnQmwyVHN5U1ZVRXB0NzBlRkJtcjJlZWJHYVhJS2I3aTN3N0FjUy1UVUh4SUg1VlZuNE1tOHUxNXI1VEx1UVdGUjhVUl9SZlVBSDVHelBlYnB3UjdS?oc=5",
-    "date": "2026-05-18T01:34:48.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/spider20260517/600/w600h800/20260517/cd3b-74a1263312e974ababb3dd9ac6edb844.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
-    "description": "Xiaomi sets May 21 launch for high-performance YU7 GT SUV",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KVERZeWZSTFpBZ0JjaC1YZndkNWszbF82cG51QmxmT1NIYnVUM1dzc2tob2FJRWV6cnVJZk1NaFlSS285TlRRRDZabTJfdW5lVkhFU1FzMFFVNFM2VWVvNEdHVTE0ZXBVeEtmVzRMYmY2SWpOakxkbzZVWkJCQQ?oc=5",
-    "date": "2026-05-18T01:33:00.000Z",
-    "source": "CnEVPost",
-    "image": "https://cnevpost.com/wp-content/uploads/2026/05/2026051801304192.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米 YU7 GT 官宣 5 月 21 日上市",
-    "description": "小米 YU7 GT 官宣 5 月 21 日上市",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDFMT3FXcHNVRlg4c0o3VGVrQm5LLXlLYTFJVDFUSlBfMG13Ykdkb1NSTVduR3hsTmY4QmtiYVR3N0N0dlJmWXBJNU5Jd0djYjVWQUlxRDN1SGg1ekRjOXNwN1FRMEZXZk1Jc1hHRkxpLWEtbTBfU2Zob29kcU5EMEFWNEo1dmQ4aWc?oc=5",
-    "date": "2026-05-18T01:28:45.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/spider20260518/160/w1440h1920/20260518/8745-238409c801a7657646a448cb956d84e4.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "SU7 Ultra挖孔机盖案车主胜诉 小米夸大宣传但不欺诈",
-    "description": "SU7 Ultra挖孔机盖案车主胜诉 小米夸大宣传但不欺诈",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80OGx4SDFCRjlxandNUTFXTm9VaVlKMl9IT2I1cDdhWlZDOUtaQS1fYnI2cHhOd1lxZEtoWHFwMWFzSjJQaGYxSDZtMkdyX3VISENPUE44YmVGLXNjVkhoeVlRampCcW5vZzBUNGR3?oc=5",
-    "date": "2026-05-18T01:27:35.000Z",
-    "source": "中金在线",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米官宣：YU7 GT将于5月21日发布，雷军称其是一款适合长途旅行的跑车级SUV，此前已公布“火山灰”“车厘子红”",
-    "description": "小米官宣：YU7 GT将于5月21日发布，雷军称其是一款适合长途旅行的跑车级SUV，此前已公布“火山灰”“车厘子红”",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdlhBY3BPQ181X3lvM09CUzAxbWEzNDczSkg4MDU3SUl1Nm1taEdaTmJ0M3V0UWZLbWhwZWNVcHpMRmtzYkltTkhzSWRzVWpmcTBtNHpfOE9hczc4Q0lqU0M5QkJHRElCX2ttcUZjR0JFNG9GMFE?oc=5",
-    "date": "2026-05-18T01:25:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260518/718/w1256h1062/20260518/9848-6b40299d5e3da95c7a98e08e049613b4.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7 GT官宣_新浪新闻",
-    "description": "小米YU7 GT官宣_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xdEtoTmVKMVc2aU5WXy1mLVNpT3lIYndDZGJkWm9FaTFfc2VLQlVNRURaVHFxUW4temZlUVotX2hRQThfRXVOZGxkajZ4dDUzcFo3OTlUQ0NIcy1pX1BfT29xMA?oc=5",
-    "date": "2026-05-18T01:23:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米总裁卢伟冰：新玄戒芯片今年推出",
-    "description": "小米总裁卢伟冰：新玄戒芯片今年推出",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Yd2R4YzN1N0N1TzczZ1pkNDN5MWJFMlRDekJRZzZiNXJrMEUxd3ExdUl4a0pnSjhMUVpFTDd3Q19hUWtoMWF2Q0FHb2d5Y09zOXVJ?oc=5",
-    "date": "2026-05-18T01:19:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "小米汽车官宣YU7 GT将于5月21日上市",
-    "description": "小米汽车官宣YU7 GT将于5月21日上市",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlNUwyM0hUZ2FPLUd6ZkZ5NjFaT1VpMlVWTHM2MlhJVjh2YzlxMWU1STMwMl9MME8zSFBvU2VSS2lMdUNSZV8yT1o0RFJYak0zWGRWUl95REJUUmN4UGc?oc=5",
-    "date": "2026-05-18T01:18:49.000Z",
-    "source": "DoNews",
-    "image": "https://www.donews.com/static/image/logo-donews.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7 GT定档5月_新浪新闻",
-    "description": "小米YU7 GT定档5月_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UblRGTy1sV3NiVEdYTXo5b1NZM3BjODhidzRLMXlZWkRfeVpsOEYwRDNnZE5uSDBEWjFySDRMZmhoUlVpTFE3aHBKUDNreHBQMWR4d2h2aDFjaG9XRnVObzR6bw?oc=5",
-    "date": "2026-05-18T01:15:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7 GT官宣定档5月21日上市",
-    "description": "小米YU7 GT官宣定档5月21日上市",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JVVcxbkVyTUNhcHNsaEloTk5hUWZ5X1BtWXlwQmQydXh5bUx3Zk14V2ExZndqWjUzV2pJR3ozUTdyaUhRZVUtVHBkaHNNUDR1d2VjMU9HbXQwWllPTWFqWU51WVpobkdXQlFqNWp2MA?oc=5",
-    "date": "2026-05-18T01:14:45.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "极氪007GT vs 小米SU7：家庭选谁？科技控闭眼入！",
-    "description": "极氪007GT vs 小米SU7：家庭选谁？科技控闭眼入！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xaGY5Q3dqbE5TcDVSdG4xVWQzNXNMSkxSVTFnVXVuR3VZdnd0U202REEtSko2TGhEWnR2cU5JZWZmbHBPRmZvSTlNLVlmM0VIdDd2enQ2UElIWVU?oc=5",
-    "date": "2026-05-18T00:59:09.000Z",
-    "source": "车家号",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M06/9D/D2/autohomecar__ChxpWGoKYgeAd8KZAALt6B2TpRE71.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军官宣：小米YU7 GT发布会定档5月21日",
-    "description": "雷军官宣：小米YU7 GT发布会定档5月21日",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqOVJsZEh1My0tMU5ReUlZeE9QUXNaRzVNQXYzbE1ST0lzUlRqaTI1ZVVaaFkzS09jeWFxM25OZGdmUDluLWxTTmUwRFZJY0VCMGJtS3JQZWpLY1RxN3B1TWkyd2Z5dw?oc=5",
-    "date": "2026-05-18T00:45:18.000Z",
-    "source": "东方财富",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米智驾两年三跳？2026年有啥技术新突破？",
-    "description": "小米智驾两年三跳？2026年有啥技术新突破？",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zcllpVjZKVkRfakRlbUNOQ3RMcGdvM0JZWEpZcVNvTHZuQ09MaDhVYVQ3aENhbzNOUDJ2aG5UaHdtUEUzNlZESHR6Y0JhTkZBeUZB?oc=5",
-    "date": "2026-05-18T00:40:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "科技早报 | 小米卢伟冰称下半年部分国产旗舰直板手机价格或将破万；三星电子会长公开道歉",
-    "description": "科技早报 | 小米卢伟冰称下半年部分国产旗舰直板手机价格或将破万；三星电子会长公开道歉",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12QmN0SVFDNHpraUEza0dmc1R2VjFfZWJzMDdlSG1mcjRMUWh1eTN0bWUyZzg3dUwxeWprZVRmaHYxMHpzRnc0NURvQ09fMFRvSzIwaFJTU1M?oc=5",
-    "date": "2026-05-18T00:08:06.000Z",
-    "source": "Jiemian.com",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
-    "description": "今日热点导览 张雪机车，再夺冠 长安汽车否认与千里科技合作 深圳发布2026年住房发展计划 贵州茅台宣布公斤茅台等四款产品提价 法拉第未来宣布获得2500万美元融资 三星电子会长就公司“内部问题”公开道歉 TOP 3 大新闻 多款燃油车大降价，降幅最高近30% 日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。 其实，近期多家燃油车都开启了降价模式：起亚新狮铂拓界一口价10.99万元，较指导价15.49万元降29%；捷豹路虎5月12日推出限时“新发现”价；奇瑞4月中旬开展促",
-    "link": "https://36kr.com/p/3814030630084354?f=rss",
-    "date": "2026-05-17T23:55:00.000Z",
-    "source": "36氪",
-    "image": "",
-    "category": "ai"
-  },
-  {
-    "title": "小米YU7 GT车厘子红，实车已到店，5月底上市，30万你买不买？",
-    "description": "小米YU7 GT车厘子红，实车已到店，5月底上市，30万你买不买？",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeEU3RkJLeVJPS2JoNENpY2N1U0dIUmo2NjV5NnVuVVlPWHEzci0tQ0NsSjcwYkVBa0pmNmVfaWFqY2pxUmFXTk15bXBCSDY4ZGdEZk1GbGdoZU9KaGNrdDVFN3VfSW1nU2pF?oc=5",
-    "date": "2026-05-17T23:48:33.000Z",
-    "source": "车家号",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M03/9E/80/autohomecar__ChxpVWoKUj-AdqaBAAuBornkhBE928.png",
-    "category": "auto"
-  },
-  {
-    "title": "苹果华为小米手机，全线降价最高3000；电信推Token 套餐，9.9 元起；知乎CEO：AI 时代，真实创作者价值不可替代",
-    "description": "苹果华为小米手机，全线降价最高3000；电信推Token 套餐，9.9 元起；知乎CEO：AI 时代，真实创作者价值不可替代",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KMFVpX0I1ZVJvY2NfeER2d1hiRFE1QUVCVGNhSHlTREp3SmJ3VmFyemdyV2VBWVZIYlFhaDc3MWloUjVJYjZIZGc5TGE?oc=5",
-    "date": "2026-05-17T23:27:41.000Z",
-    "source": "geekpark.net",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "雷军2013年就去过特斯拉美国部，俩人是熟人。 ​",
-    "description": "雷军2013年就去过特斯拉美国部，俩人是熟人。 ​",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90ZWY5ZnI0ODVWQTVlY194c0U1NUgzNncxYkhlYWFYaTMxQjRWOU1INmZoaTBNNHM5djZ6X2JwOWhqZnZsVmdLLXVQcGdrWVNBQVc4QW5DUzU4eFdhTVdXbjE5bw?oc=5",
-    "date": "2026-05-17T23:08:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "早起傻一天#小米手机[超话]##小米汽车[超话]##小米17ultra# ​",
-    "description": "早起傻一天#小米手机[超话]##小米汽车[超话]##小米17ultra# ​",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpYmtQXzdSNjB0MHBURUlLcTB1M29DQmxCUnFEYW9HU1B4ZDRUS2FETkd3UkItb0J3RDQ3V3pkQUs1M0xrcHhaNlhxT3ZVdEF1UG4wWG44YjlyempDcHhpTk1Ccw?oc=5",
-    "date": "2026-05-17T22:44:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米总裁卢伟冰料国产旗舰手机今年突破1万元人民币",
-    "description": "小米总裁卢伟冰料国产旗舰手机今年突破1万元人民币",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94VmJTNFQyWEZqVWh1elJhbmstYlA4UE92ME1hMlpVbkhrakFVSEFZckxDQ085QUNSVEVwUkhZejNteHc3TXZJc0pFTnBzUnZ1TGYydHN5NHZoYUxQX0ktN01yMFRMVkh1T2pmU1BNaVJnUQ?oc=5",
-    "date": "2026-05-17T22:29:00.000Z",
-    "source": "AASTOCKS.com",
-    "image": "https://plib.aastocks.com/aafnnews/image/medialib/20220209100035046_m.jpg",
-    "category": "people"
-  },
-  {
-    "title": "小米总裁卢伟冰料国产旗舰手机今年突破1万元人民币",
-    "description": "小米总裁卢伟冰料国产旗舰手机今年突破1万元人民币",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDc2M3F0U1ZyOTVuRVN1LU4tMDJwODNwYm9adXhJZkhCWV9YdVVCN1lESzRHc2JOSUdodjlSeVZ3bjllaGJRbi1wc2U3aGZIekpRY2ExMXlwNG03LV8waEEtZnI2dURuXzlodEc4NlhNOEgzTTJhUFhfQWdGbUZpZjczQkE?oc=5",
-    "date": "2026-05-17T22:29:00.000Z",
-    "source": "AASTOCKS.com",
-    "image": "https://plib.aastocks.com/aafnnews/image/medialib/20220209100035046_m.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "#本周热读[超话]# 【#小米YU7全新火山灰实车进店#，官方透露更多颜色也陆续进店】小米 YU7 汽车全新配色「火山灰」官图今天公布，灵感来自晨雾下的火山地貌。据小米汽车透露，小米 YU7 全新颜色「火山灰」实车已陆续进店。同时，小米 YU7 还新增了大家喜爱的「霞",
-    "description": "#本周热读[超话]# 【#小米YU7全新火山灰实车进店#，官方透露更多颜色也陆续进店】小米 YU7 汽车全新配色「火山灰」官图今天公布，灵感来自晨雾下的火山地貌。据小米汽车透露，小米 YU7 全新颜色「火山灰」实车已陆续进店。同时，小米 YU7 还新增了大家喜爱的「霞",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04MUlKUExUemMxZmNRbG1BeEkzNWNCN2RIb0NJeHpCcE5xb19hY255VjVwdlgxTllpeS0xbXFKTFQ1MEJ4RkN5US1KRHZjS1BwYWh5eTUyMVY0eU1uLXFRenFVOA?oc=5",
-    "date": "2026-05-17T20:04:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "These Android 17 features may come to Xiaomi HyperOS 4",
-    "description": "These Android 17 features may come to Xiaomi HyperOS 4",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTEdrUS0xeDRPWTJ3YXlqYkM3bkpac3ZMaXVLN1AzN2I1Nkl3QjloRUxZbUVHaGhiSFBLUHFXSlg0OS1pNVdrRzNRd3loUWVudDMwQ0JjMnJkcE5YUy1ib3pZX2s3VkZxVjBFWGNWLTZHNHNZY2d1bm4wTzVlY3JPbHVIcjMtaUxFY1NEMHJiU1Z1UXFYNlE?oc=5",
-    "date": "2026-05-17T18:09:19.000Z",
-    "source": "XiaomiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/05/Xiaomi-Android-17.jpg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "These Android 17 features may come to Xiaomi HyperOS 4",
-    "description": "Google has already started revealing some early Android 17 features, and many Xiaomi users are now wondering what could arrive with the future Xiaomi HyperOS update. While some of the most advanced AI functions may remain limited to Google Pixel devices because of Gemini integration, several core An",
-    "link": "https://ximitime.com/xiaomi-android-17-update-may-bring-these-major-android-features-97036/",
-    "date": "2026-05-17T18:09:19.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/05/Xiaomi-Android-17-1024x512.jpg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "【视频】4月SUV销量榜：燃油车只剩「独苗」，小米无缘前十",
-    "description": "【视频】4月SUV销量榜：燃油车只剩「独苗」，小米无缘前十",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BdFB3TDhEMXN1enhTOWZSb3VMMV91YW53eTJadGlnbDQ4RzhSOXRXendPV0xDSW44VWFad3J2MHRFUW5pWVVhTnQtYVlaNlVDYW5IUDFZRllUNEk?oc=5",
-    "date": "2026-05-17T17:54:04.000Z",
-    "source": "车家号",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi 17T and Xiaomi 17T Pro specs confirmed by promo material",
-    "description": "Xiaomi 17T and Xiaomi 17T Pro specs confirmed by promo material",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0YyMVpWUFJLeUstRVZ0WXd0NWprMGd4bzdlYXNlVHZWNFhKNE1zVm1NSm9ZRGNuVFBDUDNlczdtSTNvZ0ZLYjlTb1h4WEUzX2lmclV6OEVnNW1QaGNQcjU0Y3p0V1lscThQZXNvcDItOGljNjA2TWI2QXlxWVQ2WFc2Q3J4Sm5VRFYyeGxrUkI1MV9JMmpqR1d3NUg2ajJnX1pBWnVqenVrMS1J?oc=5",
-    "date": "2026-05-17T17:34:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17T-und-Xiaomi-17T-Pro-Vorbestellerdeals-und-Specs-durch-Promomaterial-bestaetigt.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi YU7 GT unveiled in new “Volcanic Gray” finish ahead of launch",
-    "description": "Xiaomi has officially revealed a stunning new “Volcanic Gray” color option for the upcoming Xiaomi YU7 GT, giving fans another closer look at the company’s first high-performance SUV coupe before its official debut later this month. The newly showcased finish combines a dark metallic gray tone with ",
-    "link": "https://ximitime.com/xiaomi-yu7-gt-unveiled-in-new-volcanic-gray-finish-ahead-of-launch-97029/",
-    "date": "2026-05-17T17:06:04.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/05/Xiaomi-YU7-GT-Volcano-1024x512.jpg",
-    "category": "software",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "Xiaomi YU7 GT unveiled in new “Volcanic Gray” finish ahead of launch",
-    "description": "Xiaomi YU7 GT unveiled in new “Volcanic Gray” finish ahead of launch",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUY2WVBfOEFkeFc0ck5mdUpIbnJnUERtUmNXRk5zQUJFc3cwT3JBREtJOUNabUFvYVlac3A4LWFCWmVRRF9LTVR4cjNmU0VzSUZ1Wm9hYzFzNUtqLVp6cEFvT21HRzVMdHpSZGQ5WC1lVGVKLTktNzRXMWZ3b2l2bWFpSjJZVzJVS1phWl9iSTB3VHBMZjlxUFFR?oc=5",
-    "date": "2026-05-17T17:06:04.000Z",
-    "source": "XiaomiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/05/Xiaomi-YU7-GT-Volcano.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7GT火山灰颜色官图发布 实车已陆续进店",
-    "description": "小米YU7GT火山灰颜色官图发布 实车已陆续进店",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PM1g5NEdNaGE0NmdPZ2NmY2pHSWZYNmhTUlJ3bURsd1lGdWdVcmZ0S3d0b29RMjN0VnlYdVdzQWJrNFF3MGkxUkk0d18?oc=5",
-    "date": "2026-05-17T16:18:47.000Z",
-    "source": "凤凰网汽车",
-    "image": "https://x0.ifengimg.com/res/2026/E5991590D73AE5E85AB836D63C19E6D63989A385_size74_w800_h1066.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "4月纯电市场大洗牌：小米SU7第二，理想i6空降前四",
-    "description": "4月纯电市场大洗牌：小米SU7第二，理想i6空降前四",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZMjQ0Rmg0MHBPaXBCeXNnUkdvdExyMDM3Yy1vTGVxOFRLVkVrbW41ckRsYmdZSlpqYnVRWnBLMU5aQ1pCeElJRDBHcmVSZ2NaYXhDdC1hUFZIdlk?oc=5",
-    "date": "2026-05-17T15:58:30.000Z",
-    "source": "车家号",
-    "image": "https://img3.autoimg.cn/chejiahaodfs/g34/M08/99/B2/autohomecar__ChxpV2oJ4peAWL5aAAVpa7B2AtA836.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "热搜第一！苹果华为小米手机“打骨折”：最高降3000元，现在该出手吗？",
-    "description": "热搜第一！苹果华为小米手机“打骨折”：最高降3000元，现在该出手吗？",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4eEQydE5IWDlIRHljYm9OQ0h0Q29yeHloNEJPX1RxVU5iaGZObjljQVluWldBU0xqLXN2MWJXdzJpX0hNUm9YM3dzRVVEeTdj?oc=5",
-    "date": "2026-05-17T13:36:16.000Z",
-    "source": "凤凰网",
-    "image": "https://x0.ifengimg.com/ucms/2026_21/865C6098456B8AAF029CCA871BA0FA7C745BEF4A_size58_w963_h542.jpg",
     "category": "phone"
   }
 ]
