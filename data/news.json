@@ -1,11 +1,105 @@
 [
   {
+    "title": "HyperOS 3 Gallery Editor: Brilliant New Features",
+    "description": "HyperOS 3 Gallery Editor: Brilliant New Features",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91YTExN1FKODFhanhvSDY0SzZwQWJWWlJwcXBwZURsTUlJR2NjTlJHWnZfZUF0SjBZZGN6N1Npb0ZGN2wxY0xldXhGWlUyNlVPU005YW1hbEQ1ekl6b1BGMTl5cmg?oc=5",
+    "date": "2026-05-27T15:58:40.000Z",
+    "source": "Techgenyz",
+    "image": "https://techgenyz.com/wp-content/uploads/2026/05/xiaomi-3.webp",
+    "category": "software",
+    "updateVersion": "3",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi EV Launches New World Model Framework",
+    "description": "Xiaomi EV Launches New World Model Framework",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1c0dGtZdGNYeTZoUlNrTTNvUnpRZUxhQ0xzYmQxYXRQdGI1cEVORFJTMjlJcDFzeUVZbFVYNFpveDF2dWZIQWNlTnhwaUFGWTFnRWNQT1RDdWpmamVOQ3JxdlJ2U0lRSXRDT2ZZckZwU0RmaWUtWmh4REFtMmZnam13VnJqdlpFYkNrV1NVdUpQTVhSZE42SFF0dmVla1JUT3JuN0g0YlI?oc=5",
+    "date": "2026-05-27T15:28:09.000Z",
+    "source": "Gasgoo",
+    "image": "https://gascloud.gasgoo.com/production/2026/05/12b83913-5329-46d6-9c7c-7bd9fbd029dd-1779924437.png",
+    "category": "auto"
+  },
+  {
+    "title": "小米2026年Q1财报：手机ASP创新高，AI战略驱动第三次进化",
+    "description": "小米2026年Q1财报：手机ASP创新高，AI战略驱动第三次进化",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zZGRBR0dwMy1vM0dMREJPU3Fvb0JuRi1vX1d1bnBDYzM0c2Q5TmFvTGRrS3ZUNlBGaEs4WkdYRWFoYWdaVDFUb2dXNUVZYjlEclFlWQ?oc=5",
+    "date": "2026-05-27T14:56:07.000Z",
+    "source": "虎嗅",
+    "image": "https://img.huxiucdn.com/ai/ai-general-cover/202605/27/22445-prod-jm-general-1-1779893684964.png?imageView2/1/w/788/h/444/|imageMogr2/strip/interlace/1/quality/85/format/png",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi: The Market May Be Missing The EV Potential (OTCMKTS:XIACF)",
+    "description": "Xiaomi: The Market May Be Missing The EV Potential (OTCMKTS:XIACF)",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDJzcXlkaDhJRXBBcllYZ0NqRlBkeG1FT1NQNngzUlZDRnhBMmphNmF1TlNCcDhkX3ZMbWJoREtYOVpZSm0xR3RoSEdjdFpwWW1OQlhFT2JXZWVaeFlEb0lvUl9vblRpLUNkeDdHc2tLUnc1RGx5aFh4ZmduTmpWQ2JFSURzNzgtOWpNZko5OWtvZEE4?oc=5",
+    "date": "2026-05-27T14:00:49.000Z",
+    "source": "Seeking Alpha",
+    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2137062034/image_2137062034.jpg?io=getty-c-w1536",
+    "category": "auto"
+  },
+  {
+    "title": "雷军宣布：大幅降价，最高降99%",
+    "description": "雷军宣布：大幅降价，最高降99%",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHFsWEdiQ2N0OTIyVFVvNnB5RVJoZlg5c3lJYWEtQWVIdkt2U29zclBuSk8ycjRVaHZvYjI1T2lyNHUxc1JHVFZtZ2t6SnVTZFFQaHI2U3ZtaUs1S3B0bVFVN0RZNDh4QUhjVWt2d3h6S3B4UEFLRS1qMDl5WHdCSHJrdzd0UGFTWXZhYw?oc=5",
+    "date": "2026-05-27T13:59:47.000Z",
+    "source": "搜狐网",
+    "image": "https://q4.itc.cn/q_70/images03/20260527/7e8c0bb8dbf14dc691059ded8dd2624b.png",
+    "category": "people"
+  },
+  {
+    "title": "雷军：大幅降价，最高降幅99%",
+    "description": "雷军：大幅降价，最高降幅99%",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TRjZrSWF4TkVEMmhyNFpYNi1mM2FIYjZTdFhNVndtckk4dXRSZi11QmMzM1duN3Y3SmxlSVVNejJ3U0M2M3pNRld5NnBaMTlWell3d1dZMGJOVndXQlFxR3JnS1JaLTN5ekU0WEZtMA?oc=5",
+    "date": "2026-05-27T13:47:00.000Z",
+    "source": "中国经济网",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "小米再陷定价角力，缘何埋下机构分歧伏笔？",
+    "description": "小米再陷定价角力，缘何埋下机构分歧伏笔？",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0x0ejNELVltU2YzVUZOb3JUYUZleEtYcmxXZDlycVJ3T1hQUzRKWDdNQ0l6X2RCS3o0Q2dTbmVLMDQyVnFjcEpFQ1l1NVNsWXNxR2cxYVl4bDlnVmtubzZ0TmQ2Q0c2Rlpfc3kyTnVKaGU2aUg2UVB4MlA3Q2dUTWhGZldIQnFzN2xoemFWZw?oc=5",
+    "date": "2026-05-27T13:12:00.000Z",
+    "source": "21财经",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Jefferies turns bearish on Xiaomi amid smartphone margin pressure",
+    "description": "Jefferies turns bearish on Xiaomi amid smartphone margin pressure",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0F3OFEwOG1yNTJ5Ym5HNFhhbkRraUx6dklBaDVvQ2w2el92alpuSjQ5a3lSOTlfUzBjdkdQeWFKUHpxd0Rtc2FRRV9HeWszM0l0OXlUem1KNmk2U21MSW1fZmlhTDlTOXdJQzIyQ045T0Y1bXRIXzFLRFFSNndnZU9DNkgzR0JpQ2plTEwtUzZZY3hCOGpSR0ozdlFIcm5VT18zdlJRdUh1bm5tNXdoNzdpTkQtNEVwU0JpUjE1NA?oc=5",
+    "date": "2026-05-27T13:11:39.000Z",
+    "source": "Investing.com",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米一季度经营利润暴跌70% 收入同比下降10.9%",
+    "description": "小米一季度经营利润暴跌70% 收入同比下降10.9%",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4R3BiMTVSVEh2SVlseEgxMnlOU19WaWZyTzFsRHMyblFMM2FsVXNESWpHaHF2aVh5SzAtMGNNYl9LQkZob1d3Mm5XUlJycHVNMjFPYQ?oc=5",
+    "date": "2026-05-27T12:33:08.000Z",
+    "source": "虎嗅",
+    "image": "https://img.huxiucdn.com/ai/ai-general-cover/202605/27/22418-prod-db-general-1-1779885102704.png?imageView2/1/w/788/h/444/|imageMogr2/strip/interlace/1/quality/85/format/png",
+    "category": "iot"
+  },
+  {
     "title": "Xiaomi: Bitte nennen Sie mich Token - Preis - Butcher - SEO - friendly Titel",
     "description": "Xiaomi: Bitte nennen Sie mich Token - Preis - Butcher - SEO - friendly Titel",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcVF3VmJSQjFGWDJmeE43THdHOGxYMHByUF9YN3ZiSks4SXFBSW1NZkE2NzlGTFhhQUZmdzJCOHpJUjVRT2RlUFdaYWlPRHFGTFRZ?oc=5",
     "date": "2026-05-27T12:12:11.000Z",
     "source": "eu.36kr.com",
     "image": "https://img.36krcdn.com/hsossms/20260527/v2_fb49e456fea64171bb102b9c1973c15c@46958@ai_oswg1000380oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米集团2026年一季报：千亿底盘之上，AI重构“人车家”新纪元",
+    "description": "小米集团2026年一季报：千亿底盘之上，AI重构“人车家”新纪元",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGs2eHdmZVlUb2tuQ1ROcXk4VE9ObmloMlVrbnJZOUdrZUJFNDhZaVJHei10ZTNaelVvU1psUnFLUERBa1lYOEhzcHd5aF9vMVJ4Znp3dFU2eGYzWl8yWVRKYTRFOTRUV3g3ZlJIUnVMOFdFTGVIMEIzdnpMTllGX3ZiNjA?oc=5",
+    "date": "2026-05-27T12:12:00.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/finance/transform/162/w550h412/20260527/0eb9-8a2f0365719a4aca8890be1062b191db.png",
     "category": "phone"
   },
   {
@@ -54,6 +148,15 @@
     "category": "auto"
   },
   {
+    "title": "“价格屠夫”来了：小米MiMo大模型API永久降价最高达99%",
+    "description": "“价格屠夫”来了：小米MiMo大模型API永久降价最高达99%",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SYUxDd1NDeXZheHpZc1dQVV84VHZkZTVFTG4tcTE4d3BYUXhZVDdIVVFFUE0xc0JLRktqbDh5RlE5UzgzelhheEx5cy1hZ2Q3VmM0?oc=5",
+    "date": "2026-05-27T11:14:32.000Z",
+    "source": "华尔街见闻",
+    "image": "https://static.wscn.net/wscn/_static/share.png",
+    "category": "ai"
+  },
+  {
     "title": "Xiaomi Q1 Performance: 99.1 Billion Yuan Revenue, New Large SUV Revealed, 60 Billion Yuan AI Investment in Next Three Years",
     "description": "Xiaomi Q1 Performance: 99.1 Billion Yuan Revenue, New Large SUV Revealed, 60 Billion Yuan AI Investment in Next Three Years",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IR2VjUG1jQ0lILTg2Vk43QkpZM2VybHdfbjlNYjQyOEdLSFJHNURNVWVwc2tFVHJ6U1JmWHF4TzJpalcwSGVJdXBkRmFzZzhaRmJj?oc=5",
@@ -61,6 +164,15 @@
     "source": "eu.36kr.com",
     "image": "https://img.36krcdn.com/hsossms/20260527/v2_476a3055563a4a2f832dd2984ea0850c@46958@ai_oswg1044528oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "ai"
+  },
+  {
+    "title": "小米：请叫我 Token 价格屠夫",
+    "description": "小米：请叫我 Token 价格屠夫",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtTy1sX3FqVm9zQUlsN1RrdUFoWlc1YXJpN2pqMGhTaXd0cWVtSjVvVXpyc2dFcmJfYkYwZHpvWHlRU2c?oc=5",
+    "date": "2026-05-27T10:59:21.000Z",
+    "source": "爱范儿",
+    "image": "https://s3.ifanr.com/wp-content/uploads/2026/05/124-2.png",
+    "category": "phone"
   },
   {
     "title": "Xiaomi Closely Chases DeepSeek After Stabilizing Its Basic Market",
@@ -138,6 +250,15 @@
     "category": "auto"
   },
   {
+    "title": "MiMo-V2.5系列API永久降价 小米加入大模型价格战",
+    "description": "MiMo-V2.5系列API永久降价 小米加入大模型价格战",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvejljWlVfSVA4VFpRaFlSd2RQT2xQTzgydzIxVHJMUXR2TmVKVl9SX0k3NkJJRmxfNk9kQXhrb1lFdmNpTFZ6c3k4UmF3T1RSMkhjY0VueXB1Wjkzd3drQlVjRGs?oc=5",
+    "date": "2026-05-27T09:37:00.000Z",
+    "source": "财新",
+    "image": "https://img.caixin.com/2026-05-27/177987524796032_560_373.jpg",
+    "category": "ai"
+  },
+  {
     "title": "小米一季度经调整净利降四成：存储涨价手机行业承压，下半年推新车",
     "description": "小米一季度经调整净利降四成：存储涨价手机行业承压，下半年推新车",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQSnduTjkwLU1fOENYQmxoRDdKd2wyTlpraC1XQmdLUXA4U0pfUDJ0ZDYzNGxMUE9NSllYdlYtTGZxd2RhcGgzLTBBRnFPaEs2dWd6R1ZVR0t0RENaZU9vZw?oc=5",
@@ -145,6 +266,15 @@
     "source": "thepaper.cn",
     "image": "",
     "category": "phone"
+  },
+  {
+    "title": "【每日瞰AI】小米 MiMo-V2.5 系列 API 永久降价，最高降幅99%；黄仁勋：AI 时代学什么不重要，讲故事、创造力才重要",
+    "description": "【每日瞰AI】小米 MiMo-V2.5 系列 API 永久降价，最高降幅99%；黄仁勋：AI 时代学什么不重要，讲故事、创造力才重要",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRVNVRGRjZUJKTHV4OWFrRGlSVGVmdEZ2XzJSb3FtLVJ6bE92aUcxYlFrcklOb3dBajVwWTQ0U0ItV2VRRm5meHNGN053LVVBMVpv?oc=5",
+    "date": "2026-05-27T09:30:00.000Z",
+    "source": "电子工程专辑",
+    "image": "",
+    "category": "iot"
   },
   {
     "title": "Xiaomi 17T's processor and battery capacity confirmed, Watch S5 launching alongside the 17T series - GSMArena.com news",
@@ -156,11 +286,20 @@
     "category": "iot"
   },
   {
+    "title": "小米收跌4.57%再创新低：200亿回购托不住啊！",
+    "description": "小米收跌4.57%再创新低：200亿回购托不住啊！",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWmdsejY4SkkzZ2xlNmYwS3JXNW9BSkZCSHdmNmtTRjV1bC11YjEwMDYtdW9qLXhHbXhhckpSZmZOMWNsUWtwZE5qTGZabWY5TXRr?oc=5",
+    "date": "2026-05-27T09:09:00.000Z",
+    "source": "电子工程专辑",
+    "image": "",
+    "category": "phone"
+  },
+  {
     "title": "稳住基本盘的小米，紧追DeepSeek",
     "description": "稳住基本盘的小米，紧追DeepSeek",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOUHo0SVVtRTV4eURVQm1uRmhBNk9sbVZ2NE9MaU1fRjJ2d0R2TThjZHZ1TE45Sl9DOVhGdGF0bzdNR1h5ZU14TUk0LWRWUQ?oc=5",
     "date": "2026-05-27T08:45:00.000Z",
-    "source": "36kr.com",
+    "source": "36氪",
     "image": "https://img.36krcdn.com/hsossms/20260527/v2_9e7894e1168342839788e3079f05806c@46958@ai_oswg972292oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "iot"
   },
@@ -212,6 +351,15 @@
     "source": "Sina finance",
     "image": "//n.sinaimg.cn/spider20260527/149/w819h930/20260527/6d2c-35898ce5e6415d0d2e562715cca394ba.jpg",
     "category": "auto"
+  },
+  {
+    "title": "Xiaomi Getting Hit by Skyrocketing Memory Prices",
+    "description": "Xiaomi Getting Hit by Skyrocketing Memory Prices",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakZsb2llT0JzUmFSWG1Mc1NDNGc1bWVRLXdHTWp5NDgxV2NjVXFFQTJVY2lBbUlYQ2hjUmV5RFBsNGNqRXJCc0VjWjhzdGhTSWhnUXEtcW1xb2dTU25KSHRZVnhFS1kzQk1Gb2ZpZUVRT1ZWVTFMeDdTLWItbE1pdFdCU1lhY2NPMjBObDRScF9LWHo4LUQycThuWm9ua3ZGX2c?oc=5",
+    "date": "2026-05-27T07:49:04.000Z",
+    "source": "Morningstar",
+    "image": "[object Object]",
+    "category": "phone"
   },
   {
     "title": "Goldman Sachs lowers Xiaomi stock price target to HK$40 on EV losses",
@@ -325,6 +473,15 @@
     "category": "iot"
   },
   {
+    "title": "小米MiMo模型API永久降价，雷军：最高降幅达到99%",
+    "description": "小米MiMo模型API永久降价，雷军：最高降幅达到99%",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOS2NIdzFMLTNEbTlDeHpUZ29CaUxERE9MR0tRY2JFekw0c201eHZZVks5U1JibmZzX2lnMnVrS05TMUlvZk5MeW1aN3ZYMzM4RmpFTTJSU1k4T1RfN1BEVjFqSjFFdHV4ODNJNjhOaFQtMTh2NjVUTTkyS3hLOWUtUlIwaXRuaFZnLWJMQ3VUOHNRZm5vcnF0OWljWUF2SFZxMEZNZHByMVVLLXU5ZWFabkc0SHpDMF8wb29CMTZNa0J0Q2R1T1pMdnQzTW9SUGwyOVFIMDFpNGFLNVctNTNkOGxmVlhKTEZ5QWt2OHlkaDRRTkFMekdxU3I0TnVYMW12X3c?oc=5",
+    "date": "2026-05-27T06:00:00.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260527/463/w640h623/20260527/a625-ad23a85524db80b06b5c44930b9ba806.jpg",
+    "category": "ai"
+  },
+  {
     "title": "雷军：将和舒淇一起给首批YU7 GT车主交车",
     "description": "雷军：将和舒淇一起给首批YU7 GT车主交车",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUE5a2VlcVhGRGN2Y1ZMNmZlN3BnQjNwbkRXM1ZVLVZfS09YQVBJYWx0eEpGbHNYNHhOTmxOM3NzZkJOSDdTWWtkZ2hmX1BnRG95TFl1SksxeTdhNWZ3bW92TjM0Mmdsd0h4Mm55M2ZDWmlZUDk0TWVrT0g3NG1rcm9tR28zbmd3S0o5RnhpektPN042X3c0RGRsUDNUa3BCeXRiSi1UOXhObnJ6SkdMZEF3?oc=5",
@@ -346,7 +503,7 @@
     "title": "Xiaomi shares fall as rising memory costs hit Q1 earnings",
     "description": "Xiaomi shares fall as rising memory costs hit Q1 earnings",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0RBUUtVenE2LVFpc1F0clNTNEg4UHJ4MHNKSzR6N3JJR1dSMHhFZGxtbUV1OTcyT1lxOXFBc196LWVZNU5jUWxOT29FV2dLNmNPYXJxZmhlOVU4clB5cHIweEhlaHdhLUNibmlMem5iMXJScHMwOWtmM1lBR09fS0RSRHJtbUx4UEx2dEh3WjB2VngxMXNUTU1TbUItZ1pGa2t3SFhWdzQyMUZMaVdCOVp3OTg?oc=5",
-    "date": "2026-05-27T05:19:32.000Z",
+    "date": "2026-05-27T05:16:23.000Z",
     "source": "Investing.com",
     "image": "",
     "category": "iot"
@@ -574,7 +731,7 @@
     "description": "雷军回应武契奇说小米车漂亮但买不起",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KT2lGRXdSZk5uMFlCN0xZalg0VHBWX3VWRFh6RW1TWW5IX0hjVFpLWlJQcjdTa1RxTlZPNmJpdEpSdVNEb0drOW12NnBmR1NIUEpvM0VsMzZ3c183d2NZVlBzSnoxWlJMUkFzTTRKY2w1MnB3b2xzOHFiajE2Qnc?oc=5",
     "date": "2026-05-27T03:04:00.000Z",
-    "source": "新浪新闻_手机新浪网",
+    "source": "新浪新闻",
     "image": "http://n.sinaimg.cn/front20260527ac/390/w998h992/20260527/02b5-54d27b72a2bdf2b450f709050ff25e68.jpg",
     "category": "auto"
   },
@@ -768,11 +925,11 @@
     "category": "people"
   },
   {
-    "title": "小米季度净利润下滑43%，内存涨价致手机业务承压-观察者网",
-    "description": "小米季度净利润下滑43%，内存涨价致手机业务承压-观察者网",
+    "title": "小米季度净利润下滑43%，内存涨价致手机业务承压",
+    "description": "小米季度净利润下滑43%，内存涨价致手机业务承压",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QURBUHJ4S3NyRHRndkd2TURkSkdQN0F4X3BRZW90X3N3U1RxeU5Tb1h1X0dFdkNmZnk5TmY4cUd4Z0xoN0pwemhzNFRBWXVlYlZacEduTzBRTUNaRlJNRU1YMkw?oc=5",
     "date": "2026-05-27T00:46:00.000Z",
-    "source": "观察",
+    "source": "观察者",
     "image": "",
     "category": "phone"
   },
@@ -3743,8 +3900,8 @@
   {
     "title": "Xiaomi Rolls Out New HyperOS Update for Redmi Pad 2 Pro & Redmi 13, But It’s Not HyperOS 3",
     "description": "Xiaomi Rolls Out New HyperOS Update for Redmi Pad 2 Pro & Redmi 13, But It’s Not HyperOS 3",
-    "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOcXVRRlZ0aDE2NERPUHlqbHlVZkNiWURPZ3NhLVJ5emtlLTdrc1h0WXNHMFYxRVhsZFk2MDJ1OU9HTkhqZUVXbS1ORzktRGtETEd5T3BFd29ybWtWcHp6d2wzLThkUUdYM0pLenZXRW5JODFhZjFobW9XWVgwTFl6cDQ3OGRnd1JHano2dWtKcjdRa2FEcUZCWWk3ZGp6NjNOMlVuMGVXRDBqV2M5anJWMExTLWRtTEhXcGl6cUtoREN6WlF1a1cwNENpaHpDUGs5eFBNaFFKZnY1amNZdUJ5emYzTkpUdnBEYWE4YzdtaHRuUHFiX0d0bGJ3M0g4aWpPUnNrRjdrZnYybHBodXhXVjFSRzBKbFlhd1Yyckl1dUFlUDJIQUI4ckEwN0Z2Y2dWd0NBMWNodjRIamliR2hrV1JZMmZpcHRLVmxfelVFVjNoNWRBcWhWQVFDanQ5Vl9nWThDZHJpbFR1QmZMelViSFV3?oc=5",
-    "date": "2026-05-23T11:41:43.000Z",
+    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTEhRTUdIWUMwVEF2dmxpWklKSmNYcmJJQzBpMloxMmM1ME1zZkFaNFc4Q3RaUHZGYjJQRWtmUTNEOG5OVzJ1WEpraC1fSHVkbmhMdmZWbE4tcjdmSl96cDFnQnlaWmlqRTBlX28wSUlrTTNBaGZCREhEQlVCT1N4Qlo3SlZITVJaR3Zub2x3UkNsQkZ3cjRLRm1TXzBEWGNXQjB3ZFV1WEcxUEJpNi00UnFIV29lRUkyc21vZXp4cWxHMVJaS2tpTnc5dmgyYjRNdlhnbUItTW5QdHY0LW1BRWItYTFLMEdTQnZBeW1VUkoxLTg4SkFwdEVGb3hDOHB5c0ZROVlwRjRfeW9ycXBORnoxZ0JuR1ktQ3BNVllJYWR0OFRHOXMxZGlEVXktOGpGRlFESjUxV2I2WWhwdV9DRkh4VllsS0tkaE9ScHJYSDUtNFFXTHFMbUQ0YkZpX1BzUzFVMDJpYTFsb1ByQ2dHTTZpTQ?oc=5",
+    "date": "2026-05-23T11:41:44.000Z",
     "source": "MSN",
     "image": "",
     "category": "software",
@@ -3757,7 +3914,7 @@
   {
     "title": "Xiaomi Rolls Out New HyperOS Update for Redmi Pad 2 Pro & Redmi 13, But It’s Not HyperOS 3",
     "description": "Xiaomi Rolls Out New HyperOS Update for Redmi Pad 2 Pro & Redmi 13, But It’s Not HyperOS 3",
-    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTEhRTUdIWUMwVEF2dmxpWklKSmNYcmJJQzBpMloxMmM1ME1zZkFaNFc4Q3RaUHZGYjJQRWtmUTNEOG5OVzJ1WEpraC1fSHVkbmhMdmZWbE4tcjdmSl96cDFnQnlaWmlqRTBlX28wSUlrTTNBaGZCREhEQlVCT1N4Qlo3SlZITVJaR3Zub2x3UkNsQkZ3cjRLRm1TXzBEWGNXQjB3ZFV1WEcxUEJpNi00UnFIV29lRUkyc21vZXp4cWxHMVJaS2tpTnc5dmgyYjRNdlhnbUItTW5QdHY0LW1BRWItYTFLMEdTQnZBeW1VUkoxLTg4SkFwdEVGb3hDOHB5c0ZROVlwRjRfeW9ycXBORnoxZ0JuR1ktQ3BNVllJYWR0OFRHOXMxZGlEVXktOGpGRlFESjUxV2I2WWhwdV9DRkh4VllsS0tkaE9ScHJYSDUtNFFXTHFMbUQ0YkZpX1BzUzFVMDJpYTFsb1ByQ2dHTTZpTQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOcXVRRlZ0aDE2NERPUHlqbHlVZkNiWURPZ3NhLVJ5emtlLTdrc1h0WXNHMFYxRVhsZFk2MDJ1OU9HTkhqZUVXbS1ORzktRGtETEd5T3BFd29ybWtWcHp6d2wzLThkUUdYM0pLenZXRW5JODFhZjFobW9XWVgwTFl6cDQ3OGRnd1JHano2dWtKcjdRa2FEcUZCWWk3ZGp6NjNOMlVuMGVXRDBqV2M5anJWMExTLWRtTEhXcGl6cUtoREN6WlF1a1cwNENpaHpDUGs5eFBNaFFKZnY1amNZdUJ5emYzTkpUdnBEYWE4YzdtaHRuUHFiX0d0bGJ3M0g4aWpPUnNrRjdrZnYybHBodXhXVjFSRzBKbFlhd1Yyckl1dUFlUDJIQUI4ckEwN0Z2Y2dWd0NBMWNodjRIamliR2hrV1JZMmZpcHRLVmxfelVFVjNoNWRBcWhWQVFDanQ5Vl9nWThDZHJpbFR1QmZMelViSFV3?oc=5",
     "date": "2026-05-23T11:41:43.000Z",
     "source": "MSN",
     "image": "",
@@ -4395,158 +4552,5 @@
     "source": "36氪",
     "image": "https://img.36krcdn.com/hsossms/20260522/v2_a1ca8f4b24bf47fea0247adaa1235e49@6381723_oswg269247oswg1600oswg1067_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
     "category": "ai"
-  },
-  {
-    "title": "别等了！雷军、余承东预警：手机只会越来越贵，换机最好趁现在",
-    "description": "别等了！雷军、余承东预警：手机只会越来越贵，换机最好趁现在",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hUTBlQXBxQnJ2a0w4cjJ3R0Roc0VXb1puMU9nTF9KVVZXZFJROWQ3NXhiQzlwMEZDc3czUUlHRDgzRy1KVEJEcEhYNA?oc=5",
-    "date": "2026-05-22T10:19:42.000Z",
-    "source": "时代在线",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "Xiaomi presented the base version of the electric SUV YU7",
-    "description": "Xiaomi presented the base version of the electric SUV YU7",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUw4NHF3amtSVVdmLXgxeHVwTG15dFY5RmJPYUhPWUl3M2s3dmVoUXFUN3BkYVQ2bWtiNFROMTRub0V0ZkI2MVI1czF5VUZaZ0Y3OXJvSzhCZEtEMU94MkFaZlJCOHFjSTJ3bnhtMzF3WUJWTzJXTTR0MFk4Ri1BTDQ4bFppeE1xSmNnUEU5cEE?oc=5",
-    "date": "2026-05-22T10:16:30.000Z",
-    "source": "Root-Nation.com",
-    "image": "https://root-nation.com/wp-content/uploads/2026/05/xiaomi-yu7-3.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米特斯拉启动加时赛，YU7 GT和标准版，联合对轰 Model Y",
-    "description": "小米特斯拉启动加时赛，YU7 GT和标准版，联合对轰 Model Y",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1FNZGpBZjNsOGtlczE5LXc3cWplQVZNblMtUm02TnJhWk5xRzY2TnBpc1owNi1qMEpOaFhSUlE1Wlg4R3o2YjNPNlFiRVVtNDF4MW92MjlRS2hZTExFR3hSekJNXzZDRXBpY0pIMFhIcFFJWEN5WWgtQVIyd2lpWWRSQzRyV1piSzBaTXhwYnBrSGV5cjJ2VmRCQ0JVeDZabTl0dS1xdw?oc=5",
-    "date": "2026-05-22T09:29:42.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260522/165/w660h305/20260522/1eed-b812ab216d05cd1e522ffa0fe388d572.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军宣布小米YU7标准版临时降价至23.35万元",
-    "description": "雷军宣布小米YU7标准版临时降价至23.35万元",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81U1dWWUZGQ3hmaWloT0xpYVpFTlJJRFhDSmthZlRZdFNtU0U2ZE5Dd0J5eWxad1psWEhkTDRvdnFlZ3M1LWlIMzRSNHkyejd2VEtQTkoxUEgxMUVMcGRVMWZxckhyQWphb1RhQkl3?oc=5",
-    "date": "2026-05-22T09:11:43.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi just upgraded its fan-favorite Mi Band with better tracking and a 21-day battery",
-    "description": "Xiaomi just upgraded its fan-favorite Mi Band with better tracking and a 21-day battery",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83MnJxUktUT0dnRDNZejltU0dEZG10VjdIYXJPN19pa3JZNUZZcWJUdkJ1TWhaQWMxeXdrZ0doeWJQYTBNWU9PSy11M1BJZ2MtcHlBajZ0cG9sWWNvUl9yZVladlVzX3ZvaVB4SDg3RWlScmxFYWRtajJGblRZQQ?oc=5",
-    "date": "2026-05-22T09:11:08.000Z",
-    "source": "Android Authority",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/xiaomi-smart-band-10-pro-featured-image.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi introduces new entry-level and high-end versions of the YU7",
-    "description": "Xiaomi introduces new entry-level and high-end versions of the YU7",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2UyRy1XZHozVzZhVUJ1MzFUSmVWOUk5SkJaU3A5OG5wY19zZHJaRzBZTDNvb2JyUDZ4aC16Xy1CY3pSWWs4RHRBZ3pDb2hLQ1VIQjhkU0dYUVd6M2trNHRxRzJYa3dzVWZDWWFZQUNQVDZGVm9Eb3RNU256N3ZaZDhmNk1kYWxyNGw1cDg4YzdTNktld3VRNWhnOFNMRXJrOTVtNGxnbw?oc=5",
-    "date": "2026-05-22T09:00:00.000Z",
-    "source": "electrive.com",
-    "image": "https://www.electrive.com/media/2026/05/xiaomi-yu7-gt-2026.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
-    "description": "5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。 YU7是小米于2025年6月推出的首款SUV，上市当晚3分钟内大定订单突破20万辆。发布会上，雷军展示了YU7与特斯拉Model Y的销量对比：2025年7月至2026年4月，YU7累计交付23.2万辆，Model Y则为35.8万辆。 从月度交付表现看，今年1月YU7交付37869辆，成为中国汽车市场全品类销量冠军。然而，随着市场竞争加剧，YU7近几个月的交付量有所回落。 在小米的调研中，特斯拉Model Y",
-    "link": "https://36kr.com/p/3817022407181188?f=rss",
-    "date": "2026-05-22T08:59:11.000Z",
-    "source": "36氪",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米发布YU7家族及多款人车家生态新品",
-    "description": "小米发布YU7家族及多款人车家生态新品",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IaWpxZEllNUcwa0VPNFFGbExhcW5rR0tUTFZhSV9SLVBrVHdQR0tWRDQwZGMzRDlucGx3enpDU2cyT0tNdE1QMUwzeTRuRkh0RGRMYnBrbDJ2ZU5UVWRTQlJUWk1vMU50RzlycXlB?oc=5",
-    "date": "2026-05-22T08:20:00.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7系列正式上市：标准版23.35万起售 YU7 GT征战纽北归来",
-    "description": "小米YU7系列正式上市：标准版23.35万起售 YU7 GT征战纽北归来",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DS1FCLWpGQ3F0blVxeDNkUGF3YVZaNm5pX09hdGpCdTJUQkRNWWtOdHNoLXRaQ1dIOG1yQVBVZjh1RnNOekQ5YTNqSGM?oc=5",
-    "date": "2026-05-22T08:17:46.000Z",
-    "source": "凤凰网汽车",
-    "image": "https://x0.ifengimg.com/res/2026/19E2F82D6105E8D596ABD65E41E260682C9E78E4_size74_w630_h473.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "“输给特斯拉不丢人！”雷军：未来5年再投2000亿元！",
-    "description": "“输给特斯拉不丢人！”雷军：未来5年再投2000亿元！",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hajcyUHVIeUJWWkFfTGZ2ckhMc0JISF9paFk0ejZkSVdQSXBmaE1BNC0yTThqUkpiZDczeGVMdldIbXJMVXJ2Vl9McEI1YVo4YlA0TDQ0QWhldTItQXBscDVvcWRVVEp3cEFYY293?oc=5",
-    "date": "2026-05-22T08:16:07.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "Xiaomi Unveils High-Performance SUV",
-    "description": "Xiaomi Unveils High-Performance SUV",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEQ0N1c1WU1DQ3VJMk10clcwQ1QxcTFJZnkxYnNhcDlodWQzMUZieWllWkI3dUFQcXNxMGtBYWRiUkZ0LXpZNV8yRDVsb19OT1RLekFfWUJTQzdOd0Z1OTNlQldtVElmdHZ0elFkU0I4VVdmYV9SZHRSUU4xanFpZlUtTldOVm1OckRHdnpVcW9ObnJv?oc=5",
-    "date": "2026-05-22T08:11:00.000Z",
-    "source": "Caixin Global",
-    "image": "https://img.caixin.com/2026-05-21/177937428827910_560_373.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米官宣：入藏北京汽车博物馆",
-    "description": "小米官宣：入藏北京汽车博物馆",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySWVCd2hWbmZHaFhBWDVuNEVVM2JpbFNZWXZhWF9qamY5eEFuRnNkam8xWF9JX3k1Q2JoQldKdmsyaS00YkdCNjFFa3F2MXpFXy1v?oc=5",
-    "date": "2026-05-22T08:04:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "雷军强烈建议大家现在就换手机：未来两年还会越来越贵",
-    "description": "雷军强烈建议大家现在就换手机：未来两年还会越来越贵",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4MG1wcDhaTEFUdnJCeVAzaDVBUUlkRHUtQ08xalRuQ3dqTWlYSEd6MEZWZ0VXT1NkS2VXUXIyZVNtME1iXzhIeVNDMG14MlNreXE4?oc=5",
-    "date": "2026-05-22T07:56:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "八败两胜对战Model Y 雷军坦言小米YU7输得不冤",
-    "description": "八败两胜对战Model Y 雷军坦言小米YU7输得不冤",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DSlVHQ2FZS0xkNkZVeWRGaHRNY1hDRjd4VkQ5YmdxX1M0azlOVC1XV1l3UDdmUGFNRDl2R2FMaEtsckU1LVVTdFFtM29BT242cldz?oc=5",
-    "date": "2026-05-22T07:56:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "与东风CA71、东方红BJ760同台，小米YU7 GT入驻北京汽车博物馆",
-    "description": "与东风CA71、东方红BJ760同台，小米YU7 GT入驻北京汽车博物馆",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1VjbzBTYTFfcHBZQWN1M0MtOTE3Tk1ma0FrVUNXb0xzQk1kOElLTndNWVktVWZpSWRxUTBGM0pmaUViNnB3TXFzSFNjeXZyS2NVejN0ZkFPQnFSSDl3QmhKOVRoLWZVZmZJRGJLTVpfcnlQSmdzSk0wUThuc0o4RkdEMXEyUzJrbU94d0k5dlNRU3hZM1ZTTXlieWg0V2tLcV9ISkZCTXVTaEZnTVJHbHp3?oc=5",
-    "date": "2026-05-22T07:53:23.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260522/300/w660h440/20260522/8795-389483897d38d9696d3dcef54c827805.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi YU7 GT Added to Collection of Beijing Auto Museum",
-    "description": "Xiaomi YU7 GT Added to Collection of Beijing Auto Museum",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMU5ZeVRTWU5fdF82bW9RcDNqdGtHRHpEcUw5LXVOVGVUVVBGNWNCTE42bkpyZTlNc2kxUi12UGVQSkd1ZGJSYU1CRkVRbTlGQTAwaE9PMDFMc1BRa3lGMTNsSExKMk1TWkRDUnlTcjVaQ3dQNnF3VDRYQWlwS2I3YzlidEtEcHpNUU9mWFZPVWdVUERQ?oc=5",
-    "date": "2026-05-22T07:52:00.000Z",
-    "source": "AASTOCKS.com",
-    "image": "https://plib.aastocks.com/aafnnews/image/medialib/20260522155216439_m.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军谈内存涨价：想换手机 越早越好",
-    "description": "雷军谈内存涨价：想换手机 越早越好",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zMkRGSnZtVWYzTEtRTDNNck5XYkQzZU9jYVNLT1RrTVFWVmlxR3Ztd25tWmstZ3RUQXRjS29tV1ZqdWNKQXV2OFoyUWVQUFpyV0xvMXNtWDBrZE9vQXJrUW1SZHM?oc=5",
-    "date": "2026-05-22T07:47:23.000Z",
-    "source": "jwview.com",
-    "image": "",
-    "category": "iot"
   }
 ]
