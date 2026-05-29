@@ -1,5 +1,97 @@
 [
   {
+    "title": "Periscope Photography Smartphones",
+    "description": "Periscope Photography Smartphones",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90Z3JJWnc5THhQamFBcUdVU2xtV0tsQWE1elZZM1hfMGM2TmhGVGlSRUh2dHNHTE13MkdJQ3ROVGFtcmRCNUxjb3FDU0tsRUZ3Uzc4cXFWZV9HbFVPUTI0STRB0gFnQVVfeXFMT2xLVlFnc01jcDBJZ29tNEY0cnE2TTg4RFhDcEhqME1PYnpRN1NOelFFZTQtdmlmaTdMQlphRkRYb0hsaWxkUTFpX2NheG5hQ1NYWnNEeWNNbjNxMllVaUQ1dENoQmhTOA?oc=5",
+    "date": "2026-05-29T14:47:14.000Z",
+    "source": "Trend Hunter",
+    "image": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615481/615481_1_1200.jpeg",
+    "category": "phone"
+  },
+  {
+    "title": "小米在韩国首尔发布新品",
+    "description": "小米在韩国首尔发布新品",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGpUVzlzLTZoTkZQMTZtdTUycDAyUl9rTzNMc2VKRGRiTXhyWkxjSzF6bUpRTkFlY0lJTmlyU0NLTVFoLUlmNXVwbHNMN2FDODU1R1NOQnBUODV0WVgzejF2UE52bDNQWDd3VzdrMmROSGNUWFF2cG5YQ1pzdUFreUo5NTFvY0h4?oc=5",
+    "date": "2026-05-29T14:38:32.000Z",
+    "source": "搜狐网",
+    "image": "https://q3.itc.cn/q_70/images03/20260529/e6a8669858cb4138a46a3b1811edb8d5.jpeg",
+    "category": "iot"
+  },
+  {
+    "title": "MediaTek Diemsntiy 7500 launched: Xiaomi phones finally get a brand-new CPU",
+    "description": "MediaTek has officially introduced the Dimensity 7500, a new mainstream 5G mobile platform that brings the latest Arm C1 CPU architecture to more affordable smartphones for the first time. The platform is based on a 4nm process and combines stronger efficiency, faster AI processing, better camera su",
+    "link": "https://ximitime.com/mediatek-diemsntiy-7500-launched-xiaomi-phones-finally-get-a-brand-new-cpu-97237/",
+    "date": "2026-05-29T14:27:19.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/05/gsmarena_001-1024x620.jpg",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "小米集团一季度实现总收入991.42亿元，同比下滑10.9%；经调整净利润为60.72亿元，同比降幅达43.1%。关于小米，我的看法就一个，小米在公司战略上跟雷军绑定地太深了，而雷军的运跟林园一样，属于他们的大运在几年前就已经走完了。如果小米不摆脱雷军的影子",
+    "description": "小米集团一季度实现总收入991.42亿元，同比下滑10.9%；经调整净利润为60.72亿元，同比降幅达43.1%。关于小米，我的看法就一个，小米在公司战略上跟雷军绑定地太深了，而雷军的运跟林园一样，属于他们的大运在几年前就已经走完了。如果小米不摆脱雷军的影子",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TGRscjBOZUFuUUxvTU5Ia2ljeEFNU2Z1S294bXRka2k5RkgyYm9rdUxzNmN5ajFjTzJXVUZqYUk5bVZkS1U3TVJtUVduWm5wT2hNTzV2c3ZWVEtMYXM2Q1lnUQ?oc=5",
+    "date": "2026-05-29T14:15:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi's new smartphone presented during launching event at Xiaomi store in Seoul",
+    "description": "Xiaomi's new smartphone presented during launching event at Xiaomi store in Seoul",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xSkFhaTR4Q1FMN3ZyaDF0eW9PWWxmVFgzeFpBUkZNZm1pRk9DQnlLa044SDRReDkzanZiYzVqVld0ZF9OYjhtMVRacWJwZGNVQnkyVHRvUXdNYW1JZHZram1GcjRTMm1TMkZWMnFXLVlWQVdfeEtIQXRKdWI?oc=5",
+    "date": "2026-05-29T14:04:38.000Z",
+    "source": "Xinhua",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi's new smartphone presented during launching event at Xiaomi store in Seoul -Xinhua",
+    "description": "Xiaomi's new smartphone presented during launching event at Xiaomi store in Seoul -Xinhua",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2FqUFZVYlFyblpQQVRsbEZpU19uOUxqZVFCVVQ0cjRUZDdnTjRudGVEelVITk9QUW84LWRQVExVWEduVVZnbW5lRWN0TEVWRnp4NUxHYjRsTFJnTWFkWGI0UHp2Ym9ja18wM2lBWDRYdmI4UHFabEZ6alhBUGwtZy1ZbGV1REox?oc=5",
+    "date": "2026-05-29T14:04:38.000Z",
+    "source": "新华网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "刚刚冷不丁看见#何小鹏回应骗雷军# 的热搜我还两眼发懵快速思索什么时候何小鹏还骗了雷军，结果仔细一看是雷军说当年何小鹏和李斌一天到晚劝我造车，他们说造车很有意思，等我造车以后发现他们是骗我的，因为造车很苦、很累。何小鹏迅速回应了一个“累和快",
+    "description": "刚刚冷不丁看见#何小鹏回应骗雷军# 的热搜我还两眼发懵快速思索什么时候何小鹏还骗了雷军，结果仔细一看是雷军说当年何小鹏和李斌一天到晚劝我造车，他们说造车很有意思，等我造车以后发现他们是骗我的，因为造车很苦、很累。何小鹏迅速回应了一个“累和快",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02bjVHekVKU1FjSUtMaWk2Yk1BbWtMYlRmR0Juc0o3WjFpSlMyNmhLajl0RHNHd2lyVkFSOXg3b0d6QmxHcVlQN2piQndnNV9yaVZLTWpyLWEyMFFCbGkxaHNYMA?oc=5",
+    "date": "2026-05-29T13:20:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "小米MiMo-V2-Pro/Ommi模型将于6月30日下线，由V2.5系列接替",
+    "description": "小米MiMo-V2-Pro/Ommi模型将于6月30日下线，由V2.5系列接替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52WE5fUGpmZ1M2elg4dXMwOXFWUWpKUy1kZGJiU0xLam0taFNkeW0zMXNCRHpLYXdUNFhBcjFHT2phV21CX3hzMA?oc=5",
+    "date": "2026-05-29T13:07:15.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/ucms/2026_22/DA06F736C8FDA6CB663621B0896A98CBF921FA97_size31_w535_h301.jpg",
+    "category": "ai"
+  },
+  {
+    "title": "#何小鹏回应骗雷军#雷军和何小鹏私下交情一直很不错，老友之间随口开的玩笑罢了，真没必要曲解。不过在小米YU7交付活动上，雷军直言当初确实被两位好友劝入局造车，入坑后才发现这个行业又苦又累。何小鹏回应的简单直白：累和快乐并存。就这五个字，这关系",
+    "description": "#何小鹏回应骗雷军#雷军和何小鹏私下交情一直很不错，老友之间随口开的玩笑罢了，真没必要曲解。不过在小米YU7交付活动上，雷军直言当初确实被两位好友劝入局造车，入坑后才发现这个行业又苦又累。何小鹏回应的简单直白：累和快乐并存。就这五个字，这关系",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NeFNqdlRuZ21XdU84N1gyNjUyV3JXS0J5S1dpS19jeEp4aHgxNkt6WnNXS0taLUhwRzlWenYtT3l5a2hydzZENk8weGdHdGVVUkZRWlIycDNUajduVm1ib18xYw?oc=5",
+    "date": "2026-05-29T12:07:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "雷军对舒淇说：被何小鹏和李斌“骗”来的，造车很苦很累",
+    "description": "雷军对舒淇说：被何小鹏和李斌“骗”来的，造车很苦很累",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vRTJwWmhtbWZHVXhVRFFzb05kS3JGQ3RNczR0a0pLYUkycXhKNTdFME4tek9SVVRQTDdrd2Nzck9wajdGQXR1bGZOSm4xTDgtN25XWHpacGhyNzVLX1E?oc=5",
+    "date": "2026-05-29T11:31:00.000Z",
+    "source": "证券时报",
+    "image": "",
+    "category": "people"
+  },
+  {
     "title": "雷军吐槽造车被何小鹏李斌骗了！何小鹏回应：累和快乐并存",
     "description": "雷军吐槽造车被何小鹏李斌骗了！何小鹏回应：累和快乐并存",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUGtodExjNndMMzRzV09teHNqbzVmVHBEQjUwMV8tdVVDTmYweWlKS3hCWlhmX0FWWVFaTUg2N0Y1TEpveDFPT0Q1RkxrVFBhV2QzOW5iejQ?oc=5",
@@ -7,6 +99,15 @@
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260529/9024fccb73a84197802e32536c1448c3.png",
     "category": "people"
+  },
+  {
+    "title": "雷军称被何小鹏李斌骗了 造车苦中作乐",
+    "description": "雷军称被何小鹏李斌骗了 造车苦中作乐",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KWlRudkVGX1NHOWJlMFVoMlA1MldCZEVLVTRnV2ZUb1hiNk5NbTVKVUUzNWxBNWhpNjB1WUx2dU9KM04yUy1IQ1lRUkhYS1dnT1YwOG0yMWNEYk5udmhqSDkxalNQLWpxeldvYnBRYTU?oc=5",
+    "date": "2026-05-29T11:00:32.000Z",
+    "source": "中华网",
+    "image": "",
+    "category": "iot"
   },
   {
     "title": "字节跳动AI4S团队调整，由杨震原负责管理",
@@ -54,15 +155,6 @@
     "category": "iot"
   },
   {
-    "title": "Periscope Photography Smartphones",
-    "description": "Periscope Photography Smartphones",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90Z3JJWnc5THhQamFBcUdVU2xtV0tsQWE1elZZM1hfMGM2TmhGVGlSRUh2dHNHTE13MkdJQ3ROVGFtcmRCNUxjb3FDU0tsRUZ3Uzc4cXFWZV9HbFVPUTI0STRB0gFnQVVfeXFMT2xLVlFnc01jcDBJZ29tNEY0cnE2TTg4RFhDcEhqME1PYnpRN1NOelFFZTQtdmlmaTdMQlphRkRYb0hsaWxkUTFpX2NheG5hQ1NYWnNEeWNNbjNxMllVaUQ1dENoQmhTOA?oc=5",
-    "date": "2026-05-29T09:42:05.000Z",
-    "source": "Trend Hunter",
-    "image": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615481/615481_1_1200.jpeg",
-    "category": "phone"
-  },
-  {
     "title": "我所知道的胡峥楠",
     "description": "我所知道的胡峥楠",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sbUFvSk9DZ3Z6Y3dCdUkyRi1ZM1B6c0JKUi1FY1FaQTBVRHg4U0ljcWctaW5rLTNfNG1GRWh3QXd2RnVHbFg1UGRDT2k0ZEJGY0pDR251WlFwWU10SWlRSzYzY01rc1E1clhqVzRKbWNaUVF5aFp1cFl3?oc=5",
@@ -93,7 +185,7 @@
     "title": "Biomimetics-Influenced Earbuds",
     "description": "Biomimetics-Influenced Earbuds",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CR0xnMTJXbmFhMUg3b1dwMWtmbVFESDJnUExkZFJuTTUtMmh3aVh5X2lHdW9Kd0tpbVQ5YmlTRjdqd2tsSW44YmRpdDhsOHlvSHMtQWFkMHlybUFkem1wZzc3cXhGelHSAWxBVV95cUxPNUlrczZIMXRaSDR3UkJmZ0YtdmduQTJJREJRTlpiSE5qSlBNbUk0MmtkcFh3RFpaMHhHaEFOdTZINXBkV0JfTXNHRlkzM3R1WWh5UFRzeFk0OG4wSmc3Vk1mNkQyN05MSS1Bdmo?oc=5",
-    "date": "2026-05-29T09:00:00.000Z",
+    "date": "2026-05-29T09:02:05.000Z",
     "source": "Trend Hunter",
     "image": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615463/615463_1_1200.jpeg",
     "category": "iot"
@@ -108,11 +200,20 @@
     "category": "phone"
   },
   {
+    "title": "Immersive Display Smartwatches",
+    "description": "Immersive Display Smartwatches",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dGo5amU4QUJudC1teldjcml2cXUwbU5faWwzVUs1d25FOXlNOFFiU2NLS1E0QVB3dVRGdUFyVDAyZ21naGtob3J1elZxRGx6UVdWeGdWOGtIdE5sRVRFSHMtbXZqTlF1UExZ0gFwQVVfeXFMTXFwYW94dU5EWG5IMENQSFBMUWtpV2pwTnVKS3VmSjU5aUJ2c25xWnJMdU1Rc1BRMXQtZ2JLeU0zOW15aVBacXZna0dWVVRpQ2pVbEFDY081TVQxUzBMNENXTktRbWRoQ2h6UmR2MTYzSw?oc=5",
+    "date": "2026-05-29T08:17:05.000Z",
+    "source": "Trend Hunter",
+    "image": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615460/615460_1_1200.jpeg",
+    "category": "iot"
+  },
+  {
     "title": "雷军吐槽造车被朋友骗_新浪新闻",
     "description": "雷军吐槽造车被朋友骗_新浪新闻",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZ3V2d29lY1A2MjZUUW54NlY4OG5KNjE5OFRRSU5qdHc3Zk5JZE9CRElYOWlhSmVqb09hS3J2aWhEbmZwR2RMMGhqTGpIN01UTEhLZXNLUXhQS3dBY3R5QXhaYw?oc=5",
     "date": "2026-05-29T08:15:00.000Z",
-    "source": "手机新浪网",
+    "source": "新浪网",
     "image": "",
     "category": "people"
   },
@@ -157,7 +258,7 @@
     "description": "花旗：小米集团-W重申“买入”评级 维持目标价37港元",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObXdMZU84TVRIdWhRQXltOFFqdGxockVod0FPQnpnVWFqLXYwTG5VZEJDUUZfSHA4Z1BaQlB3YUZVd0NrMG13WnpHa09ZcWVsUWs4YThSREh5cmJvSl9xVFIyWXUtMHFwLTVSeFh5eS1DdUVJV2x2dG9kaThWNUlGSWZTd093U2RJSTNR?oc=5",
     "date": "2026-05-29T07:38:00.000Z",
-    "source": "Sina finance",
+    "source": "新浪财经",
     "image": "https://n.sinaimg.cn/finance/transform/700/w400h300/20260529/d185-07f8e0d77150e96362d7769243dfbd06.jpg",
     "category": "iot"
   },
@@ -278,6 +379,15 @@
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9manpSNU53UGpUTG5XcEg4WWpyVzZmUGdlLUk3UVRQN3JTYTNkOVB4STNNNjBNLVY0ZDdJR3pZSU8zTldQUDJJdkFaclYwMlAzREs1bEV1cE1KczUxRFhVNjlKSXFlR2NPTmVIQ0J1SQ?oc=5",
     "date": "2026-05-29T06:38:02.000Z",
     "source": "新浪财经",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "大湾区车展观察｜小米汽车的换挡时刻",
+    "description": "大湾区车展观察｜小米汽车的换挡时刻",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RaHZoQ0lVV21DMFRySlN3VTJhU0tnSTVCQkJzamhOeVk0NmZjZ0J2QTM3RGl4WktLUHQ1d2N1NG53U3ZuSDYydGtwQUU1ajBTZC1TNG9URU4ySVMtSHQ0OXNQU0hwazZicG4tajhhQUp4Sjhadk82Wm13?oc=5",
+    "date": "2026-05-29T06:24:00.000Z",
+    "source": "雷峰网",
     "image": "",
     "category": "auto"
   },
@@ -729,7 +839,7 @@
     "title": "Xiaomi 17T Series Debuts With Leica Co-Engineered Cameras",
     "description": "Xiaomi 17T Series Debuts With Leica Co-Engineered Cameras",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0o3Vk1qODJPYnFiVktoNXFSenl5QTVPTm56Nk9CUFFtUGtKOEhnRzhCaDExUV9Hb0JEaFhyNUxGSWtfa0lGUW92U09PeVVTaHc3TTZnNjMwMXFTTl9zM19hQVVEcnBrZW5DU05KamhHdXBXSWlqRGpLZHFDa3RZV2Q4VzBxaTVDbVlmT0lvMWZlMmpxZlF0WTdaN0w?oc=5",
-    "date": "2026-05-28T18:01:25.000Z",
+    "date": "2026-05-28T17:59:21.000Z",
     "source": "Imaging Resource",
     "image": "https://media.imaging-resource.com/2026/05/28175452/xiaomi-17T-image.jpg",
     "category": "iot"
@@ -1008,15 +1118,6 @@
     "category": "iot"
   },
   {
-    "title": "Xiaomi 17T Pro review: Small upgrades, but still one of the best",
-    "description": "Xiaomi 17T Pro review: Small upgrades, but still one of the best",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmVSdWpTdDlsRHhwZ3hRYWZockhwM3R6ZUh2Y2dfX0ctV2pTemdod3ZMWjdfRE1tOXU2MkY4SWVvQmtMZUNIYU9vUzctajdvN1Y3VnRzMlpfVmltYmZ0ckdoQzNvNTYzd1hILWNSS3JzZ1ZQZnJvbnZuY2k0SVV3TU5B?oc=5",
-    "date": "2026-05-28T13:00:00.000Z",
-    "source": "Digital Camera World",
-    "image": "https://cdn.mos.cms.futurecdn.net/pyP57PHB378eJmV66VKt9j-2000-80.jpg",
-    "category": "auto"
-  },
-  {
     "title": "Xiaomi's 17T Series Are Midrange Phones With 5x Telephoto Cameras",
     "description": "Xiaomi's 17T Series Are Midrange Phones With 5x Telephoto Cameras",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tSC1GR2hrRmMxdnVqNDVaVU9FMjhvYkFvYzVHNWVNS3ZIOVd4VnRtRzZMdDl5S2Z3dkc2d1FxOUhVS0s2SWxuWWZ3eVZiTUkxWjdrdVQ1RzB5V2pTT0p6Y2x2aDNhZnRDRHZOaU5jbFo5WlRsSzlnamJFc2l1UQ?oc=5",
@@ -1024,6 +1125,15 @@
     "source": "Engadget",
     "image": "https://www.engadget.com/img/gallery/xiaomis-17t-series-are-midrange-phones-with-5x-telephoto-cameras/l-intro-1779967244.jpg",
     "category": "phone"
+  },
+  {
+    "title": "Xiaomi 17T Pro review: Small upgrades, but still one of the best",
+    "description": "Xiaomi 17T Pro review: Small upgrades, but still one of the best",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmVSdWpTdDlsRHhwZ3hRYWZockhwM3R6ZUh2Y2dfX0ctV2pTemdod3ZMWjdfRE1tOXU2MkY4SWVvQmtMZUNIYU9vUzctajdvN1Y3VnRzMlpfVmltYmZ0ckdoQzNvNTYzd1hILWNSS3JzZ1ZQZnJvbnZuY2k0SVV3TU5B?oc=5",
+    "date": "2026-05-28T13:00:00.000Z",
+    "source": "Digital Camera World",
+    "image": "https://cdn.mos.cms.futurecdn.net/pyP57PHB378eJmV66VKt9j-2000-80.jpg",
+    "category": "auto"
   },
   {
     "title": "Xiaomi Smart Band 10 Pro Review: Sleek & cheap",
@@ -1215,6 +1325,15 @@
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260528/e2b9cfd7f5e24a01878f11c6116a25ea.png",
     "category": "ai"
+  },
+  {
+    "title": "雷军宣布：大幅降价，最高降99%！",
+    "description": "雷军宣布：大幅降价，最高降99%！",
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeGp5VXFtbVBnajA4UXJJb3VjaVpQVmJyc2JQRTE0LXQ3RW5VV0J2NWg1VU9fM2NWVDlmVEJoS1phQnphS3hSQTEyR1RlckNhWUtjWkROZnVZMlkwemViQlhLZi1CYkZMSXU3anNlYkx6dDNuX2pNVHdFdVF4dmFLRVQ5LUZCLUtUVFQ5SmktM2dlbG5ZMGVsZE1YenVzc2p0WkdMRG51Rk5OY1c0T01Zeld5X2dWQkVRMFdnMllWOC03QW5fNl84UHRRMnV6c0FtQVRNNUN5Z0hGcWxlZ2Zxcm84aW9JbzhSbXpTUENPMlFET3VRY2c1dW00Q05WLVNEWk5vVEZUNjN1bG5LMTJnS19iQldTTzB2MWE5TmhhYjdBZw?oc=5",
+    "date": "2026-05-28T06:33:45.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260527/617/w660h757/20260527/d53a-d4defecb697dda53205f783a7c125847.jpg",
+    "category": "people"
   },
   {
     "title": "小米85亿回购，已亏13亿，雷军1亿增持亏2700万，又拿200亿回购？",
@@ -1825,6 +1944,15 @@
     "source": "eu.36kr.com",
     "image": "https://img.36krcdn.com/hsossms/20260527/v2_476a3055563a4a2f832dd2984ea0850c@46958@ai_oswg1044528oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "ai"
+  },
+  {
+    "title": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
+    "description": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTU5peGJINHdqVmpPV1AzTnNrQ0xkZ21LTm9PVS1YbkxvenZ4ZDBpTGFMYk93Y3pLQS1kdXVTN1FTTUpVUTFNUm16THptWkVvQV8yMjdXSVhNMlYxaDI3VmV3?oc=5",
+    "date": "2026-05-27T10:50:00.000Z",
+    "source": "新京报",
+    "image": "https://media.bjnews.com.cn/image/2026/05/27/5723751572886859477.jpg?x-oss-process=image/resize,w_200/quality,q_60",
+    "category": "phone"
   },
   {
     "title": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
@@ -4410,132 +4538,6 @@
     "description": "Xiaomi 17T to launch in India on June 4 with Leica cameras",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVdxR25OVmlKZW5JX0RBTmVTazZsRTRYREVlVW9YTDFTWElEUVNYRUdDbkhSOHNrN2h0Z20waFJjR09tUFZkQmFvcm5oUjV0NVJuSERTaVNXX3V6Yk5LOEFhUmlnRXFQNWZ4Ylc5TXFSd3lFSldCVFhLdmdkN3NnUWJZQVNnNUVJTVpZYldHbXVoMHFpakxEeU8zWUEwVUFfWG5pWFRQbGU4ZUU3ZXg4NDFnbVpQdWNlaEItb21wZXFyVzA0eWdyUmJETDdZelhkZ1FuZkJrQlhnSFR1Ql9SNndn?oc=5",
     "date": "2026-05-25T07:33:50.000Z",
-    "source": "MSN",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "雷军：小米汽车电池安全测试标准严苛，项目多达1230项",
-    "description": "雷军：小米汽车电池安全测试标准严苛，项目多达1230项",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGOXF6RHlYM09KVFNRTUpXbHctU0hGZk9YRWw0T0ppTk02a3k5VWNQZUF3cTEzellJVEpyYW1UZF9EYTlVcHhaUXd5R1FMWTZ2WWZr?oc=5",
-    "date": "2026-05-25T07:17:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi Jinshajiang Magnetic Power Bank 10000 Goes Official at $54",
-    "description": "Xiaomi Jinshajiang Magnetic Power Bank 10000 Goes Official at $54",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbldYZHBkSXloZDFHY0pCeVNIekFUVzRURDVhRnZHaVJ2bUpCLXZmQXdPRGY0enJDRm1Odkh4TDhFMW9EUEwxd1ZQWHctQjU0ZEhEX1piZ2laZC1Jb25hREtrbGM1ZUcycU9XLVVOcktsOElCMnJEbXBrVnZ5OUZNSFZNZjE2b0x5bUJNTldDWnV3VUs5VWt2RUZJdzM1MFZHNnFLUl9B?oc=5",
-    "date": "2026-05-25T07:07:24.000Z",
-    "source": "Gizchina.com",
-    "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-05%2Fimage-1779692627053-6a13f458afe27.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "二手平台大量出现转卖小米新车订单，号称“废单激活”可省购车款，销售人员：没有小米的保障",
-    "description": "二手平台大量出现转卖小米新车订单，号称“废单激活”可省购车款，销售人员：没有小米的保障",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SVVNFSVFYaUpvYVp0TzZHZ1JrZFFDVlBSUnVJNFVNcmt3elpEaHBDbS1VeldWLW14NWZ3Q3JDdlJvM1lkNDJScEJ1Z0VwZzFWT29Ia2lLNmstS1Fhck14Wmh4c2FKQW9OQWpqMkVDcFdPdw?oc=5",
-    "date": "2026-05-25T07:04:00.000Z",
-    "source": "中国经济网",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi 18 Series Leaks: AI Button, Dark Red Color, and LIPO Ultra-Narrow Bezels",
-    "description": "Xiaomi 18 Series Leaks: AI Button, Dark Red Color, and LIPO Ultra-Narrow Bezels",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazYxQjNVVmYzN25Gcy1qVVhZajhlaHdoSnNXR2pMMVJTTXEtNEJSYkJsdXl4MmtkcU5VZmhjMlBDZnZqNXdfOUxTM0pIOXZwR25ZczktNVVqbmJ4Wm9Nby1COHE4QXM0VGtwSndtRGNDZVQxNGd4OVZnRllwUmRwc2hqUVBDVUE3RGg3RWE3aS1zZ3dsY2RPMk5hb2JvdEl1V2hnaEV5cFZJZVZ3QmNEWkExbXJ3QQ?oc=5",
-    "date": "2026-05-25T06:57:24.000Z",
-    "source": "Gizchina.com",
-    "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Fxiaomi-18-pro-dual-200mp-leak-69abe24f0e154.jpg",
-    "category": "ai"
-  },
-  {
-    "title": "小米大家电，站上被告席",
-    "description": "小米大家电，站上被告席",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQmc2RUk2ZU5FcGpqUFN4dHFtaDFEeU84SkJ4RzJQVEhERU9VUmlJMGFLdHctVkJuVzF4NE1HWnhLY2NwVG9FelpqT041Sjhm?oc=5",
-    "date": "2026-05-25T06:39:00.000Z",
-    "source": "维科号",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "金山控股退出小米消金，消费金融公司现股权集中化趋势",
-    "description": "金山控股退出小米消金，消费金融公司现股权集中化趋势",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVVqLVdJNEFBV3c3MjdmRGJZZ3ZfUFBuN0ZONHBKNk11M1VwUDA2UWRLcnhNQVZGeXRkdWNmdzVBOVZ3V3hMMFYyS0pTWnE3dFZzcVJnLWZpN1V6WTlybWdoMlpDekxDbVc1RlpLdC1sMlRUaEtoVGZhczQ0ajVrTXhENmd6ZEFDcWFpZXRQZUdLbnl6dWkzMw?oc=5",
-    "date": "2026-05-25T06:22:30.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260524/716/w919h597/20260524/4e6c-c4d60f253d04ca3e6e5348ba44518a7c.png",
-    "category": "phone"
-  },
-  {
-    "title": "小米YU7 GT车厘子红_新浪新闻",
-    "description": "小米YU7 GT车厘子红_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44REExbk1NTGdsTHROT3dSc1llVmZOcURSUmd6am9qQ2M5OWJZOXNEY2RINHBEalRuQ3ViRGZreUl2TUFXUTBpU0p1NlFWUXBya0gzWDZ3WkJfaHFhY2hXM09xcw?oc=5",
-    "date": "2026-05-25T06:22:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7 GT入藏汽车博物馆_新浪新闻",
-    "description": "小米YU7 GT入藏汽车博物馆_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XaVJvRlVVdmtJaDUyUFpfTklKRXpGV21yMW4tNFRqYWY1YjRtOVh6T2I0YUFXamN1NlEzeFJtdEpqUHZjM2lob1didzRCTWwxRkN4Tmc5WXV4d0NWWmNUQ0dpZw?oc=5",
-    "date": "2026-05-25T06:11:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米申请注册MiMo Claw商标",
-    "description": "小米申请注册MiMo Claw商标",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWnRjVHdQVXhOdVRwbk1kN1owV01yQXBtbTFlLVRTbWhPcUl5RzBEblFiUzY3MEo3b08xTXJXQTNFaEw3b3hNcDRWQ3lDVElQWEFtVU5FckdjNExWeTlPQUNQbWVDd1gwZFROQndkM1JJVVk0bktyTGZqSHVFUTNsVzNlMGh0VTFOQnNCVEktUHc5UGQ5SDh0MGFQNEFlTXkxUkZfai1teXA1N2wwRFNLVy1Ud1lzYmZ3SmpSRnNrc2s5R3ItZ3ZNNUpNRFJUeXZ6TUl0NG1XZUhFcU1aUmtrQS0tQUlENWx0bzNDVEx6R2x3cWptNktZZE5odjBZdHBY?oc=5",
-    "date": "2026-05-25T05:58:32.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260520/226/w582h444/20260520/493d-4b989ddc4103167ddf52e25e372809d9.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "【视频】试驾新一代小米SU7：比想象中更舒适？",
-    "description": "【视频】试驾新一代小米SU7：比想象中更舒适？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UM0ZCVTF6bVNHaXIzRkNGVTZmYWZ1MVRXUEpUajFqQ1BLc084OC0xdk1LTmk0SnhmQTVTNFdsNGNzYzdqMmZocndtYmpqanZuU3N6NTBhbGhwMk0?oc=5",
-    "date": "2026-05-25T05:40:06.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7试驾火爆_新浪新闻",
-    "description": "小米YU7试驾火爆_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMGR5RVlVMFRNWGpwV2NqdGpTd0VxSER0VmNvcmNHM1M0QnZJOEZTenRldTU3cmNGYktmR0FwYm02YjVKSUVwU04zNFVoajcyT3B1TVNnVkxqbjVtMUFMVzJrZw?oc=5",
-    "date": "2026-05-25T05:00:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "可以确定了，小米SU7、YU7公开的订单量，没有任何造假！",
-    "description": "可以确定了，小米SU7、YU7公开的订单量，没有任何造假！",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRU5lWmJ0UV9JZ05aUDVDRi1UcDcyVGo0SklTd2xCb01yZ0VqUXdfWlRKSDhobTFmek10eGYtdHNEbThsTDN0YVEwcldKbVNiZnhPUEJTTzBYblFyX2JxaXJpNC1IM2VlbzlKSy11RUp3RXhzZHVTamM5OGNUUllZZWVCdWQ3UHo3LUVTdw?oc=5",
-    "date": "2026-05-25T04:54:37.000Z",
-    "source": "搜狐网",
-    "image": "//q5.itc.cn/images01/20260525/3d5c1d1beab947639c9bb2bfd71cbd4d.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi 17 Max goes on first sale as Xiaomi’s biggest battery flagship",
-    "description": "Xiaomi 17 Max goes on first sale as Xiaomi’s biggest battery flagship",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUprUDU4b044VWtiVFppaG9KakIyWm9NdU1mWExCSlFLeVVzVFQ5ZjI1VFNsdS16M3J0QWhYRFN6RXJVT3V3UDc1UDNlVHV5UUNUVHhmTlE0bE9SaFdCZjBwWnhUX0E4VGtuZnVPYWk0RXJHdHBnVmlqR0FCWGYzRFhxZjl1N2NVQ0lpNExlR0JpY041cmtmdDNfalRlRUkzLTFFblQ5SWJpU1B4Tm5tQTVDVUNBYmVSRzlUOXlZcDkzUQ?oc=5",
-    "date": "2026-05-25T04:35:48.000Z",
-    "source": "MSN",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi 17 Max goes on first sale as Xiaomi’s biggest battery flagship",
-    "description": "Xiaomi 17 Max goes on first sale as Xiaomi’s biggest battery flagship",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb2tmY09wZGRjTDUwQTVraTBxM2tVQkg1NzlhLUpXbGJTaEMtVElOZXZqazVNSXRDUjc1Q3NiZnBjOHdkV1RYTXBNc2ZsTnZLRnZEOVFZSXk3M0lhVVRXM3IwSHVoQzNyQnJtc3J1RHdrTmtGendXVkhEalI4Nm4yQlVDajc1T2EtcEhtQmcxcWhJNEl3cUdGYmlraUZNYU1wcGFha2dDclBpMUUtMHk4ZHdERl91dTNkRGNvVXdvTDNuUFFWRl92ZlRkX2FpSG9KRXAzeHB5UXhzTHRXemZieU12MDE?oc=5",
-    "date": "2026-05-25T04:35:48.000Z",
     "source": "MSN",
     "image": "",
     "category": "iot"
