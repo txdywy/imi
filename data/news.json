@@ -63,6 +63,19 @@
     "category": "iot"
   },
   {
+    "title": "Xiaomi HyperOS 4 (Android 17) update: Full list of eligible devices",
+    "description": "Xiaomi HyperOS 4 (Android 17) update: Full list of eligible devices",
+    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxORXFLS1VqV3RGRFMzTldacG4wWnI0RFBVY1FOYkNWa3N0RWl2T2tCZndpRlE4WGpscl9iUmFkNURpbFNqejllYUdONmREd2F3eEYwaWFJYUZNcDFzNFVnWW5JQUJtR3VJNTFoZk5ROEtjZ3d2RGFueWNrS1dER3dCTE0wTkUwX1ZlVmFuRDBHdF94VHJpSUFLV085NmtfZHpOZlhKYjdGOUQydk9MWDd3R0U3MFVZNnFic0kyVzJUWHcyU3RHenpZQVlGS0NZOFo1ODl6Ql9KVE56WnQ5a1hvWUQ5UHNOZGlKaWp4ZU1xUFdXSmxxZGVIMHd3d2F6S2czM1dTaEJLeThwUmdOdGxNM2FGT0NhNjc1RDcxQzlmSE9faDNudURMb2R6dmlidDRSd0xJemhtV1c1eFRKczRHblA4M1J4dUtHaTZYa250dDRrT3gtM3ljYjctTk9jMzIydjhxUDlPVXlvTjdwTWE5MUl0VC05NlNzR3p3?oc=5",
+    "date": "2026-05-30T15:00:07.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
     "title": "Xiaomi's gorgeous new Watch S5 slashes your budget without giving up the premium feel",
     "description": "Xiaomi's gorgeous new Watch S5 slashes your budget without giving up the premium feel",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTM2Q3A0emVxZDNsWXAwc2UteTNVMGNpcnN0aTRGR0dMODFJM2JmcDVOSnRNMWU3ZDRYbWpka2pINGZCRHhRc19RZ1BKTE40RE5FN3JLM2xROHNvNGxzaGpXNWJSVXJSQlZONUFya3BKN2FWRTdZeE9xMHJTdnZSa2VGWGh0T3JjUVdlZ21DbkZnSmZmUmo3UXpFaDhyN042WnluZTdrNFU3eFp5N2thcWNzbU51eUM0akdpVHR3RlZ1c28?oc=5",
@@ -582,6 +595,19 @@
     "source": "证券时报",
     "image": "",
     "category": "ai"
+  },
+  {
+    "title": "40 Xiaomi devices have now received the HyperOS 3.1 update",
+    "description": "40 Xiaomi devices have now received the HyperOS 3.1 update",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXl2UTZHcENPdFBoeGtaN2hZYXJ4WFJYNEFTdVdOTS1mOThiOHdNNjYyOUp2Wi1mMlpuRy0yY2ViVEhuWkE1ZHdOc0pDSjBqQ3JRdlowZ2tBRmNmM3FFS09hc0k4WWp3aUVoU1FsUDU5NDJ0bXFQVWJTeGtidDY1akVhN05hMlQ1TE1ZdThXYU54X0EySjg1S1ZncUQwTzZEalhlR19mNDZZOVpoRWJkOWpjTE9fZw?oc=5",
+    "date": "2026-05-30T03:01:16.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "小米YU7 GT车展亮相_新浪新闻",
@@ -2349,6 +2375,15 @@
   {
     "title": "雷军宣布：大幅降价，最高降99%！",
     "description": "雷军宣布：大幅降价，最高降99%！",
+    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdURRdzlPTk1NTFVPaDk3allBeGRjUTBDRlBzaFhIOTkwLTY2WktGTFk3SE4xNVJQRFJ4MkxaVVMzcm81WmRZYm5CejdDaWdrNDZZaUFVcEVManlGeER5VVo2b2JhTUNmbGpUYTVSUVhnZzNpZWROSkpnakR3S29FRFJpUk5uLVliUHNlVkZDMTVTU3VJZEVxbkVfSVNTc2ptSV9fRWVSblhxd3B6QzkwLUdmR1YzZ29rcDVBR3JOYmZ5aDJaSFcyRjVjb01KQ1IxOS12YmtKa2lXNl9aRWFiT3VOSzB0Qkd4V2kycjZnVVF2MjBsaFQ2NmFla1QyaHRvN1A0Q2VEV09jMk1wUG9NcFBObkVnbi1vMjd5UEhrekM1ZTJyVnhjTWZvQ2xrS3hsYkhTcTFpcThzNHNjY3c?oc=5",
+    "date": "2026-05-28T03:46:30.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260527/617/w660h757/20260527/d53a-d4defecb697dda53205f783a7c125847.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "雷军宣布：大幅降价，最高降99%！",
+    "description": "雷军宣布：大幅降价，最高降99%！",
     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNd08wakxYcHlPX2o5bndWVXpCMUtwdlBaemxPOVl5TFBmMVVNQkh4YXVxUEdpQkwzT09uSm4wajZWWXJIclZoQ0U1Y29kNHJoVHI0T21zY29GdDRFQUVJQm1NWW1FY2RmY0tQWGRYTmw0TXluaDZzVzBjbnVYTV83WEs0cEVFaTZzcTlNN1BpSzN3dXpyNEJkUTdXYkhtYXZpT1Z1bFZyY2JXeGtQQkhUXzdHX1RWR3E5ckQtYWVZUFF4ZFkxSUFHZXprT25MZm5Lb01xWEtXNEQ3cndhclBKX1ZOMVdieU5Ea1ZielZjSlZjcWxJWXpQZW85aGhpVjluMmcwajJZYTBUc3ZDRllWSTdRS09tNjJpYVBDVEM1TUczZHdZRFo4X0phaFdoZzRER3hBZ3JSRQ?oc=5",
     "date": "2026-05-28T03:32:18.000Z",
     "source": "新浪财经",
@@ -2824,20 +2859,20 @@
   {
     "title": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
     "description": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTU5peGJINHdqVmpPV1AzTnNrQ0xkZ21LTm9PVS1YbkxvenZ4ZDBpTGFMYk93Y3pLQS1kdXVTN1FTTUpVUTFNUm16THptWkVvQV8yMjdXSVhNMlYxaDI3VmV3?oc=5",
-    "date": "2026-05-27T10:50:00.000Z",
-    "source": "新京报",
-    "image": "https://media.bjnews.com.cn/image/2026/05/27/5723751572886859477.jpg?x-oss-process=image/resize,w_200/quality,q_60",
-    "category": "phone"
-  },
-  {
-    "title": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
-    "description": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxZFdtc2pVRFFXajZ3NDFFc05yMXcwMzZ2RFpUMUcyNDNGTVBjNW5WcjdPRjRsTU1odWFlTWFjQ1BxSXJFeE1hX2ZVcVdZM3VjVHFLUk5qaGFIZ0EyVXZ5bnVBMDA?oc=5",
     "date": "2026-05-27T10:50:00.000Z",
     "source": "新京报",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
+    "description": "小米的“双重宇宙”：一边用高端化硬刚周期，一边用AI押注新十年",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTU5peGJINHdqVmpPV1AzTnNrQ0xkZ21LTm9PVS1YbkxvenZ4ZDBpTGFMYk93Y3pLQS1kdXVTN1FTTUpVUTFNUm16THptWkVvQV8yMjdXSVhNMlYxaDI3VmV3?oc=5",
+    "date": "2026-05-27T10:50:00.000Z",
+    "source": "新京报",
+    "image": "https://media.bjnews.com.cn/image/2026/05/27/5723751572886859477.jpg?x-oss-process=image/resize,w_200/quality,q_60",
+    "category": "phone"
   },
   {
     "title": "Xiaomi Closely Chases DeepSeek After Stabilizing Its Basic Market",
@@ -3459,7 +3494,7 @@
     "description": "小米跟了DeepSeek价格战，直降99%，全面对标",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wV0xYTTgxN0VOalFGa1FLWTJJbFpmSHpvVGQybnR4bzVyVFh5S0lSTEYxcHVIYzVuVUFuOUlDVGNTNWoxczZvNTdxcUp1QQ?oc=5",
     "date": "2026-05-27T03:40:00.000Z",
-    "source": "36氪",
+    "source": "36kr.com",
     "image": "https://img.36krcdn.com/hsossms/20260527/v2_24054cf0891a4d19a8b33cef92db4c48@5091053@ai_oswg880839oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "phone"
   },
@@ -4519,32 +4554,5 @@
     "source": "TradingView",
     "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
     "category": "auto"
-  },
-  {
-    "title": "单车均价23.5万元！小米汽车一季度交付新车80,856辆 同比增6.6%",
-    "description": "单车均价23.5万元！小米汽车一季度交付新车80,856辆 同比增6.6%",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSlFYbkVtNUV6al85UXNKYVBXbzAyeGt1MzlqTWl2NE5IUWUzdEdPTU5LZFZuQ0gyd3AwRjByRk4ydGFGR3RfSmRldFM5TVZNRkxlVTl6bWdxZzZWWlNWMF81VW9Wbl9pdUZFXzdFX0FMUkVXUEtvMTFMeG1DMU92WmtpMTQwNTJsWUdXMG92bWpRMzB4czd1d1R0dno2eGx1ZkplSndpaGlhRFgwWS1SMm85and6WnBoUzdVOTFONGY2bXhFZDF3NnRVclVncERHd3FIcDRWSHBGRWJlbW5MVHpyNm52UkxQNEJJQ2lWNTRORUQyMkF5cy1PS2tDdw?oc=5",
-    "date": "2026-05-26T10:20:14.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/spider20260526/200/w600h400/20260526/c240-a06201385df4ff9d9ae5e62dc4dc702e.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米集团拟实施200亿港元股份购回计划",
-    "description": "小米集团拟实施200亿港元股份购回计划",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CZUxFSHBYMDlhODEtWU5QMVdqODN0VFJHWE1qWTlHX2Z5dmNwSFdSY0M1cTF5S0hCUVMyczNUUnJ2b3ctVmhHS210bXhadw?oc=5",
-    "date": "2026-05-26T10:13:17.000Z",
-    "source": "观点网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "小米Q1收入991亿元同比降10.9% 经调整净利61亿元",
-    "description": "小米Q1收入991亿元同比降10.9% 经调整净利61亿元",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzYlBsQ2dtYWpfWHNQcXY5VXhpTTNWNVhEc01jMzE0ZTY5WGRLMFVyWGl0dHZld2lsamI1bjYzQjRDRU1Hbmpkbk54cC1pdw?oc=5",
-    "date": "2026-05-26T09:51:59.000Z",
-    "source": "观点网",
-    "image": "",
-    "category": "phone"
   }
 ]
