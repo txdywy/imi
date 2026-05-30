@@ -1,5 +1,71 @@
 [
   {
+    "title": "雷军活在三种时态里",
+    "description": "雷军活在三种时态里",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVZ3YzBPZXRjdHVmYWU1Nkh0SkdlaGtDZTFZT2VMSUpJNW1tc3FYZldRUzVSaU5tVmp4Vnk0WUFOb09xaDBzS0hBQjRNNlN0MzN4Q1FaTjZ1QlQyVGtLblVlMlhZaVBVZ0M5Sm5jNUNjMFJtbmhpcmNQTXRCbElOV1RTVkNscVdCV2dhSw?oc=5",
+    "date": "2026-05-30T13:07:00.000Z",
+    "source": "搜狐网",
+    "image": "https://q7.itc.cn/q_70/images03/20260530/f98796eff10a4a9ab6ee42484631b8cc.jpeg",
+    "category": "iot"
+  },
+  {
+    "title": "小米：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
+    "description": "小米：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWY1FJVlZ4QXF3aTBLQkt6dUJFMlU2aGF4blI0N3JRV3JEcEF0cS16RGk1dE5GV21pRjA4OVJySG9EM2VvejVnLVBYYw?oc=5",
+    "date": "2026-05-30T12:45:23.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "最高降价99%背后：小米首次公开模型推理优化技术报告",
+    "description": "最高降价99%背后：小米首次公开模型推理优化技术报告",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wa2VsajVHN1FfWXlOWGlsdzBsTno2RVNVZkpEQUJsOFUzTGlFX0QwVndtWVRvbzdJM2ctV0lZeHBBdFdOLWpCZw?oc=5",
+    "date": "2026-05-30T12:41:51.000Z",
+    "source": "品玩",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "REDMI K90 surpasses 2 million activations as Xiaomi’s mid-size strategy wins big",
+    "description": "Xiaomi has reportedly achieved a major success with the REDMI K90, as new reports from Chinese sources claim the smartphone has now surpassed 2 million activated units. According to well-known Chinese tipster Digital Chat Station, the REDMI K90’s activation numbers are roughly equal to the combined ",
+    "link": "https://ximitime.com/redmi-k90-surpasses-2-million-activations-as-xiaomis-mid-size-strategy-wins-big-97264/",
+    "date": "2026-05-30T12:37:46.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/05/REDMI-K90-Max-3-1024x512.jpg",
+    "category": "software",
+    "updateType": "update",
+    "device": "REDMI K90 surpasses",
+    "isUpdate": true
+  },
+  {
+    "title": "38.99万起，1003马力！小米YU7 GT首批交付启动",
+    "description": "38.99万起，1003马力！小米YU7 GT首批交付启动",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1id0lfVk1aN0xabm96TlBNRjJ5enJVNWoydkRXajdWYUIxcW15ODFpc2xaM1B5aXAtVjFqMF9hTFVNVlB2UzFwUnBkZkNjclk1cG5EUnBiaGRlWkE?oc=5",
+    "date": "2026-05-30T12:31:24.000Z",
+    "source": "汽车之家",
+    "image": "https://img3.autoimg.cn/chejiahaodfs/g34/M01/40/DF/autohomecar__ChxpWGoa0COAOzDKAAiUv-q3h6E977.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米太懂车主了！YU7 GT首批车主：完美戳中我的需求痛点",
+    "description": "小米太懂车主了！YU7 GT首批车主：完美戳中我的需求痛点",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYc01ZU1l6cTlienFHX3RhX2RvN19CQ3lNdHZiQ284SGItLVh0NFB0aEZxQzBSUFN5NXJYaC1KRExJLTJ1eGdyU0N3c0tZbThITG0tLXpEaUI?oc=5",
+    "date": "2026-05-30T12:18:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260530/3e6a320df95e4968a84c677c7457e6fd.png",
+    "category": "auto"
+  },
+  {
+    "title": "小米 MiMo 首次公开模型推理系统全链路优化技术细节",
+    "description": "小米 MiMo 首次公开模型推理系统全链路优化技术细节",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VdFZVNk8tbnlFM3czVHZReF84UXZhWmRPYmE1MmxISDdHaWc1Nms1UUwwU1EzY3dYMmwzS25vVHdhYkxXb0lvYjh4eVU?oc=5",
+    "date": "2026-05-30T12:06:44.000Z",
+    "source": "凤凰网科技",
+    "image": "https://x0.ifengimg.com/ucms/2026_22/B7CE710F73C399E152F7B9DF135B1974AF6F7FF2_size26_w698_h392.jpg",
+    "category": "ai"
+  },
+  {
     "title": "小米MiMo首次公开模型推理系统全链路优化技术细节",
     "description": "小米MiMo首次公开模型推理系统全链路优化技术细节",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOcHlMQmdFeVNSSThnV3pNQUpUM3F2VndIQnZNTklNSVlKMjBlMDVxNDhXd0Q2ZjRyWklNTFk1SFU0TTZZLURiYVBLNjRScTA?oc=5",
@@ -7,6 +73,24 @@
     "source": "新浪财经",
     "image": "",
     "category": "ai"
+  },
+  {
+    "title": "MCN造谣小米道歉_新浪新闻",
+    "description": "MCN造谣小米道歉_新浪新闻",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZVdxUFl4T3habVhweTdTZjlndDFIckhKeTl3bTAwRGVsSUl3c1Naak5GM1RuNUpwaVFYRUc5WHBwZXR0VE9JRm56cUptTk9ySXhvRnNtWjlBWmhmSGY3Nnl4RQ?oc=5",
+    "date": "2026-05-30T11:17:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "#一MCN就造谣小米及雷军公开道歉#昨日，某MCN机构就长期造谣抹黑小米汽车及雷军一事公开致歉，该机构也已被相关部门依法查处。巧合的是，中央网信办同日启动为期两个月的专项行动，聚焦整治涉企恶意炒作、虚假抹黑等问题，着力优化营商网络环境。近两年",
+    "description": "#一MCN就造谣小米及雷军公开道歉#昨日，某MCN机构就长期造谣抹黑小米汽车及雷军一事公开致歉，该机构也已被相关部门依法查处。巧合的是，中央网信办同日启动为期两个月的专项行动，聚焦整治涉企恶意炒作、虚假抹黑等问题，着力优化营商网络环境。近两年",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91VkFhSU9xc3pMbjdFZFdyQUg2TTNTYnZJQVV1ckhlcjBxcVd2MVVqemRtdUZTTDkyREg4aGhyYmpOckhuUEY3OGdiWlppVE1iQVlpRW1paXgxUk12a1FmdGxhZw?oc=5",
+    "date": "2026-05-30T11:15:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "auto"
   },
   {
     "title": "吃瓜前线与大福肉丸子公开致歉：发表小米及雷总不当言论引发误解 今后加强审核",
@@ -187,6 +271,15 @@
     "source": "新浪网",
     "image": "",
     "category": "auto"
+  },
+  {
+    "title": "小米集团-W(01810)股票股价_股价行情_讨论_资讯_财报_数据报告",
+    "description": "小米集团-W(01810)股票股价_股价行情_讨论_资讯_财报_数据报告",
+    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE0xaG41aFFhTF85TVdEeEdYX2t2OGZnX0VLWF8xanRTSE9kTzdCZl9tZ2hVZktjdXBVWVlSMGh4dw?oc=5",
+    "date": "2026-05-30T08:09:47.000Z",
+    "source": "雪球",
+    "image": "",
+    "category": "iot"
   },
   {
     "title": "Weekly deals: Xiaomi 17T and 17T Pro launch with optional tablet bundle - GSMArena.com news",
@@ -2054,6 +2147,15 @@
     "source": "eu.36kr.com",
     "image": "https://img.36krcdn.com/hsossms/20260528/v2_ea353222781944bea809e15a37cdd414@5091053@ai_oswg984042oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "phone"
+  },
+  {
+    "title": "小米MiMo降价99%跟进DeepSeek，国产大模型杀入\"成本线\"",
+    "description": "小米MiMo降价99%跟进DeepSeek，国产大模型杀入\"成本线\"",
+    "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxQXy1ETWZfMGh3WFhSMWNDUFRBMmhwRV9QTGpYZldDMlZkc0lBR3ZWVnpyRzQwYUczd3U3SV9WYzlMR2JQdzJpYjVzSDdlRTd2YWZFcTlVOUVjeXNpbTZIdHozM1dkRjRuRExhZmZpcDZsT3FOaGhkcXdrdFFjNlZLWHFZbHBZLXJuY192WFlfRE1Ec1VxOExYQ0tpcXRNOGdGcFNRQ3p5M0dpVkxIVnA1Q3JfQjI0MG1EVGNkM2pSUWZVNjhodHp6QXdMV2tLYXdBbklsR1lWS0dfejkxd3htODI5b3hqUnRXV2lodWVtSHVuc0JwWG9rOUtFMlNEOERaU19PRmI2bVZTN290ajVoWnhHYXBVNTVfX09qZE1XT0tmS2IzbEhZcmx4Yk9MWDlSYmZ4UHFqYlRnTm1MWS1zQVJQUExVbkgyZlYxdHg2Sll3VUhJU2ZzVFphUHJMMHkxU3NMS1dza000c0YyUEx4SXByeU82Qk1lc01DeW41a3ViVEVydXRCc2FZS3pqZUZkUlBtTjRmUTB4dWNtODZSemZNUENkb21aNHd4cEdPOFVKcXlpZEYwanpLSTBrNFVzTjF6OUhzRXBoRXFibXdTN2YxX0dGYVNzTll6bV9IYXJja19ReXFNR0pVTEIxWUp4cVQyT1ZDY3JNd2RMOTctNUhlZUJERE5WQ3E5U242eG9KY0RUR3puY2RoZXZ2Y2otX1FuZENBTUxnWW5YdTRjaWgwcnJiU1dEcmtkYkJHd19kb00yV09yTGkxeFg?oc=5",
+    "date": "2026-05-28T04:39:57.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260527/160/w660h1100/20260527/36f7-eb39b3c6115ef659ec1fceb27d268fcd.jpg",
+    "category": "ai"
   },
   {
     "title": "Citi: XIAOMI-W (01810.HK) MiMo LLM Price Cut to Drive Surge in Token Usage",
@@ -4444,107 +4546,5 @@
     "source": "新浪财经",
     "image": "https://n.sinaimg.cn/spider20260510/231/w660h371/20260510/7728-e77920ebf7c498bf23238c83c416c821.jpg",
     "category": "iot"
-  },
-  {
-    "title": "现场视频！武契奇抵达小米汽车工厂参访",
-    "description": "现场视频！武契奇抵达小米汽车工厂参访",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12eDNTN21McEdWVmhYc0ZUZjZYUFAyX25sc0J0a0xKTXl6TGxYWXNyRDBYeXF4OExxa1RQeVBhYnkycXkzOVFaay1YQlhkV2dvWG4tcmh0TDlUdWFpcHNFVWVUR0tkb1E?oc=5",
-    "date": "2026-05-26T06:30:38.000Z",
-    "source": "jwview.com",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "现场视频！武契奇抵达小米汽车工厂参访",
-    "description": "现场视频！武契奇抵达小米汽车工厂参访",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Uckh5REVpaWlwdTNRdDk3TDRGUk56T2JJT1M3ZWg0UU1GV0YyTVFJUjdNaTM4ZWJ5TUpQS2JTZGpHMEVDWWZlOXJ2WmlPb0Mzc0dpMHNPZW1WLS1fX2xwd0wzT1g?oc=5",
-    "date": "2026-05-26T06:30:38.000Z",
-    "source": "jwview.com",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi’s 240Hz gaming monitor has a Night Vision trick for sweaty lobbies",
-    "description": "Xiaomi’s 240Hz gaming monitor has a Night Vision trick for sweaty lobbies",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEJOWTRySXF5OTBBM18yaGpMc3p2Ym0zZms3QS0xbUQ4REVSN0RGUHp6RnZnSXdvME8xZ2hjNTdsbHZHYUxXX2VrYjY2QmRQUUMxRUlFZVMwZlpQRFp2bHYyTDl5R0pkbEVIV1UwWHM5TmZvQjVpOWdPeVEwNDJXLVFQeS1TcUZVZVc3eGRieVN4RmhsMFlxeUtQTzZFWnozLXhIQjZJYjI4NXg1NVFz?oc=5",
-    "date": "2026-05-26T06:27:41.000Z",
-    "source": "Digital Trends",
-    "image": "https://www.digitaltrends.com/tachyon/2026/05/Xiaomi-G25i-2026-gaming-monitor-featured.jpg?resize=1200%2C630",
-    "category": "phone"
-  },
-  {
-    "title": "想不想买一辆小米汽车？武契奇幽默回应：买不起，但车很漂亮",
-    "description": "想不想买一辆小米汽车？武契奇幽默回应：买不起，但车很漂亮",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zdEp3OGxMbGdVM0gxRmdiQ1E3cGl2TGpyTGRCby1wcGt1cFN3NlNQV0Exb3ZoMWtwRDltUHF0Ujd6M0VIdW4wMHdYbGMwYy1XcXFGMVVUUmg5VGVfUTlnWU8tbnRPb0dT?oc=5",
-    "date": "2026-05-26T06:23:27.000Z",
-    "source": "chinanews.com.cn",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米17T/Pro手机渲染图再曝",
-    "description": "小米17T/Pro手机渲染图再曝",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQl9LdXQzNHJFNFFoUjMzYUJLVUhvSTFMLUlMUlp2ZEdiQWt2R3lwTktIaHVpMGY5MENuNkc1SWNmdGRjTVEta3ZnNWkyWS10UkQ0WnNUM0xPY29uSlE?oc=5",
-    "date": "2026-05-26T06:18:02.000Z",
-    "source": "digi.hsw.cn",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "现场视频！武契奇抵达小米汽车工厂参访",
-    "description": "现场视频！武契奇抵达小米汽车工厂参访",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ZW16MnNXZWktWEFaYU83NlFIZHo1ZTRWVDQxOEg4ZGlodjZKZm5HZHlET2hqOXBJLUxiX25CVDNDT1ZTal9YSk5idWM1eGNSeVo1V1kyR1lhRTMwc1IxYVZ4LXBGMjZzekc1c3pCSnRJWW9BMWc?oc=5",
-    "date": "2026-05-26T06:01:00.000Z",
-    "source": "chinanews.com.cn",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "REDMI K90 Ultra certified with 100W charging, and it may beat K90 Max",
-    "description": "The upcoming Xiaomi REDMI K90 Ultra has now appeared in China’s 3C certification database, confirming one major hardware upgrade: 100W wired charging support. The certification listing shows a new Xiaomi 5G smartphone carrying the model number M332BF, approved on May 25 by the China Quality Certific",
-    "link": "https://ximitime.com/redmi-k90-ultra-certified-with-100w-charging-and-it-may-beat-k90-max-97171/",
-    "date": "2026-05-26T05:48:26.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/04/REDMI-K90-Ultra-1024x765.jpeg",
-    "category": "software",
-    "updateType": "update",
-    "device": "REDMI K90 Ultra",
-    "isUpdate": true
-  },
-  {
-    "title": "武契奇参访小米汽车工厂_新浪新闻",
-    "description": "武契奇参访小米汽车工厂_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40UnA5MVdfSldDeGhLUUFJNHFaZ0ZpLXBSelhPejJ0alkyRmF4V1QtQUFRZzV3REJ1ZjVGMEFZWVFzZWdMOWFQMnBOM2Y3a1l1Z0V6MGhOLUU2VnZZMXJGUDBqRQ?oc=5",
-    "date": "2026-05-26T05:16:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "武契奇抵达小米汽车工厂参访",
-    "description": "武契奇抵达小米汽车工厂参访",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EMk5DZFN6RXdFSjcwVUlRdnBsMkZVdWoxVU5TeWRzZ0NiTTA1Z3NGQVRvUUJ4OW5WejdzODdnTGdXM1JNS19RM0sxa0lPMEMwY2w4M2thcGpTZGw3VkFyWHFmNVdGemJX?oc=5",
-    "date": "2026-05-26T05:12:14.000Z",
-    "source": "chinanews.com.cn",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi 17T Gets Leica-Tuned Telephoto Camera, To Be Available On Amazon After India Launch",
-    "description": "Xiaomi 17T Gets Leica-Tuned Telephoto Camera, To Be Available On Amazon After India Launch",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmVfS2pSZDBmRVV4TFRycjFLWkNEMXd1bXJwQS1WYmxYdkNpREtYTWhuVm5LLUkzaURTUmhQOEFTOHFncndxRnNFMzlzLUFBRy1uV0xIa1pxd2xfczdpamItdE4tdk9rQzRnZWVBQTQ2QkRqTWM1TlA2TzNERklUdWhlN09qakEyQ2xJSFFlcS1pNmI1RzNGOFByVzJEZ1RmS1U1NHBHY0Z4MG1EZjdzUkI3ejRXN2tpOUd3OE95RFY1U2dIUVpqV1VTeWtvMTJyWHfSAdoBQVVfeXFMTlA5RTdPVEpsdXFpYWpic1JxRlpsX3hja3Jaa3FBWUI2NW4zRkxfREZld1lDTEZUS2IyM202SGJBQ2k2QjRRMG51N09JUUV3amU0ZXg2aldUeF9zWXlJRGRaX3FmYmpMNlRsN1l2RU1faGdhM3hKT2xfTVZFZXQ1Y0VOQ3pOQTVrZUdTOVJIYmV5OEVtWnNaUE11NGNGdGhMSzloLUVfRFBsZDRiOE1IVXZhaFc4WUdhZzBfdnp3dnJmeG1iTkZ6S2hlaWNkV3BQeUw0RGRrbzRWamc?oc=5",
-    "date": "2026-05-26T05:01:16.000Z",
-    "source": "NDTV Profit",
-    "image": "https://c.ndtvimg.com/2026-05/g7sd7skc_xiaomi-17t_625x300_26_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-    "category": "iot"
-  },
-  {
-    "title": "小米汽车发布发布 Xiaomi Auto World Model 全新框架_车市动态_汽车_",
-    "description": "小米汽车发布发布 Xiaomi Auto World Model 全新框架_车市动态_汽车_中金在线",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuTXZHR3R6ZmNGUEJObnN2c1VwSnZnSWNMRTUtNkFtRjFmYTJlVUw1ZVBNbmJSVnVfUXlYa2l2R21aVG9vRURjVlFSNzYtZjVmNXBBdXBmZVM2ODlXeWp5N0dIaDJPVmJybkpv?oc=5",
-    "date": "2026-05-26T04:54:17.000Z",
-    "source": "中金在线",
-    "image": "",
-    "category": "auto"
   }
 ]
