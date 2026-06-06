@@ -1,5 +1,18 @@
 [
   {
+    "title": "HyperOS 3.1 update is yet to reach these Xiaomi devices",
+    "description": "HyperOS 3.1 update is yet to reach these Xiaomi devices",
+    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNNC1VaU42TE8xbXBiU25DX3RWUURLQ2hNamdqMklWRjljZk5FeXVHb2xpdGlOcUJQOGhjZUxUeHlleXMyeld0YUgtV1lKTVJncVhOQnVIWXZESm9zX2Q2eFQwdC1YMTNVeEFSdWVIbnZhQVN2WENvcXkzbWF2bkVVMTNGYmpYdlZUUHhURkdxbnpjcl9BTjBjX3E3alVUYUNrRFpIam1sV3VJeDNaalRvc2hJS0RWRTVRYzMtMmJrSE5FQTl3c1E5RzF1Sm43ek9KeDV3TTVfdHN1cHg4SlI1MGFsSTBlUFMwaXFLek50VFY2SlhQUVNtOGlrSll5aTJLMjhpMnFEU25vQUJaU1dkd0dBSm1peXRjR1pNTFB2Q01zbFVsTUxVR3M2UE9XWEIzM1dSV0xTZUVwcXhqdHVHNlFRNm9YR0o1VldSaDd5NEFlWWRWOS13X25zRFdpOG5TNXFuYjRyRzByTG5xYjJmcVFtQmZKZm1PQjNwNXJrUQ?oc=5",
+    "date": "2026-06-06T17:36:43.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
     "title": "Xiaomi 18 Fold or Mix Fold 5: HyperOS leak all but confirms iPhone Ultra competitor",
     "description": "Xiaomi 18 Fold or Mix Fold 5: HyperOS leak all but confirms iPhone Ultra competitor",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmdTbk5JZlFkaEFnb0tDSXN6ZWQ3Z0t6SGM2a2tkQzU1SVVDajdDMTAtZGtJdFNjR04zbGJNX2JsaDE0MEpqVmNjZE5DWHRRUUF1TFBOdVlFMEVENkpWazZMOW5Na2gxY2pibUpnSTVBbWY4cEhwWUFJeVpQRHp1WUs0LTh0VFpwbDd0b0lLZXA5dktOX2E2YU1penVwY0lpclAzeDVCUGlrbkFJUklkMk1JVVpxd3lROVNLMWp3N1ctcmFWeUE?oc=5",
@@ -23,7 +36,7 @@
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qOVZINHdkM1BvblF1LVY4TzJZRzRtRThCSG5qVS1BMDRmNjVHbFZjZnU3TGtUWXNPWjFieDVPMjZmYURCdWJCVkNmRDd0bkFkTzVxZFl2N1VCZzA?oc=5",
     "date": "2026-06-06T16:52:27.000Z",
     "source": "汽车之家",
-    "image": "",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M07/9F/DC/autohomecar__Chto52ojzrCAZ_AjAANB58Nuh6w89.jpeg",
     "category": "auto"
   },
   {
@@ -151,6 +164,15 @@
   {
     "title": "【视频】别被颜值割韭菜！小米YU7粤港澳车展，性能家用兼顾很务实",
     "description": "【视频】别被颜值割韭菜！小米YU7粤港澳车展，性能家用兼顾很务实",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdTA3UWMyOWIybEh5V21BSWttUXp6Tk1UQmdUQjUyZmpUWG5CMjV0UmxoVmt4ZjF5WW1iZ3pMQTdtaGdtUHhPYWZCb24wbF8xYVQyNno0dmNULWM?oc=5",
+    "date": "2026-06-06T12:22:50.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "【视频】别被颜值割韭菜！小米YU7粤港澳车展，性能家用兼顾很务实",
+    "description": "【视频】别被颜值割韭菜！小米YU7粤港澳车展，性能家用兼顾很务实",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjcWIzak5KRjY1NTRRUTU0d1JEZ0tKbDZCLU9JTHpRNGZqTUdtdldYZmk5UmJsTWdfaXBKYkdBVkFUQUVKZm90NWloSW8zUXNvWGl3RVB5SHFjR0tKRUJFZkpXd0pRMjhaSVk4?oc=5",
     "date": "2026-06-06T12:22:35.000Z",
     "source": "汽车之家",
@@ -185,7 +207,7 @@
     "description": "雷军转发、评论了陶琳微博",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9la2dUa1k5TW9pVWdnUURmZkxILUpUSGd1bDJ6YlBFTGRaenQ1QkRrclRDdzlPbEVhNHlMWXE0c1NfbTFQVnhEcEVtUmhSaVd0Q044aWVoTjd1X2xYQVJBY0hTWnRfZ0lKVkRlUm9WOWV5T3VrNWc?oc=5",
     "date": "2026-06-06T11:15:00.000Z",
-    "source": "新浪财经",
+    "source": "Sina finance",
     "image": "//n.sinaimg.cn/spider20260606/381/w636h545/20260606/2636-2e1a1c86333b52d2d7e745a109a4c9d7.png",
     "category": "people"
   },
@@ -2473,7 +2495,7 @@
     "description": "小米汽车：升级 HyperOS 1.16 版本后，YU7 Pro / Max / 长续航版均搭载 XLA 认知大模型",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaE9aZ3c3S3lIb2lYTU16bFZwQURLVHBPb2c0SWc3bDJZaXhiYUJXb21ldU1PUnFBNVo0dFVUZ2E4ajI5OXoxX2xvRmpoYkNkSkJVSG5tRC1Jcko2ME9zMUxwVUNSVXJTSEVlaEJ1cUZpQUVMellpOHlDVE5mNkk?oc=5",
     "date": "2026-06-03T14:14:00.000Z",
-    "source": "新浪财经",
+    "source": "Sina finance",
     "image": "//n.sinaimg.cn/spider20260603/398/w1280h718/20260603/43a4-aae03f73a315baf2f8303c698644a274.jpg",
     "category": "software",
     "updateVersion": "1.16",
@@ -4559,23 +4581,5 @@
     "source": "新浪网",
     "image": "",
     "category": "auto"
-  },
-  {
-    "title": "小米汽车5月交付超3万台_新浪新闻",
-    "description": "小米汽车5月交付超3万台_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByLXNyQkFUQkdxaWh1RHlGTXotWE0wQ2RlbDJEYkV4dUMxUWdaeEZFM1EzdXFjOUk1SDJvQjk0VzJOYzdLWEFka0l1ZnZZU19mTzVtV1Zla3RwSjN3LUNPZllNTQ?oc=5",
-    "date": "2026-06-01T02:47:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "利润下跌，但小米的底牌还没出完",
-    "description": "利润下跌，但小米的底牌还没出完",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90dHlqUUZLeDg1bGloUnZITGIxYThyUEEzekdfMDhjYzUwN2pjQnFQVWNvNnA2cUxWTk9IYVk1bFFOTG5Lc0xrcXhLX3RkanptMVdFTlVGVU93Zw?oc=5",
-    "date": "2026-06-01T02:42:21.000Z",
-    "source": "Moomoo",
-    "image": "",
-    "category": "phone"
   }
 ]
