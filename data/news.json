@@ -1,5 +1,275 @@
 [
   {
+    "title": "为首款 NAS 铺路：小米智能存储 App 上架，新品外观示意图曝光",
+    "description": "为首款 NAS 铺路：小米智能存储 App 上架，新品外观示意图曝光",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0VSdjBabUpuVVZYSVkzWkVNTFozLXppX0FvUUdYdEt2SzZKYTlyakhBMlJld3VQVmFMX3RPb1Y0R0ViOXptMUYtUzJ0bHFob0RfaEVvSERVdlROQkRGd1hxQWtGMVcyMmVoUElETVBwYlJjTWI2WEYxSTNKNS1RQ01OSEQxVWdnZE1od0VLNDdDZ0Fv?oc=5",
+    "date": "2026-06-09T04:51:02.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/spider20260609/175/w709h1066/20260609/9ef5-5aaf5198ee37483a7546cd07ce906d3f.png",
+    "category": "iot"
+  },
+  {
+    "title": "实话实说，小米汽车被全网拿放大镜找毛病，但扛住了",
+    "description": "实话实说，小米汽车被全网拿放大镜找毛病，但扛住了",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRk40dHNmaUtUM2pJMUQ2MDhhaFNrSzZPWEphcmhnbkFWSG1vSDlrUElabGVjUmtZdkhEbHhXYXp0WlpzS2JtTzltQUp5ZC1mbTJQcE4yMGlYbVkwdnFpMTZneTFFTEg5TE1vVVpDSXd0cTJ4dnNlb0MzRnc1MkZYNk5qSlZyNGozYk5nZg?oc=5",
+    "date": "2026-06-09T04:07:08.000Z",
+    "source": "搜狐网",
+    "image": "//q8.itc.cn/images01/20260609/4085d66be30d4182a49aaf76a900e06c.jpeg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军增持金山软件600万股 小米官方：非个人买入",
+    "description": "雷军增持金山软件600万股 小米官方：非个人买入",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93TEQ0SHRtTE1BbkViR2gwX1BtVmotWVYyMnJZWkF0RnZJT3VsX2lYWGNXeU5pX1ZoMC1IT3ppME1PWFBRUGE1RnJQNmx3Z0NEMmFOTTk0R3E0Zw?oc=5",
+    "date": "2026-06-09T04:04:14.000Z",
+    "source": "Moomoo",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "China’s exports jump 19.4% in May from a year earlier, despite Iran war",
+    "description": "China’s exports jump 19.4% in May from a year earlier, despite Iran war",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVdFakFHTFRSUnlDTDFFVTBPMm9GdGxCZFBaaFpSeG8wU1lfb0N3Nk5nRFhkNU5aVWdJeU42dnpPeHp2cGgycC1hS0hsMTZsQWx0RmlqZ0ZZTHM3Z1Z1OUZsRC1nV2lvTUc3bW1mclVaNnlGdTBjcGhNMHY3VjJaNVBSbjVCQkRTY2ZTRWNid0hTeVh3bGVVSklMWTJ6UXpxcS1KNldB?oc=5",
+    "date": "2026-06-09T03:52:27.000Z",
+    "source": "New Haven Register",
+    "image": "https://s.hdnux.com/photos/01/34/02/56/24128430/3/rawImage.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米：Xiaomi MiMo携手TileRT，1T模型首次突破1000 tokens/s输出速度",
+    "description": "小米：Xiaomi MiMo携手TileRT，1T模型首次突破1000 tokens/s输出速度",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejcxVDVqdTRpMEw5d2xxclkxX1c4STV6QzlRSzJYRWNGQVFnbGkwcHJZTmV3Ri1ranJwVHg4QVRnMHNwNjNweWMybk4xeWNzQ0FSY3BqZ2EtT1o4YkdyQVVkbXNaSVRHMHd6V1p1cFV2ZzJ5M1FRbkVyNUozWVRWcUpEUXVHMDExcG13aQ?oc=5",
+    "date": "2026-06-09T03:48:00.000Z",
+    "source": "搜狐网",
+    "image": "https://q2.itc.cn/q_70/images03/20260609/bc4f406d18dd43bcb69139f1195aad34.jpeg",
+    "category": "iot"
+  },
+  {
+    "title": "小米AI完成三项重要突破 Xiaomi MiMo-V2.5-Pro-UltraSpeed刷新全球推理速度",
+    "description": "小米AI完成三项重要突破 Xiaomi MiMo-V2.5-Pro-UltraSpeed刷新全球推理速度",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EZjNlVkJBNjRhRWZiRDd0ckxUQlFyUUhlZlJOb3RkS3dqWFdGVmdYV3lLZFp3NnNYbVdkdFZ1TlNDOEU2bTUzU241RTgtdWtoNU4tU19rQUVMUQ?oc=5",
+    "date": "2026-06-09T03:45:00.000Z",
+    "source": "Moomoo",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "【视频】小米SU7 Ultra起火事件跟进最终原因待消防鉴定",
+    "description": "【视频】小米SU7 Ultra起火事件跟进最终原因待消防鉴定",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JNkNrMEZIYnVsQ3V5aFVpODB2d05XeElDOVp4WWxYbHZvMmI2NGJDRmxvX09sZHFTdE9fczdIU1BQS3VkOXZxYUh3cVFOa0JpYWRicUxsVWlfQWc?oc=5",
+    "date": "2026-06-09T03:42:08.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi EV delivers 32,759 vehicles in May as YU7 continues to slide",
+    "description": "Xiaomi EV delivers 32,759 vehicles in May as YU7 continues to slide",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOenZYeGtudnpMU2lJNGlCTnA0b25lR3NOVXgzVFVMVHhQb3dCMHV6cDdaMjBEZ2lyS0trX0l3TWpsRWFjenFfWVZzY2tNei1YNFpyRnZKdFVIM2V2M0tVb1NUUTZWanhtLXB5T0dodGdGVVpOY21GYzI2aHljRTU3MA?oc=5",
+    "date": "2026-06-09T03:40:00.000Z",
+    "source": "CnEVPost",
+    "image": "https://cnevpost.com/wp-content/uploads/2026/06/2026060903361195.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "【视频】小米回应SU7 Ultra起火初步排除电池自燃",
+    "description": "【视频】小米回应SU7 Ultra起火初步排除电池自燃",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdWVkTVBoSEp4Q1NmckE4Z3VqUlQ3aXI0TUNLSEs3WW5FSnZteF9jMDg5alJYdUNUOTR4T3ItS1NJYWxWMjhtM0tpZTQyOUlhNmhTTFZYNkZlNUU?oc=5",
+    "date": "2026-06-09T03:31:38.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米回应SU7 Ultra起火 初步排除电池自燃",
+    "description": "小米回应SU7 Ultra起火 初步排除电池自燃",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEhvSkRHWGNYM0xNYTNqbVp1UmFBVF85R2REWExQTTFONWFLOWZFX1NtdGdYN201UXg0aG5jMVpHRnEwWVFhd3FzT1l2dDM5ZFFkNXBuSW9hSy1lS01SbndVbDZEUmJPd0MydU4tb2RZS3FTbDdwRHEtU3J4bXRhb3d3bFo1blky?oc=5",
+    "date": "2026-06-09T03:29:10.000Z",
+    "source": "搜狐网",
+    "image": "https://q1.itc.cn/images01/20260609/a89ef4c158c6460c88eab70eaad81cf0.jpeg",
+    "category": "auto"
+  },
+  {
+    "title": "小米大模型上线新模式 推理速度突破1000 tokens/s",
+    "description": "小米大模型上线新模式 推理速度突破1000 tokens/s",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qWlZObW5IQy1tbl92RV9mSC1FT0M1Zkg4dFhBUVIxVkNsTEtkdVdUYnBhUHZ2R0trZWxBSWxGOWRkaDhaSGJCeHJ6QkpuUEtfMmxfOXBpc19oTVlhNGpLdnVFSWI?oc=5",
+    "date": "2026-06-09T03:17:00.000Z",
+    "source": "新京报",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "小米SU7 Ultra起火调查",
+    "description": "小米SU7 Ultra起火调查",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXUVp0MFRPTjU5cnVKb3htOENRS3UyRDRuT09mMkZ4VVlZVmRKSmxvRFlfcHpPRlhfVzlwdnNEVnJEZkc5YmJjbUNJS0o?oc=5",
+    "date": "2026-06-09T03:11:55.000Z",
+    "source": "凤凰网汽车",
+    "image": "https://x0.ifengimg.com/res/2026/2DCB25C37BDD4F7C6C875354E92061EB8FCFFD9E_size79_w1200_h799.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "2549元起！来京东618下单小米17T系列享至高6期免息",
+    "description": "2549元起！来京东618下单小米17T系列享至高6期免息",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PcTJ1U2ROeHJvME9sMlFoSTA1SnQwMTdyV2IzZjB3RERDMThWWnRmdzRiY3lDSkdmaXZjQ1hpRU1WM0p5LVZTWVFoODUtQ0VVWW1wQjVOUWo?oc=5",
+    "date": "2026-06-09T03:09:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260609/33e66cef73a04cafa04a49ed698e9182.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米上线MiMo-V2.5-Pro-UltraSpeed模式",
+    "description": "36氪获悉，6月8日晚，小米MiMo技术团队正式上线Xiaomi MiMo-V2.5-Pro-UltraSpeed模式。据了解，MiMo-V2.5-Pro-UltraSpeed通过对模型推理系统的全链路工程能力优化，在不降低模型能力前提下，首次把推理速度提升至1000 tokens/s，且无需定制芯片、只使用通用GPU即可达成。",
+    "link": "https://36kr.com/newsflashes/3845358573144581?f=rss",
+    "date": "2026-06-09T03:01:01.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "小米17T系列6月8日国内正式发布，2999元起售",
+    "description": "小米17T系列6月8日国内正式发布，2999元起售",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FS0hvOFdWVlFPQXVVNDhIYU9hRGRxX2puWWJ0MmJYTWZhSF9CLUx6SmYxMXZfNjJfcmZRRzl3VElfODViNFZwLTZaNFRKZ0RfVFhGMW5fTGNBaGhLZUE?oc=5",
+    "date": "2026-06-09T02:52:59.000Z",
+    "source": "DoNews",
+    "image": "https://www.donews.com/static/image/logo-donews.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "二手报价42.80万 2025款小米SU7 Ultra 表显1.5万公里",
+    "description": "二手报价42.80万 2025款小米SU7 Ultra 表显1.5万公里",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAybDgtX0dUS181YTRDTEVUOEtFMExkNnE3X2ktQUdQTzBlT2N3NXBoUl9RZU5Qc1FvOVN6M0FScTJ3NllJMnJmMjlwQWdzWkJFNFFRQXM1c21mbm8?oc=5",
+    "date": "2026-06-09T02:50:41.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米SU7电吸门变“咬手门”！官方客服回应_杭州网",
+    "description": "小米SU7电吸门变“咬手门”！官方客服回应_杭州网",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rZ1BKRVJOTWlEd2xzdU4zbXVmTXB0MWM5NDRZQ2RXNklxTlVudDJiOWpIbzZQYVhJQ3NZcWxuUUNHWlBPUjNoWVRieDloVTBiZlBia290TmlGTXh5LVFxTDg0U3dBak1qQVpzZmZEZUpaNGxoT3BHVnN2RGV2UQ?oc=5",
+    "date": "2026-06-09T02:40:26.000Z",
+    "source": "auto.hangzhou.com.cn",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "$XIAOMI-W (01810.HK)$ [Cry]",
+    "description": "$XIAOMI-W (01810.HK)$ [Cry]",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wNS1lc1BnZHMzQ3hwZGZBc1Z0U01aUTNXRzVZV1EtZ3ZIUi1BTTJVSEVCV1lScGlDd2tNbmxYeU95WlV3NFNUU1VyRkdqc0tPQnRKNTQ0SGdtQjdYSmpreDhuNUM3YVlXdGl2cVRXTG1WbElJbi1RTENKbw?oc=5",
+    "date": "2026-06-09T02:39:16.000Z",
+    "source": "Moomoo",
+    "image": "https://sgsnsimg.moomoo.com/sns_client_feed/106424315/20260609/1780972753640-random6863-106424315-android-compress.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+    "category": "phone"
+  },
+  {
+    "title": "小米推出米家即热管线机制冰版，6月15日首销价2969.1元|冰块|净水器|制冰机|价格|活水_手机新浪网",
+    "description": "小米推出米家即热管线机制冰版，6月15日首销价2969.1元|冰块|净水器|制冰机|价格|活水_手机新浪网",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVd5OC1MT3FrNzdVWUpsRl9tMHZTZ0daVTJSd0I4dmE1eXFtbFRTWTZJNmRrb3hqb0hQVVNMU0pvcGpkSVhPT01FQVF0WjJzRnNjUkpCcHBkdW9lTWNPbE9rcWhyWGdqZThlSFV5cjdBUWZBWmx1VXFMMmRIR09ET0RwY2pGdW5BTGgxN3FrcGxEdzFuQlI5MWlUX0tFY1gyRTJLWHR3MA?oc=5",
+    "date": "2026-06-09T02:38:11.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260609/573/w660h713/20260609/b660-1f68668ddd97800c0cbc07dc50eab792.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "不知不觉，小米电视，又杀回中国第一名了？",
+    "description": "不知不觉，小米电视，又杀回中国第一名了？",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZ4WnB6aWRoSktNc2FrSUkwZU04ZkNOR2dhYnB5WlcxdUtzVlg3Z1oxTE9uSHZFZlRWWndFZmN1OG9rOFJQeW91LV9PMnZwYXNzdzlXLUJheG5IWHNvQUI5ZkRuM09mWHVYZ1A5Z2w0MzN1OVJuWXFEQ2E2b1dfWm02NHlWT20wQkxfcA?oc=5",
+    "date": "2026-06-09T02:29:28.000Z",
+    "source": "搜狐网",
+    "image": "//q3.itc.cn/images01/20260609/0fd42b71ac1b4370a1f80edeb65c2638.png",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi SU7 Ultra catches fire in China; data confirms battery did not fail, company says",
+    "description": "Xiaomi SU7 Ultra catches fire in China; data confirms battery did not fail, company says",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0VVa3gxMVpUWFJlQ0pxZ0QyOFdXYklwWndEcmlWdDNMZzEzSWQtd2F6ZGFkVEtmZkFQakNlNU1pSUFNVUNMaHhxNDE1aEhNZUNESGx6eXpxb3lycENDOWlFci1GajNtQm5OUG9CUFdRS2tyNVJUTzZzbDdYbENodUdSLTVSSXFiUXUydWpPRFBCc1JJT3p5Ykp0NktYU0tzemk5OVZRd05DallhWmpuU1lGRnR5emwwcFpQSG9uMmo?oc=5",
+    "date": "2026-06-09T02:28:00.000Z",
+    "source": "CarNewsChina.com",
+    "image": "https://carnewschina.com/wp-content/uploads/2026/06/e59bbee78987e5a484e79086e99c80e6b182-9-scaled_webhook_1350x810_q85_1780972124.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米SU7 Ultra 起火，雷军曾称该车型是向超高端进发的开始",
+    "description": "小米SU7 Ultra 起火，雷军曾称该车型是向超高端进发的开始",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jeEg1YktiRXZWbE5vU3c3TzdrMHpIekNwODlHa3ktRURDWUhYRmt0WHg0Sm9nTkZITkdnQ2FMLVpvcTlmQ2lrUVlDTV9UcGRCcW9ELXFyZFpOMVkzS05tNEJMdFg1aXJHYVZTZEx3?oc=5",
+    "date": "2026-06-09T02:20:32.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米官方通报：小米SU7 Ultra南昌大桥起火，非电池自燃导致_新车上市",
+    "description": "小米官方通报：小米SU7 Ultra南昌大桥起火，非电池自燃导致_新车上市",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qN2FyZzhOMkdLV1AzMVNRcVlxN0dIRi16TTNCeUo2NS1PLWk4S2Jzb1ZLMW1jb2pVQ2Mzbm1CWHJEQXdJd0JVNjM5akFqT3N2bjNOMFVENG45Tkp1UldzSldoSTVYZTA0WXNMRQ?oc=5",
+    "date": "2026-06-09T02:18:10.000Z",
+    "source": "中金在线",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米汽车5月交付量持续超过30000台",
+    "description": "小米汽车5月交付量持续超过30000台",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWk0wdldlR09oWlpmUzBjWkdxSTZiYWo3d3ExVlZTWVkwajJ4WUhQV0VLbXp0WFBFQkxmdkhWaS1wQnVpSmZyS0hXNHBFelh4RkM4Mk9NUWM?oc=5",
+    "date": "2026-06-09T02:13:47.000Z",
+    "source": "国际充换电网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米公开增持金山软件，徐洁云：是集团增持，并非个人买入",
+    "description": "小米公开增持金山软件，徐洁云：是集团增持，并非个人买入",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZTYxcVp0UnZNeGxZMmp5N3VpZFNfMGNOM2ItUnFsUnZMeGNCYjVNQ0hNc3ZLUGxyRWlDRVVRUlJidjV5YTJtUWVhNXNvOXJPNnB1VGUzbU5WZlVRZ2FIRENBc0hHc0stcnZWWTFwWWd0SlRGeWhpMllWLUROZWVtZnJtRjZZeDRSOWhkdzhfSkVjc3E5NE1iblhwWFkzVlNoemZZMThWVQ?oc=5",
+    "date": "2026-06-09T02:00:11.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260609/288/w632h456/20260609/c5da-c5c7efe0b7c9ad06f8cbdd36dcdf0e1b.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米公开增持金山软件，徐洁云：是集团增持，并非个人买入",
+    "description": "小米公开增持金山软件，徐洁云：是集团增持，并非个人买入",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10azJURnNpN3E3ZWpxLTJaRTVURVRDOXAtNWlMYmNuWDhCd1JZRmRndUV6TnllNFEzTkMzZjUyVS1DQ0dPOElhbG1PUVl2TjRoN3Mxa0Vrb1YwLWxtNzVnaE9pTmRLZDg0QkVJNF9oNE9FRmpmVXZ2Z3pfQTk?oc=5",
+    "date": "2026-06-09T01:39:00.000Z",
+    "source": "Sina finance",
+    "image": "//n.sinaimg.cn/spider20260609/288/w632h456/20260609/c5da-c5c7efe0b7c9ad06f8cbdd36dcdf0e1b.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "TCL华星供屏小米17T系列手机开启全能影像旗舰好屏新体验",
+    "description": "TCL华星供屏小米17T系列手机开启全能影像旗舰好屏新体验",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaXR3R0FNdlhoMTFqbDZhckU2WVdfYWNORWhVWHdIZnJlc0hwYVU3YXNoQ2N6TVJBR201SzFhdDdnNXpFVkFBY2JDTVRQaTBRMDU1ckVwOGxoOWR5VWR4TVRhTEJXREM3VklrYWUtQ3V3U2pGb3l6SHpoRmNTWHNNX1NkdnJDSG9Jbmt3RDVwQnJqRFFjMGNfX3B1MUhQcmNwTzRLM3hURDNtVFRpQU5GcTBnb2hHN2Rxc1F4VWpkYThLNW9tRVdHWlRQUlZvbmhicVEySlk2V2lrS3lKTzNBM2RDeG9OakhnM0NPMnBOUnd1X0V1dUJZTnBlZjhrSUNITjlsaVlB?oc=5",
+    "date": "2026-06-09T01:30:00.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/spider20260609/136/w831h905/20260609/53f2-44557c522c763339aff8fd391bd123f2.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "汽车早报｜奇瑞回应“与塔塔集团相关合作”小米回应江西南昌一SU7 Ultra起火",
+    "description": "汽车早报｜奇瑞回应“与塔塔集团相关合作”小米回应江西南昌一SU7 Ultra起火",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81VURRNTRXZ2hlNFA0R3IwUVdFbUtoV044TEQtV3BORmI2VzlmRXlELUUzODRvcTBuOG0yVUpSY19fYUNNZ2pRTVZ1VWlvaE9tamo3Y0pxc1M?oc=5",
+    "date": "2026-06-09T00:38:53.000Z",
+    "source": "Jiemian.com",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米寻天增程SUV视频流出，竖条转向灯设计曝光",
+    "description": "小米寻天增程SUV视频流出，竖条转向灯设计曝光",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVThqZzIwQmhVckp5WGRYbW14alB1TU50c253UkZJZlVqZDFNNUMwRkNkN09QOGRKd0lKVjdzaG9pdWMwTXVDVUF4RUhBa1hQd2NmX2l4aV9ONjMtbDU3ZWEyT3FjTUx0RlZmcHplaWxkVXFJRzhOTksycWpzT2ZyWHlYNURQcXpJeDdpNW1MNkFTQWNGMWZDdGRxMWJSXy12TTl1dFpsMGhWSURXblprOTN3?oc=5",
+    "date": "2026-06-09T00:33:27.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260609/209/w600h409/20260609/ceae-3be2d3dae3c0e8034cae45f822cd67cb.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米发布MiMo-V2.5-Pro-UltraSpeed：生成速度提升10倍！突破1000 tokens/s",
+    "description": "小米发布MiMo-V2.5-Pro-UltraSpeed：生成速度提升10倍！突破1000 tokens/s",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lV18wb1JZUHhrNlpsSHBDaldPeWlrTHVQZmZkSmNnR3NGaVcxU3hhemFmVDRYVDFoaDJ2MHBEeFkyVVRTNjhnS3V5aGxBT1RaQWVtbHdtYVg?oc=5",
+    "date": "2026-06-09T00:18:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260609/d375cfac28bf4e9486003c24b8dc1f70.png",
+    "category": "ai"
+  },
+  {
     "title": "Xiaomi SonicBass 2: Rare headphones now available for order in Europe",
     "description": "Xiaomi SonicBass 2: Rare headphones now available for order in Europe",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcURhRzBjV3dsZFQ0b2tfSDBmNEQ2ekIwLW5rOFh5TmhLMGV0cVdJWnZ5N1U1TTNObWY1Y05OTVhlaTk5c19ENnZtYm85R2lGTVdDUm5JTWM3a1JoZ0ZNRktfYXBhcjFiM1lmekZYLWRpdE1hc1ZIdmh5bVN6M1daQjcyM0I5MlpYM1pSbkRHck5GdXFfV0FiNWNZUUtJVG1KMXpJM2xoc3JZcDRrV0lWNUFLSQ?oc=5",
@@ -20,11 +290,11 @@
   {
     "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
     "description": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHhscVRJd0VMbVFvOHQzczkyTzJvbkQ2QXhUaTB5NjFnX2JIM2JYUHBmRDFfOXhLdllpN0pLdGxOejF1Qk55LUR4Z1hPRi1nQW1nWW9teDBsM1EzRVBMaTcyd0RwdnViclBXV1NCS0tWU2lBTzB3Qkd4S2I5ek9GY1RtY01DZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHhscVRJd0VMbVFvOHQzczkyTzJvbkQ2QXhUaTB5NjFnX2JIM2JYUHBmRDFfOXhLdllpN0pLdGxOejF1Qk55LUR4Z1hPRi1nQW1nWW9teDBsM1EzRVBMaTcyd0RwdnViclBXV1NCS0tWU2lBTzB3Qkd4S2I5ek9GY1RtY01DZ9IBjgFBVV95cUxNOThRSGVITnlkR2RiRl83UzFxc1E2VWFCdkd2dl9xTV94YS1PTWxZTy1ES2ZjcXFJMjk3Zm13cWpJMmJ0UDBxakxONTlrdm51SHVUNjd0VHRUWmszbnU3Skt2UDhpUXVVU29FX3ByOUxBaGMxUjJ2ZjRmc3lIZ0ZmU2doeXYtS0dFY0xaNi1n?oc=5",
     "date": "2026-06-08T20:57:07.000Z",
     "source": "Decrypt",
     "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png",
-    "category": "ai"
+    "category": "iot"
   },
   {
     "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
@@ -34,6 +304,15 @@
     "source": "Yahoo Tech",
     "image": "https://s.yimg.com/lo/mysterio/api/651485cc2bb0b15eeeb51ee1efc88a86e4f22f93dd7ddbeaf7e0cf62719678e2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fd0c1e0fefd2da41c1af9155fcd2c2dc2",
     "category": "iot"
+  },
+  {
+    "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
+    "description": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHhscVRJd0VMbVFvOHQzczkyTzJvbkQ2QXhUaTB5NjFnX2JIM2JYUHBmRDFfOXhLdllpN0pLdGxOejF1Qk55LUR4Z1hPRi1nQW1nWW9teDBsM1EzRVBMaTcyd0RwdnViclBXV1NCS0tWU2lBTzB3Qkd4S2I5ek9GY1RtY01DZw?oc=5",
+    "date": "2026-06-08T20:57:07.000Z",
+    "source": "Decrypt",
+    "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png",
+    "category": "ai"
   },
   {
     "title": "小米发布MiMo-V2.5-Pro UltraSpeed模式，3倍价格10倍输出体验|xiaomi|MiMo大模型|官方|系统|限时免费_手机新浪网",
@@ -259,6 +538,15 @@
     "date": "2026-06-08T12:26:00.000Z",
     "source": "雷科技",
     "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米增持金山软件，高管回应：坚定看好金山长期发展",
+    "description": "小米增持金山软件，高管回应：坚定看好金山长期发展",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWlVHZ0VRd0xQelhxSTYzSnhnaklSVS1hS1VrRGRENDlEZ1RXR0JYdjdmQklkWkZUMEdBUTFqRlBhVVQxUFVKcGc0SXhXNVNtQmctbWhMTW1TZDhyXzJSNg?oc=5",
+    "date": "2026-06-08T12:23:15.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
     "category": "phone"
   },
   {
@@ -4284,305 +4572,6 @@
     "date": "2026-06-03T18:57:43.000Z",
     "source": "新浪财经",
     "image": "https://n.sinaimg.cn/spider20260603/740/w660h880/20260603/6691-e3a88f0f0d1689dfb26c7dcfae3ec969.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "小米弯命名纽博格林_新浪新闻",
-    "description": "小米弯命名纽博格林_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96YjhFeEJFY2Y3NW45VEdRR1luWmpMdUE1cEdxMHVTZnRjX1VjcER6cXhGVlUzaUVTUDZkSk9ZQUJxd0xzSExFbjMzLUNmZ2E5NHpCUVdvaFFBLTlpZTFSbWVEaw?oc=5",
-    "date": "2026-06-03T18:41:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "握草，小米SU7 Pro的续航太强了，胖哥直播实测2800里中间只充一次电挑战成功，也就是1400km只充一次电完成，上次雷总测试1300公里还是保守了，这就是小米汽车的实力，谁不服谁去干，胖哥这次可以放心的去旅游了，然后顺便测测辅助驾驶啥的，稳了…[赞][赞]",
-    "description": "握草，小米SU7 Pro的续航太强了，胖哥直播实测2800里中间只充一次电挑战成功，也就是1400km只充一次电完成，上次雷总测试1300公里还是保守了，这就是小米汽车的实力，谁不服谁去干，胖哥这次可以放心的去旅游了，然后顺便测测辅助驾驶啥的，稳了…[赞][赞]",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NYVJaaXRmRjRvTWV3eE5JclVfSTNTc3I2eHZWZ3VIRm96RkNIOE5seGFuSlNUcjZmWHNSZWRIN1M1dGFLZUY1LXZLbDJvWGU1WGNvc0txZXJ0YkxZakdELVU5MA?oc=5",
-    "date": "2026-06-03T18:09:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "【视频】雷军神助攻方程豹展台",
-    "description": "【视频】雷军神助攻方程豹展台",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSk83Q0Z5SEVTNGVCZVEyTjl5OTcyMUhfSkhvRkZycnJ1d0t3YTdhQnpDWmtlY290dFF4R3VmOWViTzBDMDMwcXIyZ1lLdHBEZ3BjVEJ0bGJ4V1E?oc=5",
-    "date": "2026-06-03T17:10:13.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "Oppo and Vivo Are Fast-Tracking Flagship Phone Launches to Fight Xiaomi: The September Showdown",
-    "description": "Oppo and Vivo Are Fast-Tracking Flagship Phone Launches to Fight Xiaomi: The September Showdown",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTlQaFFpek1wVm5ZckVaQjA2U1l3UUg3dmV0S0tzRE4wUUZwOHZOUnJ2azlnWGkyemRleHFzekdab2EyZzYyeG40dEI5Q2Fub0x3YlNCZm10NUlfU2JHNEZTYVlrWVdyMk1OT20yMi1zU2RDbVhOd3dvN1pEOS1SM0ZQLVZmYmJRajhDNFJTZGhYNVVtMWt5WGpNSnVSUlU3cXpYVjR3Z1dHYkswNzB2QQ?oc=5",
-    "date": "2026-06-03T16:26:45.000Z",
-    "source": "Android Headlines",
-    "image": "https://www.androidheadlines.com/wp-content/uploads/2026/02/AH-Xiaomi-17-Ultra-image-27.jpg",
-    "category": "software"
-  },
-  {
-    "title": "全新旗舰！小米新机官宣：6月8日，全新登场",
-    "description": "全新旗舰！小米新机官宣：6月8日，全新登场",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeE51QjBQUjBVZ01BTTFGbFU5VWo1QU1WVDlJMXoxcTNNWmhmT3dKZnhqalJ1N180LW9ndFFPOUc5NGZoSGtvX2NpZzJPVF9Ma1pzOVpyTmZmdC1HVDluWnc5UlFxM25YdEVYQVloOUd6OFNubF85WXlFTzFlb1RBNHpxV1g4UGZDSk9PSw?oc=5",
-    "date": "2026-06-03T16:05:30.000Z",
-    "source": "搜狐网",
-    "image": "//q5.itc.cn/images01/20260603/9d64fb5d0289432aa47af86b3e5f146d.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "雷军宣布YU7行车泊车辅助获最高评级！五星Plus，网友：敢像比亚迪一样兜底么？",
-    "description": "雷军宣布YU7行车泊车辅助获最高评级！五星Plus，网友：敢像比亚迪一样兜底么？",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01bHNpYjVWeDhhRzhVRkJYcnF2Q2ZhTDlVd1p0VjFoYTdwMjJzcFI2RW0xdWpudmdCLUwtRHFhTnF2NTctNGZGeTREZlRYLXMtVVdrT2VqNjlabkdQQmNxSnRROUxrcVg2VXlpRERfYjFJWjd2anc?oc=5",
-    "date": "2026-06-03T16:01:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260604/299/w1080h1619/20260604/5776-f4c52571eb2d36f7f5c1123f028485db.png",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi Bought Back 3.5 Million Class B Shares For HKD100.3 Million On 03 June, HKEX Filing Shows",
-    "description": "Xiaomi Bought Back 3.5 Million Class B Shares For HKD100.3 Million On 03 June, HKEX Filing Shows",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRERLd0F3YlZ6dU1TQlNqTkQ0T3dlVUtDSFlaTWNiaUZwbXJlU3BWNmpzQUZ5T1Y1U1ZjemxNQzRLSkhwazlRaEJMVDRSdS1pdVhMejhtb1NyaHRrNTRZaHVXQnRhMVRSNWR1NUtrOGwwRGROWjVVUGVZWUlIYlV0cldza0FHWFRDck13NmZTb1dyYjg3SGJWb0JHTkxuNWhSTXVVQ1IwZjVTYkw3TXBEYW5zNVd0cmxEN1JTbjlnRjdLT3hMb3dIQjNsWTNyVjVEMFM0NXZEamRNdWRyd0U3WnY2NzZBbDJPRDk2eGN2VjFDSnFUZ1U0Yw?oc=5",
-    "date": "2026-06-03T15:29:47.000Z",
-    "source": "TradingView",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi releases award-winning wireless soundbar and subwoofer in a new country",
-    "description": "Xiaomi releases award-winning wireless soundbar and subwoofer in a new country",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2txbXdNRE5TVGU0N3BqRzdrOXcycVBTMk5aOWZDWlFiRkpKWUlaZEc5clNLMHNmZXpzQzNacndmX2hTbVVVcy1FWXNpWDBnU2h6d2xmN3BNM0lmTU5Sb1hobjJycWNhampQUVdXNWFXVGt3N3cxY0IyeUdTRXlsLVRpLXBNVENjUzdfSEZSRk1odXFHWW5WUUVBRDBidDUyRDM2a0hmOFE3OVhjWTAyVzZOWloxOHFSZjdjRmZHZHk?oc=5",
-    "date": "2026-06-03T15:29:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/soundbar-pro-21-channel-release-kv.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "《我们赢了》@小米汽车@雷军比#雷军直播全程1313公里只充一次电# 还要高[doge]来自民间测试，真实车主，@快快变小-胖哥实测新一代小米SU7 Pro续航19寸梅花轮毂满电出发，空调22-24℃到达终点站全程开了700km剩余电量1%上坡0.2%电耗:14kWh/100km新",
-    "description": "《我们赢了》@小米汽车@雷军比#雷军直播全程1313公里只充一次电# 还要高[doge]来自民间测试，真实车主，@快快变小-胖哥实测新一代小米SU7 Pro续航19寸梅花轮毂满电出发，空调22-24℃到达终点站全程开了700km剩余电量1%上坡0.2%电耗:14kWh/100km新",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFWHFiZUE0dGlYSWlyTmxGOC0xVmxSQmZEaTVlSzVpMFR6SllZZE1YanVoaWRDcE9hTnN5XzBGSVpjSEp2MDdQVllNWVZEZGtCOUY0dmlwRThMXy1WWGlMb1E1WQ?oc=5",
-    "date": "2026-06-03T15:14:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米汽车：升级 HyperOS 1.16 版本后，YU7 Pro / Max / 长续航版均搭载XLA 认知大模型- 产业链",
-    "description": "小米汽车：升级 HyperOS 1.16 版本后，YU7 Pro / Max / 长续航版均搭载XLA 认知大模型- 产业链",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IeVZ0bURBLU9SRWhKVDQzVjVXS0FDRHloU1BScExuNTJkUlNwOWFwTzlRSzNQTl9qc0FvQ1A4TU9CN0FSRm8yX0JtcUNBOHBfaVo2SnZn?oc=5",
-    "date": "2026-06-03T15:03:06.000Z",
-    "source": "光通信Pro",
-    "image": "",
-    "category": "software",
-    "updateVersion": "1.16",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "小米汽车：升级 HyperOS 1.16 版本后，YU7 Pro / Max / 长续航版均搭载 XLA 认知大模型",
-    "description": "小米汽车：升级 HyperOS 1.16 版本后，YU7 Pro / Max / 长续航版均搭载 XLA 认知大模型",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaE9aZ3c3S3lIb2lYTU16bFZwQURLVHBPb2c0SWc3bDJZaXhiYUJXb21ldU1PUnFBNVo0dFVUZ2E4ajI5OXoxX2xvRmpoYkNkSkJVSG5tRC1Jcko2ME9zMUxwVUNSVXJTSEVlaEJ1cUZpQUVMellpOHlDVE5mNkk?oc=5",
-    "date": "2026-06-03T14:14:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260603/398/w1280h718/20260603/43a4-aae03f73a315baf2f8303c698644a274.jpg",
-    "category": "software",
-    "updateVersion": "1.16",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "小米YU7 GT上下班代步诀窍：这么调舒服续航还长",
-    "description": "小米YU7 GT上下班代步诀窍：这么调舒服续航还长",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VYU9vZkJsVl9vNGVYc1FwdlRyS0Vsek1IVklaRGs1NFhjT3Y2UmNPM1lwaU9KZ2phaThuWXlPZjRlVG9qT2xZZGpCLVZRdk9Sc2xkT0NaT0U?oc=5",
-    "date": "2026-06-03T14:08:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260603/b57f0857e29e425e9eba455e73ea6bd5.png",
-    "category": "auto"
-  },
-  {
-    "title": "Here's when the Xiaomi 18 series, vivo X500 family, and Oppo Find X10 devices are rumored to launch - GSMArena.com news",
-    "description": "Here's when the Xiaomi 18 series, vivo X500 family, and Oppo Find X10 devices are rumored to launch - GSMArena.com news",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHlwc255NG5rNE1FMVplckowWnByUnBKSlFhS3JOMHY4eFFDVUltMS1FRjhxY3Y2OUZCVVMtTk5uX2trcjZwejBCYmk2eHh4eVNiRVUydFRMTGJKUnM3a1ZEVU5QOFA2NDZFQWZKT2ZWbm9ycWVOZ193MmNKLV8zd2U3MTlEWm1BZlh5bkt1SmxxVTlMNmgxbXJESmhPZ21XWFVyd0pKdExfYXdwS2lhTXRFQXl1MHZDNGRCVkx1Q1dfekdmUXMwZVQ3X054MjNGaWfSAc4BQVVfeXFMTkdPQ1lnVmVJdW91aFhZR0hxLXhMOUlSOVUyb0x4VUY3VkNJTlNzSk5UWE5CMHoyQmNTZVJiU2piVkxMQmwzLWhyQ0E1a3p0TWRpaHNQa2hFMlItdHNIQUNsZ2VIRkxTbWhWaGlOVkRZYmtjZjJSaW94SzJ6NVMxSGgzY1dQbmhRX2dNRDNHM1RXWUlBRFNpT1dsYVYzMzRWNEdUWjVHVFdENXBaVDVlY01YLWRnSnRPSWlhc1hwSU51MWdYQ1E1dTUwZzZwamc?oc=5",
-    "date": "2026-06-03T14:03:03.000Z",
-    "source": "GSMArena.com",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-18-vivo-x500-oppo-find-x10-launch-month/-952x498w6/gsmarena_000.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "These phones take photos that really don’t look like they came from a phone",
-    "description": "These phones take photos that really don’t look like they came from a phone",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjUwbG9kVk56WFh1NTlvbWxIZkJLNjNqdTY0Ujl1NUVyRC1LSWpWNVVkUDNsZFdpRFE4QUlPb3RCQ0JaM3VVOV94NEEtQTVlem1Qam14aGVPdUJCc3l2Njlqd1dtampvYzhRUGp2ekhDcnoyckVFUE5tTm1OanRkU19WRWlFWkVxNGdnOG93amt2ZGZoMHczbzN6ZFhYMUNn?oc=5",
-    "date": "2026-06-03T14:03:00.000Z",
-    "source": "Fast Company",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "【视频】小米YU7 GT 我深感自豪！",
-    "description": "【视频】小米YU7 GT 我深感自豪！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FQnYzMW9QdjhuM1F1SHY0ZnRuYUhtTFhmazlYcDhGUUlVa3VaWUcxcm5rdHRCUmltaEliS0c0TkVvNDFtZjN2Tlh2aDFleWI3QXBzVm9ydzh1SzQ?oc=5",
-    "date": "2026-06-03T13:32:02.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Changan, Xiaomi, and Zeekr Unveil Intensive Adjustments as Automakers Collectively \"Drop the Disguise\"",
-    "description": "Changan, Xiaomi, and Zeekr Unveil Intensive Adjustments as Automakers Collectively \"Drop the Disguise\"",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iQWQ2SmUzMFZJU3g1aGZfdnNkUGptZzBtV25vd0tCUVZlNEtPQ0VjUnEtSl9wRGJYQmkxTGJkWDhxM1JpYURPbXhlbzFUU2s0YW1v?oc=5",
-    "date": "2026-06-03T13:21:20.000Z",
-    "source": "36Kr",
-    "image": "https://img.36krcdn.com/hsossms/20260603/v2_c8362890600345c4adb3a549d3d93374@000000@ai_oswg378718oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米“寻天”SUV谍照曝光：一大一小两款，大号车型配升降车顶",
-    "description": "小米“寻天”SUV谍照曝光：一大一小两款，大号车型配升降车顶",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3Fud01hMF9uWXk0djkyTVlUZmxDaTh2MWpTYTFhX09razVSZDJWb2lfTEpoZGJSV3hOX3lWZWJNVC0tdkwtRlhmTnVRdFB3WW1VLVZTMzhDYTRHcld2UHFQT2hacmQ5dDUzNEk2WVF3cTE5el9EYmNGSTVMLXFmZ00tbTYtZEdi?oc=5",
-    "date": "2026-06-03T13:20:02.000Z",
-    "source": "搜狐网",
-    "image": "//q4.itc.cn/q_70/images03/20260603/ae5eef12f83844b7ad535b2cdb45dc6e.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "Kimi发布桌面端产品Kimi Work，定位通用型本地Agent",
-    "description": "36氪获悉，今日，Kimi发布桌面端产品Kimi Work，是一款面向知识工作者的通用型本地Agent，可以在电脑上拆解任务、调用工具、使用浏览器、创建和整理文件夹，并完成文档、表格、PPT等工作产物的交付。Kimi Work由Kimi Code深度参与开发，支持13小时连续编码、300个子Agent并行协作及4000余次自主工具调用。",
-    "link": "https://36kr.com/newsflashes/3837454258391555?f=rss",
-    "date": "2026-06-03T13:00:20.000Z",
-    "source": "36氪",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "你选哪个18？小米苹果9月正面竞争",
-    "description": "你选哪个18？小米苹果9月正面竞争",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMW1qS3I4ZXVxM0ZIZFFUN3ZSMmNQNHQ4T1BEaDBwOXZnd3VtSVdxM3RiMEQ1N3NyendoUzBjeEFQTlJRTTYtcU03VkdUR2ZyM2tBbFlMN0MxMjlxd200WXZqNjZJRHJjMTcyZVFXOTR4SGRkQ2tUQ0tMZ1JYR1NzVU5YVW55X0Jt?oc=5",
-    "date": "2026-06-03T13:00:00.000Z",
-    "source": "搜狐网",
-    "image": "https://q6.itc.cn/q_70/images03/20260603/7aa44f11c29249a4aec0bd680af81f0a.jpeg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi 18 Leak Reveals Display and Battery Upgrades",
-    "description": "Xiaomi 18 Leak Reveals Display and Battery Upgrades",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1JodzZITWY0dkN1b0M2NUZVTEJXbjZ4QVg3NnE2X19ZcW1IVm5kbjlCMk4tc0NMR0J6ZDJvN0V6ZzFGeEt6ZGNHaS1sLURNVExPSHliYlE4SWg3b2NMQU5jZXk5Q09va05uWXBBMm5VQkVfR0lYNUJ0RE5JSGxsSjlWb2VCbmozZDJYZk9aWDM5WWQteUdNRnZ4NXRDUQ?oc=5",
-    "date": "2026-06-03T12:17:05.000Z",
-    "source": "Android Headlines",
-    "image": "https://www.androidheadlines.com/wp-content/uploads/2026/02/AH-Xiaomi-17-image-4.jpg",
-    "category": "software"
-  },
-  {
-    "title": "【视频】小米YU7 GT版，车厘子红挺好看的",
-    "description": "【视频】小米YU7 GT版，车厘子红挺好看的",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nZXhwZmhyQkVpUHJYUUw4QWtEQnhnUFE5YkRRYnNzY1dhS0VtSWtybFlTLXJyTWpSTTZLd2dGSTJIVGsyNzBuNUd5bnlxbHhoak1nNVFkcjdRcFk?oc=5",
-    "date": "2026-06-03T12:12:27.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi releases cheaper TV Stick HD (2nd Gen) in Europe before global launch",
-    "description": "Xiaomi releases cheaper TV Stick HD (2nd Gen) in Europe before global launch",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVjFTeFJYbmJ0S1MyZDgtaWhHbnh5Y01tb1pxcWJJVVFhLU5rR0VkX3F2Ni1XMGJmUnkwN2VkSmxSWDN6bGh1bzMwWkd2WER3elBRVWIwelRJWDV6WUNmRVh2cE1ZRFg4NXBVNW5QOUprX3JwYk1Uekc1ZmczSU1RVk1hOUo2ZUNNeEdQQ3c2R1pvVGdvSXlKSFBvMUI2Q2U1bGxpZ0N2WXJWNUNBUmd4VVVOWVo5cVo3bGh3?oc=5",
-    "date": "2026-06-03T12:08:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-tv-stick-hd-2nd-gen-release-kv.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米17T Pro相机规格：17 Pro同款长焦+小米17同款主摄| 微信正与Ov米华耀合作，语音助手将能用微信发消息",
-    "description": "小米17T Pro相机规格：17 Pro同款长焦+小米17同款主摄| 微信正与Ov米华耀合作，语音助手将能用微信发消息",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVN2Q2ZkM5Q3YzQ0lmS1haTmQ2a1lsMk1QOW9pR3ZMOERBOVNfZ0laQjl0cGhocTVscXJpNGVmZk1PRGJlOFpFaXUyNUlDNHZuRE1uMDQ1QjctM2EzeDVJY29DdTNxdw?oc=5",
-    "date": "2026-06-03T12:06:00.000Z",
-    "source": "爱搞机",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi releases wireless soundbar in new country with Dolby Audio and NFC pairing",
-    "description": "Xiaomi releases wireless soundbar in new country with Dolby Audio and NFC pairing",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbzVnemRFcmN3cVhqSDJpel9RbUY3N2F2ejlpcHlaM3RCT1lDdVRDZWl1RW50Wmw3VnBCSkZLRTZZYkJQdG56dTRKYUNKbmJkdnFQeW5FRk9xaTlIeEJJdUppT1h2YWJtWFFuNTJJQnc3MFpCeUpRZGQ1a0IxZHZ4cjd4cjdPV0ZQUzhZWWFGQVlBZGs0VHFuYy01WC1QTDAxRDZ1VGdVNUxZXzVKYWwwT2g4czZmOGlSc0pQMkRrb2RxcUFR?oc=5",
-    "date": "2026-06-03T12:04:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-soundbar-pro-20-ch-uk-release-kv.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi 18, Oppo Find X10, and Vivo X500 series launch timelines leaked",
-    "description": "Xiaomi 18, Oppo Find X10, and Vivo X500 series launch timelines leaked",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWklvSmlUTzVhbXJNaV9BajZoTldrY0x5MUNHMmJMelRPV3UweWNLcXIwOUtmODFscmFVRVZ2SWwxYU9xZ0NIXzFJYUV1TWNGOV8xZkJwcnRsTWJNdmlIdXprTDVzemh1cGNtaVJCcTFHeG5FZk9hQUZibG9PQmMwYi1CSnZxWHM2NUNtbnVhMTZoY3RNelF4dkxXUUFEcUF0OHRYRVA4UUlmeTBqZkIzSnpldw?oc=5",
-    "date": "2026-06-03T12:03:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-18-Vivo-X500-Oppo-Find-X10.png",
-    "category": "auto"
-  },
-  {
-    "title": "【视频】小米YU7 GT是最值得买的车？三十多万全是碳纤维！",
-    "description": "【视频】小米YU7 GT是最值得买的车？三十多万全是碳纤维！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWXRXRU1XbGVDSFVSNElMMkxtbEdyYkxEZ04wNW8wamE1eG1WcVVUdk9sMkZIQTdzUi1XQ3ZDc0tmTF9UNTBkcEFYSmRJUW8tbjY3bmF6dlR5THM?oc=5",
-    "date": "2026-06-03T11:48:46.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米集团回购350万股 金额1亿港元",
-    "description": "小米集团回购350万股 金额1亿港元",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUekM1cjI2NVdwekZHV2F2clV1UDBRa0VMLUtiSFJzdzlLUmNKODNNMWJpcUlmTWR4aTFaRUptYTRxSmJvS05LMzFhaC05SzIzRDhERHFaQzUxLVdvTTZHRWdGRlZIRVpEazBTWWFDTQ?oc=5",
-    "date": "2026-06-03T11:47:06.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "小米汽车，让对手更慌",
-    "description": "小米汽车，让对手更慌",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sOWc2UUNmMTg2bzEweXJheGpyWnQtVUpnZ2dCWFRXRFlsNkJJVy1CczlYdHRCbFlCS1pTcjZGSURHT0ZxeS02NFl4QUtQcUUxcWlSU2FqLWdQVUE?oc=5",
-    "date": "2026-06-03T11:42:38.000Z",
-    "source": "汽车之家",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M08/77/80/autohomecar__ChxpWGogDHGAROE4AAd5qLBmsBI530.png",
-    "category": "auto"
-  },
-  {
-    "title": "【视频】试驾小米YU7：运动风味轿跑SUV，开起来咋样？",
-    "description": "【视频】试驾小米YU7：运动风味轿跑SUV，开起来咋样？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fS2g2UDN4aE1aa1hfYzd4Uks0WFMxTUh6em1nT2ZrOGxfLTRIaUY2NGZfZlVXZXo5Z09pZ2FtU2w4M3hDQzEyWjhxMTVQWlpCeE9uQXF4XzRheDg?oc=5",
-    "date": "2026-06-03T11:30:08.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米汽车推出全新框架，赋能自动驾驶技术升级",
-    "description": "小米汽车推出全新框架，赋能自动驾驶技术升级",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeGhUT29XS0xWbTdBMGcxNll3N3hGWjdjclVpUEZ6VG5DUXFJODZ4UE1jMHRvalVBcEs4RDQyUXczU1kwWWpRMndfUGtlbVZrakMyeE5SdW9SSm1FQUwzZUppV3d6cUhoZnB6bWs3bzdZWDduLUN3TTVlRHJUM1gzUU9WcHpLRTQ5Tkw1T2dGbXhEYjU3bW1QNXdyS0tlWVBHbkJ5emtNVkRlZnNEalJEazR2ekMzcG9idEVCSkdVay1lZHpNVGRzaW5zSzU4eVdaVkVNSThsLTJySkNRTVkyeDJWaWlwM283SEdMdW5oZmJnS1duRFlTVA?oc=5",
-    "date": "2026-06-03T11:15:05.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/spider20260603/144/w600h344/20260603/61ec-1496129a7e9cee26f3358323ee9c3cb0.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi 18 Series Tipped for September Launch as Xiaomi 19 Skip Rumors Begin",
-    "description": "A new post from reliable Chinese tipster Digital Chat Station suggests that the Xiaomi 18 series is now basically confirmed for a September 2026 launch window. The same leak also claims that vivo’s upcoming X500 series and OPPO’s Find X10 series are targeting the same month, meaning September could ",
-    "link": "https://ximitime.com/xiaomi-18-series-tipped-for-september-launch-as-xiaomi-19-skip-rumors-begin-97367/",
-    "date": "2026-06-03T10:42:33.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/01/xiaomi-18-1024x576.jpg",
-    "category": "software",
-    "updateType": "update",
-    "device": "Xiaomi 18",
-    "isUpdate": true
-  },
-  {
-    "title": "小米17T系列动态照片能力揭晓，迎来大幅升级",
-    "description": "小米17T系列动态照片能力揭晓，迎来大幅升级",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QY2xvSWs4REpEZ28xdXhXamZTTUE1OUxnd2lFVnpNaVA3S3AwMTZvbEZqb3A1SlN3YkpraXNRb0lQYjB5NlhDTmJWNG4zQlY4b1RsTXRWaWEtME9EUk56ZVI5dEpNZw?oc=5",
-    "date": "2026-06-03T10:21:37.000Z",
-    "source": "三易生活",
-    "image": "",
     "category": "phone"
   }
 ]
