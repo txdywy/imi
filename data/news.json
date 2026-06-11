@@ -1,5 +1,41 @@
 [
   {
+    "title": "新浪网",
+    "description": "新浪网",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jY3BpSXRVX3FCMjhjLUZXa3VNRW5jeW1JeUNFMHg5NTl6b2F0clNJMFpfbDVNR1pLNUZUbFNiMGJXSW12SHJzUWdEZnRuX2FXZFJXLUNfa0NMQ29leVVhbTkxOA?oc=5",
+    "date": "2026-06-10T23:38:00.000Z",
+    "source": "手机新浪网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米米家手持风扇开售：100 挡无级调速，券后 179.1 元",
+    "description": "小米米家手持风扇开售：100 挡无级调速，券后 179.1 元",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taERqTWh5U3ZoenF2UVpDY1NaMlZyMTNnZTRzLUN1RVFDbVZrOTVER09Tb2twY2tKNTlERjZQX1RCNGJPOFRNZlFlUXlib3JBNmh6dlNHb3EyckFlQWtHSHE1VWc1OFlDeTRMVUk5S0pHVmhNUU9sTTdQTE9wTnc?oc=5",
+    "date": "2026-06-10T23:33:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260611/0/w800h800/20260611/cc9c-266a33af1ac9770f30c194f23c354c2c.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "小米SU7电吸门夹手致女子骨折，最新后续：小米汽车官方发放1000积分“用户关怀” ，可兑换APP内百元商品",
+    "description": "小米SU7电吸门夹手致女子骨折，最新后续：小米汽车官方发放1000积分“用户关怀” ，可兑换APP内百元商品",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUN5R2xfUFRxcnRoT1JEc2JKRFpvSUJybHdiUUFUWC1QRlAyem53TWdxU3RBSW9DeXJfejFJSnE1WmZNNHE5WWR1RjBPZkhld0piZjFtMVpOM0xSb0ZRYS1pZHdFUFpyTzFtd2FjSS1TSW03aVR1eHFtM05hdTc3RW5JV3d4UzRJdXhRSQ?oc=5",
+    "date": "2026-06-10T23:24:00.000Z",
+    "source": "搜狐网",
+    "image": "https://q5.itc.cn/q_70/images03/20260611/d6f2ecff8af94d65b1e17f56675bc7f5.jpeg",
+    "category": "auto"
+  },
+  {
+    "title": "智界RX申报信息曝光，定位轿跑SUV，竞争小米YU7",
+    "description": "智界RX申报信息曝光，定位轿跑SUV，竞争小米YU7",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uMm8zVnJqYzhUbEhYNmxubEs4b2cyV01oUDdVUTJhMEttZlJtLXlBSWJOYS03WUFvSkZiRjhhZzRjNW5WTWduakF5VEdVVDlvZDV3ckZMUFVOT1E?oc=5",
+    "date": "2026-06-10T23:19:24.000Z",
+    "source": "汽车之家",
+    "image": "https://img3.autoimg.cn/chejiahaodfs/g33/M03/D9/89/autohomecar__Chto52op7byAKJIOAAT03YjNOyQ885.jpg",
+    "category": "auto"
+  },
+  {
     "title": "小米MiMo Code发布并开源：界面全汉化！自进化终端AI编程助手",
     "description": "小米MiMo Code发布并开源：界面全汉化！自进化终端AI编程助手",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxMWdNYXVKRFpnT0cyNkJ1SEZWWVgzczQwZ0FFaG1MTzZYTl9SbWswUHF2RGlDajNBUkZOVjdEdDlWcmg0d1NzLWZVZG5SVkJvM19hODFreFQ?oc=5",
@@ -7,6 +43,15 @@
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260611/b75612af7bca477bb1b395ec7e262926.png",
     "category": "ai"
+  },
+  {
+    "title": "苹果和小米阔折叠爆料：这次谁更厉害？",
+    "description": "苹果和小米阔折叠爆料：这次谁更厉害？",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zV0pPNFRGQ0ltQTBxWENKRlhyeWRya1Z5RDY1NEhueXVfUEFfUkJVRzA4UWVYVU9JZHlCbUpQN19JZGFWUTFYSmFVam8?oc=5",
+    "date": "2026-06-10T22:12:09.000Z",
+    "source": "凤凰网科技",
+    "image": "https://x0.ifengimg.com/ucms/2026_24/E981063DA84E82B84344BF53B8F832AF0DBC6C86_size29_w499_h281.jpg",
+    "category": "phone"
   },
   {
     "title": "小米MiMo Code V0.1.0探索性AI编程助手发布并开源",
@@ -635,6 +680,15 @@
     "source": "AASTOCKS.com",
     "image": "https://plib.aastocks.com/aafnnews/image/medialib/20180205145552499_m.jpg",
     "category": "phone"
+  },
+  {
+    "title": "小米“米家三区洗衣机滚筒14kg”发售，5999元",
+    "description": "小米“米家三区洗衣机滚筒14kg”发售，5999元",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRk5rclVTZXBvaW01SV9ZMzZwVFZGdjFKR1ZhbHJWdVJRUlREczVNWlV4djk0WU54RGlVck5hMm11UnpmWHhBUVl6MjM2S3FwMkI4Skg0UGhHYktENUQtXzIzV1RhbHNWOTRwb3Q1OFpOa01na1JmaDI5NFhZb1BjN01DQ3huWE5YbWhNbk02cmhCNGM5SkdfWjAwWmRwMWJSNTFKZnVpNA?oc=5",
+    "date": "2026-06-10T03:30:03.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260610/3/w660h943/20260610/581f-ab1cf4d4c958f5d58bc54e84c6ff697d.jpg",
+    "category": "iot"
   },
   {
     "title": "星愿、小米SU7、理想i6围剿特斯拉，5月销量榜国产车包揽前五？",
@@ -4563,59 +4617,5 @@
     "source": "汽车之家",
     "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M02/9B/94/autohomecar__ChxpVWojU7uAE-UHAAJzo5IhmFs251.jpg",
     "category": "phone"
-  },
-  {
-    "title": "New Xiaomi Power Bank 20000 22.5W with integrated cable arrives sporting added battery health features",
-    "description": "New Xiaomi Power Bank 20000 22.5W with integrated cable arrives sporting added battery health features",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN09Hck9vSUNWVEFFX2E3a1o4b3c1ZVcyYnQxczdSYVJDNnlCWXhHMGcxSnJ4RFpDeEpfcl9nT2NvTU4xRVhpUDBiMlJhX25jcWxXWHZwTXhpZ3YzSXNMVDd2YjZNRHFEdExxb3Z5WGY1bjFSRzc1UnM0c29Wa0xWQ1FZeExSQzhMSTREc1lXM0JYNlpTcEtqZEx6VEE1Tl9QN1FtaGRFV2pnUDVKWlltc0duNXJheDlCc1VLZTgzYm5lZkVTdXBwNFNXajNTSllvLS1JZWk4MmJkQ1lDMlJocA?oc=5",
-    "date": "2026-06-05T22:29:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-20000mah-powerbank-release-2026-kv.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "IDC: Huawei and Honor capture 81% of China’s foldable market as Oppo, Vivo, and Xiaomi collectively hold just 15%",
-    "description": "IDC: Huawei and Honor capture 81% of China’s foldable market as Oppo, Vivo, and Xiaomi collectively hold just 15%",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNWdMRjlkUjBVcU9jU21ILUZqUExjTHV1c2MzUk1nMGMtUWxBVnN6NTg2Y282QjlEODBIb1h0MGh3V1pNRmJDc1MtTGUxM2NSYzlGdzQ2MDlxM0hSU1ljaGJwenJUeGgxNTZySFhZbXBhdkZ4RW1rcDcwamZ6ejFlVl83c3BlaEZGQmRDODhxVFJHY0k2QjVFZjVmSDNmaWpWRmRySXB3LTg4bkJrVUJ4bi12MEw2WjJoZlNTcWxubERkb2dDTXBNcXdTX3l3dTVpWUJteWhOYURMZV9WYUZYMW9SeXFaUEp0eklkbTBmQ2c3OElkdjdBTmRNYkJZeDhveFFmellTVEkxR1F1RGJwNlVkcjdwbnZL?oc=5",
-    "date": "2026-06-05T22:14:04.000Z",
-    "source": "MSN",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi's Mini LED gaming monitor receives wider international release with 180 Hz VRR and 2,000 nits peak brightness",
-    "description": "Xiaomi's Mini LED gaming monitor receives wider international release with 180 Hz VRR and 2,000 nits peak brightness",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYjQ3bHVqd2pLYjFCcmtQZFRjSURDNXVMOXNUcnhvU3BmZHhRUVRqVzJENW5aM1V6VkpSZ3pYRTV5LTFoN2NPeU9Ea1RjMHQ2MVIyLW4tR000TG56TC01NnZIc1FFcjFaZGMyS0YyTGZXQjJTY3V1aXNfRjk5NU9zYzNCTDJGbG1DeWVxdGNXZWMyWEgxRVRwMmlfbFlaUkVrMWFRekNuRmRBVmlZN1RsQmNmQUZXX2p5RGwtQ0JoQVRlb2NHN1BUN1NoR1dPakFHS3p3RUcxQ3Rzb0pwbTVpWW4xTGExOGd0d0hiN1dPVzFaRU0?oc=5",
-    "date": "2026-06-05T21:48:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-27inch-mini-led-gaming-monitor-release-kv.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米粥吃出6个刀片，石家庄谷连天餐饮公司回应",
-    "description": "小米粥吃出6个刀片，石家庄谷连天餐饮公司回应",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xOHp3M1ZJaWpwR0RSQXFqeGlwcHpBYkl1SWVMOEFxQXI2M2hJWGl3eE1Ed0lhWElzaW5vMTVNRmZSSTVoSkIwRGpKRTlLdXE4UUc2dGtxSG4tcUNQY2k3WnRmdnRSMTYwVVM1YlVudkNWbHI5?oc=5",
-    "date": "2026-06-05T21:39:54.000Z",
-    "source": "大河财立方",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Do it again: Xiaomi may return its rear display with a round of upgrades",
-    "description": "Do it again: Xiaomi may return its rear display with a round of upgrades",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGtMVXpZanhtcFFFNXVDekNFYTNEZnNCOGc3a1laTWtXenBxT0g2aU1STktRV2tVbjBmdFdnMWF0MXdhQ1htMk5tQi0xTjB2dm1Nc2pQa0VXVTc5SEVRVkZfUUFpX0RLVlRWU01CMGpHSko3WEJya0xYdFU0NWRUVmYwb1VBNFZrOE84akZOV20yQ2UzNXhlUllTR0pxRDFjaVJiX09qTzlac2lGU1VURQ?oc=5",
-    "date": "2026-06-05T18:04:30.000Z",
-    "source": "Android Central",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZjToJaKGDWtsTLngJrSPoK-1200-80.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi 18 Pro could feature a much larger rear display, per reports",
-    "description": "Xiaomi 18 Pro could feature a much larger rear display, per reports",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVZmdWliSGNrS0ZCZllWVGZMT3BHQTVGUS1CNkhHNTdaTzlNcllMVGRwMFBfaTZIWjRnRFJabkd3S1NMRmY2bEJfQ1U3QVg3RE55TFlIa2lUOWtLdnlHa1lER3BxTnNjeFUxRi0wUHZpZk9zVVlBeEUwOTFMWDB2SFRlZ3VwSnZocW84dUlJOVFYTlNuX0VZZUlkUQ?oc=5",
-    "date": "2026-06-05T17:14:40.000Z",
-    "source": "Sportskeeda Tech",
-    "image": "https://staticg.sportskeeda.com/editor/2026/06/a0284-17806795543766-1920.jpg",
-    "category": "iot"
   }
 ]
