@@ -1,5 +1,14 @@
 [
   {
+    "title": "Xiaomi Introduces a Robot Arm That Automatically Plugs Into Your EV",
+    "description": "Xiaomi Introduces a Robot Arm That Automatically Plugs Into Your EV",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUVfSTg1OUIydjRGQzJ4cUdqa0diRWowNFFCcFNaeVJlR2Rwbjh6TWJua0pBT0NWd2VQOGxMako4RF9GZU5MM09FdXNuZm1MQmNPX1lUVUxwM0tPUmdjak8xWFhnSjNmUlRNd09hcHRzdU45TGpKZklUOWRNVjJKc05odmlNMFY3ZjJZTlBwUHRBUlFWU3N2bnhEWWJHdw?oc=5",
+    "date": "2026-06-13T20:22:00.000Z",
+    "source": "Autoblog",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "小米14全系电池升级服务即将上线！比原装容量更大",
     "description": "小米14全系电池升级服务即将上线！比原装容量更大",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWjh0WkhUc1JENl8xSk1DcnIzUFZLRVRMTU96WEY2WkZfNEszOFREU1FWRi01QTF6cklHYnVrYjN2b3l1YzFRTjYxTk1LWFhONURRR0NjYng4RE9EcXRybHNhVnRJXy05ajZ1MGdxNThTZHVmY1RlbjJzOHM3MlE?oc=5",
@@ -76,7 +85,7 @@
     "description": "【视频】小米SU7和奔驰E，你会怎么选？",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53cktZTWJGX3RnM0VKUnNDSHZjSGlLaFlUS3ZsYXpqSEhUTUJ2T1dUWVVRTTRYUVJCZGt3Q3RkTm9VdFQzLThYT1M0SlI1SUxXNDBTZW1JVFJxQ2s?oc=5",
     "date": "2026-06-13T15:16:32.000Z",
-    "source": "车家号",
+    "source": "汽车之家",
     "image": "",
     "category": "auto"
   },
@@ -105,6 +114,15 @@
     "date": "2026-06-13T13:52:00.000Z",
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260613/032eb74ff9084707aff206e0147fc410.png",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：小米汽车高度重视测试工作 整个测试团队有800多人",
+    "description": "雷军：小米汽车高度重视测试工作 整个测试团队有800多人",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbHcwQXlXazVZRHhqdmRSWDM4TUdZMEFtbll1dHpfWldWTExLakVKUWNnekYxcnQ4WXhaY3BtWW9Hb1VWaENUNE5PQnlGTG1BWUQyZmFDQVV2R0pRODNQYk1UeG5jYlExal9oRHQ0a25LZE5FLUJYSzRnQUF2MlE?oc=5",
+    "date": "2026-06-13T13:52:00.000Z",
+    "source": "Sina finance",
+    "image": "//n.sinaimg.cn/spider20260613/199/w600h399/20260613/5f89-d07f1735b34e7f9cdc3480915885c835.jpg",
     "category": "auto"
   },
   {
@@ -4576,23 +4594,5 @@
     "source": "新浪财经",
     "image": "https://n.sinaimg.cn/spider20260609/209/w600h409/20260609/ceae-3be2d3dae3c0e8034cae45f822cd67cb.jpg",
     "category": "phone"
-  },
-  {
-    "title": "小米正式回应SU7起火事故！",
-    "description": "小米正式回应SU7起火事故！",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lWWo1Q0tvV3k4ekZmUm9MazVTSVNfQVRYNmR0R19jZkJpWEphSVoxSXFkZFRpV0Z6V1diUUIyT3RFSWVMcEtDczNaQVBSNUpXdjE4?oc=5",
-    "date": "2026-06-09T00:23:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米发布MiMo-V2.5-Pro-UltraSpeed：生成速度提升10倍！突破1000 tokens/s",
-    "description": "小米发布MiMo-V2.5-Pro-UltraSpeed：生成速度提升10倍！突破1000 tokens/s",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lV18wb1JZUHhrNlpsSHBDaldPeWlrTHVQZmZkSmNnR3NGaVcxU3hhemFmVDRYVDFoaDJ2MHBEeFkyVVRTNjhnS3V5aGxBT1RaQWVtbHdtYVg?oc=5",
-    "date": "2026-06-09T00:18:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260609/d375cfac28bf4e9486003c24b8dc1f70.png",
-    "category": "ai"
   }
 ]
