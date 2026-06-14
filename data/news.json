@@ -1,5 +1,23 @@
 [
   {
+    "title": "Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps",
+    "description": "Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLdlJmOVYwOWFrQ1gtNjlWNl91cVhpWWdzdGtyM1Rnc0g3VENvdTEyMDlhS3g2QU1ZQlZoaFVPNjRoQUl4UHNHVFZsT3ZOTmczY20weEUxREVoZGpSZFIw?oc=5",
+    "date": "2026-06-14T17:01:25.000Z",
+    "source": "The New Stack",
+    "image": "https://cdn.thenewstack.io/media/2026/06/bfc4ef4e-hartono-creative-studio-uigz-7ukve-unsplash-1-scaled.jpg",
+    "category": "ai"
+  },
+  {
+    "title": "Xiaomi MiMo Code claims edge over Claude Code on 200-step tasks",
+    "description": "Xiaomi MiMo Code claims edge over Claude Code on 200-step tasks",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUxtdk9YRkFFOHZHSWZYVm42WlI2VjVTV0ozNER2elluMGZiT1BTTGw2RUNXWmRlLWNrdmRNRmlmcDZMN2RKcGI2WkdHUXRWMUNlV0U3dFg4ZUhFUkM1WVNEUHl4VWQtQzl3QnBJbjdSTE1yMV9DVFY2N05wTWN5TkRlZ1BzTm0zMVBkc0EwN0N0TzNaMTUwRVhuVU12ektPbUlqQQ?oc=5",
+    "date": "2026-06-14T17:00:00.000Z",
+    "source": "Let's Data Science",
+    "image": "https://cdn.thenewstack.io/media/2026/06/bfc4ef4e-hartono-creative-studio-uigz-7ukve-unsplash-1-scaled.jpg",
+    "category": "iot"
+  },
+  {
     "title": "Samsung Galaxy S27 and Xiaomi 18 spotted: Major Leica camera lineup changes expected",
     "description": "Samsung Galaxy S27 and Xiaomi 18 spotted: Major Leica camera lineup changes expected",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUx5RVh1NXh5X0pDNTNKSGR4UW1ReFY2VFgydnh4NHU2LUxsdjRoZDd3UWhmZjRHeXY1WldJX2VSZVJFX2ZKeEZxc1BCQnoza05XcFRmVzlzSnlmbG9PSnJaYkIzVmJpTzBhYmp5YXp6dFhqQm9CRnE0QWtLZy1raDk3RElUY2ctUW1XM3V0ZnVwVGp6TDVvVm9ua0ptbHVmMlZOcHF0ek0xX0k2N0JSU05xUVYtSEtMM21tdjlVLTdNWjE3NURj?oc=5",
@@ -63,6 +81,15 @@
     "source": "新浪网",
     "image": "https://n.sinaimg.cn/spider20260614/352/w1032h1720/20260614/36e0-0b320640bca46d966adfb180152a3e7b.png",
     "category": "iot"
+  },
+  {
+    "title": "曝小米14将加入电池增大换新服务 | OV耀测试超高刷",
+    "description": "曝小米14将加入电池增大换新服务 | OV耀测试超高刷",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1lFTWtSaEJtcHMxMnpSaHJMcVowQXVudzZPYnN4QklVckdHZmgzSlJhd1Z2bWFpV016cGF1QjhMSU9vRWRlVHRhN3NIWEhDMHdNMXhtWFpCNFB5aUVLYWtpX2tTeGxxQXJPVmZaczh5bmo4TjdJZm5zbU4tWkJ1Mlh0VzZxVUF4?oc=5",
+    "date": "2026-06-14T14:32:39.000Z",
+    "source": "Sohu",
+    "image": "https://q9.itc.cn/q_70/images03/20260614/c5db46c7293348858719e0eed70ea5d0.png",
+    "category": "phone"
   },
   {
     "title": "Xiaomi fixes camera lag and overheating issues in latest HyperOS 3 bug report",
@@ -2337,7 +2364,7 @@
     "description": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU9vTnF6eFktY0ZJeDdib1M0TzVWY1hMUl9Ka3dMUGlERlo1UGNDYU5xazgxeWRxY0d3UHA1N1h3dzlSZnBFNzQ2ZjRTVDFBV0loZGdjRGNKS2tMNzNYNVZjZmFPOTFuYW9YOGtEUGItWm9NUmpEMTdKaG02eVRHaURJanNRMEtPekxOZFZKeGJfR1BKMUVMV1pUYmNUMDNwUW02VlpSeC12UGhmVlJGTUdqY0pEWmwtbENPeEdKYXUtcEZBZ0w2c3ViWnlydll6TWVncVNNOUk?oc=5",
     "date": "2026-06-11T23:14:00.000Z",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "image": "",
     "category": "ai"
   },
@@ -4577,37 +4604,6 @@
     "osType": "HyperOS",
     "updateType": "update",
     "device": "Xiaomi 13",
-    "isUpdate": true
-  },
-  {
-    "title": "小米发布MiMo-V2.5-Pro UltraSpeed模式，3倍价格10倍输出体验|xiaomi|MiMo大模型|官方|系统|限时免费_手机新浪网",
-    "description": "小米发布MiMo-V2.5-Pro UltraSpeed模式，3倍价格10倍输出体验|xiaomi|MiMo大模型|官方|系统|限时免费_手机新浪网",
-    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQOG5XMU53QVE5SFZKSDVSSWNLMXlBNTJiczVXVGpvaVBwaGZBMm94X1MwT2Q2c1psSDZSOUdGM0VoSS1WUF9XSWxMcng0NDFaS3lQTUxrY3FYYThFZTQySkdlZ0dVMTI3UnowMGdYd2NSTlVNN21BVktWRFhLVnlremRHdkU1VThTcUxMdmZ6amJSTnE5b2xrZS1Uc3VmcVhjVTR0ZVYxb3dYT0RtQjN1YVpkeVNjaDRuX0Q4SlRHNWFLZHNnd3hEUVRkWEJpVy1ES3RwMk41ZHVSY19uTmpRUElnSGZKdmJmVEh5SkpUbk5oaXZ0VUh4SEI3TjhaM01OMGQwZHNzaUdJeVF1c2xQSWRZYzZqQk5INVV5TFhlZ1MyN2dZUThOU2xLVmg4SFU4N1F0dWpMTUtUVWNFQTFqYWd2N3VIQkxFVVkzNXVJRm1sZS1fbExvLW45cDBRYUtlQnFDZnJzR1hublI3TWZRNg?oc=5",
-    "date": "2026-06-09T09:52:54.000Z",
-    "source": "新浪财经",
-    "image": "https://f.sinaimg.cn/spider20260609/554/w1920h1034/20260609/0c79-gif57b2cd2c0a08eca62f10a6d590b2f09d.gif",
-    "category": "ai"
-  },
-  {
-    "title": "Popular Xiaomi phone with 200Mp camera and huge battery hits budget price",
-    "description": "Popular Xiaomi phone with 200Mp camera and huge battery hits budget price",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXRiNk13blQzOFBKdFhtQ2pBaHlmQ0V0TEVFdTNVZzhVOEhEMXZxYnN2Rlhqa2pJUHlUOENJTVRKbFhwenl4bFdBR3ctU3gwQXlMN0lTdk5kUUtJZEJodVE1NWh3TXpMTVFhcTNRY21sQlYyU2F6XzFTU0gyUk5jb3VtNy1ybS1Ob0hlTFF4dnVXLXJkOHJFbFVubmY?oc=5",
-    "date": "2026-06-09T09:49:00.000Z",
-    "source": "Tech Advisor",
-    "image": "https://www.techadvisor.com/wp-content/uploads/2026/06/Xiaomi-Redmi-Note-15-Pro.png?w=1024",
-    "category": "iot"
-  },
-  {
-    "title": "HyperOS 4 leak reveals more details about Xiaomi Liquid Glass design",
-    "description": "Xiaomi’s upcoming HyperOS 4 is once again being linked to the company’s new Liquid Glass-style interface, but this is not a completely new direction. Xiaomi has already shown signs of this design language before, and Liquid Glass-related code was previously found inside Hyper Launcher 7. The latest ",
-    "link": "https://ximitime.com/hyperos-4-leak-reveals-more-details-about-xiaomi-liquid-glass-design-97510/",
-    "date": "2026-06-09T09:46:38.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2025/08/hyperos-3-liquid-glass-1-1024x572.jpg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
     "isUpdate": true
   }
 ]
