@@ -1,5 +1,55 @@
 [
   {
+    "title": "Xiaomi goes all in on gaming with new Redmi phone teaser",
+    "description": "Xiaomi goes all in on gaming with new Redmi phone teaser",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTnFWLW8xd2FMb0JKdW13amdpRHRMczhlWUxDbW1EUlEtZk5fVHRXZ29hWXdXemh4TUhyMTR2VEg2dFZQaEVqTG5iNzQ4eW9wOUhWbHBZTjBZNDhmb3lQNmZyeVRST0tFeVVxVEJmN2ZBVGxrci1ySW8yYWF1TU9ERzZadU5iOWJuR25vcnd6SkxSNXRYOVZ3OGlFUzBqeUdTMkIzNg?oc=5",
+    "date": "2026-06-17T17:32:06.000Z",
+    "source": "Android Headlines",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Android 17 Rewrites Wireless ADB With Rust as Xiaomi Prepares HyperOS 4 System Changes",
+    "description": "Google is preparing one of the most important developer-focused changes in Android 17 with the introduction of ADB Wi-Fi 2.0, a redesigned wireless debugging system built to solve long-standing disconnection and pairing problems. The change is especially important for Xiaomi, REDMI, and POCO users b",
+    "link": "https://ximitime.com/android-17-rewrites-wireless-adb-with-rust-as-xiaomi-prepares-hyperos-4-system-changes-97770/",
+    "date": "2026-06-17T17:32:02.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/02/Android-17-update-1024x576.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "POCO users because",
+    "isUpdate": true
+  },
+  {
+    "title": "留几手回应雷军评论_新浪新闻",
+    "description": "留几手回应雷军评论_新浪新闻",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3ZklsVENqSWNQTmJ4THpDNi0wY3YzQXdiWGFMQTZDaTluMlA0YnpLcDhVM1QyTkNnUHU2T1c2aTRwaFpCSjZqMndMTzlDYTlTSUNwNjBSSERpYXczeXVQUHJNZw?oc=5",
+    "date": "2026-06-17T16:30:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "小米新机官宣：全新「小米超级岛」，现已开售",
+    "description": "小米新机官宣：全新「小米超级岛」，现已开售",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1p2ZHEtVTMyMWVaNFRhY0M2ZzlzeVBRNUV1OHhLR2V2NGp4bWR2bFRZM1J1N1l3eE9QUTRsUlNxYVpIZUF3WHEzRl9rQ3dpazVwMDdJakhoTmxfaUZRTFpKUm9HOWFMNm9ZSXQ3TUEwdEZaS2NIVUU5MEFqRVloTnN4OXRXOE9BZHZLNA?oc=5",
+    "date": "2026-06-17T16:23:33.000Z",
+    "source": "Sohu",
+    "image": "//q1.itc.cn/images01/20260618/812d5c0aac384b209bd4099a033db390.jpeg",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi, Vivo, Oppo: Release schedule and price target for two of three ultra-camera flagships in 2027",
+    "description": "Xiaomi, Vivo, Oppo: Release schedule and price target for two of three ultra-camera flagships in 2027",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmZVVkJKdXRPMFo5akFQZFJGaHpfbnRrWFlDaGlXZlF1N25GZjRJQmgtczFwNmhzOUhyWWNMZFc4SlM3WnVEZFJ1NEVsWHBGMGlfRmcyc0hnV042czVFYjFEZklRdy1ob3YxaHBKRVg0WnM3S0ZJZTZ5WXJKNFB2QkppUGZwaVJQNWlkZnlpR1F2SzJWMHl1a1IxTTVEWGZxeElhYWJjb1dwd2toU2JDZVBfU0xMSzJmSFRBS0RqMDVfRzFqckpXbDFNcVMyeUNNUXpvQ2RrTzFacmc?oc=5",
+    "date": "2026-06-17T16:05:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-Find-X10-Ultra-Vivo-X500-Ultra-Zeitplan-und-wohl-deutlich-hoehere-Preise.jpg",
+    "category": "iot"
+  },
+  {
     "title": "【视频】这辆小米SU7看来是起飞失败了？",
     "description": "【视频】这辆小米SU7看来是起飞失败了？",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RndGbTU3MkpHSnhyUVhNcnQyaFZ0WXJvQ0Exa0gxUDJqZXhLWUVFeDFzbXpCQ0tpaUd3OTBObU5vb05kYVdOeEZCbHMtTzltajlTcmtmNEtzQUE?oc=5",
@@ -16,6 +66,15 @@
     "source": "新浪网",
     "image": "http://n.sinaimg.cn/front20260617ac/287/w543h544/20260617/7099-41a549c01199c74fa1a19e4d96fe4de0.jpg",
     "category": "iot"
+  },
+  {
+    "title": "【视频】疑似一小米SU7雨天在高速发生碰撞",
+    "description": "【视频】疑似一小米SU7雨天在高速发生碰撞",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSThqbWhTY1dWc0F4Yk16NzBnbTdjQ2duZVFMenplS3RVX01CMWpKaHUtTnFEYkNweVpWWWVOMXRRUDkyTm9PUmpMT0ZWNDJDRU1KX1JzNURvOXc?oc=5",
+    "date": "2026-06-17T14:04:21.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
   },
   {
     "title": "Xiaomi To Launch Home Charging Robotic Arm",
@@ -90,6 +149,15 @@
     "date": "2026-06-17T12:33:48.000Z",
     "source": "汽车之家",
     "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "下班堵车开小米SU7和奥迪E5，智能座舱和电耗差距有多大？",
+    "description": "下班堵车开小米SU7和奥迪E5，智能座舱和电耗差距有多大？",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NeW04aXZ5d0x0RzdXeXYwX2t3Ums5RkV3aGt3aDllQmJ2SnZwX05SSDFTV091aW1WNmtlV3QxT29wbDVudHNGay00TFFFOFJTek5mYTQ1UVAtSzQ?oc=5",
+    "date": "2026-06-17T11:53:46.000Z",
+    "source": "汽车之家",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M04/3A/A6/autohomecar__ChtpWGoyK6WAFU-JAAIXFPs3MSw74.jpeg",
     "category": "auto"
   },
   {
@@ -252,7 +320,7 @@
   },
   {
     "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-    "description": "作者｜梁键强 编辑｜王毓婵 一句话介绍 NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。 目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。 团队介绍 NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MBA就读于北京大学光华管理学院。曾先后在中兴、阿里、腾讯和小米任职，参与过OS产品、SaaS、社交产品和智能硬件相关业务。在腾讯期间，吴尚曾参与早期创业项目“我岛”，该项目曾获得600万美元融资。 其他核心成员分别",
+    "description": "作者｜梁键强 编辑｜王毓婵 一句话介绍 NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。 目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。 团队介绍 NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MBA就读于北京大学光华管理学院。曾先后在中兴、阿里、腾讯和小米任职，参与过OS产品、SaaS、社交产品和智能硬件相关业务。在腾讯��间，吴尚曾参与早期创业项目“我岛”，该项目曾获得600万美元融资。 其他核心成员分",
     "link": "https://36kr.com/p/3848483761493250?f=rss",
     "date": "2026-06-17T07:12:01.000Z",
     "source": "36氪",
@@ -4501,69 +4569,6 @@
     "date": "2026-06-12T01:32:54.000Z",
     "source": "热点科技",
     "image": "https://www.itheat.com/img/300/225/6/D_DuploadD_DarticleD_D2026D_D06D_D8976449585ad61a20cafee576896cd67E_Ejpg.png?_t=1781175504",
-    "category": "iot"
-  },
-  {
-    "title": "雷军等大佬被黑到无语！网信办：严厉打击各类网络水军、及时清理侵犯企业家信息等行为",
-    "description": "雷军等大佬被黑到无语！网信办：严厉打击各类网络水军、及时清理侵犯企业家信息等行为",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Sbm10d0NhOGVxUDg3ZXpYcmlUSDJxanU2RmgyZlUwQ0VpRDBjZ0p3VHNGZGJRLTRxZVN3SmMxanFqOS1INTlFOWlEZDJRc2JnUGVzX2NIZkY?oc=5",
-    "date": "2026-06-12T01:28:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260612/8d915256322e49bcbbc2c7a0539c3c60.png",
-    "category": "people"
-  },
-  {
-    "title": "【视频】小米SU7车主被电吸门夹骨折，官方赔1000积分，网友却吵翻了！",
-    "description": "【视频】小米SU7车主被电吸门夹骨折，官方赔1000积分，网友却吵翻了！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mV0J6dzF3aVNnVjdZYzROVUx0M1RybDl0bnhQNng2S1R3WmJ0cGVtLTMyckpfclVRSUNVUGxyc1lOWW5XaC01ZXFBOUFTS1JLVnl5djIxOGJ2N2c?oc=5",
-    "date": "2026-06-12T01:16:13.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "iPhone17系列在华销量超3000万部，是小米17系列6倍-观察者网",
-    "description": "iPhone17系列在华销量超3000万部，是小米17系列6倍-观察者网",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZTU1MUxwZElfcTVxSk0xU2hTRDFqa3lpenMzdzA2TUY2SW4wOWFyS0ZzRDZ4MG9ITWFIU18zM2VGVFlZdndNTmZJV1hQWGhoaGI0c0FCSmlHTUUxUDVNQjNwVE4?oc=5",
-    "date": "2026-06-12T01:14:00.000Z",
-    "source": "观察者",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "雷军：6月13日直播小米YU7性能测试，全程一镜到底",
-    "description": "雷军：6月13日直播小米YU7性能测试，全程一镜到底",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50Y2hYTGlFdGE5cHNJSlJKX0lqNXFtTk90RE52WUdUZzNPOTVCdE5SSlBIZVdWaTVLT25iNXk2c09ITTBnc0ZsaGRIYkIwTHp0MUVoYw?oc=5",
-    "date": "2026-06-12T00:54:59.000Z",
-    "source": "中国家电网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "周末自驾堵高速，小米SU7续航720km和奥迪E5的618km，谁更靠谱？",
-    "description": "周末自驾堵高速，小米SU7续航720km和奥迪E5的618km，谁更靠谱？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSW9lOXgzNlpiSzdqZ0RYczh0VEZsb1pocmNaVEszQXZ2VmREdElSazBPblBnNkFPakExWDdJT2RfYlplOUdzTkI2b1d0TTVLZ3lNRndXVlAtcEE?oc=5",
-    "date": "2026-06-12T00:50:54.000Z",
-    "source": "汽车之家",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M08/E6/86/autohomecar__ChxpVWorVhqABp1oAAJ3rZjirdE31.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军宣布测车直播_新浪新闻",
-    "description": "雷军宣布测车直播_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wcGRRRzQzTFNDX0tVZUlDeU5TcU5mblozZmhpWGtITjZCLUZGSWNyakluUHgxU2hTcExidFJwZGE0a08taWlnbHBwSlEydWRTejZ4cEtaWWk4WXREZXJLd3JSdw?oc=5",
-    "date": "2026-06-12T00:47:00.000Z",
-    "source": "手机新浪网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "小米推出米家便携咖啡机：45秒冷热快速萃取，众筹价559元|小米有品|厨房小电|严选|咖啡粉|移动电源_手机新浪网",
-    "description": "小米推出米家便携咖啡机：45秒冷热快速萃取，众筹价559元|小米有品|厨房小电|严选|咖啡粉|移动电源_手机新浪网",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWFmZS1hVW9nUGJQd1VETVVLaWhJNi1ZZ2xidWVUNFJ2Y3FYUk8xNENSaWNsVVZhWjZsak56QTNJVmphRHdaa2JQY3JJX2JoQUszbXo3SHY5VjZjY2NPaHUxbjFIQWFhWFVXQ1c2Q2tmZ1ZZRnVyVDNsekIxNlFZbS1JR29Pd1B2R3NneXVNY2pSdGVLdndhVi1mdjZtZDl6YVlEdmo5RQ?oc=5",
-    "date": "2026-06-12T00:43:51.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260611/516/w660h656/20260611/9289-8c6f5859a33a03c7b8070eab0d19812b.jpg",
     "category": "iot"
   }
 ]
