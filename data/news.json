@@ -95,6 +95,15 @@
     "isUpdate": true
   },
   {
+    "title": "“广东一高校禁止小米汽车入校园”？校方回应→",
+    "description": "“广东一高校禁止小米汽车入校园”？校方回应→",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHVXTmFsMlZRdnl4S3NHTXRYcWhfcXN1YVpWblplNXRaYWMyNjUwRWF2d2FpZG8wNmxtamFkY0NJUVpJSXAzaHhCSGp4ZGd4Rmtrd2NCVDNoTHB1clQzZ0wxTnkxWE9Eb1EyOFhFZ3JodG5vUy1NenhPUzJGN0NCbHgyTkRrVGhTcTR2ZnZfbDJJZDZTRXlJTWF2bk9oXzR4aG5zQkRkYUE0alZVWldQNDByNnhlV3JVNEI4b2Y1QjhTdk1RMXQtaERzdFlqNlloYVFIeGJxNUM?oc=5",
+    "date": "2026-06-29T16:18:32.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260629/500/w529h771/20260629/7f9c-4457f3ec47160cbe68b6054b99ecb12e.png",
+    "category": "auto"
+  },
+  {
     "title": "小米NAS官方App小米智能存储上架：支持照片视频自动备份、多端同步访问",
     "description": "小米NAS官方App小米智能存储上架：支持照片视频自动备份、多端同步访问",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUFlGSTd1dUMtcHJiMU1oMlYwNlVMSGNMMHhMdkFMb2JhWmFvRkNfSFQ1aGUzZ3JnY0JVSTJ2MFlEOXNOZ3Q2RGZDUGllTXNSMm5pT1RoRW0?oc=5",
@@ -207,7 +216,7 @@
     "description": "HyperOS 3.1 Security Update Adds New Game Performance Settings",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXVjaXducVRCRVZzVnJvaHBsaGdRaFJONkdWazgyQ3hzRExnemtlVDM2bnRfeEY0ck9mRnZxVGpOR1dJVzlpWEE4d3pTVjZ0OGQwaUdjalUyemsyUXlQNGNDLS1rM3ZSZWdobXZ2YmNRMDFPVHhYdWdsRmtfUlRwdkh0cFZuamtPMmhZMVB1UU5tVllI?oc=5",
     "date": "2026-06-29T12:43:28.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update.jpg",
     "category": "software",
     "updateVersion": "3.1",
@@ -236,6 +245,20 @@
     "source": "财华智库网",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "Xiaomi finally rolls out HyperOS 3 (Android 16) update to Xiaomi 13T",
+    "description": "Xiaomi finally rolls out HyperOS 3 (Android 16) update to Xiaomi 13T",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlBoNW5nRzVIcjdjbmdSQzc2R09qdVZRQW9BN0RYa2dGaGRKYkF5aE9DemZQaGVkS3JYbjFPRnpZQVY1MDdNREYzUk9kVm5uUEN0M0Y2aVl0SjNrbnB6S094TVNxNEJESUVhQV9rbXpJc2NpZ1J0N3FLYl92QnBYc3VJQ1VvaWxpcFdXbmNOcHFjMU83dW84b1hMYW1TZXJEMVNzb0FTTllkN0ZIRWNIRDI0WlphaGhnaDNNR25tY3J0dGM0a05WN2ZzeXlubm83ZUx3eHppQ0ZoV3AtMGExd1ZyU3VzLW5Ld3pKMmlpOU9hZw?oc=5",
+    "date": "2026-06-29T11:50:07.000Z",
+    "source": "MSN",
+    "image": "",
+    "category": "software",
+    "updateVersion": "3",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "Xiaomi 13",
+    "isUpdate": true
   },
   {
     "title": "2000 hp+ Xiaomi two-door electric sports car caught testing",
@@ -314,7 +337,7 @@
     "description": "董明珠发难问现场有用小米手机的么？雷军高情商回应：说明小米市场很大",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lajc2LUN2SU50WWU4REc2SjAzUS1ZQUtCaG1WRThEODdJT3Q4TFREZzFQbERnVGE3YTBkMERib2p3OHVTM2dpcHNUQzBHaTJOWE1CR3NCZ3dpRXM0R0VXelAtbVhlLXQwLU10VWltOUJtMzVXNnExTg?oc=5",
     "date": "2026-06-29T09:06:00.000Z",
-    "source": "Sina finance",
+    "source": "新浪财经",
     "image": "//n.sinaimg.cn/sinakd20260629s/72/w437h435/20260629/9bb1-9e9f39c6b1e32c38813b2e21bdf148d3.jpg",
     "category": "phone"
   },
@@ -3156,7 +3179,7 @@
     "description": "HyperOS 3.1 POCO Launcher Update Released – New stability optimization",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUW14c29TWndldWllU0xBZ1FQOWhhVno4WlhTXzVjTTB2R1F4QXBoLVR6NTJkeXRubEdwYW1PX3ZqUEVmRjh2MXg3LVF3MlNaZ3ZsWWV2ZV9qSDBGRy0yMnBzY3FCMFZoM0VMdUN1WXIwblRpWHF6N3BSTDVkMUxEWUkwUkNFUWxMRU02THp5ZmEwX1A4M2VxX2xpeFU?oc=5",
     "date": "2026-06-25T08:40:25.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/02/POCO-launcher-iOS-recent-apps.jpg",
     "category": "software",
     "updateVersion": "3.1",
@@ -4540,30 +4563,10 @@
     "description": "iPhone 11 still gets updates, so what is Xiaomi’s longest-supported phone?",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTdPbVppN2tFTFBNNEhwbXFQMlJtYi0xZVVaMzhlSjJJWVVhLW9XU0NMTl9uYjV5ZVZsakxzenpBOTJlOXk1OWUzYlJUMUVsRU51dk54ZW9jeDdRYk9VOTZXRzdIN09HWThTMm5WbjRTSFBQODdhelBlT09LakxlOGNVdVNoZUdEQ0dQYmZYSmtkRXlwYS1iNTJlbW1GaTV0?oc=5",
     "date": "2026-06-23T17:35:50.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/06/Xiaomi-vs-iPhone.jpg",
     "category": "software",
     "updateType": "update",
     "isUpdate": true
-  },
-  {
-    "title": "iPhone 11 still gets updates, so what is Xiaomi’s longest-supported phone?",
-    "description": "Apple has once again raised the bar for long-term software support, as the iPhone 11 series is now listed among the devices compatible with iOS 27. This means the 2019 iPhone lineup continues to receive major iOS updates years after launch, making it one of the strongest examples of smartphone updat",
-    "link": "https://ximitime.com/iphone-11-still-gets-updates-so-what-is-xiaomis-longest-supported-phone-98002/",
-    "date": "2026-06-23T17:35:50.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/06/Xiaomi-vs-iPhone-1024x512.jpg",
-    "category": "software",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "还是雷军扛热度，不是谁家赌约都能反复炒的",
-    "description": "还是雷军扛热度，不是谁家赌约都能反复炒的",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoR1JKd21SdVRJekJwYU1wQU1femJ2a3BrSTk2SkRhVVVaX1dYMFNleFM5ZFJ3VTRoVkQyZ3hZM1NSTEtTNVNBS1dJallvWi1zMkd6TkpWNzczbmw0T3h1THN6cWNXRG9ONTBEcWJlVjZpMndNc1VwSE5jZkdaWEU?oc=5",
-    "date": "2026-06-23T17:23:41.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20116/399/w1279h720/20260622/5668-aa114d89b7629c651e121301622b41c8.jpg",
-    "category": "people"
   }
 ]
