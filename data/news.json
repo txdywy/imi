@@ -1,5 +1,50 @@
 [
   {
+    "title": "武汉小米青年公寓正式开放入住，月租平均1099元",
+    "description": "武汉小米青年公寓正式开放入住，月租平均1099元",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RLVZsVEFPbzJuZEpMeFg0NFQ4ZDd0RVA2eVRVanpWel9GV1VUQjRVSXJmZmpYdUEzdnhJenBERVg1YnhzeHlHUA?oc=5",
+    "date": "2026-07-04T02:44:28.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/res/2026/00479BA0F363EAF3B49DC5BF074EB4B8FCA31774_size13_w720_h380.webp",
+    "category": "phone"
+  },
+  {
+    "title": "小米武汉青年公寓今日开放入住：平均月租1099元！自带全屋智能",
+    "description": "小米武汉青年公寓今日开放入住：平均月租1099元！自带全屋智能",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIcUhlZ1l2alZ5YzVzbWZQNWltaHF1Ry1qR0VpQmdibDBBdGpPOUpDYmQtdjRvNEp5OTdVQ3pTaHI2bUJmSldCNXdNOEluZ1hiWWdvSGNSVk4?oc=5",
+    "date": "2026-07-04T02:33:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260704/51469ee6e4c7402c9c75327f72f0a2ed.png",
+    "category": "phone"
+  },
+  {
+    "title": "小米智能家电工厂磁悬浮产线上，AI大模型统筹空调“大脑”生产",
+    "description": "小米智能家电工厂磁悬浮产线上，AI大模型统筹空调“大脑”生产",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zamh0dWNIRW5fUW9GWUQtaHExeG9ucHJoMEtSUl9UcVBnSUdXcGFRV3BqZWdwTzNYbV9QYTFVUWk0Y1VxdDBfelNTSmM1UVEyaFhrWUxzbzY2Q0k5bmpyN193?oc=5",
+    "date": "2026-07-04T01:52:00.000Z",
+    "source": "长江网",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+    "description": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。 FF洛杉矶总部人去楼空？公司回应：不",
+    "link": "https://36kr.com/p/3880629882679301?f=rss",
+    "date": "2026-07-04T01:03:44.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+    "description": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。 据QYResearch数据，2024年全球微型和mini光谱仪市场规模约为4.6亿美元，预计2031年将达8.22亿美元，年复合增",
+    "link": "https://36kr.com/p/3879991356157952?f=rss",
+    "date": "2026-07-04T01:00:00.000Z",
+    "source": "36氪",
+    "image": "https://img.36krcdn.com/hsossms/20260703/v2_7bba92fd871f49ea8ca5e3fcabde20c7@6221844_oswg1504240oswg956oswg895_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+    "category": "iot"
+  },
+  {
     "title": "小鹏MONA 首款SUV发布，网友：小米YU7+特斯拉组合？",
     "description": "小鹏MONA 首款SUV发布，网友：小米YU7+特斯拉组合？",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocDNtSTZBVjlUM3V0bzdJZTM5aFpzNHdjYWJqVUFKdGZkX29PNkRNQ0FFUVpBSXNlZlBhSnFwalJMSG9PT1pRbXdpQ2Rrd1pUOUVSclVmRUswUU0?oc=5",
@@ -15,6 +60,15 @@
     "date": "2026-07-03T20:19:59.000Z",
     "source": "汽车之家",
     "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M03/17/8C/autohomecar__ChtpWGpHPumAb_3XAApdvbYumTY331.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi's SU7 electric car is stunning IRL",
+    "description": "Xiaomi's SU7 electric car is stunning IRL",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MUktKbjMtNXJ4dzJmdFdlODBhSnhzSGsxRl8tbnU4NFB0RnpSX2Rxa0hKcXhjSkZ5VTFzVXppaEcyZWtWN3VuTy1mYWZDR2NvSlp4Q0ZMbHZSdw?oc=5",
+    "date": "2026-07-03T19:10:12.000Z",
+    "source": "Mashable",
+    "image": "https://helios-i.mashable.com/imagery/articles/07BvCypna2EiZthidCGLklc/hero-image.fill.size_1200x675.v1708955902.jpg",
     "category": "auto"
   },
   {
@@ -145,15 +199,6 @@
   },
   {
     "title": "Xiaomi Reportedly Boosts AI Investment to $1.4 Billion for Massive GPU Expansion",
-    "description": "Xiaomi Reportedly Boosts AI Investment to $1.4 Billion for Massive GPU Expansion",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlhnVFptblBLSDlRRDNSOFdHQnhUQTFEMUN1XzEyX3U2Tk9oVm8xdTE5dmJBQktfeVFERU5wcHlieF92ZFFodl90NzZZZnZteTlya0pJVV9JVElPWVVzYzVYMUxVMEdEZWVIRmpLb1czRElkQmRHei1pUjQtNlBPT3N1Zk42eHJtMk02Rl9fREZSQXA4VWhaVXliQ3NGNnRGb0FkNnF2bmktMW8?oc=5",
-    "date": "2026-07-03T11:51:01.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2025/07/HyperOS-AI-TO-VIDEO.jpg",
-    "category": "ai"
-  },
-  {
-    "title": "Xiaomi Reportedly Boosts AI Investment to $1.4 Billion for Massive GPU Expansion",
     "description": "Xiaomi is reportedly making one of its biggest AI infrastructure investments to date. According to a new report from Jiemian News, the company has significantly expanded its GPU computing power plans with Kingsoft Cloud, increasing its related investment budget from nearly 4 billion yuan to more tha",
     "link": "https://ximitime.com/xiaomi-reportedly-boosts-ai-investment-to-1-4-billion-for-massive-gpu-expansion-98350/",
     "date": "2026-07-03T11:51:01.000Z",
@@ -162,6 +207,24 @@
     "category": "software",
     "updateType": "update",
     "isUpdate": true
+  },
+  {
+    "title": "Xiaomi Reportedly Boosts AI Investment to $1.4 Billion for Massive GPU Expansion",
+    "description": "Xiaomi Reportedly Boosts AI Investment to $1.4 Billion for Massive GPU Expansion",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlhnVFptblBLSDlRRDNSOFdHQnhUQTFEMUN1XzEyX3U2Tk9oVm8xdTE5dmJBQktfeVFERU5wcHlieF92ZFFodl90NzZZZnZteTlya0pJVV9JVElPWVVzYzVYMUxVMEdEZWVIRmpLb1czRElkQmRHei1pUjQtNlBPT3N1Zk42eHJtMk02Rl9fREZSQXA4VWhaVXliQ3NGNnRGb0FkNnF2bmktMW8?oc=5",
+    "date": "2026-07-03T11:51:01.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2025/07/HyperOS-AI-TO-VIDEO.jpg",
+    "category": "ai"
+  },
+  {
+    "title": "小米高管回应友商暗讽小米空调：用户会用脚投票",
+    "description": "小米高管回应友商暗讽小米空调：用户会用脚投票",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Oc3hsZnpmajJIWHBYeUpjZHNmbWNIWnhBdGtGWDBJX3VuOXkzUWx2X1hNVmExNVZkaHh6UlBoa2hhM21tQVVkbg?oc=5",
+    "date": "2026-07-03T11:22:26.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/ucms/2026_27/5032F9F97F40BF8CA1AEF43A8B4C71AF0BAEF1D9_size320_w596_h336.png",
+    "category": "phone"
   },
   {
     "title": "曾卖断货的小米YU7，现在求着你买现车还“倒贴”优惠？",
@@ -255,6 +318,15 @@
     "date": "2026-07-03T09:57:48.000Z",
     "source": "新浪财经",
     "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米高管回应友商暗讽小米空调：产品会自己说话，用户会用脚投票",
+    "description": "小米高管回应友商暗讽小米空调：产品会自己说话，用户会用脚投票",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjJDRzBmQnR6T3FxTHl3bG5tOWRDbXRxUUMtWnBlSWZFTzhuOVJ3MGlSRl9QeGtlaDU0LWJlekRXYmp4Sk4tZFd5ckJKb0FrNV84alpQVnNNZ0l4Y2JsRjByc2Y3UEVQbnFSRV93cG4zZ2R0NUR5SEUxZkhuT0xQdGlKWTY?oc=5",
+    "date": "2026-07-03T09:48:00.000Z",
+    "source": "新浪网",
+    "image": "//n.sinaimg.cn/finance/transform/676/w550h926/20260703/0878-d6466d5d4c7056d6c8a75c16a0778d7c.png",
     "category": "phone"
   },
   {
@@ -438,7 +510,11 @@
     "date": "2026-07-03T06:12:12.000Z",
     "source": "Nokiamob",
     "image": "https://nokiamob.net/wp-content/uploads/2026/07/Xiaomi-HyperOS-3.3-update.webp",
-    "category": "software"
+    "category": "software",
+    "updateVersion": "3.3",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "流量之外:小米汽车的爆款逻辑与长期主义",
@@ -3706,7 +3782,7 @@
     "description": "HyperOS 3.1 Security Update Adds New Game Performance Settings",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXVjaXducVRCRVZzVnJvaHBsaGdRaFJONkdWazgyQ3hzRExnemtlVDM2bnRfeEY0ck9mRnZxVGpOR1dJVzlpWEE4d3pTVjZ0OGQwaUdjalUyemsyUXlQNGNDLS1rM3ZSZWdobXZ2YmNRMDFPVHhYdWdsRmtfUlRwdkh0cFZuamtPMmhZMVB1UU5tVllI?oc=5",
     "date": "2026-06-29T12:43:28.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update.jpg",
     "category": "software",
     "updateVersion": "3.1",
@@ -4494,78 +4570,6 @@
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4TS1BcmE2U2R1M2Y2Rm9wMm9aRVpFM29LLVVYc1RrZjlQNHgtVmVMUkprQlVGT0pLYmpCTTFiQlltODdlT3JZNWt0clZvYl83MHJqQjR5am1sQ2U5SnlRZDdFNA?oc=5",
     "date": "2026-06-28T16:22:00.000Z",
     "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "高校辟谣禁小米汽车_新浪新闻",
-    "description": "高校辟谣禁小米汽车_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5ZVNtanNvRUFHTC1vc0xBTDVrUEtLN0gtRnR2TVZIVWR3VHlvYTA4WkZ3YVJucGVsdG1tSTFnUElUbnB0R1p5YU52NW1aSzd6UXNiOUdTSm55SWtOdGN4MmdWRQ?oc=5",
-    "date": "2026-06-28T16:14:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "#广州一高校禁止小米汽车入园##广州某高校辟谣禁止小米汽车入校# 真的被这事整无语了，一张随手截的群聊、保安随口一句沟通，直接发酵成全校针对性禁小米汽车的热搜。校方都专门出面澄清了，校长助理也回应，学校从来没按品牌卡车辆，外来社会车辆统一报备",
-    "description": "#广州一高校禁止小米汽车入园##广州某高校辟谣禁止小米汽车入校# 真的被这事整无语了，一张随手截的群聊、保安随口一句沟通，直接发酵成全校针对性禁小米汽车的热搜。校方都专门出面澄清了，校长助理也回应，学校从来没按品牌卡车辆，外来社会车辆统一报备",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Iekg2cDg1d2JKeHY1OWZxaXYxMTBPY0JoRjNDUURxaE5mR1Z6OWlIRTEyRnR3TjVXT0xFLVc2Y1JUdGJ0T0hVdENoQnBfd3htT3NyTzhiYWh3aW1HcEJjTW1Zaw?oc=5",
-    "date": "2026-06-28T16:04:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "#广州某高校辟谣禁止小米汽车入校#只能说小米还是流量大，很多人整天把小米当流量包，于是逢小米必造谣。本来是沟通没说清楚，本来就是学校统一管理，一些媒体、自媒体也不求证，上来就是言之凿凿，然后一群傻子跟着狂欢。自媒体为了流量不要脸是人所共知，",
-    "description": "#广州某高校辟谣禁止小米汽车入校#只能说小米还是流量大，很多人整天把小米当流量包，于是逢小米必造谣。本来是沟通没说清楚，本来就是学校统一管理，一些媒体、自媒体也不求证，上来就是言之凿凿，然后一群傻子跟着狂欢。自媒体为了流量不要脸是人所共知，",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZ1BvUmRvUEV3c2JFUVhrbTdDeV91bmFDUnRFYmN4VThrRmdDWVROdWtfOUVkZ2tuT2pXMVl4NkZFVGtPcGtuNFR5Z2FLRGRXSjFFN2l0VmRacUVtY1VFLThMMA?oc=5",
-    "date": "2026-06-28T15:48:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "高校辟谣小米汽车禁入_新浪新闻",
-    "description": "高校辟谣小米汽车禁入_新浪新闻",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6eVoxV095dlJNTmZKSDlPeVlVZFdUV0ltVkI5bUJXUzZXekJwb2FYMUpRNkgxd0NnM2tJVDg3aGN0ZVJ2LVBkX3JWeWdhQklKTkl5d3ZPZFRPZnJja0FTblNSZw?oc=5",
-    "date": "2026-06-28T15:43:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "广州一高校禁止小米汽车进入校园。车主：特斯拉能进，小米为啥不行？保卫处：接领导通知，去年起已明确禁止小米汽车入校",
-    "description": "广州一高校禁止小米汽车进入校园。车主：特斯拉能进，小米为啥不行？保卫处：接领导通知，去年起已明确禁止小米汽车入校",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kUWllTGJCdDY1NG1MMjlrd0o5V0VFNHo2LVdZZ0lUR1htbVNZT3ctTFpmNHZFUnZXUkZhY0NTekRuMDRYZC1lTG16Q3dqYkdPR3VTOVkxcEpIdjBNbjdHZURrdmZTVEZDcWVjejc4dVZiNmFZRlE?oc=5",
-    "date": "2026-06-28T15:33:00.000Z",
-    "source": "Sina finance",
-    "image": "//n.sinaimg.cn/spider20260628/220/w447h573/20260628/f2f3-81ed28f418d3c262e3a8f7fc335d152f.png",
-    "category": "auto"
-  },
-  {
-    "title": "#广州某高校辟谣禁止小米汽车入校#网传某高校禁止小米汽车入校，校方校长助理回应该说法完全不实，学校从未针对任何品牌车辆设置入校限制。校内教职工日常驾驶小米汽车正常通行，当天多辆小米汽车也顺利入校，出入记录可查。传播这件事就很扯，保安没执行",
-    "description": "#广州某高校辟谣禁止小米汽车入校#网传某高校禁止小米汽车入校，校方校长助理回应该说法完全不实，学校从未针对任何品牌车辆设置入校限制。校内教职工日常驾驶小米汽车正常通行，当天多辆小米汽车也顺利入校，出入记录可查。传播这件事就很扯，保安没执行",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DcnFOWVNaejE2OTlNR19EdFF1QXhjejRhX2FjUkZWOEhhdzZrN2tUbnlPQXJuN1B1ck14Y0RpZVEtMzhETHVURGhGdDF6UjVoM3dQOTNvcHh1Tjd3ZzdMb28xaw?oc=5",
-    "date": "2026-06-28T15:25:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "#广州某高校辟谣禁止小米汽车入校#现在造谣成本也太低了，这种谣言怎么会有人信呢？校长助力亲自回应：所有品牌一视同仁，进出校园需要凭码，没有针对任何品牌！随便一个保安的一句话，就这样被以讹传讹，为啥总有人不盼着小米好呢？而且学校监控都显示小",
-    "description": "#广州某高校辟谣禁止小米汽车入校#现在造谣成本也太低了，这种谣言怎么会有人信呢？校长助力亲自回应：所有品牌一视同仁，进出校园需要凭码，没有针对任何品牌！随便一个保安的一句话，就这样被以讹传讹，为啥总有人不盼着小米好呢？而且学校监控都显示小",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKRGE1anRzeVFVbDVWT1JuZ0lfbUwxSDBCWE5Ha1VOd3dRV0ppOHJnV09oNVp1b25Qcmc0a2lyaG9LT1o4amxaTWx1T0VIMUEzOWRmc202YlltZENtTmk1TWtjZw?oc=5",
-    "date": "2026-06-28T15:18:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "【视频】特斯拉可以进，小米汽车不让进！广州华立学院做的对",
-    "description": "【视频】特斯拉可以进，小米汽车不让进！广州华立学院做的对",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcmZKYjJSWUkzQ3RtenYzdEhmYndCZ3J6ZmRINzJXSVV1UklKTy1HWnlGLU5IcWxFMUVwci1meXFFSms5ME5WYXBFYXZ4TVpfN2hUN0FEc3RnLVE?oc=5",
-    "date": "2026-06-28T15:14:10.000Z",
-    "source": "汽车之家",
     "image": "",
     "category": "auto"
   }
