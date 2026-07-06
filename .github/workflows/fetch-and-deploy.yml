@@ -19,33 +19,26 @@ concurrency:
 jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node.js
+        if: github.event_name != 'push'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Install dependencies
+        if: github.event_name != 'push'
         run: npm ci --ignore-scripts 2>/dev/null || npm install --ignore-scripts
 
       - name: Fetch news
+        if: github.event_name != 'push'
         run: node scripts/fetch-news.mjs
-
-      - name: Commit data
-        run: |
-          git config user.name "IMI Bot"
-          git config user.email "bot@imi.dev"
-          git add data/news.json
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update news data $(date -u '+%Y-%m-%d %H:%M')"
-            git pull --rebase origin main
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
 
       - name: Prepare deploy directory
         run: |
@@ -62,14 +55,19 @@ jobs:
           path: '_deploy'
 
       - name: Deploy to GitHub Pages
-        id: deploy
+        id: deployment
         uses: actions/deploy-pages@v4
-        continue-on-error: true
 
-      - name: Wait before retrying deployment
-        if: steps.deploy.outcome == 'failure'
-        run: sleep 15
-
-      - name: Retry GitHub Pages deployment
-        if: steps.deploy.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+      - name: Commit data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "IMI Bot"
+          git config user.email "bot@imi.dev"
+          git add data/news.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update news data $(date -u '+%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
