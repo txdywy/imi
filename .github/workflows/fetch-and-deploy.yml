@@ -41,7 +41,7 @@ jobs:
           git add data/news.json
           if ! git diff --staged --quiet; then
             git commit -m "chore: update news data $(date -u '+%Y-%m-%d %H:%M')"
-            git pull --rebase origin main || true
+            git pull --rebase origin main
             git push origin main
           else
             echo "No changes to commit"
@@ -62,4 +62,14 @@ jobs:
           path: '_deploy'
 
       - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before retrying deployment
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 15
+
+      - name: Retry GitHub Pages deployment
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
