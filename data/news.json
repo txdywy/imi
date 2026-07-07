@@ -1,10 +1,28 @@
 [
   {
+    "title": "百元小米智能设备真香还是智商税?生态依赖成最大隐患",
+    "description": "百元小米智能设备真香还是智商税?生态依赖成最大隐患",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WV0JVVy15emh2czRzbFg0UFVURDlLWG5VV2tsaktSdllnR2NWaUhfMlptYzlNdDhzTk5tTDAxRlZaUUxEMXRuOTQ0dUF3aG5SWnBDTHlWelBEZjJUZlV2QnhBbHVNdUN3ekQ3MDZrZHhyQQ?oc=5",
+    "date": "2026-07-07T21:27:23.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米牵头，50W的通用无线快充终于要来了？",
+    "description": "小米牵头，50W的通用无线快充终于要来了？",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GN211MlpaM1Z4ZXV6ZmJaakxyMm1sZnlxS1JHT1JhR0V1NDlsRl9jc1VsZDh4cGRMeHJlZnh4cjJabHNZT2k5NWVCZzFQWUcwNXFGbmhIUQ?oc=5",
+    "date": "2026-07-07T21:04:06.000Z",
+    "source": "中关村在线",
+    "image": "https://doc-fd.zol-img.com.cn/t_s120x75/g8/M00/01/03/ChMkLWpMxlaIQuazAAErKt4VdMUAAJEOgPMxqsAAStC332.jpg",
+    "category": "phone"
+  },
+  {
     "title": "Xiaomi 18 Ultra Development Reportedly Stopped Before Launch",
     "description": "Xiaomi 18 Ultra Development Reportedly Stopped Before Launch",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemlta2FXbWJuSFBBRGpoeTBvc04zNUhwLUJKZHM3cVRCRUxHd0t1c0JzZUhoOU9jMkJkRDVjWi1tbk5xdjAySkR2MUlKLVZwZFR2TTBQRkJnM1BNUmQ1WXRSR2p0QlpKM1p5V2dPbDR1bXBZWFlpM3Y4ZHp6bS1Calo3SHZEM1JXSWZ3MEJoTVU2QQ?oc=5",
     "date": "2026-07-07T20:51:50.000Z",
-    "source": "ximitime.com",
+    "source": "XimiTime",
     "image": "https://ximitime.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra.jpg",
     "category": "iot"
   },
@@ -88,7 +106,7 @@
     "description": "Xiaomi HyperOS 3.3 Android 17 Update Could Arrive Next Week",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZlREZIYkYyc3l1dFJXUW9WYTFyc3BreDJja0YyY0d1WmVNYmo5cHNpdnBfeThqelNnMTRoNWlfa0tuLXdYVlREQWpobG1XYnhCX3B4MExobFV2WEN4SjVoMXNnZFZrZGQwY0JHazI1aU0yYVQwTlVETzBpa2lWUVBwbnFrd1Jhei1PaExnUUE?oc=5",
     "date": "2026-07-07T17:16:01.000Z",
-    "source": "ximitime.com",
+    "source": "XimiTime",
     "image": "https://ximitime.com/wp-content/uploads/2026/04/Xiaomi-17-Android-17.jpg",
     "category": "software",
     "updateVersion": "3.3",
@@ -163,6 +181,15 @@
     "source": "新浪财经",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "小米14实测：屏幕口碑分化 信号表现如何？",
+    "description": "小米14实测：屏幕口碑分化 信号表现如何？",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORW91czM0WjJIUGluN05veUN4WmtuUmZhcmJ6NWY4TXBVT2xoQUZmbjBDLTdmY0dFdDY2V09PSkRzaDFuWUo5S0syY0FkdUxfbVliTHZTYWh4VURvVG5lTkJKMWlULS0wbUtxRWQycS1mT0pHbVo5clU4MnBzQ1FFbW1USWU?oc=5",
+    "date": "2026-07-07T16:25:37.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "【雷军发文：#小米捐赠1000万元现金紧急驰援广西等地救灾 】（雷军微博）",
@@ -640,7 +667,11 @@
     "date": "2026-07-07T07:20:40.000Z",
     "source": "Nokiamob",
     "image": "https://nokiamob.net/wp-content/uploads/2026/07/Xiaomi-HyperOS-4-update.webp",
-    "category": "iot"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "致敬还是抄袭？长安启源海报撞脸小米创意",
@@ -1166,18 +1197,6 @@
   },
   {
     "title": "POCO Launcher July 2026 Update Released – New version now available",
-    "description": "POCO Launcher July 2026 Update Released – New version now available",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUpicXFnMmpOb2R6Y2U1eWt6N3otV3MycVYxRDRZOVpILW9TcXo0MVVlLXR5ZE9KcWRQVElfbXZ2VDRlTzY4VVd3ZnBZMGU4eEdXM2RyQnlTWnh4T0UwVTExWHRmMlVRVGtRSFJtSzBHell2ZWhrUEprMTRzZFg0TUNCLUctakNQNUxROVJiekxIcWl4em52Sg?oc=5",
-    "date": "2026-07-06T15:56:47.000Z",
-    "source": "ximitime.com",
-    "image": "https://ximitime.com/wp-content/uploads/2025/10/poco-launcher-6-.jpg",
-    "category": "software",
-    "updateType": "update",
-    "device": "POCO Launcher July",
-    "isUpdate": true
-  },
-  {
-    "title": "POCO Launcher July 2026 Update Released – New version now available",
     "description": "Xiaomi has begun rolling out the July 2026 POCO Launcher update, introducing a brand-new build for users running Xiaomi HyperOS. The latest version, POCO Launcher RELEASE-6.01.06.2463-06221039, is now available and continues Xiaomis strategy of improving the launcher through frequent standalone upda",
     "link": "https://ximitime.com/poco-launcher-july-2026-update-released-new-version-now-available-98399/",
     "date": "2026-07-06T15:56:47.000Z",
@@ -1186,6 +1205,18 @@
     "category": "software",
     "updateVersion": "6.01.06.2463",
     "osType": "HyperOS",
+    "updateType": "update",
+    "device": "POCO Launcher July",
+    "isUpdate": true
+  },
+  {
+    "title": "POCO Launcher July 2026 Update Released – New version now available",
+    "description": "POCO Launcher July 2026 Update Released – New version now available",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUpicXFnMmpOb2R6Y2U1eWt6N3otV3MycVYxRDRZOVpILW9TcXo0MVVlLXR5ZE9KcWRQVElfbXZ2VDRlTzY4VVd3ZnBZMGU4eEdXM2RyQnlTWnh4T0UwVTExWHRmMlVRVGtRSFJtSzBHell2ZWhrUEprMTRzZFg0TUNCLUctakNQNUxROVJiekxIcWl4em52Sg?oc=5",
+    "date": "2026-07-06T15:56:47.000Z",
+    "source": "ximitime.com",
+    "image": "https://ximitime.com/wp-content/uploads/2025/10/poco-launcher-6-.jpg",
+    "category": "software",
     "updateType": "update",
     "device": "POCO Launcher July",
     "isUpdate": true
@@ -4559,33 +4590,6 @@
     "date": "2026-07-02T08:11:00.000Z",
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260702/fb75aac7ac2f47a4bd4e031e0385a135.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米SU7首期月供仅538元？YU7老车主竟遭权益背刺？",
-    "description": "小米SU7首期月供仅538元？YU7老车主竟遭权益背刺？",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41YlJlTUY4U1haV3hoNVpOa0FHckJISldRMkhGU2EySkY3RW12akJ6YlNmN295VEVkSVNNcG5HeGFudWIxRXM5bVRxUk5mMFR1dGdhaw?oc=5",
-    "date": "2026-07-02T08:08:00.000Z",
-    "source": "car.tom.com",
-    "image": "https://imgs.tom.com/auto/202607/1541434200/THUMBNAIL2dce2873f1a6112c.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "普通人怎么原价抢到小米SU7车模",
-    "description": "普通人怎么原价抢到小米SU7车模",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOU3lGY1NMWUdrcnBHOUkxOF96bjZuQUc2ZnZrMjZ2OS05T2RKdHZNYnFzYUtlWDNuRDFnYW85LW9hOEg0Nmwza202MXpTZ3VVbHVBd1k0RlVGUlBoNGNJOWU0OGdnUklJSzFjZGVHQ2FuQQ?oc=5",
-    "date": "2026-07-02T07:51:06.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260701ac/311/w690h421/20260701/001d-5f287425f7fb374fcb23c701da7f606c.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米SU7车模官方购买渠道有哪些？",
-    "description": "小米SU7车模官方购买渠道有哪些？",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8za3hMdHBsbXFvTElPNUJ3R3dYZWNHd3lTcDg5M0E1TDNfWXpLdXFPalM2NXpmTkVYUUFNbllXRllEeGFUTWYzV0Q3dTJJNVJyVkxCWjBQXzNxeDNrbUpVYVRrbDNOWmxobHQtcVJURnpNZw?oc=5",
-    "date": "2026-07-02T07:49:00.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260701ac/209/w319h690/20260701/57fc-07976f2c1fde3092e751327c5257ec11.jpg",
     "category": "auto"
   }
 ]
