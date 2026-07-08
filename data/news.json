@@ -1,5 +1,209 @@
 [
   {
+    "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
+    "description": "大公司： 雷军回应SkyNomad上市时间 36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。 必和必拓在世界最大铁矿石出口港口的工人将罢工8小时 7月8日，工会表示，必和必拓集团位于西澳州Port Hedland铁矿石出口码头的工人将于7月16日举行8小时罢工。此次行动将涉及全球最大铁矿石出口港口的运营人员和维护人员，他们由联合港口工会代表。工会表示，员工寻求一项认同他们专业技能、艰苦工作条件以及重大个人成本的协议。 本田在美国召回逾32万辆奥德赛，因倒车影像故障 美国国家公路交通安",
+    "link": "https://36kr.com/p/3886678879727880?f=rss",
+    "date": "2026-07-08T08:01:28.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "小米汽车发布新品牌SkyNomad，首款增程式SUV将于2026年上市",
+    "description": "小米汽车发布新品牌SkyNomad，首款增程式SUV将于2026年上市",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vN3lLSjAzVUN3bTlmeVFhOXZrei1GSkN6TWQ2aGNwYUstUkhjcWE2RVNBS3lxQ0VoNmlCdUttaTJoM0MyRmhqSnV4U1J6Y0JlWTVpeVZyUnI4UHpPZGtHc3hxNlM1eWhONWFyNUFR?oc=5",
+    "date": "2026-07-08T07:45:34.000Z",
+    "source": "新浪汽车",
+    "image": "https://n.sinaimg.cn/sinakd/sni/623/w800h623/20260708/b9ad-85ac6a8a4b0b8a3138a9b2256addd9f1.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "多款新车被指撞脸小米，设计趋同背后技术差异显著",
+    "description": "多款新车被指撞脸小米，设计趋同背后技术差异显著",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV1N6dGdmaFhfblk3eDRrM2kyRk10N2U5dEp2UFYwb3dHMTJPeUlTMlRvTng5ejFZMEgxcXI5TzdzUEtvLUU3dUwzZWRtczV0czJaLWh6X3hrSFlCVGlselEyc1AzaHUzUUY2bzFFTXlxRXhXX21wVXFXYlRWWkN3bnBLdHJyVTF6Q29EY3pn?oc=5",
+    "date": "2026-07-08T07:36:00.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd/sni/384/w2048h1536/20260708/3ad3-253472533f14df35fffbbcd4f368a651.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "小米后续会OTA升级补全AI短板吗？",
+    "description": "小米后续会OTA升级补全AI短板吗？",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vT0hiWGtSVVo1Z3dWeXFHaWdXRkgwb1ZnWWwtRzlQcllqeS1VSzdSTWdtN01faWtMOTRTOVVqdFdaNXFRYXBiaTlDb2tXSFN3V3B4NjR0V0hQY0puTVBlS3R2OXM2QnpCbzZjOWVQSDg1aVdLdUlrNTg2ZGRjeUk?oc=5",
+    "date": "2026-07-08T07:24:57.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260708ac/394/w504h690/20260708/d106-98656ff55c5566e0c8a50b0d90e21fdf.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "REDMI Note 17 Pro Teased With Sky Blue Color and IP69K Protection",
+    "description": "REDMI has started the preheating campaign for the upcoming REDMI Note 17 Pro, revealing a new Sky Blue color option and strong durability claims ahead of its official launch. The device is scheduled to be introduced on July 14 at 19:00, and early promotional materials highlight both design and prote",
+    "link": "https://ximitime.com/redmi-note-17-pro-teased-with-sky-blue-color-and-ip69k-protection-98469/",
+    "date": "2026-07-08T07:23:31.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/07/REDMI-Note-17-IP69-1-1024x512.jpg",
+    "category": "software",
+    "updateType": "update",
+    "device": "REDMI Note 17",
+    "isUpdate": true
+  },
+  {
+    "title": "雷军回应SkyNomad发布时间",
+    "description": "雷军回应SkyNomad发布时间",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yS1RNNzh2Z0ZXX19GR0M5a0RIcEMwN2xSSWtEQk1yUHpjdzl1YmE5MFk1RVc1ajhCV3VTdGQyWWpNOHhhdHIxb3g4eXgwa2xyNU5YQ0lKekRqZmNHUDcxMWdtZW9ZV1QxN0E?oc=5",
+    "date": "2026-07-08T07:22:17.000Z",
+    "source": "大河财立方",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "雷军回应SkyNomad上市时间",
+    "description": "36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。",
+    "link": "https://36kr.com/newsflashes/3886665407623173?f=rss",
+    "date": "2026-07-08T07:20:30.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Redmi Note 17 series launch date and design officially revealed - GSMArena.com news",
+    "description": "Redmi Note 17 series launch date and design officially revealed - GSMArena.com news",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2hyMkZUQ3dUZ21lei1Ndk5NbzZDbzN6cVA2U3ZWcGJtZGJPR2t2X2huS2hWTFFJUnQ4WWRWWU54alNZSDhETy1TUVc4NkswWXBiU0hSVmVWX1F5enBuVk1PZUpzWlNpNm9uRGR3ZmRRNVpxQ2tjMEVTMWpNZUY1eC1fZThwQ3M2WVppakdueU9vNEdYUjJpX29veGlKT2oyREtEOW9n0gGiAUFVX3lxTFBIUG9wXzcwM0V2cUdLUVRUNFhBWURpZGZpeTA5MnZwY3BNY3dmYXYyOG42RXprNmxYOU9DRlBTMDlWMFl3SDBnbjUwTXlNZHFLVG93bGVnR2xzRlh1ZkwtWnBTdXR4eVdzd1ZPZVVWMlpyVDBsWEJXdlBHc0JxdENxbnp2WW1FUE1YdC0zbnVGOVBzWDdZUTF6Vi10T3lxdTNtQQ?oc=5",
+    "date": "2026-07-08T07:17:02.000Z",
+    "source": "GSMArena.com",
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-note-17-pro-launch-date/-952x498w6/gsmarena_000.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米汽车官宣后，股价大涨超10%",
+    "description": "小米汽车官宣后，股价大涨超10%",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SMzh3cXpzQVF5akR0eFg1bUQ5UG1pNElTNklPN3RsRFpXcUt6OERLYmtvT2tIdTBoMXNnSVBkci12LUpXUUEwWWtDeEY3Tnk0U1ZB?oc=5",
+    "date": "2026-07-08T07:13:00.000Z",
+    "source": "电子工程专辑",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "REDMI Note 17 Series Launch Set For July 14 With 9000mAh Battery and Tough Design",
+    "description": "Xiaomi’s REDMI brand is gearing up to unveil the much-anticipated REDMI Note 17 series on July 14 at 19:00 local time. Announced by the official REDMI Weibo account, this new generation of the national little tough guy Note family promises significant upgrades in durability, battery life, and displa",
+    "link": "https://ximitime.com/redmi-note-17-series-launch-set-for-july-14-with-9000mah-battery-and-tough-design-98460/",
+    "date": "2026-07-08T07:10:42.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/07/redmi-note-17-1024x512.jpg",
+    "category": "software",
+    "updateType": "update",
+    "device": "REDMI Note 17",
+    "isUpdate": true
+  },
+  {
+    "title": "股价大涨10%！雷军回应小米汽车新系列澎程上市时间：快了",
+    "description": "股价大涨10%！雷军回应小米汽车新系列澎程上市时间：快了",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EZGJmSHk1cFlvc3F3M3BsRlU2d2VweGtrZU5ETXFwZ1h3dG1RQTlsMkFFQWZjOTJ0M3FYSWtkSXJkcUdrOFhSV2VIMzUxY2FuUHRhTlJnTmk?oc=5",
+    "date": "2026-07-08T07:07:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260708/f9adc4bd79764afb8daba38354476fd2.png",
+    "category": "auto"
+  },
+  {
+    "title": "刚刚！小米汽车全新品牌正式官宣",
+    "description": "刚刚！小米汽车全新品牌正式官宣",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zRkhiVGUzcTd0ZEVCbFJQbk5jbE9wQTVodEthQklRN0V0ckNMYk5Va041Z3hrRmFSbFB3ZTVDRW5JU25CVjM3aWtMUFN4OGw4WU80?oc=5",
+    "date": "2026-07-08T06:59:00.000Z",
+    "source": "电子工程专辑",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "天空游牧者登场!小米全新增程子品牌「Sky Nomad 澎程」正式官宣",
+    "description": "天空游牧者登场!小米全新增程子品牌「Sky Nomad 澎程」正式官宣",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WbGNNYUJKZXlKdlhXTnhmS08wdE9YXzRhUXJiWUx6TjEzSFlJaHhkRjFnZVYtWm1KYjRwaVlTUkVZOFZ0UFkzeGI5RHdsNG5qSkRNZDFic1o1SnB5WUc1MGFDT0NjY2VVMnQxY293?oc=5",
+    "date": "2026-07-08T06:49:58.000Z",
+    "source": "新浪汽车",
+    "image": "https://n.sinaimg.cn/sinakd20260708s/108/w1075h1433/20260708/d4da-c927a5141b8d7eab3b10497b0410fcad.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米″澎程″SkyNomad正式官宣 面向家庭的增程SUV要来了",
+    "description": "小米″澎程″SkyNomad正式官宣 面向家庭的增程SUV要来了",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hSlBjTk5CankwanVYSElWUmxSdExhQlhhaE5tR3Z3UXJPMmxfVmtEX1R3MHlnSGJXNVJFamRwUUM2YlN5YUtPXzJVbGdpNElKOWZPWklLUkNpSE8yc2tXRnFTZnQ3ck5Uc0xLRExn?oc=5",
+    "date": "2026-07-08T06:49:58.000Z",
+    "source": "新浪汽车",
+    "image": "https://n.sinaimg.cn/sinakd20113/659/w1179h1080/20260708/29c5-a5c5758398543a9c91bfd2dad41aa275.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米YU7深海蓝颜色好看吗？",
+    "description": "小米YU7深海蓝颜色好看吗？",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SbWlGMmVadHNjeVk5SFVRM2ZNN1k0S3dRc1pFcExncDY5UFoxcTBreVVfdGlDZXRYOVJDb0NQbERvN0ZWQm1URjNqZDV3QUFKbURQU095bmNfMnllRWxhWEZvZ1kxaTRHLVRzYWd3bndQUQ?oc=5",
+    "date": "2026-07-08T06:48:27.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260707ac/403/w513h690/20260707/5fb3-fbaf95fa5333a91fb88457c8b7bd1aba.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米集团涨超10%股价重回25港元上方 成交额超60亿港元",
+    "description": "小米集团涨超10%股价重回25港元上方 成交额超60亿港元",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FZnFKZEoxVHpTbGUwak5rV2tOb2h5YzJHaW0wVy1FZGV3N0FJV1ppei1FeVRSTURFMmJWZ2lGVjFZVjNzal9yU1NRdmdTVmZOMVRxQzVoTjRzUXgxcWJHU2pB?oc=5",
+    "date": "2026-07-08T06:36:12.000Z",
+    "source": "观点网",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "小米集团涨超10% 股价重回25港元上方",
+    "description": "小米集团涨超10% 股价重回25港元上方",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tTDBmT0RHaWdsN1VkaHlFNmItdGkyLTdGdnlNYnhSSTQwS1ExN2lpc2pGaXFid0JqaEN2MlNqd2N4ZDlXLWVSN0pTSWJqUU9DS25XT3VrREw5dVBoVVNycA?oc=5",
+    "date": "2026-07-08T06:25:46.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "phone"
+  },
+  {
+    "title": "小米汽车官宣全新子品牌SkyNomad",
+    "description": "小米汽车官宣全新子品牌SkyNomad",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TLXNJeGFGRWdrWFJQTU8wMmh4RTVhcTM4RUlJZVpFSUE1OFo0bGhNZlV0MmhjcHNmaDQ3X3ktMHFFUUx4Uzluai00V0xRcUVvMWc?oc=5",
+    "date": "2026-07-08T06:17:18.000Z",
+    "source": "国际电子商情",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "雷军：小米汽车门店抽送4500个足球",
+    "description": "雷军：小米汽车门店抽送4500个足球",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vLXUzNTR3UDd5MWtRRVhSVm5aRXJUR2hFdC1JMnRCVGVrUGJvY21wRzN6c2xPYlJTSEQ3Rng2Ymt5Z3FacGdNdkhBdnBWLXVQWXF3UFVCaG1OUVlrUUZnY3dkanA2eDJBVDByWFNHTkc1dw?oc=5",
+    "date": "2026-07-08T06:08:35.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260707s/670/w622h848/20260707/be7e-da78762f3e26af1916ee79b3d6d642b7.png",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi announces new vehicle brand SkyNomad",
+    "description": "Xiaomi announces new vehicle brand SkyNomad",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2hlQnREUURIRVA4OGJYWGIyVjZ0WjRSV0tDQndrMDJWenBsaXFiaHBCVjVoZ2hvTkthaGNWN0FpUTU5eVFDUnpPbV8wYkFnRkQ3dWJudW9tMU5XNU9YU1dPMERfVjB5SHY4bi1hVEVOZGtvWE11OUZ1VUVHMW1QRDd3?oc=5",
+    "date": "2026-07-08T06:03:33.000Z",
+    "source": "TechNode",
+    "image": "https://technode.com/wp-content/uploads/2025/10/xiaomi-factory.png",
+    "category": "iot"
+  },
+  {
+    "title": "小米汽车官宣第二品牌,已注册“SkyNomad小米澎程”公众号",
+    "description": "小米汽车官宣第二品牌,已注册“SkyNomad小米澎程”公众号",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvamJld3lCcjlDQ1RKSE1Ialo4S09rYk5RaEo3TlhwY3Z3OHE5TzVaNTZhUVdhRXRnQ09KTjRqTC1INXdYdF9TcVA5a1h2NTlkVlgwWVF4dlFfTm5xS0pYbXdxUXRUMzN4TXBpMG1vbTFaTFJZ?oc=5",
+    "date": "2026-07-08T05:54:16.000Z",
+    "source": "新浪汽车",
+    "image": "https://n.sinaimg.cn/sinakd20260708s/174/w577h397/20260708/f98a-86e9fc0f244d406a5a6605d87b6e3fdf.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米首款增程SUV澎程7月8日发布，车长5.3米续航1500公里",
+    "description": "小米首款增程SUV澎程7月8日发布，车长5.3米续航1500公里",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TmRoakRBZWM5OFpRSEMzbFR6a2ZFUWY2ejRILTFrNVd2VXVBS25xX1RNRTFBaF9GdE1aTVR3MUFXZHJOQ1g5bmZsMnc4VTFVWDhmU0NOSXlldVJpQWdVQ0dsVnZnaVpua1B5TE9n?oc=5",
+    "date": "2026-07-08T05:51:30.000Z",
+    "source": "新浪汽车",
+    "image": "https://n.sinaimg.cn/sinakd/sni/107/w683h1024/20260708/25c6-48d28cec25b62514aa29d8641a7f5da0.jpg",
+    "category": "iot"
+  },
+  {
     "title": "小米澎程，鹏程万里",
     "description": "小米澎程，鹏程万里",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFcwUFJsdDFjaHNUcFRGVXFPYXFhY2t0QXR5QTVRaHVBUEljdnEzX0xDcDhldnNxbTVfa2NNbzZ1c2RBbnZUSWFCbEk5T2M0aExnb0ZPeGNWQk9SZzNYN2pRY1NvZVk1RFdzNkc0VzRReXJmYnlBN1ZnQnhXMThxRTJB?oc=5",
@@ -126,6 +330,15 @@
     "category": "auto"
   },
   {
+    "title": "小米增程子品牌定名 SkyNomad，首款新车即将亮相，要和享界打对攻？",
+    "description": "小米增程子品牌定名 SkyNomad，首款新车即将亮相，要和享界打对攻？",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nWVE5dDVMRWtKdFhOM3k2eUs1QjNaSkRNUVhhbENRS1JDeEpEUGxPZThJdnRyS283REJHbVNUMnNLWFE?oc=5",
+    "date": "2026-07-08T04:12:54.000Z",
+    "source": "爱范儿",
+    "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/2372.jpg",
+    "category": "phone"
+  },
+  {
     "title": "旗下首款增程车最快下月上市！小米已注册多枚“澎程”商标 多个社交平台官号上线",
     "description": "旗下首款增程车最快下月上市！小米已注册多枚“澎程”商标 多个社交平台官号上线",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tamYyM2tNQnBTbU4xWWFiVXlqOFV1Vlk4LU9jVUxvNjcyQU1xREJBNTkxRGQ2QTRSYU5jSlNQbXhxOUdHVUhNNjFfR0FUMjZ2YlNQNmstZzg?oc=5",
@@ -189,12 +402,30 @@
     "category": "auto"
   },
   {
+    "title": "小米将发布首款增程车，命名“澎程”",
+    "description": "小米将发布首款增程车，命名“澎程”",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DeW16cUw1QVhoMTlRaXlpZnBab2UyZlhKMzZYYU16YnFNV0RNSjFQTG0tZnYwc1BRZFQ3bkpSWWNnWm1GZzRkdElPM05jY1VPcndDWl9XYmhWT0hfU3c?oc=5",
+    "date": "2026-07-08T03:39:19.000Z",
+    "source": "京报网",
+    "image": "https://img1.bjd.com.cn/2026/07/08/6611064a9a123271fa2c0aa78fd524e9a350e1f0.jpeg",
+    "category": "phone"
+  },
+  {
     "title": "Xiaomi confirms Sky Nomad name for the new automotive brand",
     "description": "Xiaomi confirms Sky Nomad name for the new automotive brand",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHhMdS1iRGFZN3NIZWtCc3VqSFI4NGhzVU9lR0E4NnF3TXNBcUN2U2JaVkpQMlRlSkNYU1NtOEhIS3kzeTF0UWxJTjhuVTBPcnF2NDlPTDNXLXduVGdoX2xhM1Q2Rkg1bGJJMmpQS3d6Rjh5VE9NdmNFUS1lYnBNNmdXSGs5X2h2LUlNV2J1czdaMkVhNEJiVG90RWw?oc=5",
     "date": "2026-07-08T03:32:00.000Z",
     "source": "CarNewsChina.com",
     "image": "https://carnewschina.com/wp-content/uploads/2026/07/xiaomi_sky_nomad-1500x844.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米汽车官宣新品牌SkyNomad 中文名或为澎程",
+    "description": "小米汽车官宣新品牌SkyNomad 中文名或为澎程",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JWnZxZkdYQVNXNU5VWjZOREdVZkFMY0xKcW9iY1dQaEpvSGFjT1RPVFU3RWN5aEpfZjNVWEY5VlNNV051eEk0NDd1anZXaWRqcjZ6V2hNTExoejE2c2lGeTg2ZjVsYXAwWUhJ?oc=5",
+    "date": "2026-07-08T03:18:52.000Z",
+    "source": "华龙网",
+    "image": "https://res1.cqnews.net/public/img/logo/1.png",
     "category": "auto"
   },
   {
@@ -238,9 +469,18 @@
     "description": "Xiaomi Auto Officially Launches New Pengcheng Brand: Key Core Details Announced",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YZ21zODFEOFVWblRqQ0JSSHdKc01fUW0wc241TTJCMjk4ZF9qQlUxWmJ3eUFUSDVDcnZCQlNMQUFRdFIxMklndzJIWkRBcS1WYXl3?oc=5",
     "date": "2026-07-08T02:43:52.000Z",
-    "source": "36Kr",
+    "source": "36 Kr",
     "image": "https://img.36krcdn.com/hsossms/20260708/v2_a527ba7db5d541a1b4474ef719191dc3@5091053@ai_oswg1059046oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "category": "auto"
+  },
+  {
+    "title": "小米注册多枚澎程商标",
+    "description": "小米注册多枚澎程商标",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pcTJ0RlFHNzZ2dk1fenBLN3Y3V3FwT2ZrNHpKX1hfNkRxeF81dFA5c1MzTTNtajRORUJ4UFJxSFJrRG01LXhZUzFPWDhfOHVSa3RZcEJVVkpkR2RiOHEyUDhn?oc=5",
+    "date": "2026-07-08T02:39:59.000Z",
+    "source": "观点网",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米汽车公布全新产品序列品牌命名",
@@ -276,6 +516,15 @@
     "date": "2026-07-08T02:09:57.000Z",
     "source": "新浪网",
     "image": "https://n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180326/e_NJ-fysqfnf9443598.png",
+    "category": "auto"
+  },
+  {
+    "title": "SkyNomad来袭 小米汽车新品将至",
+    "description": "SkyNomad来袭 小米汽车新品将至",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGp3Wm9pdmh6RHNDcS12TndFY2pvZ29wQ2JodjMyU3dId25yZDk3RWhjaEZpTjM3NlNRSkt4OEFwNkhJVFdXSVFudG9Ba2NoU3dwUUMtb2swUm9LZnNQQkYtU2JVLXFmSFI0eThHbXNwUTFoTUtUMktvamZ4REwtVWpvMkY1Q2xS?oc=5",
+    "date": "2026-07-08T02:07:00.000Z",
+    "source": "新浪汽车",
+    "image": "",
     "category": "auto"
   },
   {
@@ -459,6 +708,15 @@
     "category": "phone"
   },
   {
+    "title": "小米汽车全新品牌正式官宣！",
+    "description": "小米汽车全新品牌正式官宣！",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GZTdjYm9ZR3p3ZTA1QjZvdUpNYWVXU01zWGhSV2x1OVVWUloxczRjZDBSYkJfUkFPVUhBTzVFU3NBZmFpXzZGSlNlR1dSNXl4Njlj?oc=5",
+    "date": "2026-07-08T01:15:00.000Z",
+    "source": "电子工程专辑",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "小米调整AI产品组织架构",
     "description": "小米调整AI产品组织架构",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EdFRlVTdRYTdncml3ZG14LWdmMzJWWWIxWGNCQmtuVno0dnpHUmFKNkdBTmtlT0NJcENERlpYd3dfbE5xcXZvbDFEMkZjZnBWVzc3a3h0aHc0azhmTHFYVllIRC1obmlXNHB4N09ZTEs?oc=5",
@@ -484,6 +742,15 @@
     "source": "DoNews",
     "image": "https://www.donews.com/static/image/logo-donews.jpg",
     "category": "phone"
+  },
+  {
+    "title": "小米汽车官宣新品牌“SkyNomad”",
+    "description": "小米汽车官宣新品牌“SkyNomad”",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zcURZd0YtdGpOeUljM0U4a3Zpd1FuanZ5QVlXZ3dpQ0FRbl9ocGozNnl5TWR3d1ZyZkdSLVlRbG1OZUlPUll5Y1FVRkhIWUlmaTJzZFAxcTZIUTk2bXIxLQ?oc=5",
+    "date": "2026-07-08T00:27:13.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "auto"
   },
   {
     "title": "小米汽车发布“SKYNOMAD”主题海报",
@@ -571,7 +838,7 @@
     "description": "Xiaomi 18 Ultra Development Reportedly Stopped Before Launch",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemlta2FXbWJuSFBBRGpoeTBvc04zNUhwLUJKZHM3cVRCRUxHd0t1c0JzZUhoOU9jMkJkRDVjWi1tbk5xdjAySkR2MUlKLVZwZFR2TTBQRkJnM1BNUmQ1WXRSR2p0QlpKM1p5V2dPbDR1bXBZWFlpM3Y4ZHp6bS1Calo3SHZEM1JXSWZ3MEJoTVU2QQ?oc=5",
     "date": "2026-07-07T20:51:50.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra.jpg",
     "category": "iot"
   },
@@ -655,7 +922,7 @@
     "description": "Xiaomi HyperOS 3.3 Android 17 Update Could Arrive Next Week",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZlREZIYkYyc3l1dFJXUW9WYTFyc3BreDJja0YyY0d1WmVNYmo5cHNpdnBfeThqelNnMTRoNWlfa0tuLXdYVlREQWpobG1XYnhCX3B4MExobFV2WEN4SjVoMXNnZFZrZGQwY0JHazI1aU0yYVQwTlVETzBpa2lWUVBwbnFrd1Jhei1PaExnUUE?oc=5",
     "date": "2026-07-07T17:16:01.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/04/Xiaomi-17-Android-17.jpg",
     "category": "software",
     "updateVersion": "3.3",
@@ -1753,7 +2020,7 @@
     "description": "POCO Launcher July 2026 Update Released – New version now available",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUpicXFnMmpOb2R6Y2U1eWt6N3otV3MycVYxRDRZOVpILW9TcXo0MVVlLXR5ZE9KcWRQVElfbXZ2VDRlTzY4VVd3ZnBZMGU4eEdXM2RyQnlTWnh4T0UwVTExWHRmMlVRVGtRSFJtSzBHell2ZWhrUEprMTRzZFg0TUNCLUctakNQNUxROVJiekxIcWl4em52Sg?oc=5",
     "date": "2026-07-06T15:56:47.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2025/10/poco-launcher-6-.jpg",
     "category": "software",
     "updateType": "update",
@@ -4316,277 +4583,5 @@
     "source": "车东西",
     "image": "",
     "category": "iot"
-  },
-  {
-    "title": "小米5篇自动驾驶论文冲上顶会！世界模型与VLA双突破，下一代智驾要更强了",
-    "description": "小米5篇自动驾驶论文冲上顶会！世界模型与VLA双突破，下一代智驾要更强了",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSk16RlE0Z0VaZ0tTZW1CcjJXNDN3YlRnYm1HOV81OXZzN3ZINHFHdDBteUwyeFpPSWZvcHBLMnFKaUF5SmM2YVRhLUZjek5RWEtzNFZGTUFCTWxCWHhnTEZPc0kyMjl6azdmbUMtTzV0eHkwdTZCMDFGcllVQkU4VXkySmFNWjhk?oc=5",
-    "date": "2026-07-03T08:53:17.000Z",
-    "source": "搜狐网",
-    "image": "https://q9.itc.cn/q_70/images03/20260703/36b770aa0155475293dfabd3d0853e9a.png",
-    "category": "phone"
-  },
-  {
-    "title": "雷军密谋公司下一轮增长的核心！小米GPU算力投入增至百亿元以上",
-    "description": "雷军密谋公司下一轮增长的核心！小米GPU算力投入增至百亿元以上",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51RWtFX2tGM05Nd3lDMUxNWlNLSFhGTmN0M3BsX0hzVWRzVTZta3FGcEJQNHNFWjBWOC1GdmNRaHRzbDdPYUlOSV9yUlFITnhHQjlsMjNMZjA?oc=5",
-    "date": "2026-07-03T08:45:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260703/828e073efbb84ea5bfa00d1eb56d1ea2.png",
-    "category": "people"
-  },
-  {
-    "title": "中国援助布基纳法索小米种植示范技术援助二期项目项下附带工程及物资交接",
-    "description": "中国援助布基纳法索小米种植示范技术援助二期项目项下附带工程及物资交接",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jMFBndFpELWRZckt5X1lBX1pDd3VSQWRUanRfa0NnZ1FVOC1OUnpQc0RJX01yUVRENmhZX0ZDeEV0cFZGZG1FY2w5QkJFcmhhRE1xR2w1enRobE1pV04tU2lnVjM3TThKRUVoQ29BTVhhcHhva3hRRlZYMEs?oc=5",
-    "date": "2026-07-03T08:38:00.000Z",
-    "source": "cidca.gov.cn",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi wins Chinese trademark appeal over AI 'wake word'",
-    "description": "Xiaomi wins Chinese trademark appeal over AI 'wake word'",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTWJFN1NrMWRKaTlPeHRNcjNVaC1peXd4LXVxN3BLX043cDR6c2Fld1M0ZXNiOFdSdWl0ZDFtRjZFY01LWnZWd3pVV1FnWDNacGJ1OV9oSHFoQVhQcXk3U3NPbjBfRVFfaXJLdGwxZE1jZ2ZiN1Qyd29XZTlXbkQwdjhRSTQ2dmVpMmI4Qk1Ddi1ZUlE1U1Y0OdIBWkFVX3lxTE5kOHpaQjJLT0ctQy1sTVVKZ0hKUllkd2tIX3BRYjZ4V0ZqREpCNkdwSG5mMkd3X0oyNGVoWWJFTlZKQ1JnWk5VU295MEpDUFlYQ3BtcVVtZml1dw?oc=5",
-    "date": "2026-07-03T08:14:00.000Z",
-    "source": "MLex",
-    "image": "https://www.mlex.com/images/.png",
-    "category": "iot"
-  },
-  {
-    "title": "6位小米SU7 Ultra车主组团送锦旗 雷军：感谢认可",
-    "description": "6位小米SU7 Ultra车主组团送锦旗 雷军：感谢认可",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGI0bG10YUVneFZFcnNWS3l6MldtSHFzVW9WQjVaRzJhRkJianJVY1NKa3FPRmhWRnlkSlUzeVFkV3l2MjE1ZmpQSkFvX2ZSUUhxMFR6YzNzbGdHaEROS2lxeTNYYlRxUHA1ejRXS0hSTnB4RFVTOEVTeG9lQW5BSFRlc3d2eGR5?oc=5",
-    "date": "2026-07-03T07:58:16.000Z",
-    "source": "搜狐网",
-    "image": "https://q9.itc.cn/q_70/images03/20260703/96c844c0d0b34391afc09e6ea9cf3824.png",
-    "category": "auto"
-  },
-  {
-    "title": "6位小米SU7 Ultra车主组团送锦旗 雷军：感谢认可",
-    "description": "6位小米SU7 Ultra车主组团送锦旗 雷军：感谢认可",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TNW5MbWVWdFd3VWVaSDhPNVdReE8tX3d1c0lyeHoxdHNTZURfS1JGOFdReHhlc090amxZMF9OYzJhNGRMb0JRT1oxaDc2MWFPbnRYcWloWjg?oc=5",
-    "date": "2026-07-03T07:58:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260703/b606c8019d774edea9a8137df71d4c98.png",
-    "category": "auto"
-  },
-  {
-    "title": "单联瑜回应友商“暗讽”小米空调：用户会用脚投票",
-    "description": "单联瑜回应友商“暗讽”小米空调：用户会用脚投票",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkZVZjdmV1U2ZDl1ZE13UW0yZ3p3aUQ1WG8waTV1dGd6emp6MkV1bnA2NHFaZjZULURNZm5UaHBVTkZyYWxEM1p0SjFyNDA3T1hSdW1ldTQzTllJeG12Y1BhRWdzcWVSMU1XOUI1ZVlzYnVZdnpyVlV1aU0tQW15b2tVODV6Y3Vk?oc=5",
-    "date": "2026-07-03T07:50:04.000Z",
-    "source": "搜狐网",
-    "image": "//q8.itc.cn/q_70/images03/20260703/70dc08e994c84400b5779e85e1e3bd35.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "小米全新双门轿跑曝光：夸张尾翼+宽体姿态，搭载四电机",
-    "description": "小米全新双门轿跑曝光：夸张尾翼+宽体姿态，搭载四电机",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzlsTndaOFF4ZnQza3BQSER2eEtGWlV3My1rTGJScDEta18wR2NSaU83aGREWWNsTmFjdmR6a1ExWUhZcHczVVhQd3V4RkRuMzVuOTJsT2hHbFZlOUVXN00tdEgwX00zN19TUk83YTlPOUkyM1hZNWU5eVlRWlNQcWY5M25wWmExOG1WTg?oc=5",
-    "date": "2026-07-03T07:36:48.000Z",
-    "source": "搜狐网",
-    "image": "//q9.itc.cn/images01/20260703/eeecb2ab2d13429297e6284d04ee6b6b.png",
-    "category": "phone"
-  },
-  {
-    "title": "REDMI reportedly testing Qualcomms 2nm Snapdragon 8 Elite Gen 6 flagship chip",
-    "description": "A new leak suggests that REDMI is already testing Qualcomms next-generation 2nm Snapdragon 8 Elite Gen 6 platform. According to information shared by reliable Chinese tipster Digital Chat Station, the mysterious device is expected to launch during the first half of next year, making it one of the ea",
-    "link": "https://ximitime.com/redmi-reportedly-testing-qualcomms-2nm-snapdragon-8-elite-gen-6-flagship-chip-98328/",
-    "date": "2026-07-03T07:10:31.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2025/01/Qualcomm-unveils-new-7-core-variant-of-Snapdragon-8-Elite-1024x572.jpg",
-    "category": "software",
-    "updateType": "update",
-    "device": "REDMI reportedly testing",
-    "isUpdate": true
-  },
-  {
-    "title": "小米SU7 Ultra车主福利：入会直接送纽北纪念车牌",
-    "description": "小米SU7 Ultra车主福利：入会直接送纽北纪念车牌",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nOWNjVFN2UUY2NEktUWlYYjhUUjAwdDBYUmU0SmxpVlp5RzR1aXgxUmRzdVFRR2VuTlRhYk9lTlkxdmtkR3NUdDhwZy1LNmlTTTZNSHR0Yms?oc=5",
-    "date": "2026-07-03T07:08:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260703/7fa130da4e7848dab16ef4c45a4eddf9.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米高管回应友商暗讽小米空调：用户会用脚投票",
-    "description": "小米高管回应友商暗讽小米空调：用户会用脚投票",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rY2VHamJxWGpsNzZFdXVUeHpIdHFNOTFENmFFQWN0d0w0eGUxNlFKOFZVZjkzWG5MOXNPc0g4bnBwUV9LSUdmSUtjSHdoS2ljTzdyZmF5ZHY?oc=5",
-    "date": "2026-07-03T06:59:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260703/b8929d39e9614eeca5fe08a4e1260cb4.png",
-    "category": "phone"
-  },
-  {
-    "title": "小米和赖斯的合作还有后续活动吗？",
-    "description": "小米和赖斯的合作还有后续活动吗？",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14UldPV250cko2RHdNUTA0UzhFTkY0dV9VbUk3dWRzUERIME5RYjB3MjRJV1FiRG1BQlM1NXBVY1VZMmZzOV9OenlWdkRKbXJUTUJZbzExcGx4MWtnQzJMNWJlbENEVnlxVWVrWFRUR2xuUQ?oc=5",
-    "date": "2026-07-03T06:17:16.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260702ac/408/w518h690/20260702/0c6d-e8c632edc78adc4e0af9a276baa85f42.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "The Xiaomi Android 17 Update Might Feature HyperOS 3.3 Instead of 4.0",
-    "description": "The Xiaomi Android 17 Update Might Feature HyperOS 3.3 Instead of 4.0",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkxHTXlMLWJtdzM2REEzZl9lYzcwV3RXZnlObjZ0aVJTY3ZUakVkcXBXWHdkMmI2ZlRFSTR6UnFSU1Z6S1RhTDBPYXRLZUJJcEtmdlVXNGluOGg4eFdfX3I5RmpuNUxtOXBxamx1cVJ1Q0hmcndMdTBkMC1HelBpSUdjRjIxdGc5Y3AxcjVrY242UGxNVjNkWVhHRlN5R18yaFZjWk9wSmx3NDZ1?oc=5",
-    "date": "2026-07-03T06:12:12.000Z",
-    "source": "Nokiamob",
-    "image": "https://nokiamob.net/wp-content/uploads/2026/07/Xiaomi-HyperOS-3.3-update.webp",
-    "category": "software",
-    "updateVersion": "3.3",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "流量之外:小米汽车的爆款逻辑与长期主义",
-    "description": "流量之外:小米汽车的爆款逻辑与长期主义",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4enNmWkNyM1BhUG83SFNINUhRajZUb0JXTTVXUWI3YWpjUFNSN2pFRU1JZWUxSzJZU1NNS1dKbm5pdHlGT3NkN3UtQURBRE44eXhCMDVjUHotZWdKUV82SWRKZkV5TG4yUkJjU04wd2RSdw?oc=5",
-    "date": "2026-07-03T06:09:17.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260702s/458/w1227h831/20260702/7254-f5a715bc38427cdb92ad67bbe9c6d7c2.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "吉利银河TT颜值媲美小米SU7，注重质感与安心的女性用户会喜欢吗？",
-    "description": "吉利银河TT颜值媲美小米SU7，注重质感与安心的女性用户会喜欢吗？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVjFaTHE2eWF2TTB0LUVsb2lfVlIySW5rbjZTWkZrU1YxcnBnM1ctLTBkS1FZR0p5QmJhVEVDaV83MTFmWWJNQW1CdjBpLURxZ2ZzYXlkbnNySVE?oc=5",
-    "date": "2026-07-03T05:46:03.000Z",
-    "source": "网通社",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米卢伟冰：手机行业正经历近十年以来最严峻时刻",
-    "description": "小米卢伟冰：手机行业正经历近十年以来最严峻时刻",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEtvQTV0LUJTTjZHcDBFanZCc0FPdWM1TV9VNmI4VzVzTVliR25sS2stcnVmSzhQUmVGa1lER1AxYUlnSlF6V0xKVnYxMXpnTVhMVGQtZHlJWVFXM3lQMnRiR2FfcmY1c2tfUlQzeGZmYUdzcDlsZFVmaklfaFotd0U1aEdmZnpHZDhjWnYzbV9yemg2TnJvS1dmWHFPb3JLVFlvVTg2Y1pES19HTllwS1JR?oc=5",
-    "date": "2026-07-03T05:40:02.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260703/526/w623h703/20260703/aab0-a3ff83216dc0a4ed386bcaa960464a0f.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "【视频】小米纽北无人驾驶背后，谁也没告诉你的故事",
-    "description": "【视频】小米纽北无人驾驶背后，谁也没告诉你的故事",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xaVhLd01nODU1WVRQcDhHTzFSRFZZbVdIUnhYUTc1TWxydHhKT2hPLXkxNWFaazZlclZtR09ONFNZQjNRdURjMUpqY0tNU05aM280MjZVRHJmNUE?oc=5",
-    "date": "2026-07-03T05:33:10.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米卢伟冰：手机行业正经历近十年以来最严峻时刻",
-    "description": "小米卢伟冰：手机行业正经历近十年以来最严峻时刻",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qSkpXcTVsZk9RdFJWallMeF9hWXNrSUg2THNIajVPelJ5WFBObXBIeDc1bmJIc29tOVIybkw2M21YSHFqd3FMTldZTDVrSTFfUTdoTTNiZGtCTER4WTJYZHZ0ZWNQcVF1UldPZmdmN3RrRGEzWTQ3Yg?oc=5",
-    "date": "2026-07-03T05:15:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/sinakd20260703s/152/w623h329/20260703/cf2d-d8dd0aacb45dcc4ca4c4beb8f22ad224.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "雷总爱拍照人设不倒 小米 微博VC计划",
-    "description": "雷总爱拍照人设不倒 小米 微博VC计划",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVU5ScWNhRzg3Uk9KeE0xNm1fYXVlZk1XQ2dUTktSYk8wQjFCVGRNLUUtMWpNYzdYXy1vWUZJYVRzNDBTWmlVbGJiaWI2Z2tyTUlmMlJfZlE4b1lMUkxsNWd4ZlhRc3RZUWk2N1owMWdQNUEzM09SRmdGTVRvbTNFT0pR?oc=5",
-    "date": "2026-07-03T05:13:11.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260702ac/534/w480h854/20260702/49f9-af9425f49931b83730c199a4f97fcb99.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi is preparing a new HyperOS update based on Android 17, but it’s not HyperOS 4",
-    "description": "Xiaomi is preparing a new HyperOS update based on Android 17, but it’s not HyperOS 4",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajZQcG90dFhmcnRBUUlyeFFRU2pfZFowMW8wT0R3UWxtNF9CQWxrQW1kNUJHSHM2bUpaRlBMRG92Q1MyNHdfZUtvMHBuLXJOSzkwVDdWZ1k1SmxuM3BJQlR6OTJ1dHNCeE5zbTlOWWF3ZUxkTTEydEJ0bnd1ZzZRS0hCRzA4RTVDT2dPZC1GN2ZGS24zM1JXdC1xbzFkZ1BL?oc=5",
-    "date": "2026-07-03T05:13:06.000Z",
-    "source": "Gizmochina",
-    "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Xiaomi-HyperOS-3.3-update.webp",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "小米17系列HyperOS 3.3被曝开发中：基于Android 17",
-    "description": "小米17系列HyperOS 3.3被曝开发中：基于Android 17",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDMwREw1Y0JEMktubjVab0dZMFRLRTgydWc5UkZxdFlzRzV3ejlzMTd3d3RCdUNQUDFhSGtJSXF0WWF0RWphUGJJOEtZUFNMdVRuVmZyRzRFN0kxSkQ0WFlWSDNOREEySmlJNHVUbU5xRm95bGpDMnVXOExmcGtackl2RWxXTEVl?oc=5",
-    "date": "2026-07-03T05:13:00.000Z",
-    "source": "搜狐网",
-    "image": "https://q6.itc.cn/q_70/images03/20260703/c1ffa8c95c41404a872579a28f7ba8f1.jpeg",
-    "category": "software"
-  },
-  {
-    "title": "小米卢伟冰：手机行业正经历近十年以来最严峻时刻",
-    "description": "小米卢伟冰：手机行业正经历近十年以来最严峻时刻",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUFU3S1RkSHhLLTRaYnRpaXU2bGFLa1JnUzJYSmRGSnFacEFQRmh1ODlsd1UyOW14ZDh4dzlScVI1dGVYYUlwZ3dfeGgwV0JKTDlKaWZCNlo5cTVjQlZSQk1IYmQ?oc=5",
-    "date": "2026-07-03T05:10:00.000Z",
-    "source": "观察者",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "小米 17 开启 Android 17 澎湃 OS 尝鲜 Beta 招募，仅限标准版及 Ultra",
-    "description": "小米 17 开启 Android 17 澎湃 OS 尝鲜 Beta 招募，仅限标准版及 Ultra",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMzNkNGUxeUNzTTVMRERmdkxCVTJDWmVXbVZhQzZYUkVKdXlhb1ZLNjVqZlFMQ3FnUnNtTWMySU5hQVgtUmtKd0xtdGdyYlNCZUpadEM0cnVyTXNHNFFuZm1XSzhMWDNDSFdXakcxUWhZNDFsXzR1dUp3Vll2YW9ocnBaSTVDaDd6WmpTbWU4YVlQTk9QcVZBQWFkemFtU0VMcUZ2c29ZRVVPenNKWGdrOUFPMV83dmhoWkdBUVBuVGJLVU5lUHZULUZvaUZiTUs3WDZTN190WWpScEhzZWlNeU8zdzdCM01GdmJpdVNOYWFGSVBl?oc=5",
-    "date": "2026-07-03T05:03:45.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260702/303/w1440h463/20260702/c4c7-b40a2ea14ccd1747365d4282c493d576.png",
-    "category": "software"
-  },
-  {
-    "title": "参观小米之后，爱心接力仍在继续，加油周轩锐！",
-    "description": "参观小米之后，爱心接力仍在继续，加油周轩锐！",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vNnIzQms1WWlEaHlUb3BOQXpST1ctUUJ5a0k2Nkg5YTJ1Y3lERWc2cy1seS1KcVNYSlBxUHNRb1d5UXZNWWplbjdld05xUVAwa2hRbmF6ZVM?oc=5",
-    "date": "2026-07-03T04:57:28.000Z",
-    "source": "湖北日报传媒集团",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "浙江男子下单“熔岩橙”色小米YU7 MAX，苦等10个月后傻眼：已查无此色？门店：退车退定金；男子：不接受！",
-    "description": "浙江男子下单“熔岩橙”色小米YU7 MAX，苦等10个月后傻眼：已查无此色？门店：退车退定金；男子：不接受！",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ1lPQWpfaXNOcm1LQi0zWm4wQk54dnYzUkpQRjQ0QTRuMkc1QlFTZEJPdUxfejJKbFBuYjNsVmhfS3AzMkxzOTJVOW1VdjNyRTVxYWx3?oc=5",
-    "date": "2026-07-03T04:33:20.000Z",
-    "source": "搜狐网",
-    "image": "https://q1.itc.cn/q_70/images03/20260703/17c3564bd2544f1e9e1f45ad2f37b99e.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi and Huawei turn phone AI into a system-level fight for user workflows",
-    "description": "Xiaomi and Huawei turn phone AI into a system-level fight for user workflows",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjJNYzhGbVBITk1qWmZWbVdxQ09EMVBzdG5RbnNsUFQ3djJ4Y2ppYnBJVWYya3kyMUIyTE1Td1ZpUV9UeU1NUjQzV2h5elotSEo4Q3Rhem1maUVSYnZYX1NQQjZ0d0JfZ0M4UklRb29tMXRIS3ZLSG5yNy1EZVpTMGZIQzVGQzY3M1RuU2N3?oc=5",
-    "date": "2026-07-03T04:32:37.000Z",
-    "source": "digitimes",
-    "image": "https://img.digitimes.com/newsshow/20260701pd223_files/2_b.jpg",
-    "category": "ai"
-  },
-  {
-    "title": "小米 17 Pro Max 5G 手机直降 600 元！",
-    "description": "小米 17 Pro Max 5G 手机直降 600 元！",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yYXFnR0phSGszT0o2N3NRVk5FYnRyNFV2UEozN1BFWGdGdkZsemdDZWVRNWlXN3l0N05SLVh3Sm1XWFU3dUNNUEhIWG82Z0RRNDJvcUZrTQ?oc=5",
-    "date": "2026-07-03T04:14:54.000Z",
-    "source": "中关村在线",
-    "image": "https://doc-fd.zol-img.com.cn/t_s120x75/g8/M00/00/09/ChMkLWpHNzaIDTPoAADFerybECAAAJBywNm1moAAMWS961.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "男子订熔岩橙小米YU7 MAX，苦等近10个月后竟查无此色？",
-    "description": "男子订熔岩橙小米YU7 MAX，苦等近10个月后竟查无此色？",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14RUUtQXNfYmZ2S3UtSi0yMU10NklHRWxaaWxHZlRQZzNueHVZczZlbnRYMjV1bEU0c2gwWlJNLUVnZ0pWWC03Sg?oc=5",
-    "date": "2026-07-03T04:13:44.000Z",
-    "source": "凤凰网",
-    "image": "https://x0.ifengimg.com/ucms/2026_27/C5844F179E3FF0871504654EACA6B9312BC5405D_size504_w969_h545.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米关键岗位又在大面积换人",
-    "description": "小米关键岗位又在大面积换人",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVVM1Ykk5aklTR0lnVnFHMlhQWkhOQ0xhLXZMLVpMbGtBQkZwMWh1RktOU0w3REFBaktzYkpJZTJEU3pwa1lYc0FIdUR0LXczdHpkMnRDdUxjcExVb0UwRFRHNFhuTF9GaW04clNmTl9jOWNWNFo4d0dhdmxNMjViRUNBd3RULTNNREJXZA?oc=5",
-    "date": "2026-07-03T03:48:00.000Z",
-    "source": "21财经",
-    "image": "",
-    "category": "phone"
   }
 ]
