@@ -1,5 +1,55 @@
 [
   {
+    "title": "POCO Launcher Update Removes Stacked Recent Apps on Some Devices",
+    "description": "POCO Launcher has received a new update coinciding with the rollout of HyperOS 3.1, which now removes support for the popular stacked recent apps feature on certain POCO devices. Users relying on the “settings put global task_stack_view_layout_style 2” workaround to enable stacked recents on low-end",
+    "link": "https://ximitime.com/poco-launcher-update-removes-stacked-recent-apps-on-some-devices-98547/",
+    "date": "2026-07-09T21:17:42.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2025/02/iOS-Recent-Apps-1024x572.jpg",
+    "category": "software",
+    "updateVersion": "3.1",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "POCO Launcher Update",
+    "isUpdate": true
+  },
+  {
+    "title": "小米YU7智驾实测：高速老司机，城区小学生，自动泊车惊艳+FAQ",
+    "description": "小米YU7智驾实测：高速老司机，城区小学生，自动泊车惊艳+FAQ",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGblRCNG1RRl9hR1QxUU5uc09tekxxU1BRaXpNeFZGU1lOR2pJbWRReTZrN0o3S0o0bWhJcWQ2YjlucjNNTktaOTFxY0R2bjlNX0xWQ1lDeDFGOWN0LWQtS2d1aW5OSnlFMVduZEo0UHAwUQ?oc=5",
+    "date": "2026-07-09T21:14:21.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/default/f8781c75/20260706/logo.jpeg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi Confirms \"Sky Nomad\" Brand for Extended-Range SUVs",
+    "description": "Xiaomi Confirms \"Sky Nomad\" Brand for Extended-Range SUVs",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDExejNNSmlKYVZyRkFkNHFRSGRKalRrMkVGakY3S0lzRmZSWGlzbjloUC1mV1Uwc3FFUlo5WV8xM0J2bFdXTDJfQ0RNdm00SUFYSmFGWUJuRl9zTkVjUGVkcndJUW1YaXNOUUZCeExXNzVmZGNibmR6ekdWQ0dWVURZSTRmaTVYdlVFV2VQOUFlckEtY01sSmR3?oc=5",
+    "date": "2026-07-09T20:24:00.000Z",
+    "source": "Technology Org",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "小米官宣智能可变大空间SUV，影石官宣造机器人，粉笔张小龙辞任执行董事，腾势Z全球上市，这就是今天的其他大新闻！",
+    "description": "小米官宣智能可变大空间SUV，影石官宣造机器人，粉笔张小龙辞任执行董事，腾势Z全球上市，这就是今天的其他大新闻！",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdF9zZ3JsWkNhbTR0NmhlZ0w3Rkp4UUpxa25BU29HMmc3ZDhIYkk2eWJSQkdadkFBT2RHQlNCZVlNaG5OazBaN05XaU83dENCZk9ua2J3bFBOY0lMWDZ6eXYwNDVsWlhrT2VCYW5PUkxnLUpCdzNnamMzcldvT3NPc2tPZzdwOXhaUXlvekhnMjFMbkxlSlo0eWJSWFByUTNLQ0FKWU1jbnl2VXkyZXBPc2h3?oc=5",
+    "date": "2026-07-09T20:18:37.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260710/216/w660h356/20260710/ff65-3a7bbc73192e4fc43513ac016f65a932.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi Watch 5 review: The battery breakthrough",
+    "description": "Xiaomi Watch 5 review: The battery breakthrough",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aY01FU2dCTjdPU19GLVM4WGZkV1VPbUo0UFVzUV9ibXBCWjFwNEh1eTYxWGZTaG9vNXNhbTB3U0JIU0dJbzNZLXZDT2o4b1hUbzk1aFlxSVNrcGFON1FIUlNxQ2FEVnJoS0hV?oc=5",
+    "date": "2026-07-09T20:13:12.000Z",
+    "source": "Wareable",
+    "image": "https://www.wareable.com/wp-content/uploads/2026/06/Xiaomi-Watch-5-review.jpg",
+    "category": "iot"
+  },
+  {
     "title": "2026年手机AI哪家强？小米系统级智能体领跑，3个维度说清+FAQ",
     "description": "2026年手机AI哪家强？小米系统级智能体领跑，3个维度说清+FAQ",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81YUNZT1dQaDdScktkekMzd1dUX2F5VnZyUjhZcnZrbzZIam1kQ25UUVNjNDBFYkFmbUVya3Jjb21DSUx5cWVRT3F3TGx0b3hmSjdkZ0R4cFh2ekZSLWdueWlSekVLeUZ1YUI2RVpJVzhOaG51Ujh5cUltazlEY0k?oc=5",
@@ -2489,7 +2539,7 @@
     "description": "Xiaomi HyperOS 3.3 Android 17 Update Could Arrive Next Week",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZlREZIYkYyc3l1dFJXUW9WYTFyc3BreDJja0YyY0d1WmVNYmo5cHNpdnBfeThqelNnMTRoNWlfa0tuLXdYVlREQWpobG1XYnhCX3B4MExobFV2WEN4SjVoMXNnZFZrZGQwY0JHazI1aU0yYVQwTlVETzBpa2lWUVBwbnFrd1Jhei1PaExnUUE?oc=5",
     "date": "2026-07-07T17:16:01.000Z",
-    "source": "XimiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/04/Xiaomi-17-Android-17.jpg",
     "category": "software",
     "updateVersion": "3.3",
@@ -4535,50 +4585,5 @@
     "source": "新浪网",
     "image": "http://n.sinaimg.cn/sinakd/sni/428/w1320h2308/20260706/1ace-1d92e9ad75cd10da2f7feee2e9d5a25c.jpg",
     "category": "iot"
-  },
-  {
-    "title": "哪款手机的收音功能可以媲美苹果手机？",
-    "description": "哪款手机的收音功能可以媲美苹果手机？",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSU5Cc0dxOGd5SF8ycUVWU2dDay14NS1yNGR3NXJQamVqQ0VabGZuN2ljUUlJQzNmNmZWa2d4cTRRLUJWOUh1akJoMmJXX0lUWVBhVjh3TG9JeVItekxOR0pCZi00cFh3QUFYVHVkZ0czdw?oc=5",
-    "date": "2026-07-05T19:51:00.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260705ac/408/w690h518/20260705/0aa5-ee0af60aa4780b5532ac0956ea6ac3a0.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "小米SU7Ultra的自动驾驶辅助功能有哪些？",
-    "description": "小米SU7Ultra的自动驾驶辅助功能有哪些？",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDh1LU14Zm5nZWxtRENRR1dxb3FKR1o2Tjl2VDNLdlRvSE5hYUdrRlV4V0VWdE1SOU8xQ0RjR0NVYXlqWEJZMTFZcW9PeXJDamllczEtbks1bGVVUXVoQUY0T1J4RzJwQ2l1LTNUaGxEakktYUtHRmdGdzREM0QwWWF6MnI0NGhYTHlJZXo4OA?oc=5",
-    "date": "2026-07-05T17:57:00.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260706ac/408/w690h518/20260706/d73e-89e9178a21346d1283f29ad03a673d9f.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "24万小米SU7，5小时就“报警”！",
-    "description": "24万小米SU7，5小时就“报警”！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VaDlhZHRJeEUyc1RhT29fWkVUT2p6bGdpVEhCRTR3Q215VGZnaTRCSndkX1NFdUJHWDNlenFlVnVlXzJBdU5oUHlEM0pwaHNaZ1M0TlFjRnNkUHc?oc=5",
-    "date": "2026-07-05T17:29:35.000Z",
-    "source": "汽车之家",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g33/M04/35/F2/autohomecar__Chto52pKkwiAag0KAAt2uUcua1w213.png",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi Wireless Mouse 4 Pro: an ergonomic novelty with a smart wheel for $30",
-    "description": "Xiaomi Wireless Mouse 4 Pro: an ergonomic novelty with a smart wheel for $30",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkM5N0lQaVBDSmI5ODR4aFFFUEh5RS1XLWZIUkRqMFEza2NteGpMQUVPM2owdzRhd3ROQjlGTlMyT01OcmZnRWF6UVYxZlVTQ1lKRUF1VExnbzJBV3B6aUR6ck83U2FGTjRJQlVkMmJDNVZaSGJ2VTQ5LU90bnBLZ1ZvZ3Jlb3BZOWxJRlExNFJMUm9lOGFhWFhfblREQQ?oc=5",
-    "date": "2026-07-05T16:34:59.000Z",
-    "source": "hi-Tech.ua",
-    "image": "https://hi-tech.ua/wp-content/uploads/2026/07/b1a0c3e3a685d6328e2c3a7855c66345.webp",
-    "category": "phone"
-  },
-  {
-    "title": "小米公关经理发博，嘲讽荣耀手机没有性价比 - 维科号",
-    "description": "小米公关经理发博，嘲讽荣耀手机没有性价比 - 维科号",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBESUN4ZVdJbXRmdWR1VkxHUWVKWXNZSGZGdW1Hb3ZrdGNWdlZZbkRwSTZ0WFBQT2t2ckVpR2RMd1dsand0R05kZU9iQ2dYRy1tSmx2SnpyaWtiLWdXbk5DQ0JBbGF6RGplbUxzY2pCWmU0QQ?oc=5",
-    "date": "2026-07-05T15:20:58.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260704s/154/w938h816/20260704/e03b-15c7e1b7b21488503479d0ade7b4e9e6.jpg",
-    "category": "phone"
   }
 ]
