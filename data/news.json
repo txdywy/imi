@@ -1,5 +1,23 @@
 [
   {
+    "title": "白帽子行为构成实质性安全侵害，小米发布MiSRC违规事件处置公告",
+    "description": "白帽子行为构成实质性安全侵害，小米发布MiSRC违规事件处置公告",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZl9WY0dNVEVfbGpURDI4RFdMcXd3TEhsYXJUb1NJNUtqT2pKam9YTzhkZjhzV21TU0oxRFJrYUJaa1cyZmhBdms1cE9rbWQ5WjRDNElwa0JjTHBCeXY0cFJxV3dQNVhtTF9VX281bmQ1ZmREem1hR09LcXNGZGxtWkpTd0pDZnFESDZpNW5tWl9NMEw1b3pyZXp1S1lTckxObzk3WXQzMA?oc=5",
+    "date": "2026-07-20T18:41:31.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260720/368/w660h508/20260720/c481-e0d98a540c2e7538cc457ef2702a4731.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "AT&T is raising prices next month, leaked document reveals - GSMArena.com news",
+    "description": "AT&T is raising prices next month, leaked document reveals - GSMArena.com news",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWFGOWFRa1FOQjNVaDZ5RDFDZ3FGSDd4ejNUVE5TR1dkdHlDQVNqeldzZE5BZENSMGNySGtncnVQZ1VQWDBaWjhBZG4tNF8xTEJVOUhtNk02VXlhVmc0bGF2Y2ctdXY1aXkxWWNHRkRYYS1pRkFjd0MxZWlnT185RDYwbFNYbnA3SjUtYV8yenRFLVM3d2dhNHZNYkRuUdIBmgFBVV95cUxPR196c2ZhbUk5anhQcnFNTkJYWENqYTUzNkx1c3EyUWxNSllKSkswZEhZMmZvSUpRTkJHTW5jUkM4ZTAzVUxxYTczR0dhSENaVnQ0NGwyTXo0MjI2S0ZVT0hGWktOeWVFeHE0ZEZDOV9yRGtJZWJUVVVEb2U2NXpjQmRBUmY5NDJEX3A4OUcwVVRwVG9adEZUNElR?oc=5",
+    "date": "2026-07-20T18:02:02.000Z",
+    "source": "GSMArena.com",
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/07/att-home-internet-price-hike/-952x498w6/gsmarena_000.jpg",
+    "category": "phone"
+  },
+  {
     "title": "Leaked Xiaomi HyperOS 4 Wallpapers Offer a Sleek First Look at the UI Redesign",
     "description": "Leaked Xiaomi HyperOS 4 Wallpapers Offer a Sleek First Look at the UI Redesign",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhZ3Nwd1NuclVZTVpkemd0Vi1BRWN0NEgxNno1N2FJb3FpaGR2V2hwR0xYQ3dkU1J5M2E5RnZkOEdLbWMyajNSdjNzRXJSNDhaUTJJX3cwbW11UnZjSml0WnV0QjJDNlNIdE9qaVZuTko2bzJSZGZaeklSZw?oc=5",
@@ -179,6 +197,15 @@
     "category": "phone"
   },
   {
+    "title": "兆易创新：参与投资的小米智造基金投资期延长至5年",
+    "description": "兆易创新：参与投资的小米智造基金投资期延长至5年",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmw5RjZqeWp1MElCcGFCd0tJSmZ1WF9sY1VHZVNXWGZKT2xONUxzRENxQU8wcHNtel9CcWNDaWN6TXZWUDRwVVh4cVRXcV85ZVBTS3RmRXRla3lMdEdZWnl4cEtIRTJOUVVOUUtfN3dJSC00djRGZ1EtYTBfTXh6RjhSNUVzSGs?oc=5",
+    "date": "2026-07-20T11:20:00.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "phone"
+  },
+  {
     "title": "雷军透露小米新车路测细节：566台车跑了428万公里，已测试三年",
     "description": "雷军透露小米新车路测细节：566台车跑了428万公里，已测试三年",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FRTNleV80R1U1MXZ6MU8zNVU1eEZQR3VnOFctQV9pY1p4WlJ0ZVluNFBkX08xT0tXbGVZMkUwX2F1TVctNmw3b2FaR0o?oc=5",
@@ -221,7 +248,11 @@
     "date": "2026-07-20T10:42:19.000Z",
     "source": "XiaomiTime",
     "image": "https://ximitime.com/wp-content/uploads/2026/07/HyperOS-4-1.jpg",
-    "category": "software"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "Download Xiaomi HyperOS 4 Wallpaper Before August Launch",
@@ -4576,32 +4607,5 @@
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260716/f077f69f97ff4742bba9aacebf95b6bc.png",
     "category": "people"
-  },
-  {
-    "title": "Xiaomi Skynomad crossovers to offer 505 km of EV range in China",
-    "description": "Xiaomi Skynomad crossovers to offer 505 km of EV range in China",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONVd6U1ZTNHRxSGhLWHA4TlFqRmpRT1g4VDJ5NzJqNF9ibklrdEhQVUhkWHF0b0lncUk0UUFIdm5mdncwcE9XU2FHVFhKcXgzeE4xUXlzcXlyYlB6SEd5YTRVckRCMHdCamhFd2podWdBbGY3ZGtWWUd5TTAtdjlwd3FDNWd1U0s3YzdmQmdqTGdWVDQzZHJkM0RLWVJick91bnc?oc=5",
-    "date": "2026-07-16T03:27:00.000Z",
-    "source": "CarNewsChina.com",
-    "image": "https://carnewschina.com/wp-content/uploads/2026/07/xiaomi_skynomad_range-1500x844.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi introduces Xiaomi-Robotics-U0 for embodied AI and robot generation",
-    "description": "Xiaomi introduces Xiaomi-Robotics-U0 for embodied AI and robot generation",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRi0yRTk5M3pvTXBrR2xtSHlxZlA2eDQ0bmJnZmtodWpiUEZEWjAwQ2l1U0M5WG5rUXJFYmZhRW1zMWVMVmI0akh2UVh3VkstNjBmeHpRUnBOZEE5cFdKVzRWY2RBWE1NMno4SVd2MXQzOE5GUUEzeEQxR3lUS05DR3lSWWctRm9hbzlubm5XQ2h1UmZQcHdJWVA3YmdRZFM4QWtfVG1XQlVtQQ?oc=5",
-    "date": "2026-07-16T03:25:30.000Z",
-    "source": "TechNode",
-    "image": "https://technode.com/wp-content/uploads/2025/10/xiaomi-factory.png",
-    "category": "ai"
-  },
-  {
-    "title": "小米澎程：全系最长CLTC纯电续航505公里，最大电池容量76kWh",
-    "description": "小米澎程：全系最长CLTC纯电续航505公里，最大电池容量76kWh",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tRWxlck9JMDZKcVZSLWJJSHdqakV4WmZLVTl0TFdQTkVkRTh2NnhmWEpLaFktUlc4dERWWXR0amExR1hrZ1NlSWFB?oc=5",
-    "date": "2026-07-16T03:04:45.000Z",
-    "source": "集微网",
-    "image": "",
-    "category": "phone"
   }
 ]
