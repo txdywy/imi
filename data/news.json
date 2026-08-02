@@ -1,12 +1,165 @@
 [
   {
+    "title": "一周新车盘点｜小米澎程首发两款增程SUV 奥迪首发新旗舰SUV Q9",
+    "description": "一周新车盘点｜小米澎程首发两款增程SUV 奥迪首发新旗舰SUV Q9",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CWnJQQWQtZlZXcVpIRHN3bm1jUmFlVjVROVlKVDBXTEVmcDJFMkRDQXYzaURDVmxsLUoxNW9xeUJ3M0swMHdlR0gyMndzU2RaZnRJV0hRSWIzY0g1TXdKRVJyTnJtTjVjM09fYlhYTC05aU0?oc=5",
+    "date": "2026-08-02T06:25:00.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260802s/300/w700h400/20260802/063c-ed40af83320cd3666f03b519b3051465.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米澎程碰撞测试实录视频发布，雷军称比行业通行测试标准更严苛",
+    "description": "小米澎程碰撞测试实录视频发布，雷军称比行业通行测试标准更严苛",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeG0zVzRqUFg0SDZzVnZDV2VEb0ZaeVZHUEVzaWFlenNEVV94SXFPMExFU1dRMWI5SzVORjRnYWZCZ3M3ek1BVHk0STNfalIzV2lPVXBrdWV3VzRucUE5TGtKY1NYQ1VrM2VVcDViT01hWWt2NWp0SVdEck9qcElvUlRCWlFYTkVE?oc=5",
+    "date": "2026-08-02T06:21:20.000Z",
+    "source": "Sohu",
+    "image": "//q9.itc.cn/q_70/images03/20260802/d36a0f0cfecd4a15b7b95d7bc6789768.jpeg",
+    "category": "people"
+  },
+  {
+    "title": "中国产品包揽全球大模型调用量前五",
+    "description": "近日，全球多模型聚合平台OpenRouter发布最新一周AI大模型调用量榜单，排名前五的产品全部由中国企业研发。登顶榜单首位的是小米MiMo-V2.5，单周调用量达到10.5万亿Token，环比增长12%。排名第二和第五的均来自DeepSeek，两款模型形成高低搭配，覆盖不同开发需求，其中旗舰Pro版本在代码、复杂智能体任务性能对标海外顶级闭源模型。而这些模型的共同之处，是发布时间很短便快速上榜，位列第三的腾讯混元3，7月6日才正式开源，单周环比增幅超999%，是榜单增长势头最猛的模型。（人民财讯）",
+    "link": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+    "date": "2026-08-02T06:14:03.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "Xiaomi raises smartphone prices by up to 13% in China",
+    "description": "Xiaomi raises smartphone prices by up to 13% in China",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3BMTXNSQ0NGY3NuMzRvYXQydGVGcm9uRDNZcld1azBzcVFqZEhiNDE0ZzdrYnZUZ1hfaHNfLVk1UFJvM01aa2ZoN3JHTldPajktMlV0MHFSWmVUbktTczFKTE1nUlpxZEJYU0hjM1FOWGxqUE95OHljekRhN1BhVUltQmxtTVl2V2RwSngwNFl1ZnVhMDhsWGJXeEp0UQ?oc=5",
+    "date": "2026-08-02T06:14:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Xiaomi/17_Pro/Xiaomi_17_Pro_Test_Smartphone_3.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米多款手机，今起正式涨价",
+    "description": "小米多款手机，今起正式涨价",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUZCLU5tRjZkeDExWF9HMGlBZ1hJNzBrV0p5VkVDMGNURGlmU3J1SlU3WGlSbW1MaEtHdFloTTZDcy0zUE0xUEwxeG5heGtGdnJGam1VblJsdnBZZ2NKWTR2blBkU2JUbEtnenh1TVEySmFva2ZPX1BCRnBacE52c1J2enBZa2wyOVhtOA?oc=5",
+    "date": "2026-08-02T06:08:00.000Z",
+    "source": "21财经",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "小米多款手机涨价！有旗舰机型上涨500元，店员：昨晚接到调价通知",
+    "description": "小米多款手机涨价！有旗舰机型上涨500元，店员：昨晚接到调价通知",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9STXVXc2NZLXFuUWh1RjFFc2p6OHF0SVkxR05FN2pYMGMyVXR6OUowb0RCNTk3X3RGQmdnSWhzeXpnd0lna05SR2pOUHBsMjhYWHZRNWR4dDZuTG5lN2tZTUlMai1xQQ?oc=5",
+    "date": "2026-08-02T06:06:00.000Z",
+    "source": "每日经济新闻",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米手机涨价冲上热搜！“昨晚接到调价通知”，旗舰机型涨500元",
+    "description": "小米手机涨价冲上热搜！“昨晚接到调价通知”，旗舰机型涨500元",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3FjTVlQNWtJelhIVDg2cTg4NFRZblAybWZ5NGhESkVod0RrV3VtZWNLLW1RcnBEbzRZMmp0NzNPMHp3dkg2QjlHb1E5ZkxmSlVUcF9OX3AwOVVqNFNjdnM4V2psSWkweUFDcF85NkZkVVFlMWx1NXotS3ZCcVBrY3RraDVzNFpLd2pJcg?oc=5",
+    "date": "2026-08-02T05:59:00.000Z",
+    "source": "Sohu",
+    "image": "https://q6.itc.cn/q_70/images03/20260802/5afe0eab20b445fda48c9aaae575afdb.jpeg",
+    "category": "phone"
+  },
+  {
+    "title": "小米手机涨价冲上热搜！“昨晚接到调价通知”，旗舰机型涨500元",
+    "description": "小米手机涨价冲上热搜！“昨晚接到调价通知”，旗舰机型涨500元",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSk1nelFHMTdwLVp1QlFfVmI4SHI1MW5UMGkwZHdvU2RMYVU3MkNROFItVUJIX2NPYnE4aEhneEl5ZEljbnI4WFFwNDd4QWpYQURxOFVyRExfdXV5QVhJY1hCalRWX1VGbEpOWUI0a3NiUTgtck9FVjJFem5ES3Q5NEJXODUzMkZ3TS1RNQ?oc=5",
+    "date": "2026-08-02T05:58:00.000Z",
+    "source": "21财经",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "【网通社快报】小米澎程N90Max发布：配备超长滑轨、旋转座椅及滑动中岛的家用SUV",
+    "description": "【网通社快报】小米澎程N90Max发布：配备超长滑轨、旋转座椅及滑动中岛的家用SUV",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZMmVweFVMTXpNc3pVb0I3VTZMTnJSTnhucC1wbnM5YU9nOFN5NWZxR2tISXotclptbWRBUW9Hc01kb3VlY2FBdEQ0cFY?oc=5",
+    "date": "2026-08-02T05:36:28.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
+    "category": "auto"
+  },
+  {
+    "title": "小米YU7 GT外观",
+    "description": "小米YU7 GT外观",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0TDRscUNZQUthZ1U2QktLZV96MVB1b3lxRjNZSlI5azgxNUZKTXpWTDJKOGk5bEFjVmI3cGZnbDNSUEZzTkg1UHVwOVdESGZZTEQ4TFhiSDFxeEpIX1lBQ3l3dEg5NHlqRy0yYkwyblF2MG9ubEJoTVFobl8xQTQ?oc=5",
+    "date": "2026-08-02T05:36:00.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260802ac/408/w518h690/20260802/dc86-36de1ec66502400ccebbd8b1d2a1e4d5.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军说晚安被指营销 小米高管回应 网友不解质疑声起",
+    "description": "雷军说晚安被指营销 小米高管回应 网友不解质疑声起",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0UlljdjdVTVVOS2p0bUJYRDBlc0FoVHpmeGJLckJ2WnFycXNxVDBMdEY4NG5hR1l2anVsQllUWTNsNVpKZUMwb3pLdjlLV1N3SzllOGRHTEtHVG1MZ01wRkp4QV9MTk1CNVB6Z05LVWM?oc=5",
+    "date": "2026-08-02T05:22:26.000Z",
+    "source": "中华网",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "小米手机涨价300到500元",
+    "description": "小米手机涨价300到500元",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2F5angzMDAzb0kyV2g0Wk9jMjN5N2pNUkpCRXl6YnoweC12bWN0aGloZVFhSkpKODZCTjZmVmxhQ29VNWJsUXJoVXdZQS01YTZIMGdRbmRfNlZOLUwtQWJIVUhxMmVZV2hVcEEwc3kyeGZZcjlsbnRpQWJ1SzZTcEVmbDdWMDBmajdpXw?oc=5",
+    "date": "2026-08-02T05:16:00.000Z",
+    "source": "21财经",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "【网通社快报】小米澎程N90Max发布滑轨、座椅旋转功能及电池安全技术细节",
+    "description": "【网通社快报】小米澎程N90Max发布滑轨、座椅旋转功能及电池安全技术细节",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2TmVCaHN5TzYyX0xOQTRrS3B6bkQzVzA4d2xIR2wwQmdnLVE1SHA3UWpRa2xpSExNU1ExNW1ONG1IRzhPSV9TTWxrS1Y?oc=5",
+    "date": "2026-08-02T05:11:19.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
+    "category": "phone"
+  },
+  {
+    "title": "最高涨幅500元！小米手机线上线下同步涨价",
+    "description": "最高涨幅500元！小米手机线上线下同步涨价",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05TUFUcEpFT1QtZXBUb0paY1hMZUxiRU1XMi1NQmxoSE5DR0xoOXBtYjVoVTRoeDJjR1dBYlRfNkJBeWtVbzQ1eHdndHFQazBDbV9renRJZnVFRGJKVkE?oc=5",
+    "date": "2026-08-02T04:33:49.000Z",
+    "source": "京报网",
+    "image": "https://static.bjd.com.cn/dams-res/editing/image/202608/02/sr1cea3np9sv4868rmvphka8.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+    "description": "银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新用户会员订阅，验证Kimi K3模型能力突出与算力紧缺。银河证券认为，Kimi K3并非抑制算力需求，一方面国产开源模型的能力逼近全球顶级闭源模型，倒逼顶级大模型厂商通过更大规模的训练以及更快的迭代来维持差异化，另一方面持续引爆推理算力需求，当前Kimi K3已实现与多家国产算力平台的‌Day 0极速适配，拉动国产超节点的需求，进而推动产业链中服务器、交换机、光模块、液冷、电源等国产算力产业链环节配套需求，建议关注国产超节点及产业链相关公司。（界面）",
+    "link": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+    "date": "2026-08-02T04:31:04.000Z",
+    "source": "36氪",
+    "image": "",
+    "category": "ai"
+  },
+  {
+    "title": "小米多款手机正式调价",
+    "description": "小米多款手机正式调价",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWhhOEVmMzNrb21tWVM0UDBvU3cwbGdmMDh5ZWVhOGdYbWVmTGVGSTVmTTcydVlwaU5qcjVTVEVTMTN0ZFNsb0tZYzNyLWtBZEFOOTdPM1dDS3hRNm1VQk16eDU4UFEtRHlXemsxYmptUTl6blpoOWJyRXQ2WGljel9hR3NuQnZj?oc=5",
+    "date": "2026-08-02T04:02:40.000Z",
+    "source": "Sohu",
+    "image": "https://q7.itc.cn/q_70/images03/20260802/a95dcc6450c046eb8145a43affa934ee.png",
+    "category": "iot"
+  },
+  {
     "title": "小米多款手机今起正式涨价 网友评价两级分化",
     "description": "小米多款手机今起正式涨价 网友评价两级分化",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XcE50LTVxMzhQSjZoYXRpaTJCWXM2SWgwNGZkbXNoWEhPWnFwaHlxbzNCN1FFTGtnc1pTT0FGdGpHSjhnTUphX1Y5NXY1emR2X055c3BQOTJ2aHhGZ1RFeGFxWTlPMXZvTVhNWWQ5UmlEQQ?oc=5",
-    "date": "2026-08-02T03:04:38.000Z",
+    "date": "2026-08-02T04:00:24.000Z",
     "source": "新浪财经",
     "image": "https://n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/7RAA-fzihnep5208659.png",
     "category": "iot"
+  },
+  {
+    "title": "雷军说晚安竟然被指营销，纯属硬黑，过度解读可以休矣",
+    "description": "雷军说晚安竟然被指营销，纯属硬黑，过度解读可以休矣",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2FJalhHM1JCUjk0QTdJczNNaEN2U0hybFhEWmZ2VW0yWTNESW5IV3RaS2VUSGFrZWYwcXpkTktZc25DN1FfOTBXNVZ2ckdQQ1F1aW5kZlQtUkZiTUpkc01heGtkbTk4VTJoTkMzWXJzaDk0dEFxaVhpTWF0Tll4QTlIZjZZS1VB?oc=5",
+    "date": "2026-08-02T03:37:40.000Z",
+    "source": "Sohu",
+    "image": "//q3.itc.cn/images01/20260802/d22e5b8d97a547449cd5716c2770a44d.jpeg",
+    "category": "people"
   },
   {
     "title": "小米多款手机今起正式涨价：小米17系列上调300到500元，REDMI K90、Turbo 5系列上调300元",
@@ -69,6 +222,15 @@
     "date": "2026-08-02T00:27:05.000Z",
     "source": "中金在线",
     "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "【网通社快报】小米汽车公布澎程系列多项技术细节：含低速慢行灯、滑轨座椅配置及电池安全性能",
+    "description": "【网通社快报】小米汽车公布澎程系列多项技术细节：含低速慢行灯、滑轨座椅配置及电池安全性能",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHT01HSi1RLUNqQkhYV1VNUUFuYUlHdmtYMk1PdHlyZVZhdGVpeVJGQWFkOTFjVDlTajh0RFlXN0tZdmdHR0tXbkYtZko?oc=5",
+    "date": "2026-08-02T00:07:16.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
     "category": "auto"
   },
   {
@@ -319,7 +481,7 @@
     "description": "Xiaomi Game Turbo update boosts stability with latest HyperOS Security patch",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmVhVDRQU0ZyNGxNXzhmVnl6YlBIOWRnVTFnRFhCVS1RZ1o0WFhWeDBBcXZReHlTcVhXVjNxZUZhZ3pEOW9pQllla3dlaF9uY0dFNmRnZXJ0eDllSDZEZDMzMkxVTTQzOS0yaVlFNE9rdk9UU2JPQjBhaTBlRzRHcTRxb2d4U1dEdFFZZUs5RXF1NlY4b2doRENCRTlrWFRLdmJPVUUyMA?oc=5",
     "date": "2026-08-01T11:49:35.000Z",
-    "source": "XiaomiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/04/Game-Turbo-2026.jpg",
     "category": "software",
     "osType": "HyperOS",
@@ -365,7 +527,7 @@
     "description": "Xiaomi HyperOS 3 Adds McDonald’s Pickup QR Code for Easy Ordering",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNXlMd0NMa0ZoUnlpblh2YmFFSDMteHpseTdBdEY4d1dnNkRHTWdpRUJVcWJFU1cwMDZXaHFJbWNuY1E4NWJ6Tk05UVozcmpkZy1SRW5vcWhEV2E0dVVzbElJR2t2TllBY2gzdzRJYkRWR0J6dzA3QThqVklGNGhQRjBaV29xUUl1d0tHNGI2elRJOUY2TmdV?oc=5",
     "date": "2026-08-01T10:59:25.000Z",
-    "source": "XiaomiTime",
+    "source": "ximitime.com",
     "image": "https://ximitime.com/wp-content/uploads/2026/08/mc-donalds.jpg",
     "category": "software",
     "updateVersion": "3",
@@ -1537,7 +1699,7 @@
     "description": "Xiaomi’s New $38,400 SUV Runs 314 Electric Miles Before Burning A Drop Of Gas",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RWXF3Q2tkT1FWUEhXa0dIWmRlUkZOX1JVUFlSZ1E5THNUV0RwOXlpTmZQLUVuOUs2WFBkVUVwUWNrZWRwUHNRaHRnOGo4WnRJYS1pb3lYWFFDT0x1ckx0Zlg2ZVk1LXZERG5VRmJn?oc=5",
     "date": "2026-07-31T08:04:07.000Z",
-    "source": "carscoops.com",
+    "source": "Carscoops",
     "image": "https://www.carscoops.com/wp-content/uploads/2026/07/Skynomad-Xiaovrtf-vc-scaled.jpg",
     "category": "phone"
   },
@@ -2068,7 +2230,7 @@
     "description": "25.5万起，小米澎程N70 Max、N90 Max开启预售",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQcS1yYjNXSVBJLWhWa3NUc2xBRHNPcnY0cll3UXBIRVY3bzdZZkc2amp3anVoR205b016VkN3blFjeUlTZ3NNcVFINl9RRFJvWDRCNkxSUDBBaFBQN29nSzVJd0kwY2NTZXZ2OFg2TVZucU0?oc=5",
     "date": "2026-07-31T01:46:43.000Z",
-    "source": "cnr.cn",
+    "source": "央广网",
     "image": "",
     "category": "iot"
   },
@@ -2707,7 +2869,7 @@
     "description": "China's Xiaomi launches SkyNomad SUV series offering space and reconfigurable interiors",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGhaU3czQldhLWpYWDY3WUplaThONWxnbWYyeG5HdFEzMUloTzd2R3BKX0NvTmw5em5XSWo3UVhva1IxYlN1MXIxNjhnV19odlBlSDNqeXdJbGhwY0dBalZpbEZUSHJjZFdIdk9LbWhKbHNGOVlXTWozRm9KOFBNYUpIQVAzNGpndDQ3Z2gtTlFrNXVHYktVM0NEbTZudzVRalZWTDZ2Wm8wMkxlZENCaTVnZUp4YlVoT2dPWnI0QlY4ejFOZVE?oc=5",
     "date": "2026-07-30T14:53:44.000Z",
-    "source": "Reuters",
+    "source": "reuters.com",
     "image": "",
     "category": "iot"
   },
@@ -4387,184 +4549,5 @@
     "source": "新浪网",
     "image": "http://n.sinaimg.cn/spider20260729/201/w1080h721/20260729/e8e2-0d073c286507528529efe3cee7fe2fd2.jpg",
     "category": "people"
-  },
-  {
-    "title": "小米大模型拿下“全球第一”，有实力也是侥幸",
-    "description": "小米大模型拿下“全球第一”，有实力也是侥幸",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSU44c2hvSEN5QUk3VThsYWZsNkppdnRJNTE5SmFQdUxxV0lxRmlaOWJqNzFteTRscnpTdUNjbXlEZ1RhLXBIYlE2UXc2MlhJbkRNTFg3eUJ0Z00tSUVGcThUMTU?oc=5",
-    "date": "2026-07-29T09:59:08.000Z",
-    "source": "DoNews",
-    "image": "https://www.donews.com/static/image/logo-donews.jpg",
-    "category": "ai"
-  },
-  {
-    "title": "July 2026 HyperOS 3.1 updates bring 28 new builds to Xiaomi devices",
-    "description": "Xiaomi continues its rapid update pace with a wide batch of HyperOS firmware releases for multiple devices and regions in June and July 2026. The new builds cover a broad device range including Xiaomi phones, POCO models, REDMI smartphones, and several Xiaomi Pads. The updates vary in version number",
-    "link": "https://ximitime.com/july-2026-hyperos-3-1-updates-bring-28-new-builds-to-xiaomi-devices-99127/",
-    "date": "2026-07-29T09:56:43.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/05/Xiaomi-HyperOS-3-update-screen-1024x512.jpg",
-    "category": "software",
-    "updateVersion": "3.1",
-    "osType": "HyperOS",
-    "updateType": "firmware",
-    "device": "POCO models",
-    "isUpdate": true
-  },
-  {
-    "title": "July 2026 HyperOS 3.1 updates bring 28 new builds to Xiaomi devices",
-    "description": "July 2026 HyperOS 3.1 updates bring 28 new builds to Xiaomi devices",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0RUTWRSc0lQV2puYTJxZTk5Zy1JYzI3S3hjczl1WFluRlZRWV9QV1RuSEFGYTBIS090eUpsazVnZXdvd0QwVFlOME1HajZGQ0ZRWFRyNVctcDNkTHpYVWZDMERBdXRGRDZhOXBvd2JVV3dSNS1BckNYa2YweW9aYktuZkxCbzhlUXQ5aU82TWFaWUpVREkxM1V1OA?oc=5",
-    "date": "2026-07-29T09:56:43.000Z",
-    "source": "ximitime.com",
-    "image": "https://ximitime.com/wp-content/uploads/2026/05/Xiaomi-HyperOS-3-update-screen.jpg",
-    "category": "software",
-    "updateVersion": "3.1",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "Fed rate decision out overnight; Xiaomi Pengcheng SUV to debut tomorrow night｜Daily News Recap",
-    "description": "Fed rate decision out overnight; Xiaomi Pengcheng SUV to debut tomorrow night｜Daily News Recap",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBELUxjdGtybVJjVTE2X0t6cFpQLVFvZ0Fjc1lRQUx5RnN1S3N3emJGcU1WclExa3cxVXdMOUJ3QVV4WllzZ2R2WXZNUUlZVEs2VHRN?oc=5",
-    "date": "2026-07-29T09:54:34.000Z",
-    "source": "longbridge.com",
-    "image": "https://pub.pbkrs.com/social/2026/0/jB771rwPTiDd34F21XUDwwCJCB8tNAdT.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "雷军回应小米为何要做增程车：增程市场远未饱和，大有可为",
-    "description": "雷军回应小米为何要做增程车：增程市场远未饱和，大有可为",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnU5SWhuUTRTTXc2eG9mb0ttVDIyM0kyWXJGY09ILWFRanZMOFdLcHRvZDRqeFRQbGptTVZkejdJV2M1Rlc5MENmLVNpdjF4Uy15eTRfazlzRjc3eHJLdHJYRENOR25OT05ITTAzY2NIcm9XNTdKMHdUQkZ3blpRc3dKRmhjMmdoRHZPT3Mxd0VLYUJXLWhOUHFBaWJTOGJ0UXlQUUUtNFIzTGhrc2FtcjJMVXRncm44bERpVQ?oc=5",
-    "date": "2026-07-29T09:53:39.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260729/4/w627h977/20260729/aa2c-b42e5dafa93aaabbc8ae7945425d87a2.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi prepares global themes app for Xiaomi 18 Pro rear display",
-    "description": "Xiaomi has started adding rear-display-related text strings to the global version of its Themes app. The newly discovered translations are not active yet, but they strongly suggest that software preparation has begun for the Xiaomi 18 Pro’s rear screen outside China. The discovery supports earlier i",
-    "link": "https://ximitime.com/xiaomi-prepares-global-themes-app-for-xiaomi-18-pro-rear-display-99122/",
-    "date": "2026-07-29T09:41:07.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/06/Xiaomi-17-Pro-MAX-1024x512.jpg",
-    "category": "software",
-    "updateType": "update",
-    "device": "Xiaomi 18 Pro",
-    "isUpdate": true
-  },
-  {
-    "title": "Xiaomi prepares global themes app for Xiaomi 18 Pro rear display",
-    "description": "Xiaomi prepares global themes app for Xiaomi 18 Pro rear display",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc19FcWlaWjFfTlhTRGRfZzVjZjdNbTNnNTlBb19PSTY3cUhERkJ3cHBkVGl3OGRTZV93RjB6RVN4ZjNzTmk3UHBOdTVFUURwR2dkeWdmYzZaRk1zSmtPdnZ6RXpVX2F1Mm94SzlBZ0prU2xITFlzSzJGbUtPUFNzd3dKVHE2ei1Rem9uanIxaEtXZnZHOThR?oc=5",
-    "date": "2026-07-29T09:41:07.000Z",
-    "source": "ximitime.com",
-    "image": "https://ximitime.com/wp-content/uploads/2026/06/Xiaomi-17-Pro-MAX.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "雷军称增程市场大有可为，小米股价开盘大涨超8%",
-    "description": "雷军称增程市场大有可为，小米股价开盘大涨超8%",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0JLMVB0YXEzZHl2MEdRbmY2YlpvOEppeTBOZmNwY1ZKQzhGd1dCY0s3Z2N5RFB2cXNWQWtBQjdJdEg2OElXNFlESFM5RHZfb1M1OVduWnhkVEs1elpabUhxaVA5VmkyRXRCLTJJQVlMc0RnVEdzQTRoUW9nUndaQnMteFpBdkRFM3lOd2JPVGZPQXF0T1hDVU1MbFU4b042TFAxZFlTSDVGZlF0MFZvY3p3?oc=5",
-    "date": "2026-07-29T09:28:54.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260729/607/w660h747/20260729/2bbd-2f8ab465706a9e3a1bbad8242cd742b9.jpg",
-    "category": "people"
-  },
-  {
-    "title": "小米集团涨近9%，明晚将发布新车",
-    "description": "小米集团涨近9%，明晚将发布新车",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZkQ4OUVjNzRYN1gzeUFoT1FKZUZyVjB1aXVwaUpqRTFtX19zTnUwU3YzNVNKZ1dsd29PVnRPZThlTlp2SkprNFVfdS0xSENqYU5XU0padVBYUUQtX0txUWN1bkh2anBFdVh5WVJ3?oc=5",
-    "date": "2026-07-29T09:25:34.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "图解丨港股“老登资产”7月逆风反弹 小米7月累涨47.3%，美团累涨34.7%",
-    "description": "图解丨港股“老登资产”7月逆风反弹 小米7月累涨47.3%，美团累涨34.7%",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qSEFLTFl4Wm5CYnV2LU92SW0wQnJhSGlhY3h2bUxLWG00M3prdkU3UE9GVHdQb1pSMmM3LXVmUEVqLVQ3Wjd2Z0FJbVRrMEJVTTQwZ0ZEMFhVQ1h2YmZ3emFGbnM0a1hRc05oYUdGQWpadw?oc=5",
-    "date": "2026-07-29T09:20:47.000Z",
-    "source": "金融界",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "雷军称SUV做纯平地板很难",
-    "description": "雷军称SUV做纯平地板很难",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmswdHdnb2lTMEtZRy1OVzZzVWo3MTJfUEZrcnVOY1dFZldITWp2QjZZSHhtb3VNNHR2SFRZV1ZJWHZIQ0V4Q2JobnpkVlcxQnZpRXRvbmZTUHM1NmY2c1hIT29aVGdsR3RMeUlvOU91ckNmdk0wenZhUVVOckF0UQ?oc=5",
-    "date": "2026-07-29T09:19:14.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20116/533/w480h853/20260729/7db4-eda73eeec33a8f7a09b43da08e83b940.jpg",
-    "category": "people"
-  },
-  {
-    "title": "小米增程车的纯电续航505公里如何实现？",
-    "description": "小米增程车的纯电续航505公里如何实现？",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00NXBZX2dRV0ktVWFWaXFzaVFsYVlUWVQtcEVkMzdqR3QtUy0xY0xLMXU4RzdONHk3WUNERGoyWXB1dHV6OGtpV2hDNFJ2VTNGWHAtVXI5ZGRjMGlmZWM4M2FMdW43bzdQSnM2NlhB?oc=5",
-    "date": "2026-07-29T09:07:46.000Z",
-    "source": "新浪汽车",
-    "image": "https://n.sinaimg.cn/sinakd20260729ac/408/w518h690/20260729/e1fc-a6fdca21fc3de13559f8e036cc1750df.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米澎程，“追跌”增程？",
-    "description": "小米澎程，“追跌”增程？",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4Z2lKX1hxMkFHeTFwRURZWWFFMHpsNWJlMWtjczNYTnMzNGJUM043MXRkUUlsVnBGSWtPMkZtSktaaHlKZEJvUnBXOGs?oc=5",
-    "date": "2026-07-29T09:03:47.000Z",
-    "source": "凤凰网汽车",
-    "image": "https://x0.ifengimg.com/res/2026/1C996CA78A628259B6B4804F950E7E76F19D8F57_size18_w720_h380.webp",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi targets Apple: Oppo Find X10, Vivo X500 and Xiaomi 18 Pro (Fold) launch windows tipped",
-    "description": "Xiaomi targets Apple: Oppo Find X10, Vivo X500 and Xiaomi 18 Pro (Fold) launch windows tipped",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWklKZnlvZnprY2ZRaDhzUTJFRWJtWmUwRm1rVDk5aDhrRm90c04xTE5ocU5vOUM1b0Nqd3Jra0x1eXBFaGlUYTJkUmRpUXAyM2tuWWNwRXFWUFJ0Zy1rclBpQkVaZzI1Z3pLem9wUGpVYi1wYTVMUmxQWHpoejVNT2tmVHNkOFNWS2M5YWlrMFpNNHVuSm45TllDSldpSzF2cEpZcnNsb1R3aUI2YWttZDlHNXBPS1RrSmFHNDVwYXh1VUhNb3ZIOHBYMkVJa1E?oc=5",
-    "date": "2026-07-29T08:48:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Alle-gegen-Apple-Xiaomi-18-Pro-Fold-Oppo-Find-X10-Vivo-X500-Launchzeitfenster-geleakt.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "REDMI K100 Pro Geekbench Leak Confirms Snapdragon 8 Elite Gen 5 and 16GB RAM",
-    "description": "A new Xiaomi phone with model number M511CD has appeared on Geekbench, revealing key specifications. The device, identified by blogger @体验more as the REDMI K100 Pro, runs on the Snapdragon 8 Elite Gen 5 processor paired with 16GB of RAM. It scored 3429 points in single-core and 10461 points in multi",
-    "link": "https://ximitime.com/redmi-k100-pro-geekbench-leak-confirms-snapdragon-8-elite-gen-5-and-16gb-ram-99120/",
-    "date": "2026-07-29T08:47:38.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/01/REDMI-K100-1024x576.png",
-    "category": "software",
-    "updateType": "update",
-    "device": "REDMI K100 Pro",
-    "isUpdate": true
-  },
-  {
-    "title": "Xiaomi’s Stock Price Skyrockets to 31.88 HKD, Witnessing a Staggering Rise of 8.95%",
-    "description": "Xiaomi’s Stock Price Skyrockets to 31.88 HKD, Witnessing a Staggering Rise of 8.95%",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekxFcENoQ3lqMVZoYmROVHZFWjRoS045OG0zQ1hrUUpwRkRETEVhMEJvU0E3Ti1HX2kwR0xCZzNuc04tamF1QmJkcFRoQ3pGc3NhZkgweHIxRFA3UjVpUldIa2UxLUh0WF9PTTVxT2t5dWhScFRYRHk4VUU2ODFFSXI1VW5fbUNpYU5wR3JlVXpCTEdYdTJMdEhReHNlWlVhOXk1ak5HdTkzb3BrRklOdEEtRXB2SFNjYjBHNDVFSVAwUGxDeWc?oc=5",
-    "date": "2026-07-29T08:33:21.000Z",
-    "source": "Smartkarma",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "雷军回应小米汽车布局增程",
-    "description": "雷军回应小米汽车布局增程",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WczhKMFNLSkxjcjloSW1fY0dPa0d2YWMwWnR5NGNyNkd5N0RYYkx2VTd0UnJLOHhxeGhWWVNKZjZrVkRJUFJSQUZnOWVONmJSV3puXzFxTVQ4ZHJMR0JpMnhqSU1YbTZzUFpvWUZKd21hTWZCLWc?oc=5",
-    "date": "2026-07-29T08:22:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260729/46/w1080h566/20260729/ce57-efd4f46125d566dc27e4ab17b0888cc2.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi Skynomad Models Equip HAD Assisted Driving, N90 Max Adds Rear Solid-State LiDAR",
-    "description": "On July 29, Xiaomi revealed the smart hardware and software features of its new Skynomad vehicle series. The lineup includes two SUVs aimed at different seating and drivetrain configurations. Key Screen and Platform Specifications The Skynomad models feature a multi-screen setup with a 16.1-inch 3K ",
-    "link": "https://ximitime.com/xiaomi-skynomad-models-equip-had-assisted-driving-n90-max-adds-rear-solid-state-lidar-99113/",
-    "date": "2026-07-29T08:20:50.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/07/xiaomi-skynomad-1024x542.jpg",
-    "category": "software",
-    "updateType": "update",
-    "isUpdate": true
   }
 ]
