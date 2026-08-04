@@ -1,5 +1,14 @@
 [
   {
+    "title": "Xiaomi’s new SUVs are hybrids with EV-sized battery packs",
+    "description": "Xiaomi’s new SUVs are hybrids with EV-sized battery packs",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMGszeWpGMktyRjdMYTJmOFZ0ZlptbTJVQlRIb0pwSHpfOU5KYl96bWd4XzFvUzJIeHdSY1VockdrNkdoZEN3QlM0RVZCa0otTnRLSFFPNVpUNzBjZEszNjZtRURiaWJpV0l1V19nM05GMGxheWRLMHpyYzNRbEdMbDhmWDdVTVNHMGhwdnNid3JwS1ZuWTRsbUFR?oc=5",
+    "date": "2026-08-04T20:30:00.000Z",
+    "source": "CarExpert",
+    "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/040826-xiaomi-skynomad-n90-01.webp",
+    "category": "iot"
+  },
+  {
     "title": "AI造谣小米被拘留的依据是什么？",
     "description": "AI造谣小米被拘留的依据是什么？",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aaHc0eHdWdU8wMG1lN3gxRTVLTTQwaEdrako3TkJMMGd3UXdrM1RTa3AyNHk4ZGxHcE0yZURkQy01VHVDZEdiU29GclBrajZLaEliVE9qdkxyR0tmeUg5TUtIMzhzVWxHRk9HczV6Q21KTS1sTHY0U2ZDU2pKSGM?oc=5",
@@ -63,13 +72,13 @@
     "category": "auto"
   },
   {
-    "title": "小米集团-W获南向资金连续3天净买入",
-    "description": "小米集团-W获南向资金连续3天净买入",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lY3R1dTl4MkY4dkl0OVlwdWFBRkpnUHNnaGlqS05MX2FocnJpTVpMcFh5RUVrWllYQVE2ajN3X0dqeDM5UWV1dXE4RmlGQjd4bmdhTVRZWHhfLVlOb2pkaXoxdw?oc=5",
-    "date": "2026-08-04T14:49:36.000Z",
-    "source": "东方财富",
-    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
-    "category": "iot"
+    "title": "小米澎程的“户型图”刷屏了？但真正颠覆行业的，不是空间，而是定价逻辑",
+    "description": "小米澎程的“户型图”刷屏了？但真正颠覆行业的，不是空间，而是定价逻辑",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwd1FvaVdmUzNfZVpkWk9SckQxR0xlWnJVRGtMYUFFZTdZNUVnVDhkOW5Ca1ZaSkVabGViUDN1YVczVXB0UjA5cDJJaEd4T2w3ZmhLT1pKdXlYU1k?oc=5",
+    "date": "2026-08-04T14:33:03.000Z",
+    "source": "网通社",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米第二代AI眼镜已完成研发 卢伟冰因外观设计不满暂停发布",
@@ -128,6 +137,15 @@
     "source": "网通社",
     "image": "",
     "category": "auto"
+  },
+  {
+    "title": "小米集团-W获南向资金连续3天净买入",
+    "description": "小米集团-W获南向资金连续3天净买入",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lY3R1dTl4MkY4dkl0OVlwdWFBRkpnUHNnaGlqS05MX2FocnJpTVpMcFh5RUVrWllYQVE2ajN3X0dqeDM5UWV1dXE4RmlGQjd4bmdhTVRZWHhfLVlOb2pkaXoxdw?oc=5",
+    "date": "2026-08-04T11:50:08.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "iot"
   },
   {
     "title": "小米多款手机上调售价，店员劝趁早入手：内存暴涨之下，以后可能更贵",
@@ -467,7 +485,7 @@
     "description": "从SU7到澎程：小米汽车的“中产卡位战”",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVU1FR05uVVdob2JpUHRxRTFDZ1hUN1FjUzVsMFl0MW50Tk9YRm53bXZoUm43dGsxdkVEMXRNNEpaUHJqeVpIaS1kVEFUMF9zWFZXcmVhWTBzVEpTcXJlV0tUdm0?oc=5",
     "date": "2026-08-04T06:05:31.000Z",
-    "source": "donews.com",
+    "source": "DoNews",
     "image": "https://www.donews.com/static/image/logo-donews.jpg",
     "category": "auto"
   },
@@ -1261,7 +1279,7 @@
     "description": "Xiaomi just launched an SUV with seven seats and a bedroom upstairs",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRi1fS1hkOUhuLXNLYTRDVG9CRXFQNnRXbm4tbFJXVzVBQlhzN1h0RkJHeXBFMnhmSi1vWU1LOTNUZVZZcHVzdnZBbmVkMzVNeW9oZTVFTTM2Q2FsdFBNNEhXWlg1ei1QMDNlWExXbG1hLTBnMG5XNHA4MDVEM01wcmFRVDM2dHIyc1M3STlDX3lpV1M1QXFYOWgyZjZOS1Z5R2k0eDZR?oc=5",
     "date": "2026-08-03T08:47:41.000Z",
-    "source": "digitaltrends.com",
+    "source": "Digital Trends",
     "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-28T150624.018.jpg?resize=1200%2C630",
     "category": "iot"
   },
@@ -4086,7 +4104,7 @@
     "description": "China’s Xiaomi targets Tesla, staking 23% lower price on premium SUV",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVBCcXctQUJQd2I4UWJFcHFvRi1zZ1BsbGFRQ0NXcGpKNi16eFYtQjhNcWo1RkJrOUhXbE9yS3dXeWR3WERlX1c2N2VqTVFxYVVobnBCNzFEZkNQSXhDQ09WaDhKbVB0VWxZT0F3RmdwZHU0SkZUMGE4ZFVZQlNJdGlJaUIyNDV0dlkyQUpzeDYxekppLTJJdVlmOF9BcWtwVE9iMlR5N0VJQkYyRUhnWHZSZzVuMEpSdWNXRUxSWEp0Qm_SAcMBQVVfeXFMTXkya1V1MWxQM2owRWZsYmFlWklwZndvSnN0QXNqSzE4WW5zUjZ0UGpTYUZra2FiTVl4OFMyX1djcm9ObTcyT0ZYRjRTLU0zY3lWZHlURkhnQ2phWEFTR1JwREo1dmo2RThQMlc2bmd5S29FTXgwV19kV253Ylh2cWFJODJOTkVnaFV6dkxIazdLNzNhdjVGUThiRHVGbXFmcnBuMEh2ZUE2QmJzVVJGczhZQU9uQ0tPMzFvU0Q2Y0FoYVJ3?oc=5",
     "date": "2026-07-31T06:06:11.000Z",
-    "source": "scmp.com",
+    "source": "South China Morning Post",
     "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/31/60ecc344-96ed-4cd9-ae70-5481e905ebe7_1efc8d11.jpg?itok=rxPSUUdu&amp;v=1785477969",
     "category": "iot"
   },
@@ -4437,7 +4455,7 @@
     "description": "小米澎程新车售价不到30万元 雷军搅动增程市场",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4XzlwOEdfWnN1c2FGNEtFNG53WDVKOFNUN2lmVVBkOG40dzhHRHh0S0dWcThUcHg0bkEtajZuY1B4TC1mWEduQ044TUlFRmVVbDJTMGV6ZUVzWS0tX2k3MEVB?oc=5",
     "date": "2026-07-31T01:11:00.000Z",
-    "source": "bjnews.com.cn",
+    "source": "新京报",
     "image": "https://media.bjnews.com.cn/cover/2026/07/30/5747008679459234145.jpg?x-oss-process=image/resize,w_200/quality,q_60",
     "category": "people"
   },
@@ -4566,23 +4584,5 @@
     "source": "SOHU",
     "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png",
     "category": "phone"
-  },
-  {
-    "title": "一身“反骨”的小米 想再次复刻爆款",
-    "description": "一身“反骨”的小米 想再次复刻爆款",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OWHk1N0lSblF4UktsY3k4bmVHX0QyZkE3Z3JiUW1UYU9YOWdMVHJJUGhmSUdzcWFXdmRBR0VROFZPSVlpVEV6TUtkdEs?oc=5",
-    "date": "2026-07-30T23:00:00.000Z",
-    "source": "SOHU",
-    "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米雷军一句话，遭遇群嘲和网暴！其实这次他并没有错",
-    "description": "小米雷军一句话，遭遇群嘲和网暴！其实这次他并没有错",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WQ1E5VTg3Tk42czJsZERlNExsX2JXWjd2NnBMOXpsT3BsRElNYnFYSXNhSnFNd045bkRteWFXQmFWblhjeHFuR3lpZjRRTlRSa290NDRrVTlERnJYODFoMWgxeUFNLUViUEd3TWEyT3RDYXRlMDFWdGYwODVxZWc?oc=5",
-    "date": "2026-07-30T23:00:00.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20107/399/w1279h720/20260731/ac61-32b58c462bc213b673e40214a07e1672.jpg",
-    "category": "people"
   }
 ]
