@@ -58,7 +58,7 @@
     "description": "Xiaomi’s Latest $281 Projector Outshines with 1,000 Lumens and Sleek Design",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFB3S0w0X0xSNVQ1ZFMwZERYYkVjSXhOXzM5eGwzc0hqOGRzSEY5ekgxTVVRUF95NHRZeUd6dHN6dGlvcVl4UTFZVG9yaERvU1FKckR3UmdiZWotNHhIMW80ME9CbUh6X2E1UVViYkpILVFIYjBKb3lMbDl0MDlCTG1FUS16aU5m?oc=5",
     "date": "2026-08-07T16:01:23.000Z",
-    "source": "freeyork",
+    "source": "freeyork.org",
     "image": "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/08/xiaomi-s-latest-281-xiaomis-latest-281-projector-freeyork-1.jpg",
     "category": "iot"
   },
@@ -99,7 +99,7 @@
     "description": "雷军“拿下”魏建军！长城汽车接入小米生态",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON29CdkE4bmNxS0ZkMHk3Q2hPYkcxMVFBRnZoaFJHa3Z6NkNyX1BORGlfMjRha2RNNlR0TXpQdDV1VDVzZ3FiNXZUQm1DR0M0cDRWWS1Ycks1cXFJY2p1cG1vNHdaQnNvd0lHTGpQLURGUmdGNmpUeG9oUjJmRnBYQ0R2dklTNDd2TU1CSg?oc=5",
     "date": "2026-08-07T14:32:00.000Z",
-    "source": "21jingji.com",
+    "source": "21财经",
     "image": "",
     "category": "people"
   },
@@ -108,18 +108,9 @@
     "description": "雷军“拿下”魏建军！长城汽车接入小米生态",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZXItb0E4cFlndlJ2TTAtWWRWM3NqOWtDZmhSUGR0aTgxa3ItY0tNM1ZiQ0R1SE5yWmVNRXBxcVFEYVctTVZjamVmOWJEY0FJaUZhYndRbUM5NDE3NzdyVFNhM0V1UE9RQXllWlNOZ3FQNnR1R2RxdzlWeFdmTDg?oc=5",
     "date": "2026-08-07T14:32:00.000Z",
-    "source": "新浪财经",
+    "source": "新浪网",
     "image": "//n.sinaimg.cn/spider20260807/553/w1053h300/20260807/dce7-ecc70855c71ee25f593aec1f4d5e49c0.png",
     "category": "iot"
-  },
-  {
-    "title": "小米Redmi 17全球发布，配备7,500 mAh电池和120 Hz显示屏",
-    "description": "小米Redmi 17全球发布，配备7,500 mAh电池和120 Hz显示屏",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyVi1QMW5xcThUbkNWMmVtU0dkQ0ZOTnJqUnVQN29rWC0tSVNHOWIzNXVtU1JueHRONUxfNUdOTi1ub3ZFcGNlM1Y5eDI2ZHZ3S2I3dnFBTUpmMXN6QkZ5M09UUVpyMUtQbEw2R1ZtWkJ4aTVuRkMzckZiVWVLZw?oc=5",
-    "date": "2026-08-07T14:25:06.000Z",
-    "source": "Notebookcheck CN",
-    "image": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/xiaomiredmi174g.jpg",
-    "category": "phone"
   },
   {
     "title": "雷军晒澎程汽车的对坐模式，大家觉得这个模式鸡肋还是实用？",
@@ -272,6 +263,15 @@
     "source": "搜狐网",
     "image": "https://q4.itc.cn/q_70/images03/20260807/4bf5becd823e4bb5a4147f6091f126c8.jpeg",
     "category": "ai"
+  },
+  {
+    "title": "小米Redmi 17全球发布，配备7,500 mAh电池和120 Hz显示屏",
+    "description": "小米Redmi 17全球发布，配备7,500 mAh电池和120 Hz显示屏",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyVi1QMW5xcThUbkNWMmVtU0dkQ0ZOTnJqUnVQN29rWC0tSVNHOWIzNXVtU1JueHRONUxfNUdOTi1ub3ZFcGNlM1Y5eDI2ZHZ3S2I3dnFBTUpmMXN6QkZ5M09UUVpyMUtQbEw2R1ZtWkJ4aTVuRkMzckZiVWVLZw?oc=5",
+    "date": "2026-08-07T11:46:00.000Z",
+    "source": "Notebookcheck CN",
+    "image": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/xiaomiredmi174g.jpg",
+    "category": "phone"
   },
   {
     "title": "小米18标准版配置逆天，但雷军的这步棋你敢跟吗？",
@@ -635,7 +635,7 @@
     "title": "Xiaomi thinks hybrids still have a future — and this SUV explains why",
     "description": "Xiaomi thinks hybrids still have a future — and this SUV explains why",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcE42WjJ2REdsUXNkdmpLd0lhaUVRdjFydGtyWnk3UFh2aTRZMFM3aHpsVTVqZmRUVnYtSDQwUjE3bHc3bTZKbkljeVQ4QTI5NndicEpQY1BUT3lqbnVvSWpGUUIxclZ3aEFsa05QR0paSktfRjY2RFd6TUpaMmVIWG5SYy0xTEZfZ2VBUjJFT2RILWtZY3hCZzBVOGpVZ0hldnhYcjAtdk0xYy1fS2NnUk1vdFBFSWx3cUo5bXNDX0JPbVUzX0t5UzJ6T0NmcGZmS3hGQTdnaWo2YUg3SVE5R29ZRnZuaUpFVl83dTFjM3Rib0FmaVJZ?oc=5",
-    "date": "2026-08-07T04:00:00.000Z",
+    "date": "2026-08-07T04:02:54.000Z",
     "source": "TechRadar",
     "image": "https://cdn.mos.cms.futurecdn.net/gYhAbCGFuEy6yoHWT9SxtF-1920-80.jpg",
     "category": "iot"
@@ -1837,7 +1837,7 @@
     "description": "Xiaomi Mijia Smart Air Purifier Has an 8L Tank",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjUmdndXlHSlZ4TXBzZ3BlclRWVm1EOHJCZmhIMnpkd2Q3MnUzcVpnOHNDSUxIMklpNm5EN2F1d0FuT2lLeW9hMXFWTEludEZXSXVjakVRZlNqX0F0R3JWdm42ekxNZE1TUzRDT2ItYmlYQkI5V0tMRg?oc=5",
     "date": "2026-08-05T22:00:07.000Z",
-    "source": "The Gadgeteer",
+    "source": "the-gadgeteer.com",
     "image": "https://the-gadgeteer.com/wp-content/uploads/2026/08/Xiaomi-Mijia-Smart-Air-Purifier-Pro.jpeg",
     "category": "phone"
   },
@@ -1891,7 +1891,7 @@
     "description": "SkyNomad SUVs Prove Extremely Popular, Xiaomi Received Over 100,000 Pre-Orders in Less Than a Week",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXZxVWtESDZNRlhZR21FUlVKME9TMWkyRlRQV1BWY1NaRm9Qd3lYQ3pEU2FsaTdTbTJSRDRfWWlNWl9aNkd3U2s1YWVQOG1LTDNxV3E0QkREQzJ3WWRTcGxZWTdBTzJqTktodk5oRU9ibzNhMW9SbVhycUcxV1dvaExiZTJncWRJOWNYM0ZLTGplZzNWd1YxdjNHeE1NSGhFX0pIeUxpTVhZNGV6X2xjREloRGNleHg5Wl9PRVVCQkNtU0lyMW9EcTBLMVl2TktoYVBDYWVpa1ZqUlE?oc=5",
     "date": "2026-08-05T18:32:27.000Z",
-    "source": "autoevolution",
+    "source": "autoevolution.com",
     "image": "",
     "category": "iot"
   },
@@ -3927,7 +3927,7 @@
     "description": "Xiaomi just launched an SUV with seven seats and a bedroom upstairs",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRi1fS1hkOUhuLXNLYTRDVG9CRXFQNnRXbm4tbFJXVzVBQlhzN1h0RkJHeXBFMnhmSi1vWU1LOTNUZVZZcHVzdnZBbmVkMzVNeW9oZTVFTTM2Q2FsdFBNNEhXWlg1ei1QMDNlWExXbG1hLTBnMG5XNHA4MDVEM01wcmFRVDM2dHIyc1M3STlDX3lpV1M1QXFYOWgyZjZOS1Z5R2k0eDZR?oc=5",
     "date": "2026-08-03T08:47:41.000Z",
-    "source": "Digital Trends",
+    "source": "digitaltrends.com",
     "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-28T150624.018.jpg?resize=1200%2C630",
     "category": "iot"
   },
