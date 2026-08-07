@@ -1,5 +1,46 @@
 [
   {
+    "title": "小米澎程N90 Max预售29.99万，大家庭女性用户会喜欢吗？",
+    "description": "小米澎程N90 Max预售29.99万，大家庭女性用户会喜欢吗？",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nV20yLVpIb2V0U2JlaHJ0aVBpLUNZUWVkM295aldzWDdmaDVjSGFfMF9UNFJxMVpVZjA3cFlOUG83a0ZUbmJ3Tm1QTHVtaXZkUE1DTlJDbzV0S28?oc=5",
+    "date": "2026-08-07T15:38:02.000Z",
+    "source": "网通社",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi MIX Fold 5 Inner Display Design Leaked",
+    "description": "New images taken from the leaked HyperOS 4 Setup Wizard have given us an early look at Xiaomi’s upcoming Q18 foldable. The screenshots are not separate device renders or promotional images. They are assets Xiaomi appears to be using inside HyperOS 4 to introduce the operating system’s new features. ",
+    "link": "https://ximitime.com/xiaomi-mix-fold-5-inner-display-design-leaked-99433/",
+    "date": "2026-08-07T15:29:18.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/MIX-FOLD-5-design-1024x542.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "MIX Fold",
+    "isUpdate": true
+  },
+  {
+    "title": "Surprise global launch: Xiaomi Redmi 17 5G already available outside China",
+    "description": "Surprise global launch: Xiaomi Redmi 17 5G already available outside China",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19CMEhuaWVRTVZfVHhCMnR1TmZYT01kVmRxUlpvUE9BNEVvNldYcGhkZ3BVVllZU0FzNzNaRWRVTmdLVHFjQ3dGMk03Sk1NVWNLQnhpa3JjNnB1WmdVYzFNYWFiNVpuQVFtcGRRY1FHZnBOWGRIYy0ybWY0UWkwaVNQMl9SMFpPQnVrMTNxNXdCQlVrQTlnQTk1bW9OQ0dRMGJYME5reFRhRE1ZQzZBeEdneW03SXlkdXc?oc=5",
+    "date": "2026-08-07T15:24:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomiredmi175g.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "雷军“拿下”魏建军！长城汽车接入小米生态",
+    "description": "雷军“拿下”魏建军！长城汽车接入小米生态",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON29CdkE4bmNxS0ZkMHk3Q2hPYkcxMVFBRnZoaFJHa3Z6NkNyX1BORGlfMjRha2RNNlR0TXpQdDV1VDVzZ3FiNXZUQm1DR0M0cDRWWS1Ycks1cXFJY2p1cG1vNHdaQnNvd0lHTGpQLURGUmdGNmpUeG9oUjJmRnBYQ0R2dklTNDd2TU1CSg?oc=5",
+    "date": "2026-08-07T14:32:00.000Z",
+    "source": "21财经",
+    "image": "",
+    "category": "people"
+  },
+  {
     "title": "雷军“拿下”魏建军！长城汽车接入小米生态",
     "description": "雷军“拿下”魏建军！长城汽车接入小米生态",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZXItb0E4cFlndlJ2TTAtWWRWM3NqOWtDZmhSUGR0aTgxa3ItY0tNM1ZiQ0R1SE5yWmVNRXBxcVFEYVctTVZjamVmOWJEY0FJaUZhYndRbUM5NDE3NzdyVFNhM0V1UE9RQXllWlNOZ3FQNnR1R2RxdzlWeFdmTDg?oc=5",
@@ -13,7 +54,7 @@
     "description": "小米Redmi 17全球发布，配备7,500 mAh电池和120 Hz显示屏",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyVi1QMW5xcThUbkNWMmVtU0dkQ0ZOTnJqUnVQN29rWC0tSVNHOWIzNXVtU1JueHRONUxfNUdOTi1ub3ZFcGNlM1Y5eDI2ZHZ3S2I3dnFBTUpmMXN6QkZ5M09UUVpyMUtQbEw2R1ZtWkJ4aTVuRkMzckZiVWVLZw?oc=5",
     "date": "2026-08-07T14:25:06.000Z",
-    "source": "notebookcheck-cn.com",
+    "source": "Notebookcheck CN",
     "image": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/xiaomiredmi174g.jpg",
     "category": "phone"
   },
@@ -90,6 +131,15 @@
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFNlBjbEducnRUeUdBUlF6OGlsQzVuanlIY2I1ZzQwX0M0TFRoYVNXTUwyZFEySXNINW5CTHNhejRZQjJSbEpvU09hTWVycXIwbmU1cThyWmJteHJWbGJIT1dRY2VxbVFoWjFtak9VODB6dWdxSERvZnI4YW9OUQ?oc=5",
     "date": "2026-08-07T12:14:59.000Z",
     "source": "GamerBraves",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米紧急呼叫系统救援昏迷车主脱险",
+    "description": "小米紧急呼叫系统救援昏迷车主脱险",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBad1QzajVRWjJHbEhpaEZuWmhGa1FsWUxJc2k2VnFPTE9uM1JDM0hjdGtTeXBoMXhhcUJtX1gxZ0t1VzlLaG5JbEE2QUxYQ2hleEJuVDNEWGZWTFNraFFwakJ4d2M3b0ZIOVY2OUF2Mk9NdHk3dWhXVFBxWTBveTg?oc=5",
+    "date": "2026-08-07T12:08:35.000Z",
+    "source": "t.cj.sina.cn",
     "image": "",
     "category": "phone"
   },
@@ -266,7 +316,7 @@
     "description": "华为小米粉丝掐架 小米高管疑影射华为“孩go”言论上热搜",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVVJVdEg2NUxPM1B2N2RiTkJfYlpydTFDZEdON2xsUXFjNGJpY3NOS3BBWnlJOV9aU2w2QUVxMDloWEdoUURpOFZ3Qm55cTA0ZGVmN0x2U3VFMjFlbHpVRmotTW45LW5Vc2c?oc=5",
     "date": "2026-08-07T08:15:42.000Z",
-    "source": "zaobao.com.sg",
+    "source": "联合早报",
     "image": "https://cassette.sphdigital.com.sg/image/zaobao/0fd2572ffd5a032d81b3a4c12f76a1b6d06de8da884bde4b67dd5ab7ac1bddaa",
     "category": "phone"
   },
@@ -604,7 +654,7 @@
     "description": "小米前高管王腾回应“吐槽小米SU7 Ultra泊车辅助故障”，此前其因泄密被小米辞退",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iVE03enZ0bkkzSVJkRms5LThheWU4WHVJdmE5b3NxSUxoVklfT1pWOW82S2FZZ3l2ZEtUZUhST3c0emZiMUV3QmdONzFwMDZHZGdF?oc=5",
     "date": "2026-08-07T01:55:00.000Z",
-    "source": "电子工程专辑",
+    "source": "eet-china.com",
     "image": "",
     "category": "auto"
   },
@@ -712,7 +762,7 @@
     "description": "Stealthy 7-seat Chinese camper isn't actually even a camper",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZVU5kbENoU3RWc21BTUdlUXJPUDdmYUZSci1IalBBOThKRnViQXBFUVNVMGlqYy1OUUk4WW52SEdKbEREMklSczAxQVRBZ3d3V3B0OWd1bTJpVjlkeFFNbDdGTzdjQmNDcW5F?oc=5",
     "date": "2026-08-06T20:51:53.000Z",
-    "source": "newatlas.com",
+    "source": "New Atlas",
     "image": "https://assets.newatlas.com/dims4/default/c9943d5/2147483647/strip/true/crop/5000x2625+0+355/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa0%2Fbf%2F3c47750142b396331fda2c562ede%2Fxiaomi-skynomad-n90-i18.jpg&na.image_optimisation=0",
     "category": "phone"
   },
@@ -1219,7 +1269,7 @@
     "description": "Who Powers This RMB 300,000-Class Large Seven-Seat REEV? A Look at the Key Suppliers Behind the Xiaomi SkyNomad N90 Max",
     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR2M4ajZBUXc0RGszc2VydzFrdVlCWGNhUFFJVWp6Q2lGNThXTmgzT012YURqQnJ4Y2ZrcXRrTkVnajRyQ2NpT0UwQ3RrVTFfQnhERW5BdEduV1NRalhsdGh3Vk1BNDViOExnY0VUdTM0c0UyckNNaVBjUVlpUXRoSGR6UWNtZ0JQQXp1aGI5Nm5WMkpkekpfbzdkMHQ1SjcyX0ZaUzltMjNaWlhqUGxMSjE4cEw1Zk1WMEx6ekZLeDI1X1VTRVlKSlVDY2c2Ym9DcWM2TVY5R3NzTVFMN2dBc0RGN3JxdWVlUW1CYWJlTG43QkpLa3JId3F4bEZleE9BV09nNmtKdFU?oc=5",
     "date": "2026-08-06T08:02:15.000Z",
-    "source": "autonews.gasgoo.com",
+    "source": "Gasgoo",
     "image": "https://gascloud.gasgoo.com/production/2026/08/1c01ce69-0d4c-4953-a064-b307d9ba55f6-1786031300.png",
     "category": "iot"
   },
@@ -1427,7 +1477,7 @@
     "description": "雷军回应小米汽车保值率成绩",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dW8wMHlzSFNwS0ctUUNnQmhzUzZfZXBMZnR1eVEtSjhEdzFWZldiN0d1d0VTcGx1a2locnpZYnlSR3JxcUtTWkFEUTBGM0RKNldpYnBvUFZVS202OXZYZzlRTHZWS0hycEFZaWVUYWxpckJRMnRxZURWbXdtc3M?oc=5",
     "date": "2026-08-06T04:13:00.000Z",
-    "source": "news.sina.com.cn",
+    "source": "新浪新闻_手机新浪网",
     "image": "http://n.sinaimg.cn/front20260806ac/306/w826h1080/20260806/75b9-3e7b435d76749c347d799ae1699db52d.jpg",
     "category": "auto"
   },
@@ -1751,7 +1801,7 @@
     "description": "SkyNomad SUVs Prove Extremely Popular, Xiaomi Received Over 100,000 Pre-Orders in Less Than a Week",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXZxVWtESDZNRlhZR21FUlVKME9TMWkyRlRQV1BWY1NaRm9Qd3lYQ3pEU2FsaTdTbTJSRDRfWWlNWl9aNkd3U2s1YWVQOG1LTDNxV3E0QkREQzJ3WWRTcGxZWTdBTzJqTktodk5oRU9ibzNhMW9SbVhycUcxV1dvaExiZTJncWRJOWNYM0ZLTGplZzNWd1YxdjNHeE1NSGhFX0pIeUxpTVhZNGV6X2xjREloRGNleHg5Wl9PRVVCQkNtU0lyMW9EcTBLMVl2TktoYVBDYWVpa1ZqUlE?oc=5",
     "date": "2026-08-05T18:32:27.000Z",
-    "source": "autoevolution.com",
+    "source": "autoevolution",
     "image": "",
     "category": "iot"
   },
@@ -3728,7 +3778,7 @@
     "description": "Weekly Highlights | Xiaomi SkyNomad Series Debuts with Immediate Launch; Leapmotor Officially Lands in Indonesia",
     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS3A1NzJUOWdpVjdvZzl6TXI0MVp1b0hyTVlDd3RkWlAxcDdBNXZiSTBBa3VSY2F5TjJkbmFfdzRMTm43aENzZW42Y2ljNzJDUVpmMVBLX1VNZHRnREVBeXh6T3dOQXNLRVEyYUUyb191OGJYaUttUkE1SUltbEs5akFxU1FzVUlIQmYxSEdCZ0ExSlZ5UE1XREhZUWJZdkUxc1lDS0l2M0E0LUNoSnRzOWZyNVI1WkJPSmNlYW55ZDEyMThDYjJEWnMwbmxVU09SV2ZaR2hJNHZFT3JnY21tRDlqMHh0dzVlV29sX2IwN3NBMUpiZVFENHpXMExWUQ?oc=5",
     "date": "2026-08-03T09:24:05.000Z",
-    "source": "autonews.gasgoo.com",
+    "source": "Gasgoo",
     "image": "https://imagecn.gasgoo.com/moblogo/News/UEditor/image/20260801/6392119563678968307032471.png",
     "category": "iot"
   },
@@ -3859,7 +3909,7 @@
     "description": "A List of Suppliers for the Xiaomi SkyNomad N90 Max",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEV3bnhVcGEyajN3UDloZ1JYMldITVVDU0FkNXpST0xFMUdIM0EwUzNVV0ItODZEWVFiWEExQm1YY0NqdjFmZXNRd09paVJsTGZ6TE1UWFFSSGdLaFd4WGtTY2hWU0RWQkpCa2FlV1lQclowZnN2d2t4bU9NRDVhSDNuRC04QjRQeHdrQnd2LWplVEhIaGpfNUhfeVpmY05Mc1BDbjlSdHdlSmJTWWNrS1RROA?oc=5",
     "date": "2026-08-03T07:50:45.000Z",
-    "source": "autonews.gasgoo.com",
+    "source": "Gasgoo",
     "image": "https://imagecn.gasgoo.com/moblogo/News/UEditor/820-X/20260731/6392111392871247255900672.png",
     "category": "iot"
   },
@@ -4533,50 +4583,5 @@
     "source": "Sohu",
     "image": "//q2.itc.cn/q_70/images03/20260802/842c1693a50344b1a865af30da1dd962.jpeg",
     "category": "iot"
-  },
-  {
-    "title": "小米澎程碰撞实录发布：雷军称测试远超行业标准",
-    "description": "小米澎程碰撞实录发布：雷军称测试远超行业标准",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZam1PTWN1Q2hidVF4X1o3SFpXSE9DOTljX1ZaUENkN3pOcHIza3NreFljcUwxbU1CczdmM01WWmdrRzN6RkJDUTZMalY?oc=5",
-    "date": "2026-08-02T08:27:49.000Z",
-    "source": "凤凰网科技",
-    "image": "https://x0.ifengimg.com/ucms/2026_32/8EE198D004242EA1514E50C26FB5FDF69924A097_size71_w891_h501.jpg",
-    "category": "people"
-  },
-  {
-    "title": "小米澎程碰撞实录发布：雷军称测试远超行业标准",
-    "description": "小米澎程碰撞实录发布：雷军称测试远超行业标准",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rR0daajMyQ0tMQVBMOXhJaHFibVZFYXg5ZkU0UV9XQWZ2QTY0Yk1Jc2VBcFFfN0g4Tkg2ZXAybE9wdjNWc2RvOA?oc=5",
-    "date": "2026-08-02T08:23:07.000Z",
-    "source": "凤凰网",
-    "image": "https://x0.ifengimg.com/ucms/2026_32/8EE198D004242EA1514E50C26FB5FDF69924A097_size71_w891_h501.jpg",
-    "category": "people"
-  },
-  {
-    "title": "小米米家智能净烟机 3 白色版本发售：三重净烟、7 级吸力，2940 元",
-    "description": "小米米家智能净烟机 3 白色版本发售：三重净烟、7 级吸力，2940 元",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vUFJFdUR6MmdyNDVYTy00QUFiNUVQX0ZzbTZLZ1ljX0ZKSGRGdDdzaGNJU1dfNWV6Z0lMLVRsNjVGeGhWaGxMbWtHamEwT19PNGVwT2hSWU42dE1keXk5NTlXTlBZZ2k5SFVlMThiUXc3LWxmNjEzTHNYaHQ3OFk?oc=5",
-    "date": "2026-08-02T08:12:00.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "博主炮轰小米澎程：“汽车界红米”，“标准低端货”",
-    "description": "博主炮轰小米澎程：“汽车界红米”，“标准低端货”",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByM3pJT1d1SXVOSXZWeEJON2dMRXlLRGFLTS0xcmU3THNEZ0lhSVpRV2VrWW8wdTJrNHFPQi1wZm52MjFaaWpEOQ?oc=5",
-    "date": "2026-08-02T08:07:49.000Z",
-    "source": "凤凰网",
-    "image": "https://x0.ifengimg.com/ucms/2026_32/C47CDD6F8226E540E201BB574BA78C3B383BC30C_size97_w1035_h582.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "博主炮轰小米澎程：“汽车界红米”，“标准低端货”",
-    "description": "博主炮轰小米澎程：“汽车界红米”，“标准低端货”",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqdlI1VFRUUmRNTzdmRGYyMGhSX3RlUXNvX2xkNV91RkVXU3hvTTJhT3JNbGJENXA0dnNyZkxCdTl5MWNXN1JYVXJMV3I?oc=5",
-    "date": "2026-08-02T08:07:21.000Z",
-    "source": "凤凰网科技",
-    "image": "https://x0.ifengimg.com/ucms/2026_32/C47CDD6F8226E540E201BB574BA78C3B383BC30C_size97_w1035_h582.jpg",
-    "category": "phone"
   }
 ]
