@@ -99,7 +99,7 @@
     "description": "雷军“拿下”魏建军！长城汽车接入小米生态",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON29CdkE4bmNxS0ZkMHk3Q2hPYkcxMVFBRnZoaFJHa3Z6NkNyX1BORGlfMjRha2RNNlR0TXpQdDV1VDVzZ3FiNXZUQm1DR0M0cDRWWS1Ycks1cXFJY2p1cG1vNHdaQnNvd0lHTGpQLURGUmdGNmpUeG9oUjJmRnBYQ0R2dklTNDd2TU1CSg?oc=5",
     "date": "2026-08-07T14:32:00.000Z",
-    "source": "21财经",
+    "source": "21jingji.com",
     "image": "",
     "category": "people"
   },
@@ -108,7 +108,7 @@
     "description": "雷军“拿下”魏建军！长城汽车接入小米生态",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZXItb0E4cFlndlJ2TTAtWWRWM3NqOWtDZmhSUGR0aTgxa3ItY0tNM1ZiQ0R1SE5yWmVNRXBxcVFEYVctTVZjamVmOWJEY0FJaUZhYndRbUM5NDE3NzdyVFNhM0V1UE9RQXllWlNOZ3FQNnR1R2RxdzlWeFdmTDg?oc=5",
     "date": "2026-08-07T14:32:00.000Z",
-    "source": "新浪网",
+    "source": "新浪财经",
     "image": "//n.sinaimg.cn/spider20260807/553/w1053h300/20260807/dce7-ecc70855c71ee25f593aec1f4d5e49c0.png",
     "category": "iot"
   },
@@ -117,7 +117,7 @@
     "description": "小米Redmi 17全球发布，配备7,500 mAh电池和120 Hz显示屏",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyVi1QMW5xcThUbkNWMmVtU0dkQ0ZOTnJqUnVQN29rWC0tSVNHOWIzNXVtU1JueHRONUxfNUdOTi1ub3ZFcGNlM1Y5eDI2ZHZ3S2I3dnFBTUpmMXN6QkZ5M09UUVpyMUtQbEw2R1ZtWkJ4aTVuRkMzckZiVWVLZw?oc=5",
     "date": "2026-08-07T14:25:06.000Z",
-    "source": "notebookcheck-cn.com",
+    "source": "Notebookcheck CN",
     "image": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/xiaomiredmi174g.jpg",
     "category": "phone"
   },
@@ -146,6 +146,15 @@
     "date": "2026-08-07T12:50:15.000Z",
     "source": "集微网",
     "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "【网通社快报】小米汽车公布SU7、YU7与澎程系列内饰设计差异",
+    "description": "【网通社快报】小米汽车公布SU7、YU7与澎程系列内饰设计差异",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JbFBDMVNmcWpaVm84RDZkYlFpRUFFcjZocjkwVXFiZ1ZWQjA3NnNRMXh1ejV2UEpRaUpESmVyRjNuQWI1QUZOZy1zalU?oc=5",
+    "date": "2026-08-07T12:40:00.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/res/2026/AFE3F9F38739135EAD527BBFCD0E92F7A0E7BBB3_size111_w1365_h910.jpg",
     "category": "auto"
   },
   {
@@ -541,7 +550,7 @@
     "description": "小米徐洁云回应使用“孩go”称呼-观察者网",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbjFObDhNYnN0N05kSEk2SUdGTWZ5ZDZWU3pUdmpuZ0pxSjVqd2tCcFdMaENiTFpiQUhlXzF5S3g3SW85RHAwT1MxeEozVk1YOENvSkZZRUZWZThHWmN6dlJIaEs?oc=5",
     "date": "2026-08-07T05:50:00.000Z",
-    "source": "观察",
+    "source": "观察者",
     "image": "",
     "category": "phone"
   },
@@ -843,7 +852,7 @@
     "description": "1,000-mile Chinese camper isn't actually even a camper",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZVU5kbENoU3RWc21BTUdlUXJPUDdmYUZSci1IalBBOThKRnViQXBFUVNVMGlqYy1OUUk4WW52SEdKbEREMklSczAxQVRBZ3d3V3B0OWd1bTJpVjlkeFFNbDdGTzdjQmNDcW5F?oc=5",
     "date": "2026-08-06T20:51:53.000Z",
-    "source": "newatlas.com",
+    "source": "New Atlas",
     "image": "https://assets.newatlas.com/dims4/default/c9943d5/2147483647/strip/true/crop/5000x2625+0+355/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa0%2Fbf%2F3c47750142b396331fda2c562ede%2Fxiaomi-skynomad-n90-i18.jpg&na.image_optimisation=0",
     "category": "phone"
   },
@@ -2724,7 +2733,7 @@
     "description": "HyperOS 4 Timeline Leaked: August Launch, Liquid Glass UI, and AI Upgrades",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1hWQjJCd0w0WDBFTVVoRHFTR3VJLWNYTzUxbWFFNGxWVHlxQkZCRkN3Y2toY0FldTF3aGpOcEhPX2U1ZDd2MnhSeTdSa3BJVWNIYXQtTXR1ZVhob1BBVnVCWDhJWDBQRmtVVWxoYy02SWk2aGREUlVSMEpMX0ltWFRGdzFWVlVfUzZkRWNyVWZNVjlfOW1ER0NuQUtJNzA?oc=5",
     "date": "2026-08-04T14:21:20.000Z",
-    "source": "nokiamob.net",
+    "source": "Nokiamob",
     "image": "https://nokiamob.net/wp-content/uploads/2026/08/Xiaomi-HyperoS-4.jpg.webp",
     "category": "iot"
   },
@@ -3918,7 +3927,7 @@
     "description": "Xiaomi just launched an SUV with seven seats and a bedroom upstairs",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRi1fS1hkOUhuLXNLYTRDVG9CRXFQNnRXbm4tbFJXVzVBQlhzN1h0RkJHeXBFMnhmSi1vWU1LOTNUZVZZcHVzdnZBbmVkMzVNeW9oZTVFTTM2Q2FsdFBNNEhXWlg1ei1QMDNlWExXbG1hLTBnMG5XNHA4MDVEM01wcmFRVDM2dHIyc1M3STlDX3lpV1M1QXFYOWgyZjZOS1Z5R2k0eDZR?oc=5",
     "date": "2026-08-03T08:47:41.000Z",
-    "source": "digitaltrends.com",
+    "source": "Digital Trends",
     "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-28T150624.018.jpg?resize=1200%2C630",
     "category": "iot"
   },
@@ -4574,14 +4583,5 @@
     "updateType": "update",
     "device": "Xiaomi 20000",
     "isUpdate": true
-  },
-  {
-    "title": "300元起 小米多款手机涨价！店员：昨晚就接到了调价通知",
-    "description": "300元起 小米多款手机涨价！店员：昨晚就接到了调价通知",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41TVZ0ek5STWhWdGJjZHk4TmdZMzJ5dVVGZm90SHB2QUlFbW1QSVlVTjg0WmlJYUpWbmNONDRoY0FaTEZFOUh6bHhmaFczY2RXZFNBd19ZRzFCSXA2R0JSZUlNR3ptM3RwUVRGQnZxZjBDOEFTbzJtNVpTRUd1VXM?oc=5",
-    "date": "2026-08-02T10:13:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260802/98/w600h298/20260802/3099-41dcc639cb109eb1f8ed0e9c3ca907f8.png",
-    "category": "iot"
   }
 ]
