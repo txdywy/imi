@@ -36,6 +36,15 @@
     "category": "phone"
   },
   {
+    "title": "小米新品官宣：旗舰之芯+AI大模型，现已开售",
+    "description": "小米新品官宣：旗舰之芯+AI大模型，现已开售",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjAwVFFNdkVqTjJkak84NDlQQXYwQ2hqYjlrcW9yZkFhN0l5dF9zTzAtYk9tM1JQSkQ2T3F1dzJEcUVxbnEyeTJLTlhwY2tkRlRmVTFVTEdfVWFEMTNEX0thNTZyeXkxczlPalpxTFlsSGJnUUpOUWo4RUpQTWZWUUE1SXE3aUp2eTlaVw?oc=5",
+    "date": "2026-08-08T16:31:52.000Z",
+    "source": "sohu.com",
+    "image": "//q5.itc.cn/images01/20260809/828bafad81f548a4b1bf1c57c07c0253.jpeg",
+    "category": "ai"
+  },
+  {
     "title": "小米澎湃OS 4新特性抢先剧透：流畅度大升级",
     "description": "小米澎湃OS 4新特性抢先剧透：流畅度大升级",
     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYnkwTDF3WV9EODF0UWJULXJ1VDQ2OTZJQkZid3VBcWI1MnRXTWVPTk5ZaDd2UG9GYmFfRG53QmRNQ0dMUmZfVG9GdGw2REpwQzJ3emRneUVsVi1rMEFzRVM2dUZMV3phNGttUHljYW44LTlHT1pib3VPV2lmSXhNZTZXT2hDZnRmREszRzNKeHo5S3AxSkpLNkNVV1VCdi0xMEhYMFYwU1JPNVBPbW03UElSLUdsZmF1NnljdDMwbzkyUER6d3RJWVFTQXNlbEVDZUtCM2I0RHBNYUotNXM3NERFVXRGUHRST2E4bHlKOEcwVDBhdlcxTUpnWnZPMVdfNDhiX0RhMVhXWHBMVE1rUGp3?oc=5",
@@ -1778,7 +1787,7 @@
     "description": "1,000-mile Chinese camper isn't actually even a camper",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZVU5kbENoU3RWc21BTUdlUXJPUDdmYUZSci1IalBBOThKRnViQXBFUVNVMGlqYy1OUUk4WW52SEdKbEREMklSczAxQVRBZ3d3V3B0OWd1bTJpVjlkeFFNbDdGTzdjQmNDcW5F?oc=5",
     "date": "2026-08-06T20:51:53.000Z",
-    "source": "newatlas.com",
+    "source": "New Atlas",
     "image": "https://assets.newatlas.com/dims4/default/c9943d5/2147483647/strip/true/crop/5000x2625+0+355/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa0%2Fbf%2F3c47750142b396331fda2c562ede%2Fxiaomi-skynomad-n90-i18.jpg&na.image_optimisation=0",
     "category": "phone"
   },
@@ -2471,7 +2480,7 @@
     "description": "Xiaomi HyperOS 4 Leak Hints at Beta Rollout Timeline and New Features",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JpcGs5NFZhS3VRajFzcWF2T0RhQWZudVZ1QnVzbFRvR3hMcjV0N1VpVXkxQ096azFLYnVLa29sZlc2bC16UklNRXRZTDBtX1VRUzBjd01Id2hZNVRsU25oRXJXMGYwYmFINVFpNWV2a2JoMDZXX0xPSF90c2p4WXBFcmlya2gyWnZlWnA0SFhhVUozeTZOTE9sTXc2SzVsdVQyc9IBqgFBVV95cUxOUy1RRXhoajBPYmhwbk9haE1fT1VlZFVUOUZCWDFrWHBkbFJmM2F5WURKUDdoZzV1eXNpWDk3Rkxjd0RJN3p3UFoxZHYzMHozOU9hcFhGeW90YV9yNHhINlo5dUFlZ0pfUl9JSHlZOHpZY05FZS15Qmcyamd2dVVOcmNxSGRvdFBua3dNTS1WdjFrZ1hRSnpvY0ZOcEVQbEFma05oZlJtSXhOdw?oc=5",
     "date": "2026-08-06T05:03:26.000Z",
-    "source": "Gadgets 360",
+    "source": "gadgets360.com",
     "image": "https://i.gadgets360cdn.com/large/xiaomi-17-ultra-review9_1776221722963.jpg",
     "category": "software",
     "updateVersion": "4",
@@ -3674,7 +3683,11 @@
     "date": "2026-08-04T14:21:20.000Z",
     "source": "Nokiamob",
     "image": "https://nokiamob.net/wp-content/uploads/2026/08/Xiaomi-HyperoS-4.jpg.webp",
-    "category": "iot"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "Xiaomi HyperOS 4 Beta Could Start Registration Tomorrow",
@@ -4565,14 +4578,5 @@
     "source": "finance.sina.com.cn",
     "image": "//n.sinaimg.cn/spider20260803/132/w909h823/20260803/8413-7e8c6b3d48d1454b6cfaced4ed0365b1.png",
     "category": "iot"
-  },
-  {
-    "title": "Xiaomi launches affordable 120Hz projector with 1,000 lumens brightness rating",
-    "description": "Xiaomi launches affordable 120Hz projector with 1,000 lumens brightness rating",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0RudzRySDYxemdqbXNqeG10N0VYU2NpaHdPRGlsVDhkX2I2YkRZcnc1Z2MzYWw3NWFMSGVZZE1yYnNyeXZKSjI1bDVVczNmajhybGJ6aU9USktQTHJLWUJuWXMtUGowT2ViNDNodnlFSUI3RGNmaTcyV1Nmb3hjbmJhWVBWaU1fdkRUSHVyaldkNDI5RE1xRkFVTmttWmk5WjBFUlNZVUpuYlNBcHZpRldBUGdENDlLU0M1VHpFVm8?oc=5",
-    "date": "2026-08-03T14:43:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-launches-Redmi-Projector-5-Pro.jpg",
-    "category": "phone"
   }
 ]
