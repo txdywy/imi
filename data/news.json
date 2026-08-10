@@ -35,7 +35,7 @@
     "description": "Redmi K100 Pro Max appears in a cool blue color ahead of launch",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRG5PRW5kUlRaUVZFR2t1YVVGWF9URWpSRThQLWJNbExqcVNzYlFaWmcyMkpKR29fWE9kQ3FreFFaVnRiYml5bERnRFhDenQzSnFzR3luOVB2WUtVaDFSMTNYMllMR0Noei1fX0lVcDRGS0JBdWRJSzBvc29GUmFpQTl6UmxYazlTUV9fUDlCSkRYT0VxWThlQWhwWENEOWlmNE4wMVBQZHJKenl3?oc=5",
     "date": "2026-08-10T16:10:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Redmi-K100-Pro-Max-Wind-Chaser-Blue-featured-main.jpg",
     "category": "phone"
   },
@@ -44,7 +44,7 @@
     "description": "雷军晒保值率第一，小米YU7和SU7怎么选？数据拆解+FAQ",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RTXQ2SDRZUFFpbkRqYVkwSWViOTZZNUlNYWZRM0w3RTkyTC1VWTB1cDFwanRraHIzWkZEMi1OdzBCQW9CTl9Hd0ZFdDM3cklLMGpTOUxpZE8tYkNOeWplT0tR?oc=5",
     "date": "2026-08-10T16:09:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -62,7 +62,7 @@
     "description": "机构预测：小米汽车2028年销量破百万，可能性大吗？",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUR2tYNGNJNVpEZmUxZlBoOTRTUDVTLW51UHBWeTNNMmlQNFM0bGRvVEp1V0RQT3dxWUJTV21URkVEb21aTmJ5WTFMVjA?oc=5",
     "date": "2026-08-10T15:56:03.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/7557C74AB66BD5211C7941353F48440C87AAD8AA_size18_w720_h380.webp",
     "category": "auto"
   },
@@ -89,7 +89,7 @@
     "description": "雷军称小朋友可在N90站立玩耍，停车时才能站吗？",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94QS1DUkIwdjdRSk96UWhZSTMzbFFEYVJabms1RnpHV3ZCa1pwRUpqanlJZ3J4OE1aSi1qVkpaV2Foc1BMTVk4UmVraDk0UXpUeUwzZk1MaGZoZWNEMmlYSzV3?oc=5",
     "date": "2026-08-10T14:47:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "iot"
   },
@@ -98,7 +98,7 @@
     "description": "Xiaomi's next flagships are getting a colorful makeover, leaker claims",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW90Z0hiNG5RQ3BtRFYyUFBOeURQRHcwUEZmcjd2cXM4YlRYY1lKLWlYT1BkOHlCWHEzS185eGlsM1JSQ0lLWkpTTEZNM3BPNGJxMXF2V0lXWlRUMkxpM1dFaU5SUWszajlMRGxEbnBjU3J5ZExLU1VYVnEwazhoUGFoTE9BWHh5VkdiamZtdjlQbWxpNlp5N0cxR1VySEVXd3BaNWtGbWFUVk1pUW5CamthRzM?oc=5",
     "date": "2026-08-10T14:44:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Xiaomi_17_Pro_Test_Smartphone_3_12b7a4215f.jpg",
     "category": "phone"
   },
@@ -107,7 +107,7 @@
     "description": "小米SU7 Ultra二手价格多少钱？真实行情40万，35万是套路+FAQ",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VGtBQjNOcHZSRGFpZms0VHN0TmptRUs0YjlYOWtCS3l6ZkdLelByUjRTNzQ1NmQwSW9oTllCLTZRcFo5QjZONUE1SFpWajg4bElUYTZhRTd2S1loTm5pWmZB?oc=5",
     "date": "2026-08-10T14:23:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -118,6 +118,15 @@
     "date": "2026-08-10T14:05:26.000Z",
     "source": "新浪汽车",
     "image": "https://n.sinaimg.cn/sinakd20260810ac/347/w457h690/20260810/51bb-f2763c971b3990bccf5d75b5c8dc06f2.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "雷军称小米N90车内可站立儿童，空间与安全引热议",
+    "description": "雷军称小米N90车内可站立儿童，空间与安全引热议",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PN2UtWHV4Q21qNjhobEQ4MUhuLTAtMHhURm1saHNUajIwTVZSZDlVOGFGd0lzQnRnVmhpekJwWk03MEMwNTF2VnFSOUxUWmVpcjkwM29wcG0xdG5xeUZGaVZB?oc=5",
+    "date": "2026-08-10T13:42:00.000Z",
+    "source": "新浪网",
+    "image": "",
     "category": "iot"
   },
   {
@@ -258,7 +267,7 @@
     "description": "雷军宣布试驾送车模|雷军|小米汽车_新浪新闻",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jVlJQLVJCRmpmc3NSbjVLeVZ4aTkyLW5RbENXcHdqOFZRcnNaMkVxLWFqYUtRZ0RNeTdTRERXSldBSDNsVkJLN0J2UUVPeE1RRjNaUE5pU19Pdkdjd3dUZmlsQQ?oc=5",
     "date": "2026-08-10T10:03:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -321,7 +330,7 @@
     "description": "雷军对小米汽车的安全性能有哪些具体的规划和目标？",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MX2dOOWJTUnhONGJORXdDaDhzTlJkMHJ1OE9mMlVjNk9kanVGLVUxVHlmbFdyazYtQTB6N0VVN2lIdUtBNFhuX056M2ZQUlZKYUg5bm9FTDA2Nl9NaDZwM05R?oc=5",
     "date": "2026-08-10T09:36:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -843,7 +852,7 @@
     "description": "雷军留的“接口”，车企们悄悄接上了？",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96NG9VamRIbkZzSDZzNko4VTdtUmlXY0p1dXZES3JneTh3eWtKREtBV1AtNmYtdDZrc0VvdGUxZFdsMy1lUkZIY0VVNDYtcWlx?oc=5",
     "date": "2026-08-10T00:20:56.000Z",
-    "source": "i.gasgoo.com",
+    "source": "盖世汽车社区",
     "image": "",
     "category": "people"
   },
@@ -1197,19 +1206,6 @@
     "source": "新浪网",
     "image": "",
     "category": "auto"
-  },
-  {
-    "title": "Your Xiaomi phone might get HyperOS 4, but miss out on its best visual feature",
-    "description": "Your Xiaomi phone might get HyperOS 4, but miss out on its best visual feature",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnZ3UUN2MUh6RmFIYzJRRE5FTlkyRnp0ZWR1TkxYa2RkenpuSEh1dWNVWnFXajVrSUZpUnJ5cnI5enROVldHMVBFclhIMS02OEFqUVVPdHFSaFBXeUpOMkd0V0dDeXVYWkp2VzNCNW5BZHlFSDgtV2k4dHJiUVZIcVl4cjRRQmV5QjNFQlln?oc=5",
-    "date": "2026-08-09T13:17:33.000Z",
-    "source": "nokiapoweruser.com",
-    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/hyper-OS-4.jpg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
   },
   {
     "title": "小米（香港）推出65至98吋电视及智慧显示器 售价4799至16999港元",
@@ -1801,7 +1797,7 @@
     "description": "Xiaomi Smart Band 10 Pro review verdict: Bright and really accurate",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVENCalRPenhwUzJrSUZzbHM3Sm4xUjd3empOa3hhVnI5MFZ0VXV6QUh5OE4zNHAwbDN6VjM3Qll2Q1RJOS1iMV9Jc28yOTFEVGtnbUFnUWNlWm14NS1ncXYzbG9RMUs5eXg3cnRlTndSV3JJeTY0cFgzWnh4eEdCUEFIcmZZTTBCZjdBbkx6LUJld2FoN0FqeVlNOTNQcWdxTGRLSElpR0FERDZvWEJXUg?oc=5",
     "date": "2026-08-09T01:30:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/20260702_210227.jpg",
     "category": "iot"
   },
@@ -2206,7 +2202,7 @@
     "description": "Avatr launches 07L SUV, taking on Xiaomi YU7 with Huawei ADS 5 and 725 km range",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VXE4c01SZkl3ZzdBMXk0UVFRX0Rfa04wdDZmT3Z2WjJpY3gxM2Y4TDQ4UXdienJoektUUEswOVloT0k3SkxlNkVmVjVNVHhRQW1JbmRERFNTY3JIelE4UFlTUjdTdw?oc=5",
     "date": "2026-08-08T12:57:57.000Z",
-    "source": "cnevpost.com",
+    "source": "CnEVPost",
     "image": "https://cnevpost.com/wp-content/uploads/2026/08/2026080812541629.jpg",
     "category": "auto"
   },
@@ -2416,7 +2412,7 @@
     "description": "Xiaomi flagship foldable image plus HyperOS 4 promo pictures show how Xiaomi phones will change starting this fall",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ0ktc2RPSlNZbFRPUnlYX3FZeHluMjhUQ19jTzdSemYwOXFUUkphY3VCSWJDWWwxeDZYYUY3emxuekVCWXJLNFZoX05EZldyZHdiNUVqZE9qaGt2QjdaLTBVUHdkZGpoeHlNYWV0WTJmWnBpOUVHN2hFaGZXS2M5OXpvOVhsX29FSkpYTUpmNnRXWEtzM0dQajk1c0gySkpKbVNfSlBlN0VmdkJ2ZjhNSjM1MGtLZmp1UVdwUzF5XzZzd0RIUE8wWFdsdGlZN0lPZVp4RkhtN1NkeUExdkZ2Y2QzZ3BKSUhSbEp4aEtMcFU?oc=5",
     "date": "2026-08-08T08:44:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Geleakte-Xiaomi-Mix-Fold-5-und-HyperOS4-Promo-Bilder-zeigen-das-neue-Xiaomi-18-Design-vorab.jpg",
     "category": "software"
   },
@@ -2442,6 +2438,19 @@
     "source": "搜狐网",
     "image": "//q3.itc.cn/q_70/images03/20260808/f82f0b97064044649dcec420213781fa.jpeg",
     "category": "phone"
+  },
+  {
+    "title": "Your Xiaomi phone might get HyperOS 4, but miss out on its best visual feature",
+    "description": "Your Xiaomi phone might get HyperOS 4, but miss out on its best visual feature",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnZ3UUN2MUh6RmFIYzJRRE5FTlkyRnp0ZWR1TkxYa2RkenpuSEh1dWNVWnFXajVrSUZpUnJ5cnI5enROVldHMVBFclhIMS02OEFqUVVPdHFSaFBXeUpOMkd0V0dDeXVYWkp2VzNCNW5BZHlFSDgtV2k4dHJiUVZIcVl4cjRRQmV5QjNFQlln?oc=5",
+    "date": "2026-08-08T08:20:38.000Z",
+    "source": "nokiapoweruser.com",
+    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/hyper-OS-4.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "【网通社快报】小米公布澎程系列汽车研发及测试进展，9月将正式上市",
@@ -3530,7 +3539,7 @@
     "description": "Xiaomi Redmi 17 launches internationally, featuring a 7,500 mAh battery and 120 Hz display",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDh2NFFkZzh4b3hRQ1FIMXpWN0VOUm5UWUtoanFOMXVwRmtSazJUUzA0Z21WZy1DVTVYTkFaNV9qZ3BlWGo4RDdUcVlKM2lEdnZrRE9mUmhodEw4MzhVcXJtV0R4SFJ3bnFPRVNVeFd6TGdQUEZIdlFaWTlMMWxQbUk3MFJrY1JBZ1V3NTMwNFlKemlkaE1qUnpxaXFEQkFlZjRXMEF4VFFCakVaWDlGY1JkOUZidmlNeUJhV3RuQ21JODJrS2hPbURBay0zUEk?oc=5",
     "date": "2026-08-07T06:07:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomiredmi174g.jpg",
     "category": "phone"
   },
@@ -4550,14 +4559,5 @@
     "source": "新浪新闻_手机新浪网",
     "image": "http://n.sinaimg.cn/front20260806ac/306/w826h1080/20260806/75b9-3e7b435d76749c347d799ae1699db52d.jpg",
     "category": "auto"
-  },
-  {
-    "title": "开着小米，别家新能源车型完全勾不起羡慕之心！ ​",
-    "description": "开着小米，别家新能源车型完全勾不起羡慕之心！ ​",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG9uMnhuVmZ6QWxFX3lFV29XU3ItZVBFSkFicXVHZUZXQzN6ZWZKMkkwRnpNOFJfMnhIX3BtN09hOWFaNEc0QWtxSnl6QUFKdm9VcWIwZGpVZW13ZnNYZFE1T0FKX19ZSXZlZjlQMXdHMmxqeUdINkJaNlNraDAzeg?oc=5",
-    "date": "2026-08-06T04:04:32.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260806ac/200/w640h360/20260806/4d14-d65f5d669e11314b49913f584f1c62db.jpg",
-    "category": "phone"
   }
 ]
