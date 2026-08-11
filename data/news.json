@@ -1,10 +1,28 @@
 [
   {
+    "title": "新浪网·",
+    "description": "新浪网·",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uTmVVQmFzdXRMbGZjUFJweENBb1V4QVhJaVo4dGVVU0dBYk1zZS0yN0U5NmxaYWppbWZpNFN1T2VGNndYbW9TRHVWd3k1cmVqX0k1V1dBTDRpMExjREpyY0xvSQ?oc=5",
+    "date": "2026-08-11T11:14:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米新国标充电宝自带线20000 45W/67W首销，499元起",
+    "description": "小米新国标充电宝自带线20000 45W/67W首销，499元起",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXVvNVNUcldOZUJoZ3VrOHZ5b3FrOVFQUDE5OUFiVjUzTEpyZkZnTGVHOHRua3NPN09lWkc2LU42cVRTMlZaaE55NklqeHlCcUMxQ3J6Q3ctWUdYLUNjaUU5dFhoOGtRNHlMT1JrWHAyYjlVOWdfbnIzbUI0YzNjQWVzUkZnbWZM?oc=5",
+    "date": "2026-08-11T10:50:00.000Z",
+    "source": "搜狐网",
+    "image": "//q1.itc.cn/q_70/images03/20260811/dc14027ed15e4509a2ff566026829a97.jpeg",
+    "category": "phone"
+  },
+  {
     "title": "小米SU7 Max的自动驾驶辅助功能有哪些？",
     "description": "小米SU7 Max的自动驾驶辅助功能有哪些？",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45M2VMX2tTOGlqdFFwT2FTeVJmVjdBRHIzdEtIRWN0UzE0djctVllLWXJTeUJNbzhUYl9HUEtFYzRNV19YbjY4MXBFSzk0QmtTTl9iYmg0SG03QUZwbWUzQ2J1eHlOLU9mYjhWSU5jZnJCdEI2aGhsU3NRVjJCN1U?oc=5",
     "date": "2026-08-11T10:47:00.000Z",
-    "source": "k.sina.com.cn",
+    "source": "新浪网",
     "image": "http://n.sinaimg.cn/sinakd20260811ac/315/w690h425/20260811/2566-c27c12194c7116a75f160b81c17e1fc1.jpg",
     "category": "auto"
   },
@@ -13,7 +31,7 @@
     "description": "小米SU7的自动驾驶功能在此次事故中是否正常工作？",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Gcnp1Qkhjc0c3alFVMWZ3SDY4ZUdobkFqVlBXYTZibk8xMGozNTQtTG03VkFRaEFsc3JiY2o3V1dlVWVUSm40c1dzdEpfRmZJX1F3RXdvLU9qLWlGcTFqcjJ0M2JhOHhJRjhpR3hVeTZnOWR2elRQYjFYNmRFdXc?oc=5",
     "date": "2026-08-11T10:46:00.000Z",
-    "source": "k.sina.com.cn",
+    "source": "新浪网",
     "image": "http://n.sinaimg.cn/sinakd20260811ac/386/w690h496/20260811/bbd7-ffbccab7370061ec655d1dbc8ce934a6.jpg",
     "category": "auto"
   },
@@ -36,11 +54,20 @@
     "category": "phone"
   },
   {
+    "title": "新浪网·",
+    "description": "新浪网·",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55eHJJaTdRdl9TU2cyWnNlb3piMi1aUTVjMFA3RzREOXNKVm01ZGE3NlhSTTV4cW04MnI0U0VqTnlyeUE3dEZYQmNTR0NfTFg3SE5xWms3SmVNY0lxQ2tjS29Xbw?oc=5",
+    "date": "2026-08-11T10:34:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "iot"
+  },
+  {
     "title": "华为小米怎么选？续航实测华为多撑1.5小时，快充小米更猛！+FAQ",
     "description": "华为小米怎么选？续航实测华为多撑1.5小时，快充小米更猛！+FAQ",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yNEctazcwVWhyVlJ6aVU5cUZBZkNFWlNBUkdaSlZFNGNvcVR2VFQ4U1dCeV9CbkdaZEhxbXd2ZVgxSWFuZE10Zk1MQU5iUThMQW5QYlBNa0VVYjJleVNxaUZB?oc=5",
     "date": "2026-08-11T09:55:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "phone"
   },
@@ -76,7 +103,7 @@
     "description": "小米YU7熔岩橙实车曝光：高性能版3.23秒破百，选装率8%无奈下架+FAQ",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CU1psNU1qdjhjY00wblE5cW41TnhMYy0yZEJiaThMcTVWaTBQMmRjVlR6c1V2YWswcS1KLVhvYXNjc0RZUnpYTllNRXdtZ1ZtMjA4RUxiTXZIcGF1Mi1QNWN3?oc=5",
     "date": "2026-08-11T09:12:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -169,7 +196,7 @@
     "description": "小米YU7价格深度解析：23.35万到38.99万五个版本怎么选？+FAQ",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyZUxWY0xzellwUHE4Z3lEeEpJY2lJZmt5VWdrcEhaaURxNmRiZXVkbDZyT1RHazNRMHEwOS0yQ1pOM0pTcXVnNHRBeTZLN3dCVlZLcElFVWFvbGNuLWt4N2Zn?oc=5",
     "date": "2026-08-11T07:54:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -187,7 +214,7 @@
     "description": "小米SU7 Ultra售价52.99万，1.98秒破百值得买吗？3个维度说清+FAQ",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50WVUwSzNqUnhTbWhZWFZHVGJiaEdxakxEQ3BiSHJaQTR6TktTVE1SVG83cVdNOFlHeFo5UUpaZm9sNVlGTTFjakRaMWRXQ3N3V2dRWnd4QXh6Q0p2WnE2YlhR?oc=5",
     "date": "2026-08-11T07:51:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -196,9 +223,18 @@
     "description": "嘉信立恒小米汽车IFM项目荣获2025年度企业行政成就奖",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uLURhbmNYR05tTThDWVdnVjNoa29KdEI4X210VE85MW1nTXZUX2o2WkZfeXFsUE1INmg0a2Fmd25LaGdzNzlfX0IzRzAxd0IxZ21jYmtDZjlray1qTFE0MFB3?oc=5",
     "date": "2026-08-11T07:41:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
+  },
+  {
+    "title": "卢伟冰称小米国内首家自研发光材料技术突破",
+    "description": "卢伟冰称小米国内首家自研发光材料技术突破",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZl9NRkhxM29OQUZ6UmtUbUxQcDU1NHpEUkhBaEQ4d0gxNGRzclRLLUd4Sk40eDI2UkEtSnBWWVN0czNtdHNRN0Z2bVFRUXdBS3RicUJpUjZKa1J5b3V3a0JmTVk1MloyTmZhMFRUYmE?oc=5",
+    "date": "2026-08-11T07:30:02.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "iot"
   },
   {
     "title": "卢伟冰：小米是全球第三家、国内首家能从发光材料层做自研的厂商",
@@ -259,7 +295,7 @@
     "description": "小米SU7车辆的自动驾驶辅助系统在此次事故中是否发挥了作用？",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnUmdZcmRTM0pQV2J6NUg5WFAySmdiMFRWODNJcWhxeEZsazRXUFkyMURsTUducWxZU2pIM19zRHc0aW5CWGp0RjNoZGNtYS12MGdocFo4ZnRYWkl5Mm1XNEVR?oc=5",
     "date": "2026-08-11T06:45:00.000Z",
-    "source": "sina.cn",
+    "source": "新浪网",
     "image": "",
     "category": "auto"
   },
@@ -766,7 +802,7 @@
     "description": "HyperOS 4 Leak Reveals Major AI Upgrade and Glass UI Redesign",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83Q1R1TlRBQ0taUmo2aU8tRHA5WnlLczBWSTE3ODZheGlacTQ1S0kyNU5TQW5BSHlqajBHeS1SZWEzWG1xanBqSWRhNmJzX21RS1hsY3VtMHZGdWFSOGNIVG9MNHRIVVNXRmc?oc=5",
     "date": "2026-08-10T17:11:50.000Z",
-    "source": "Techgenyz",
+    "source": "techgenyz.com",
     "image": "https://techgenyz.com/wp-content/uploads/2026/08/hyperos-4.webp",
     "category": "software",
     "updateVersion": "4",
@@ -4520,41 +4556,5 @@
     "source": "搜狐网",
     "image": "//q2.itc.cn/q_70/images03/20260807/bb96c3b5e7f240a49205ca45a076cbe0.jpeg",
     "category": "phone"
-  },
-  {
-    "title": "【视频】小米YU7上线“轻松还”金融方案，年化利率“仅”3.8%",
-    "description": "【视频】小米YU7上线“轻松还”金融方案，年化利率“仅”3.8%",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdnpmZFBJalhqaTRRVU5qVEZZOHhQQllEU0V1d2hfa24ySkduRnNGVEQ5OUl6OVcyTG9MNVJMYi1JMkFydnVWMVRIak9lUzVBYkFaTXlCVHFtQ0E?oc=5",
-    "date": "2026-08-07T02:17:38.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "周末带家人出游，小米SU7和后座宽敞的尚界Z7 Max区别有多大？",
-    "description": "周末带家人出游，小米SU7和后座宽敞的尚界Z7 Max区别有多大？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FdDVpYmMwRVZERnFTc3VRQV8zRzNVYzRUTnVYYzF1b2ZMLXYtYXRTYW5GX1hPcUJHZ0tsVk9SVHVtMlN6Y21WZWZmUTdJTWlMcncwZFBRZXVMOEk?oc=5",
-    "date": "2026-08-07T02:12:03.000Z",
-    "source": "汽车之家",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M08/E4/EC/autohomecar__ChtpWGp1JDmAVjxSAAI8NIMb-qA735.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "一小米车主刚提3个月的新车，在自家车位遭3名孩子爬车顶踩踏、撒尿，4S店维修报价24000元，家长称赔偿金额“太离谱” 让车主起诉",
-    "description": "一小米车主刚提3个月的新车，在自家车位遭3名孩子爬车顶踩踏、撒尿，4S店维修报价24000元，家长称赔偿金额“太离谱” 让车主起诉",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaldpR3lidVo2S0J3X21XQlJRY25vS1FoSXpyeGxhRTdXLTFET19sY3pLWHhQR2w4V1FXTmtoTktYT3dFeTlNaVU2b3B0NkkxUTVkLWJpdmNWYlZPWmVYNGRlVDVFQjJXUmlVQ29DSWdMOUtHTFZSOGJ6bDhLVW9qWDRYQlJ4OTRrMmFPWA?oc=5",
-    "date": "2026-08-07T02:10:12.000Z",
-    "source": "搜狐网",
-    "image": "//q0.itc.cn/q_70/images03/20260807/5c7a1b446cd847caa1aee8b94e891afa.png",
-    "category": "auto"
-  },
-  {
-    "title": "小米YU7/SU7/SU7 Ultra推出8月购车权益 4.9万元权益免费赠",
-    "description": "小米YU7/SU7/SU7 Ultra推出8月购车权益 4.9万元权益免费赠",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vLWRnbWVtb1NLNVJxdmo3dmJETDhsTnFERGxSMGpVRldiNTBFYmF6WHJJZ2tDMGQ4SUhuNVhPd3RqaVRCN09nTzZ6QkxPYWozLTFZa2JiblR3czlqeHc?oc=5",
-    "date": "2026-08-07T02:03:38.000Z",
-    "source": "太平洋汽车",
-    "image": "",
-    "category": "auto"
   }
 ]
