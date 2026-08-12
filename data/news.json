@@ -1,5 +1,64 @@
 [
   {
+    "title": "雷军挖走字节一员大将",
+    "description": "雷军挖走字节一员大将",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SZkVpenlMRjZOREZOYm40TlB4cTIwZDlwNmxmbHk2ZDdLZXAtd2FUblFzRmsxMVBGYWxvU1AtQ1BaZTg2SGM3OWwtMlVoUVVpY0RQRy1kcnBuUmt5T1p6NUl3?oc=5",
+    "date": "2026-08-12T09:52:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "Xiaomi 17 Ultra HyperOS 4 Beta Recruitment Opens with 10 Major Feature Updates",
+    "description": "Xiaomi has started beta recruitment for HyperOS 4 on its flagship 17 Ultra, revealing a set of 10 notable new features. This update brings a fresh Glass UI design along with innovations in widgets, device connection, AI functionality, and productivity tools. HyperOS 4 Features Highlighted in Beta On",
+    "link": "https://ximitime.com/xiaomi-17-ultra-hyperos-4-beta-recruitment-opens-with-10-major-feature-updates-99520/",
+    "date": "2026-08-12T09:44:15.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/HyperOS-4-1024x542.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "beta",
+    "device": "Xiaomi 17 Ultra",
+    "isUpdate": true
+  },
+  {
+    "title": "小米YU7试驾视频解禁！比SU7舒服多少？3个维度说清+FAQ",
+    "description": "小米YU7试驾视频解禁！比SU7舒服多少？3个维度说清+FAQ",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LOFlmT05JM3Q0Znh0eUxyX3J1NHRyZ0ZNXzhyankxZ2VZT2N3blQyUTNZVDFHcXVJUkdCSzJZaER3SXB0aG5vLWhxQ19TMlAxNU90RndzTGY3XzlZclV2dTZ3?oc=5",
+    "date": "2026-08-12T09:02:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi and Redmi’s 2026 Audio Range Delivers Flagship Sound Without the Flagship Price",
+    "description": "Xiaomi and Redmi’s 2026 Audio Range Delivers Flagship Sound Without the Flagship Price",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVhzY1p2TGtJaFFXQVAwaFBWbTlKTWxNczlXTmVIcjc1eEZEZGhjbU05aUdHVzY2N3luQ3RTUmtzdFBvQlJLckVOa1YtX2R5UWE4NXJmcWNYNlN5dTkyeXZCQlhZQXc3dVRXYzdUcF9ycVVjc3JzOHRLQmxXeVNjVVI1SHU1WUVVcUlRUDdZc1liQ3QyamN4SnFTX1ZKb0FOOWVlUG1KZVFNY3Q2cE5OOTdYTEY4d2pZ?oc=5",
+    "date": "2026-08-12T08:59:23.000Z",
+    "source": "nag.co.za",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米su7|21044辆|销量第一_新浪新闻",
+    "description": "小米su7|21044辆|销量第一_新浪新闻",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84LXZIWDRVWVdCQWxtNy1tM1dEdUFwNDZKR2NoTFAyRDdURWZCakV2NzZkMlJPN2xxR3c4cWRLdzNYRFdIM2JGeWJTZTZnUWZ4XzU5WFpXXzRPeUk4YXY1NjNtQQ?oc=5",
+    "date": "2026-08-12T08:48:00.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "【网通社快报】小米汽车公布增程车型涉水模式及车内办公配置细节",
+    "description": "【网通社快报】小米汽车公布增程车型涉水模式及车内办公配置细节",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hUTkzQ1l5eVNQVzBRYjRiVVNOWG03b21seExCeVZPTjZtSlY0UVpCQVFzREhLUmc1dGZ6VDdVaEs0NDR6QkJoT2RWSXU?oc=5",
+    "date": "2026-08-12T08:12:00.000Z",
+    "source": "凤凰网汽车",
+    "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
+    "category": "auto"
+  },
+  {
     "title": "小米澎湃OS 4 Beta版蓄势待发：剥离MIUI遗留代码 底层彻底革新",
     "description": "小米澎湃OS 4 Beta版蓄势待发：剥离MIUI遗留代码 底层彻底革新",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mV0NvVVNEMnNsc3ROT2FOVzBWNHZhbzREVDFTcDFLeWdBSGdtTnFUZ3d2T2s4V2dXbjdGLWJ3WGU1c2RnT19TLXVMemVyNU9pUkZSSkg2bEk?oc=5",
@@ -121,7 +180,7 @@
     "description": "针对受台风影响造成损坏/故障的小米产品，提供免费检测/维修服务",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mUUdfbEdVZ0NVV2ZrM2Vud0dNMEU2TTEyWm1HdDdzNHJsdmhZaGd0blBsSnRWWDgyend0WjZSeGRMTTZKUXY3WDY1UTY?oc=5",
     "date": "2026-08-12T05:34:40.000Z",
-    "source": "tech.ifeng.com",
+    "source": "凤凰网科技",
     "image": "https://x0.ifengimg.com/ucms/2026_33/69BC516838D5C515FF4B60E6AC1EA04E44644195_size34_w640_h359.jpg",
     "category": "phone"
   },
@@ -130,7 +189,7 @@
     "description": "Xiaomi launches new smartphones that feature the company's self-developed green pTSF OLED emitters",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2IxZmFoT2wtLU80bDM5U1dhMlJJQ0p4eHpLeWRUTHM1R2EzYm5PLWtxeVM4Y1pWRS0zbFBCeVJqdEgxTjNjTlJ0d2Z4SWVQcnBSTDVCdWtmanlkQlBGenVqVUxvbjJEMV9lczNpOTJwdGIyRXRmOEp4OEpTQ1pBNkVvQWlBUm43QmZhdUl0R3ItcTBJUllOZWN5NExST0ZZeEJEXw?oc=5",
     "date": "2026-08-12T05:17:44.000Z",
-    "source": "oled-info.com",
+    "source": "OLED-Info",
     "image": "",
     "category": "phone"
   },
@@ -236,19 +295,19 @@
   {
     "title": "为什么要做车内办公场景 有哪些配套设施？小米汽车详细回应",
     "description": "为什么要做车内办公场景 有哪些配套设施？小米汽车详细回应",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10YUhHRjdkSndlTlE2S2tCSEtCbFVzeDV6bE9FR0J2eklIaHhvdWQ1d2tXbUZTbTlsVU9GeFBzcU9qWlp4ZkhnOS1xem9mZndNZFpTaTZ5UVdKWWMtZDUtRXZ3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NU2FMcnVNOEtncFVueFVyZTdOMHRkSUQ4YzRCeTR6OGRjdS1RQjFyVTNrUnlFbUtjTTdpQWFxV0QwX3Z0YWNham1Ob2ZqTWU1alVxd1NIcFA?oc=5",
     "date": "2026-08-12T03:42:00.000Z",
-    "source": "sina.cn",
-    "image": "",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20260812/63eeee88e94848d6b9dd649398c6df2e.png",
     "category": "auto"
   },
   {
     "title": "为什么要做车内办公场景 有哪些配套设施？小米汽车详细回应",
     "description": "为什么要做车内办公场景 有哪些配套设施？小米汽车详细回应",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NU2FMcnVNOEtncFVueFVyZTdOMHRkSUQ4YzRCeTR6OGRjdS1RQjFyVTNrUnlFbUtjTTdpQWFxV0QwX3Z0YWNham1Ob2ZqTWU1alVxd1NIcFA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10YUhHRjdkSndlTlE2S2tCSEtCbFVzeDV6bE9FR0J2eklIaHhvdWQ1d2tXbUZTbTlsVU9GeFBzcU9qWlp4ZkhnOS1xem9mZndNZFpTaTZ5UVdKWWMtZDUtRXZ3?oc=5",
     "date": "2026-08-12T03:42:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260812/63eeee88e94848d6b9dd649398c6df2e.png",
+    "source": "sina.cn",
+    "image": "",
     "category": "auto"
   },
   {
@@ -292,7 +351,7 @@
     "description": "Redmi K100 Pro and K100 Pro Max announced - GSMArena.com news",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUtpakRhSm9pajlobHBJNmtHV05hbFE0Uzl6Q2pMeEtzcDNxSU5JNUFIdDRBWFBGbFdYUzJ4UTVtM3hSYXZOS1VFOWQtUzVTWWlXaVFUcjZCcU1OU25fV3VoZUg0TmVheXo4QkFFaVQ5Z29aUjVrLWx4S0J2VkVNQ29HRnltVUU5b2fSAYYBQVVfeXFMT2UwMnQ3bWZCMVEyckJxX21tbnhuaV91VGVUd2cyQmpnSExYbkU5MkltRF83bFl3ZUhHemxYWDFsRUZPRGUwWjdtS2tKdGRjV28tZlprLUlRb3ViaDdYdnZ6bE9jQ0hGRGk4TS1FNHVPalRtWWI2aEp4dk9zWl9RZ2FBelY4X0E?oc=5",
     "date": "2026-08-12T03:19:02.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-k100-pro-k100-pro-max-ofic/-952x498w6/gsmarena_000.jpg",
     "category": "phone"
   },
@@ -303,6 +362,15 @@
     "date": "2026-08-12T03:18:40.000Z",
     "source": "搜狐网",
     "image": "https://q0.itc.cn/q_70/images03/20260812/d6b0100d2463441cbdcd6b4906cec942.png",
+    "category": "auto"
+  },
+  {
+    "title": "新系列小订火热，小米汽车的规模化硬仗才刚开始",
+    "description": "新系列小订火热，小米汽车的规模化硬仗才刚开始",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhb2w4TzU3QlM1R215LVIxLVpUWWV2cTB0anZoakwyOFdUanQ4SXpWU3ZuYUZ1aWc3VzVRbDBSa3hlY2hZYlI2bFdnTjdrX3pSZENRajBlekg2Z2dhX0dZeGRRc3RDR3NZaUVURWZMeHlqeFlOUjBaTQ?oc=5",
+    "date": "2026-08-12T02:56:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260812/298/w700h398/20260812/ea3b-d67384fb6cdaf82f3a7ea95243811543.jpg",
     "category": "auto"
   },
   {
@@ -542,6 +610,15 @@
   {
     "title": "雷军：小米是国内首家自研发光材料的手机厂商",
     "description": "雷军：小米是国内首家自研发光材料的手机厂商",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zNVgxUGVSeFUzQ05lazJ3UU5SVV9mYVA5Sl9aeTFSYXVsWUJOUGhweVdkMVZYUzRyTDNnZmNURFV4NEhlMG00Wg?oc=5",
+    "date": "2026-08-11T23:51:35.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/ucms/2026_33/95C5ADF239C4328BD4CA9A692B9CFD161C22F20B_size54_w975_h549.jpg",
+    "category": "people"
+  },
+  {
+    "title": "雷军：小米是国内首家自研发光材料的手机厂商",
+    "description": "雷军：小米是国内首家自研发光材料的手机厂商",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rcEc3WDZpcDNuUlE5V0RST3NLdkxaRmdTaG81cXBWMnN2WTVpZmgyY1JzMmRrMVZoQ3B0cmhCd0lkODJzZDdvZlYtbnc?oc=5",
     "date": "2026-08-11T23:51:35.000Z",
     "source": "tech.ifeng.com",
@@ -697,7 +774,7 @@
     "description": "Xiaomi releases new affordable 5G smartphone internationally following global launch",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVJ1OXN5a3lXNlNPWE5PeGtyc2VJbndfQ1BqTDZmMUw3c2NGRTZpd0I2aUF4UWNSNC03WEg5V0NwSU91QURhSWZOWnpTdEs2TEgwRnRvRnBZVHh2ci1sdDNNbFlDTWJMeG0wNUliQmUxVllqRWNvcmw1WGxJUDR2UTNfVXpXeExtS2wzRm1FQW1IRG05bE51bU45UHlMSGR4aU0wXzQxOXo1ZmFybGlsYWJveThHYWpyZ1RlZmtIOTUyQW1hYXFrMQ?oc=5",
     "date": "2026-08-11T19:31:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/redmi-17-5g-release-international-kv.jpg",
     "category": "phone"
   },
@@ -781,7 +858,7 @@
     "description": "Xiaomi Redmi Note 17 5G hands-on review: Software, and performance",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tQlpfNDVaUlBrNkhEYjJ4TS16djFVbjBZRmpma1VxNF9Sd3Roa3ZvNE5oYmlnXzVlNDFuSU9CNHc4cS12clhZS0t6YlBKaWlhbk91VTN5LXVzOUpEY054ckR5VTUwUkwwTlR4SVZ4MmRvSzY3Zmdr?oc=5",
     "date": "2026-08-11T18:02:47.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-redmi-note-17-5g/hands-on/-728x314/thumb.jpg",
     "category": "phone"
   },
@@ -985,7 +1062,7 @@
     "description": "Xiaomi Redmi Note 17 5G hands-on review",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00OERUeUlxc3RZNElzYm03TnY1SWlwck5WZ3h1ZXE3X0RnODZMZExUd1pmZmhkeHh0YkV5Nk9mR0V5NjBnTVB6cnNORGNWZUdwZkhDZlhSbTZhRVd4ZWdYX3ZSNFZRbGFnLVN1OVN6RVE3OWpK?oc=5",
     "date": "2026-08-11T14:24:14.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-redmi-note-17-5g/hands-on/-728x314/thumb.jpg",
     "category": "phone"
   },
@@ -1057,7 +1134,7 @@
     "description": "Xiaomi releases new performance phone with 185Hz display and large battery",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFoxNjJPVklZQ0U1UTY4bkFfRklqdWQ1T09PRTVFQUZJbFdzUU9MU2N4RUVpNERhWTFDLXlBS0V0QV8zcC1oVjJyNi1hMGNfVDhGSlZaa1NvcUI3OEFDRGM5WFAzNklqRE5BN0dXUkwxcmtNaHZaSk1hRFlhOVpBTjJjS2VTUkN1NHVmNThVQzl1SXJWZnd2VXhmNTFLRFZaQnY0clVfMlpjU0hIV3lyd2xGeFZDcEhlVlhR?oc=5",
     "date": "2026-08-11T13:17:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-launches-Redmi-K100-Pro-Max.jpg",
     "category": "iot"
   },
@@ -1350,7 +1427,7 @@
     "description": "Xiaomi 18 Pro and Xiaomi 18 Pro Max's colors and back material leak - GSMArena.com news",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREtfTTY5QUdENmlyLWpPNnpXbmduZEZOZGdURDBiX2kwWnItZ05nNFJBY3FfajU5VTVTQVhCR2U2Sm9UWXBILTVwR2U2ejhqTFJ2YmNEamprUUJmT0tfZ2ltenZiS1NNSXVkS1lxVmZ6NGx6WnMweE56R0ZLMkljblNvNG5BMS03d1o2dm9CTVNDNk5SNkloeU1ObF9XUkR3dzlmQjdkQ3I2Z9IBpgFBVV95cUxNcUZiV1ZBT1ZNQjlfdEExNlAxWk1hTWpMQlYwM1FZVXdURFNqSGJlVVRUUndvVnIwTERhNWV1bWRsaEpEZm5hMURHb2RNMHlnR1ptREp5ZFhXSF8zMEJZdjFIRVJxbVVYNHk4bjRBQmdSZWd6eTBwdjNPdjVyWU1tOUpZdng2YVhHVUx4T3RweHhxVF9LZ3ltX3ZEdkl6N0h4bGtCVXRR?oc=5",
     "date": "2026-08-11T08:51:02.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-18-pro-xiaomi-18-pro-max-colors-back-material/-952x498w6/gsmarena_000.jpg",
     "category": "iot"
   },
@@ -1596,7 +1673,7 @@
     "description": "Xiaomi and Redmi's India launch roadmap leaks - GSMArena.com news",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmtLOUZ2ZkJqWXlUSGU4ZDdsQjVueElmckx5VFhBZzhfNmpzcklxcTZXcHpkRHpjaEVDT0lSaXB4ZHZZOW5qd1FCMXlIaE4ycEJqUW9nS1BBRHg1X181WFF1OEJFeWUwYmJDd0ZaWlBERGpHeGdkNDRRU2VtTld4ZDdqMDlNajdlNDI1QdIBiAFBVV95cUxQbE1DMHBUNHBtWXJ4djRKRzFfSTdoUHJJWW5iaXd3MFp3VFZDX21pUndGS3cwbkcwSnZiSWNRSUpKQ0xlRUZ2bU1yd190aFZsWmZ6MTJVQncwNTB2dElmOHlHWGZJaTdvby1yeWI3d1RKbk15cE13SHVWaERFMlo2bkVZbER1bnhT?oc=5",
     "date": "2026-08-11T06:28:02.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-redmi-india-roadmap-leaks/-952x498w6/gsmarena_000.jpg",
     "category": "phone"
   },
@@ -3936,7 +4013,7 @@
     "description": "Xiaomi Smart Band 10 Pro review verdict: Bright and really accurate",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVENCalRPenhwUzJrSUZzbHM3Sm4xUjd3empOa3hhVnI5MFZ0VXV6QUh5OE4zNHAwbDN6VjM3Qll2Q1RJOS1iMV9Jc28yOTFEVGtnbUFnUWNlWm14NS1ncXYzbG9RMUs5eXg3cnRlTndSV3JJeTY0cFgzWnh4eEdCUEFIcmZZTTBCZjdBbkx6LUJld2FoN0FqeVlNOTNQcWdxTGRLSElpR0FERDZvWEJXUg?oc=5",
     "date": "2026-08-09T01:30:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/20260702_210227.jpg",
     "category": "iot"
   },
@@ -4461,80 +4538,5 @@
     "source": "搜狐网",
     "image": "//q2.itc.cn/q_70/images03/20260808/881e3e502f25486aba27f5b36943aebd.jpeg",
     "category": "people"
-  },
-  {
-    "title": "雷军隔空打call徐州奥体，“澎程”在彭城C位出道！",
-    "description": "雷军隔空打call徐州奥体，“澎程”在彭城C位出道！",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoWERpXzJ3V2VVMHFqckNaU3JmeXNuWjRzVmpOZXJHTi1qcFhUNkxVc21mcHFISjJTV3U0ZVJyYWtHZ2ZRZXlFUVBwLV9BX1doLWdaalc3QUwwSE9zZVFPRktnY3l0UHBLaUtr?oc=5",
-    "date": "2026-08-08T10:24:00.000Z",
-    "source": "新华报业网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "雷军隔空打call徐州奥体，“澎程”在彭城C位出道！",
-    "description": "雷军隔空打call徐州奥体，“澎程”在彭城C位出道！",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHNBaWhJNXRMeVN6WXhWXzctM1N4UVl1bEhWWi1rbmNtQXZKblBQemtVdDJLTmNVN1pXYll6YWdaWDZkZVJ0NVNXT2Q3UEVSaGc2WklfMlZvT3NicmREbVdENjM0UTl1ZmdQUXl4bDVvZ19JcVYtbEtfbzFDNmNBRU05cWlvT2xocXlZ?oc=5",
-    "date": "2026-08-08T10:23:00.000Z",
-    "source": "中国江苏网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "小米Civi 4 Pro美颜功能有多全？17项参数+AI-GAN算法解析+FAQ",
-    "description": "小米Civi 4 Pro美颜功能有多全？17项参数+AI-GAN算法解析+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEJsLWE1Y011QzJ5QVlLd2lvWXV4S1ZKZUhtWDlrVjdXdW1MSzJ6MVVYbHNtYUpLeFpDLVprT0EzSWFrLUR2MEZRbGJKZzlCaGptX29XRlIycnZvZlZsdlFCc1JfY0tQSm4zWUR3RmdoQjZ0T2FweTR1VjFOWUZGbQ?oc=5",
-    "date": "2026-08-08T10:04:20.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260723/logo9.jpeg",
-    "category": "phone"
-  },
-  {
-    "title": "Camera Backdoor Poco M3 Mobile Back Cover Full Body Housing For Xiaomi Poco X5 Pro 5G – 100% Original, Premium Care Quality",
-    "description": "Camera Backdoor Poco M3 Mobile Back Cover Full Body Housing For Xiaomi Poco X5 Pro 5G – 100% Original, Premium Care Quality",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGdKcURvTkdESGgtck5UckpSOFZOZWFUbjVJbWpZVmhlZUk3Wjc1cUJORkU5dERfVndLRFhObTlKYmluTzcyc0lXZ0JfeTFSVzJIclhtTmwzcmR0dHIzM0RDZ0dyR0lsSHVPT2JCV0FWc1piTlFVOU8tMGJWSXpNeWFFVXIzdzA?oc=5",
-    "date": "2026-08-08T09:15:10.000Z",
-    "source": "Diócesis de Salamanca",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "王腾称不体面才能解决小米汽车问题",
-    "description": "王腾称不体面才能解决小米汽车问题",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0xvT3VkVzROZE5jRlVheE5xdm5mbGhWdXd2N1pabGlTVFhSOEo2eDdHdlNZZzgtZmcyRDlXdFMwM1BCejd1aHZ2bTFqaDI2WkYtU0FaQnhHd3VLN0NyVGdsTEI4cGV6c1ZhNTVIR21GWFhkeHBLQm1fUDJLNHVyMg?oc=5",
-    "date": "2026-08-08T09:04:33.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260808ac/533/w480h853/20260808/9555-4971fd5b8b4b2ee195d57007909acd0a.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi rolls out HyperOS C11 bug fixes in China",
-    "description": "Xiaomi has released a detailed bug fix report for its C11 update, currently rolling out in China since July 28, 2026. The update improves system stability and optimizes several core apps and features. Xiaomi confirmed that these fixes will be delivered to global users in due course. Confirmed Fixes ",
-    "link": "https://ximitime.com/xiaomi-rolls-out-hyperos-c11-bug-fixes-in-china-99458/",
-    "date": "2026-08-08T08:57:31.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2025/12/hyperos-update-1024x572.jpg",
-    "category": "software",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "Levoit Core 300 Review – Better Than the Xiaomi 4 Compact?",
-    "description": "Levoit Core 300 Review – Better Than the Xiaomi 4 Compact?",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qTDhVekh6bXJYNmtGMmJIbmJXdEYyU0dvU01lS1VKZnBZR0RnZm9KaVpXN2R6M1RQaE56THYyN0JzcFJBaXBFMk50TXVsQnJoS1B6enBTU3l1X1EwRHNz?oc=5",
-    "date": "2026-08-08T08:57:22.000Z",
-    "source": "BreatheSafeAir",
-    "image": "https://cdn.breathesafeair.com/wp-content/uploads/2026/08/Levoit-Core-300.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "小米音箱内测“超级小爱-专家模式”：小爱记忆更懂你",
-    "description": "小米音箱内测“超级小爱-专家模式”：小爱记忆更懂你",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEpxaWdMUG5PWDFFbE1JeHhDLXFZLTh5VnU0VnRDYllMOWVQdldvRHRLRVdZd1hsX0gzX3RVVDNMTmZZQWNzb1pvUUVieU5KS0VkbW1mdWk5ZjA5M1ZWZ1VGanJtUHcxWkVaTlluVVp4OURicFFYMkpTTWEwTFNKUzNyeW1sTEJq?oc=5",
-    "date": "2026-08-08T08:45:05.000Z",
-    "source": "搜狐网",
-    "image": "https://q7.itc.cn/q_70/images03/20260808/3a8d1f89b81a4066ba0ae4e8f3ddd69f.png",
-    "category": "ai"
   }
 ]
