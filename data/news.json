@@ -125,7 +125,7 @@
     "description": "小米升降车标专利曝光：两个车标自由切换",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Kem9TM3JRTkx6LTM0ZzhOUzBRTG9xaUlCOXRpM1BLdU1QR1lYQlBSWnFXYW1nOU1EUW9FUTNzTW1TQWViTl85d196bnBOV3FkZjhR?oc=5",
     "date": "2026-08-14T13:49:00.000Z",
-    "source": "eet-china.com",
+    "source": "电子工程专辑",
     "image": "",
     "category": "phone"
   },
@@ -259,7 +259,7 @@
     "description": "首发骁龙8至尊版Gen 6！小米18售价曝光：相比上代要涨1千",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GaDFPVEgtdWpyR2VDZ3BTalFpNl9tRldqQ3NROEdzX2Q4eWt0WTVrb3dBcXBxTU1yY3Rtc0xva3NwOTNNTDUwd1VzbjlpRllIbnBR?oc=5",
     "date": "2026-08-14T11:18:00.000Z",
-    "source": "eet-china.com",
+    "source": "电子工程专辑",
     "image": "",
     "category": "iot"
   },
@@ -348,7 +348,7 @@
     "description": "Unreliable Xiaomi Wireless Debugging: Troubleshooting Connectivity Drops for Flutter App Testing",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHVadlo3TDR2eG1Sd3dqODlvSVFrV0dYTWpCNDFLWXdZZC1YNXo5eWtxdjJfdWI5TkF0b0pjUkFFRUUtQllIU3pGV2tsRWZwei1JdEtOb0ZtYWM5WV9reFhwaEliTUZhVVdyR0xqem1SdGV3Ty1Ob3llZ09fVFdVa1cyOHI1ZVdIR1FraHZhRWkycXJ0bTZDNlhWODBiQXdNckZhNjM0Q3pseTRqVnAweGNuUC1qQW9aM1E?oc=5",
     "date": "2026-08-14T10:33:29.000Z",
-    "source": "hackernoon.com",
+    "source": "HackerNoon",
     "image": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-5w03b9l.jpeg",
     "category": "phone"
   },
@@ -366,7 +366,7 @@
     "description": "重新定义一片锅巴：张小米的长期主义与品质坚守",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HVlliZEQ1cC03eV9xTjFEb0ZCdG1DcVVlZlBOa095Vlp0a3M4QzFYaEd0OElJbWtGaFRCbW93b3dGcllXa0JqVUp4Yk9fSnpD?oc=5",
     "date": "2026-08-14T09:57:59.000Z",
-    "source": "凤凰网财经",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/FEF46CAE0F306C6D20CE3BE88AFCBF85A90A78D8_size163_w650_h444.jpg",
     "category": "phone"
   },
@@ -787,7 +787,7 @@
     "description": "【网通社快报】小米汽车推七夕购车活动：8月14日至23日购SU7、YU7并9月30日前提车可免费获赠699元智能双",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PRGZ5anFuZ3FvS05VRXY4T3lBYlFUTFlsTDhuLV9fT2Fsbk1uODBQa0hSd04wQ0RWbEoxTTFHRU1WUWIyR0FxYUx6UE8?oc=5",
     "date": "2026-08-14T04:13:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/AFE3F9F38739135EAD527BBFCD0E92F7A0E7BBB3_size111_w1365_h910.jpg",
     "category": "auto"
   },
@@ -841,7 +841,7 @@
     "description": "【网通社快报】小米汽车携全系车型参展2026成都车展，澎程系列迎首秀",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XN1JiR25UUGF3RjBqWWJ5VS1mYmFaWXpXdXZ3M2d4emFGYVd2Z3hhMDVSQVR3SXVjQm51YjZmdmM1VjlfWEIwX09xV3o?oc=5",
     "date": "2026-08-14T03:37:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/DA9D063A0BBDD83BE58B0456B2FD3F9B4844A063_size55_w1024_h683.jpg",
     "category": "auto"
   },
@@ -852,7 +852,11 @@
     "date": "2026-08-14T03:32:12.000Z",
     "source": "Gadgets 360",
     "image": "https://i.gadgets360cdn.com/large/hyperos_4_1786679015476.jpg",
-    "category": "software"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "Xiaomi Bluetooth Speaker Magnetic Edition: Phone Stand or Gimmick?",
@@ -868,7 +872,7 @@
     "description": "小米澎湃OS 4来了！这次不开发布会",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pZzN0ck5oM0pQN2hDM0JQSjBzS3FIdFQ2X3VYbHFFdVliOTZWTE5SYXNsMGdRNFhyT0VZX3FrS3h3VENITlN3VFUzOURDemw3ekxn?oc=5",
     "date": "2026-08-14T03:30:00.000Z",
-    "source": "eet-china.com",
+    "source": "电子工程专辑",
     "image": "",
     "category": "software"
   },
