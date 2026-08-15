@@ -1,5 +1,47 @@
 [
   {
+    "title": "天塌了，我开着小米YU7在高速上，120的时速爆胎了",
+    "description": "天塌了，我开着小米YU7在高速上，120的时速爆胎了",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1VnUjBuUjFQbU4wd2tGZ1lsT0RPTmYtV2ZDdkdvczZhbnkxemw4Qm0ySDB1bEQ5Z3dSVk9rbFFVSno5Q1hDRWdiTmh4TTM0WloyZ0s4UTRTY3VrbmFwakNLdHpyYkpDeElCT1g0MDBsNnlGejB4WXBoUjFvRGk0Vg?oc=5",
+    "date": "2026-08-15T14:19:11.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260815ac/321/w480h641/20260815/d7e1-d0af81719ee2a1d854bc3af4ba6a41e3.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "小米 Poco F9 系列手机曝光：基于 REDMI K100 Pro/Pro Max 打造",
+    "description": "小米 Poco F9 系列手机曝光：基于 REDMI K100 Pro/Pro Max 打造",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZGpJLVRRMWpQR2ZtekRpSzd0UWgtSzVwQ0dNQVZwV3Z0RnQxNS1UTm5ibHBiOE45LTBhTjNieUdNcGlsbktUa0dQb0tfdGh1dmlyQzFVSUl4bmVaeVlFeHZMb294U2VONURWcEJpSnNZcExybFl6SGNrcjlFUHBIa1FoRHVWWUdiT3ptc09STW5NYm13MGVmaEN3UDBOVWxDSzA1TkszNjUwQzFVanZUT3pkNTFBX2o5VTFoWFRfSUNNYlZDLVlidXc0R21DbzQ4TXR4QnMwS2JLX3pMYXlvMDVZdVJ3YXBKZkxpc2EySmp6TlE3d2FldXZkN3ZtamVGQ2NPZldn?oc=5",
+    "date": "2026-08-15T14:17:30.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/spider20260815/231/w660h371/20260815/a516-fed3a84b161db1dfd0d5c095d7566f5d.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "POCO F9 Pro and Ultra official renders unveiled",
+    "description": "Xiaomi is preparing to launch the POCO F9 series in overseas markets, based on the REDMI K100 Pro and Pro Max models, according to a recent report by WinFuture. Display and Design Features The Poco F9 Pro will feature a 6.59-inch OLED display with a peak refresh rate of 185Hz. Its larger sibling, th",
+    "link": "https://ximitime.com/poco-f9-pro-and-ultra-official-renders-unveiled-99668/",
+    "date": "2026-08-15T14:05:23.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/POCO-F9-Pro-1-1024x542.jpg",
+    "category": "software",
+    "updateType": "update",
+    "device": "POCO F9 Pro",
+    "isUpdate": true
+  },
+  {
+    "title": "POCO M8x 5G Teased with Dual Rear Cameras and Gold-Green Design",
+    "description": "Xiaomi has started teasing the POCO M8x 5G smartphone on the overseas e-commerce site Flipkart. This new device is expected to target the mid-range segment and will launch soon in India. The POCO M8x 5G is said to feature dual rear cameras along with an LED flash. The phone’s design includes a green",
+    "link": "https://ximitime.com/poco-m8x-5g-teased-with-dual-rear-cameras-and-gold-green-design-99658/",
+    "date": "2026-08-15T13:40:37.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/POCO-M8s-1024x468.jpg",
+    "category": "software",
+    "updateType": "update",
+    "device": "POCO M8x 5G",
+    "isUpdate": true
+  },
+  {
     "title": "国补和以旧换新能抵消涨价吗？",
     "description": "国补和以旧换新能抵消涨价吗？",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREpzV2U5dktURGVtZF9BLVd4MDZmZi0wWk9ZSFhFZGwzQ1FJQnNFWXE5UnI3RlVrSjR0ajNIaFY2ZkZGVXd1NDFtSGljUTBpYnMzZkhWVDE0Wl81YUd1YmxQMHpaT19LNm5uRVJRQmhmeDgyanZETWVyaXhkUVEyOQ?oc=5",
@@ -31,8 +73,8 @@
     "description": "小米18延后发？阔折叠新机意外现身",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0FnRWYtU3l3WFFETy00WFlPMlhMYzJoUUpXeWttc1ZBdlJvSUtKZmhLdDA5bk1fNzZSSnlFckRsRURIR212aG1keHJRVUQ3Nk90T0xQQks3T1Y4QlowZk5ETzRtT3RnVlJjVm9KSDVNNHg4WE1id3g2LTIycko2andnVl9TOUlO?oc=5",
     "date": "2026-08-15T12:57:48.000Z",
-    "source": "sohu.com",
-    "image": "",
+    "source": "Sohu",
+    "image": "https://q9.itc.cn/q_70/images03/20260815/c0ea26a503984d6687eb38165321447d.png",
     "category": "phone"
   },
   {
@@ -118,7 +160,7 @@
     "description": "小米MIX Fold 5大揭秘：玄戒O3+全新OS 全面升级",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzV1l1OGpVY2QzNlFFSllXX2JsekpVUGVLUUxMc1RlMnFyNFotenR2TU9KY3VkQm9felJPS1BqZXRldVNGQmxVRVFTWHJlU1E2T2FnejZxNGg?oc=5",
     "date": "2026-08-15T10:08:00.000Z",
-    "source": "驱动之家",
+    "source": "news.mydrivers.com",
     "image": "https://img1.mydrivers.com/img/20260815/7a3e855c857e47f4a55eccc99c860c14.png",
     "category": "phone"
   },
@@ -136,7 +178,7 @@
     "description": "Holistic Cleaning Robotic Vacuums",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XTzJZVkJadFhCa3F2ZkZsTlliakdTOTRUWmYzMzl6TVpVMUphWG5rNTBIVmxZNEV6WUpKUGhGWjVZVmJ5alZOY0RmYzdpVXRpbV9scFBxTDVkbzBCVW5SdE45OFBEOFR5TUJyUkR1SzfSAXZBVV95cUxQU3I2MEVJZTJ3U3hJT2lWYThPb2h3azlxdzBJTWYtVmE0eHpDOUx4X0JSTXgtTWl2TXlhcFc1YkRIdFhFR2RoY25uTzBvbWpkb1EzU01IOC1HRDl1RTBIaWVwTmdsTU1ZR1g3SlA3Uy13Zi12VFhB?oc=5",
     "date": "2026-08-15T08:47:39.000Z",
-    "source": "trendhunter.com",
+    "source": "Trend Hunter",
     "image": "https://cdn.trendhunterstatic.com/phpthumbnails/627/627226/627226_1_1200.jpeg",
     "category": "iot"
   },
@@ -325,7 +367,7 @@
     "description": "为什么通过小米社区申请 还没有收到澎湃OS 4 Beta版推送？",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4RFB0WHd0OEloS0VrV3VCV0ZuZ0JKMDM0YWlNb3N3a3lnUmtEM3N3ZWNCWFM1eGg1UzJVejFDcC0wSFVOM0Q4MHl3N3hGZHYtTDNtZUQzNTE?oc=5",
     "date": "2026-08-15T05:14:00.000Z",
-    "source": "驱动之家",
+    "source": "news.mydrivers.com",
     "image": "https://img1.mydrivers.com/img/20260815/b2ed9d35ed5c4c0da9b7807d4701afda.png",
     "category": "software"
   },
@@ -513,7 +555,7 @@
     "description": "越来越多小米用户用上澎湃OS4：最直观感受就是流畅",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PQVFWTko2bUwzNzV0Q0JTeVZDTTFMaUxXT1VXOFNTS3JzQmszMGU4ZUk3MVVPdERDNldubU5DaTRvOTRFUHltUjVtV09NWm5FampJc2FvT00?oc=5",
     "date": "2026-08-15T00:59:00.000Z",
-    "source": "驱动之家",
+    "source": "news.mydrivers.com",
     "image": "https://img1.mydrivers.com/img/20260815/1ebadacd072c486e82602c842948e83d.png",
     "category": "software"
   },
@@ -1334,7 +1376,7 @@
     "description": "首发 | 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？",
     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WZ1lSbjdZWWRIdXFfcGNiNXllQUdHTjNic0h1X0lDcnhrUVBCZHpjUmpVYjA5TUdHRDdRQTBlUmRSSFE?oc=5",
     "date": "2026-08-14T06:09:28.000Z",
-    "source": "ifanr.com",
+    "source": "爱范儿",
     "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/OS4-5-e1786678943777.jpg",
     "category": "software"
   },
@@ -1850,7 +1892,7 @@
     "description": "New Xiaomi Bluetooth Speaker ($20) - Micro Speaker",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHQzeTEzMWJSNXc4dDgyalo1aUptLTdJa2RMWjhKbTRvdUZpNnBTejFhSDVXVklVSTdzY01VeHh5a2tzNDcyUDlIM3NyLVdGRGRrUkdSbUt2RE9teFNMNWdaZzFPb0tBa0x1bzNSU3U4VXlnN2dBMzJ3UlVna3VFNmhzYlhMQnc?oc=5",
     "date": "2026-08-13T17:51:32.000Z",
-    "source": "MyChooz.com",
+    "source": "mychooz.com",
     "image": "https://mychooz.com/wp-content/uploads/2026/08/xiaomi-bluetooth-speaker-magnetic-2.png",
     "category": "phone"
   },
@@ -3484,6 +3526,15 @@
     "category": "phone"
   },
   {
+    "title": "实探多家小米汽车门店，N90抢着问、 N70少人看",
+    "description": "实探多家小米汽车门店，N90抢着问、 N70少人看",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Yd04yU2NMSjJXUGNha3l6NlhDbGt0RkdCdHBfSEFxc1VzSjlqaWNJcTBmLWtDTUM1ZmdYbXY0Q0I5eGFVZEp4a2pTckJVS3ZTTExFUlNPT3B2eHBaWU9N?oc=5",
+    "date": "2026-08-12T09:12:00.000Z",
+    "source": "国际金融报",
+    "image": "",
+    "category": "auto"
+  },
+  {
     "title": "【爱建汽车】小米澎程入局增程，有望激活家庭SUV增量——智能汽车系列报告",
     "description": "【爱建汽车】小米澎程入局增程，有望激活家庭SUV增量——智能汽车系列报告",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Fek9Dc3NNSnUtNzQ3OVN5SzVIQXNUV1ZxSFN6NUJWb1FYQ0NjMVh0Umg5VGdOTUxMOU1lWEY1ckU5dld4SExGLTN5TWVvT0Y0Y1NramcweGY2LVU3RlVsMHhOTFRfRWZXclJyMmRLWTJlaFIyX3JhRw?oc=5",
@@ -3587,7 +3638,7 @@
     "description": "Xiaomi SU7 electric car: price, range, and release date in France in 2027",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6bDd3OVlQMzl0YWVEUk9JcjR6c0drekExbTdvQjRZVF9XTXB6ZF9NVzI5UXY4V1RBTHZJNGtMZ3RKa2k3a3F1cEViU1Z0VkZpQTgyeW5FSjRXOFJ5X3dUWHU3SHdoWF9YZEhz?oc=5",
     "date": "2026-08-12T07:16:35.000Z",
-    "source": "go-electra.com",
+    "source": "Electra",
     "image": "https://a.storyblok.com/f/236077/2000x1385/5ca10fba4b/xiaomi-su7.webp/m/1200x627/smart",
     "category": "auto"
   },
@@ -4592,51 +4643,6 @@
     "date": "2026-08-11T14:32:16.000Z",
     "source": "搜狐网",
     "image": "//q5.itc.cn/q_70/images03/20260811/4ea5d3cc8ff146c6851ec52675fc1d15.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "小米汽车：澎程全系配备涉水模式，勿长时间长距离涉水",
-    "description": "小米汽车：澎程全系配备涉水模式，勿长时间长距离涉水",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mMlVBcDV3amxTMEhVOUhwenFiYnZwYmtjaFo4SE43bjZkeTFpS3NSSzdBc29TMk82RGk0WWhHVHE1ZUc5ejcxaVA3bU1ZaFpoSlp1blN1elZGbDR4aEMwcVJR?oc=5",
-    "date": "2026-08-11T14:32:00.000Z",
-    "source": "新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米汽车：澎程全系配备涉水模式，勿长时间长距离涉水",
-    "description": "小米汽车：澎程全系配备涉水模式，勿长时间长距离涉水",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xR1BkZmtnbWJIU3BienFkQ0Zia2ZzX0R0cV9LY0FiYmswUFlCck14bXhMbXh1WHBqZHdvV0FvTzJVTXppckl5YkNQTjc2OFVMQ0lDa1pxQWhyQlJPbWtPZjFweEFqOFA2TktnbmFIMXJzT3hBYm52T1NfVW5CUQ?oc=5",
-    "date": "2026-08-11T14:32:00.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd/sni/120/w1440h1080/20260811/915e-0588effc17a4c12ac500893919dc5ecd.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi Redmi Note 17 5G hands-on review",
-    "description": "Xiaomi Redmi Note 17 5G hands-on review",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00OERUeUlxc3RZNElzYm03TnY1SWlwck5WZ3h1ZXE3X0RnODZMZExUd1pmZmhkeHh0YkV5Nk9mR0V5NjBnTVB6cnNORGNWZUdwZkhDZlhSbTZhRVd4ZWdYX3ZSNFZRbGFnLVN1OVN6RVE3OWpK?oc=5",
-    "date": "2026-08-11T14:24:14.000Z",
-    "source": "GSMArena.com",
-    "image": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-redmi-note-17-5g/hands-on/-728x314/thumb.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "雷军现场仔细讲解刀片电池，宇航级热熔胶防千度高温像贴膜样隔热！网友玩梗：王传福暗自想，他怎么比我知道的还多啊",
-    "description": "雷军现场仔细讲解刀片电池，宇航级热熔胶防千度高温像贴膜样隔热！网友玩梗：王传福暗自想，他怎么比我知道的还多啊",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZXdURkhlaFNraDQ4b1dZTnlmQXRPczJodWdKeUJJMlhqbWtTc3ZpNjVLSFNGT1Q3a2Y4ekdrYWlral9ueXBWZ1gyUUdVVUczY1V1cmVCQ05YeHNXWmRkSGxySGp0TlRNRDdNWjRsUQ?oc=5",
-    "date": "2026-08-11T14:08:32.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "小米汽车su7售价多少：三大优势助力智能沟通新生态",
-    "description": "小米汽车su7售价多少：三大优势助力智能沟通新生态",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9veGlfblYzLUszTEhINGpfeFFQcnItSHdaOXZkOUVaS2ExLWJneEJlNk02alh4WlBSenBUd1BmaXV0M29vRVU3cnBWSTJrdFFQLV9ydXdpUm9fazJ6aEE?oc=5",
-    "date": "2026-08-11T14:08:31.000Z",
-    "source": "格隆汇",
-    "image": "",
     "category": "auto"
   }
 ]
