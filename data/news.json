@@ -4,7 +4,7 @@
     "description": "小米在AI领域的大规模投入预计何时能带来回报？",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZ3VGVEFFcTVLcnBxR2xMZU1tWjktcDlFMnlsUzNPUGUxc21HZXlsMTNCSlc5MXZJb2g4ZG5HVExhcXU3UnBsd1M0RjFJSmY0Tnk1U0xUX25WTVZiOEtQQXdNM0lhbUZ1d3B3NFctd1VZZjg3MzR3Z3hIamlVZkE?oc=5",
     "date": "2026-08-18T20:04:16.000Z",
-    "source": "新浪网",
+    "source": "k.sina.com.cn",
     "image": "http://n.sinaimg.cn/sinakd20260819ac/284/w690h394/20260819/3bc9-0387703ceb91fab686e8f3f36678cdaf.jpg",
     "category": "iot"
   },
@@ -274,7 +274,7 @@
     "description": "雷军汇报小米Q2业绩，手机高端化见效，汽车AI仍在“烧钱”",
     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LYmlKZlhYOGV0aUFxUWFtaDVBQWx2d0YtUFJLMDlmcDUxY0JwQ2VYMklYZjNUeGJ5RFUyWGt5T0hNYnlCeEE?oc=5",
     "date": "2026-08-18T13:53:28.000Z",
-    "source": "智东西",
+    "source": "zhidx.com",
     "image": "",
     "category": "people"
   },
@@ -699,7 +699,7 @@
     "description": "Xiaomi Profit Dives After Memory Crunch Worsens Downturn",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUk9WcWVEVGVIR2Nwcm9IQWRpM2tLV1BaRjNUaVd5cUZkT2VNc1FfRFNKa1l0YnI2Y2RLQzE3aUFMQ21oQ0pqVGo5T0UyVWtyRE1ZNGJBb1VpeXpEa2FTMnhkbkYzQlFNVnZRMjhmSl8zU2VGc1VYZXBWNDVLU0Z1WFRnLUxNY2FyZG9IN2ZjaUpqQ1NlUGFiWGE3YTlueGs?oc=5",
     "date": "2026-08-18T11:21:59.000Z",
-    "source": "Yahoo Finance",
+    "source": "finance.yahoo.com",
     "image": "",
     "category": "phone"
   },
@@ -758,6 +758,15 @@
     "category": "iot"
   },
   {
+    "title": "小米二季报：经调整净利润为何同比暴跌42.6%？",
+    "description": "小米二季报：经调整净利润为何同比暴跌42.6%？",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbVNwazIzTWZQcFRfWU43am1sZmJEWWRCaUpSUGFOamdmTWg5N3Z2RGF0eE01dWxUbXBUM3B2MXoyUDQ2c3YzOFUxeFk4bU4yb3hnRlBRdUlGNy1HN3VDLQ?oc=5",
+    "date": "2026-08-18T10:56:07.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "phone"
+  },
+  {
     "title": "小米卢伟冰：下半年存储涨价或趋缓 小米将有旗舰手机和澎程系列上市",
     "description": "小米卢伟冰：下半年存储涨价或趋缓 小米将有旗舰手机和澎程系列上市",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySHVXSnJNcHNvSmp4QmZVbnY2emlzaXJtTjIyYWFQdU5oUmU1cEI2NEcxTHVQSFhXc3RJNnIwZzZVaWtmTHdJVFlETlpvQzVoVlZVQjhneUtmRFAtMWVTQQ?oc=5",
@@ -771,7 +780,7 @@
     "description": "Xiaomi HyperOS 4 正式发布：三大方向升级",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Da2p6VDFlWHBlVE5RUmRtbkFXOTIwRWZZV3I5aHE3c3pidVB6cHpycjJpbjhucU40RzVDX0FkWnZCbFUzbEo4c0I0R0NjalhWUDZralZMLTI?oc=5",
     "date": "2026-08-18T10:51:00.000Z",
-    "source": "驱动之家",
+    "source": "news.mydrivers.com",
     "image": "https://img1.mydrivers.com/img/20260818/S04cbb4fd35c14a5f8943f94b3b71fe68.jpg",
     "category": "software",
     "updateVersion": "4",
@@ -946,7 +955,7 @@
     "description": "小米单季营收1089亿，手机卖了421亿",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTRl9rUmNYRkRXN0tmZTk2R044djE5UmFTMUtQbFJ0QlhBY0Jha1JYdGEwWnM3aGtMbm9MLW02X2JxeFk3VVB4UFNoczZrMnA5RmhZVThZSzIwTi1rNGp5TWsyZ3o?oc=5",
     "date": "2026-08-18T09:52:00.000Z",
-    "source": "guancha.cn",
+    "source": "观察者",
     "image": "",
     "category": "phone"
   },
@@ -1277,7 +1286,7 @@
     "description": "Xiaomi SU7 deliveries surpass 500,000 in 28.5 months",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2pHNHlNT291ek5WblpQRUZmTDNoRFVWV1hiTDRtRWppb0Z6eUhsRk1KN3JQYmFNeWdIR0d4SkIyN08zVV9rNUlPWXhFb2NfcmJVVUQtN3JJSVFjdDJrdFBCbnNUM3M0a2lJVlVsOGRPak01UllHb2trR1RCTWltSmd2eU1SNHRhVGFrZg?oc=5",
     "date": "2026-08-18T05:45:18.000Z",
-    "source": "technode.com",
+    "source": "TechNode",
     "image": "https://technode.com/wp-content/uploads/2023/12/008AGV4Yly1hl9cznotg7j32801o07sj.jpg",
     "category": "auto"
   },
@@ -1964,7 +1973,7 @@
     "description": "Xiaomi (SEHK:1810) Stock Looks Reasonable On Earnings But Cheap On Cash Flow",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVpIaDJOcVdITEZ4V1FXaVI3WWRwcWdOR0RrLXNLREZHSUxEZko4SUpISlE4RmJSa0dNdzdubHJQWlpvdDJ0M0R2NWFmY3htcjR2UmpKbjc1LXo5ZVJESjJ6enh2SEJfakMySFBrb3k4TjNPVGdoMEgzZHVzREZGYnJuZlY1X3o2Rm4ycWtfR3RHNF93NU9Mbg?oc=5",
     "date": "2026-08-17T12:09:35.000Z",
-    "source": "Yahoo Finance",
+    "source": "finance.yahoo.com",
     "image": "",
     "category": "phone"
   },
@@ -2816,7 +2825,7 @@
     "description": "Xiaomi (SEHK:1810) Faces A Valuation Test, Is It 38% Undervalued?",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXhrX2VKQ1hKTE5yaUdKanNWNFpnMGE2UUlTYVRlWFZfeFJBT0pDeHY4WEdVbHJZblNuaVBFOFNlbksxUFRNeU9mV0F2T0lxZ1NtTU1iQjJ1dFE1RldQeVRXY0R5aHlhWF9UeG5tcVFPc1V2TS1hSXBtYTZDaUNqQlF4SFlBQVhkM0Z5dGh4Q1d0eTM3X2dZb1U0ZXVpdw?oc=5",
     "date": "2026-08-17T00:14:00.000Z",
-    "source": "Yahoo Finance",
+    "source": "finance.yahoo.com",
     "image": "",
     "category": "phone"
   },
@@ -4567,14 +4576,5 @@
     "source": "新浪网",
     "image": "https://n.sinaimg.cn/spider20260815/554/w600h754/20260815/cf29-c847cf61d982902dc42f42af9907299d.png",
     "category": "people"
-  },
-  {
-    "title": "质量好的手机推荐哪款？华为Mate80/三星S26 Ultra/小米17 Ultra三选一+FAQ",
-    "description": "质量好的手机推荐哪款？华为Mate80/三星S26 Ultra/小米17 Ultra三选一+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iQ2dmbVY1akRXZG9BaVRPY2RldE5vZ2JmdjBIb2NZVDMxVjFIUE5lWVhSaW96VGthTk16R0FSV0hoVVFsaTFNTkhmTDNndWROeW0xa3FiN0VoU1JoMWtVc3BMUTIyUDRBd3cxajYyNHpuZw?oc=5",
-    "date": "2026-08-15T06:32:09.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_020.jpeg",
-    "category": "iot"
   }
 ]
