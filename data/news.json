@@ -13,7 +13,7 @@
     "description": "小米17 Ultra系统更新能撑几年售后方便不",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaHpYamtkaDN0VDQwcXZDWWhENmZwWGVyM3o5YXV3UVFtNXBMcFJCOXN2bjVuZjVkOHJBTHlMYVQ3emlBcnVmV0ExbVdTZ1l6QUFvOTZnMk4tTDQ1cjh3V2pmMWNaSVVBemZmYkk1cHVPM0I4SWtLNmo0ZzhQYVJwcQ?oc=5",
     "date": "2026-08-18T17:03:00.000Z",
-    "source": "k.sina.com.cn",
+    "source": "新浪网",
     "image": "http://n.sinaimg.cn/sinakd20260818ac/217/w562h455/20260818/b8c5-0c5eea5978683375597448da2b80c370.jpg",
     "category": "software"
   },
@@ -41,7 +41,7 @@
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ieFNzZFk2cFBfYmdDejV0eWdpU1BKSkdQOWtCNG91ZjVFbVlicEc0YUNKWnJ3S1VJT2JjMXRmSGx4R29GcmVfYnBmNmgxaGp1a1k3VXQ5SW5YOWZvTW5KRg?oc=5",
     "date": "2026-08-18T16:30:07.000Z",
     "source": "东方财富",
-    "image": "",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
     "category": "phone"
   },
   {
@@ -81,6 +81,15 @@
     "category": "phone"
   },
   {
+    "title": "雷军正式官宣！小米新一代玄戒芯片即将发布",
+    "description": "雷军正式官宣！小米新一代玄戒芯片即将发布",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0tDeGk3ZHhVOElQa0tMXzZqb1ljRGJRcUJQUTlOd2lhM3hPTUVQaUc1eDNLYTBWcU03RUNWWUpkZmVPQmR4LUVnRHlrWlNMT3VwejRDY2NKM3ptN1FzV1R4cGFNOXptOHkzbXJSMGxxa195eGZnTVJsZGc1NWppaA?oc=5",
+    "date": "2026-08-18T16:00:17.000Z",
+    "source": "新浪财经",
+    "image": "https://n.sinaimg.cn/spider20260818/740/w660h880/20260818/2dc5-cd28c18c238c52afe5159dd8a9638688.jpg",
+    "category": "iot"
+  },
+  {
     "title": "小米集团第二季度营收1089亿元 总裁卢伟冰：小米机器人首秀定档，新一代玄戒芯片即将发布",
     "description": "小米集团第二季度营收1089亿元 总裁卢伟冰：小米机器人首秀定档，新一代玄戒芯片即将发布",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rTWNjN0x5Q3k4bTYySVRCYldWNTZEM1p6cDIxWmFmMzM5M21iYmJLUUkxT0pLVlR6NWlwQm4zRVhEQUtOdFF0Rndxb3hfbU5ObWgtLURqWEFZSjlnMlVLLU5CY2FZZw?oc=5",
@@ -117,15 +126,6 @@
     "category": "ai"
   },
   {
-    "title": "雷军正式官宣！小米新一代玄戒芯片即将发布",
-    "description": "雷军正式官宣！小米新一代玄戒芯片即将发布",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0tDeGk3ZHhVOElQa0tMXzZqb1ljRGJRcUJQUTlOd2lhM3hPTUVQaUc1eDNLYTBWcU03RUNWWUpkZmVPQmR4LUVnRHlrWlNMT3VwejRDY2NKM3ptN1FzV1R4cGFNOXptOHkzbXJSMGxxa195eGZnTVJsZGc1NWppaA?oc=5",
-    "date": "2026-08-18T15:04:10.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260818/740/w660h880/20260818/2dc5-cd28c18c238c52afe5159dd8a9638688.jpg",
-    "category": "iot"
-  },
-  {
     "title": "二季度小米新车交付量同比增长28.2%",
     "description": "二季度小米新车交付量同比增长28.2%",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50bzVtNi1hOGJOWDNJRHRnREJWNXZ5MlVueU9sLXpPYnl2X0dfZWVOcHVhN2Y5VFRGX1JJS3pGby15QzRINzRRUnd3Qnl4UlYwY2NoSFBKVGdYcGdWaEJfQVkzSQ?oc=5",
@@ -139,7 +139,7 @@
     "description": "HyperOS 4: Xiaomi Reveals Which Devices Will Receive The Soft Light Glass UI",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUtEUlVvdE9BY0tEYnN6aklSYW8xVVByd3F5X0hTWHY1eUdIdExTQkRrTDFGUVRRU0VJMHZNaTBOSmg3RUJCYjNaM0V0RERJMndCeUhONWJuZk1haHc3b0h6QWZYdWV1STB6R0ZQRlVjR0NOT2xtOG12d19ubFk0eWNIOGRSX29CbU9ZcHEwaVJESkVMbHNadmZldWNxVmpXMEhid3JvTWdCYkVBdUNZ?oc=5",
     "date": "2026-08-18T15:00:46.000Z",
-    "source": "Ubergizmo",
+    "source": "ubergizmo.com",
     "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/08/Xiaomi-HyperOS-4.jpg",
     "category": "software"
   },
@@ -225,6 +225,15 @@
     "category": "iot"
   },
   {
+    "title": "卢伟冰：新一代小米玄戒芯片即将发布，一系列旗舰产品会密集上市",
+    "description": "卢伟冰：新一代小米玄戒芯片即将发布，一系列旗舰产品会密集上市",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PMTJDVUJ2dWl0OXZaZWN6b2NJYWs2WS04d01RSnhtUVNCcWdUMGdnX0xMTmQ4QVR5NTg5SnhmeE9HNnExTVJOaDdtbnl2LW1sbFJ6eFljbnF5T3RDdVdmZTVPdnc?oc=5",
+    "date": "2026-08-18T13:41:17.000Z",
+    "source": "新京报",
+    "image": "",
+    "category": "iot"
+  },
+  {
     "title": "业绩稳步爬坡、内生韧性凸显！小米集团2026年Q2营收再超千亿",
     "description": "业绩稳步爬坡、内生韧性凸显！小米集团2026年Q2营收再超千亿",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHJpMTdyWE5aYTk3NlVFaHltRnNXWHQxNHhHU3J5aEpMU2lJRThDWVBlQUdHZkJEU01LNm1TdFYtNFBkSnoyQWtrQUpSN1cwQkR5aTRkMl9JV2xwWXNGVGl6SU44bzhNQ3ZEVGF3RlNkM1R0cXVpTnJQTU1RMmhPanZJM0RhTEEt?oc=5",
@@ -238,7 +247,7 @@
     "description": "小米 CFO 林世伟：MiMo 首款个人桌面应用即将上线，新一代模型也在训练中",
     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVG12QTBNSnRyOE05bGkxSEw3aDBocFhuQkpaZEtKV0x1eGV2dmJNSWlRb05Nc3c0REgtMl9jY2xYWEo3RjlKN3lYR0s5X2U2VkNnT3NFaExSOHA3RHJSR1BjcDlmS3BGaUkwYS1VeXdLOGhrbzItaHhxemVmVHZwemRNeHpHVWZkUnhTVTY5T1VsS09KclAxUGIyWFZjSUZJVmFveW56WDRxYUFzeDJLRzlid1plbC1VRVI0NEJpM0J2NHZYZXVUM3VyQU1scmF3a19xR0I5bmlBblNNeE93emRyZk0tZno5YVpKdXRLRHhyQzZveDRHSXA4eDZvSVVUQ3lqeU5IVmNrdTFubF9BaXZuWQ?oc=5",
     "date": "2026-08-18T13:28:54.000Z",
-    "source": "tech.sina.cn",
+    "source": "手机新浪网",
     "image": "https://n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/xNFq-fzihnep5208691.png",
     "category": "iot"
   },
@@ -407,12 +416,30 @@
     "category": "iot"
   },
   {
+    "title": "【图解财报】小米集团-W中报盈利141.86亿人民币，同比减少37.86%",
+    "description": "【图解财报】小米集团-W中报盈利141.86亿人民币，同比减少37.86%",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzeVdUS2FyX3N0N1NYZzQ3Y2VpaDFHOFBvQXRsWkE2TzFsYXdmbVJuTmYzbEloRk1pVjhGZnVwSjBRM0p2ZURUZC1HQS1Cd1NjMkJaYUJTUXlocnBUS04zbg?oc=5",
+    "date": "2026-08-18T12:36:05.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "phone"
+  },
+  {
     "title": "小米汽车二季度营收超240亿元，亏损收窄！55万辆年销压力仍在，小米澎程能否突围？",
     "description": "小米汽车二季度营收超240亿元，亏损收窄！55万辆年销压力仍在，小米澎程能否突围？",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQWpNclYyc2QtbHN6RlNNNE5KMjZXOHo0dmpEWXJEUUVpaGtmYVltOFFVWjBZNTlNZzVPajA4Ymg4Y182QzBfYXNNT0V1cEhzbXN5OS1SaW81WEl2YXhnX0hMdE1ZMWFkNE5ZU25Td2ZlaWk0QzFIa3Y3NjdOLTVvbWJvLUF4QXQzdjdLMHRxVVp3NHMwNDdxRk5yMmN1NmhNNmphaEJTcFY5b2FreWo4ZTVsQVFpZUJZMmYzUjFITmNCVmZvWkZGZ181b3Q2eGxjMF9JdU1mLWhFT0E5?oc=5",
     "date": "2026-08-18T12:34:00.000Z",
     "source": "手机新浪网",
     "image": "http://n.sinaimg.cn/spider20260818/130/w660h270/20260818/6e82-0a6a6287639681987f36e8068afb8ead.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Gasgoo Daily: China's Auto Exports Jump 81% in July; Pony.ai's Robotaxi Revenue Surges 691% in Q2; Xiaomi SU7 Deliveries Top 500,000",
+    "description": "Gasgoo Daily: China's Auto Exports Jump 81% in July; Pony.ai's Robotaxi Revenue Surges 691% in Q2; Xiaomi SU7 Deliveries Top 500,000",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaV9lek11a19XTE1fSXBBMFZsU1pVbEU0LVRZM19kMWdnZEh4OXBvMEFJQW9ObTNfdHlYNUFwZU9yUW94c2hVREF1eS1obHJZejlHSExWOVdudFVKRm5hX21MdTVEUDZCeEdSNmZBdWZXQl9Vc2xOVDlsVWFERzh3YnpmanZUNjZQOElUN0RjTUd6cEdqLTkyOHhzazQyNUtPZ0NvRmRST3Rabl9HUXFDR3RvRmthVnhtRTA5RllmNDJnQ3V1WmQ3S2RRMG1nMi1lUGhqaUdXeUozNWtIQUl2MU9OWkQtMzVwTU1yWmkwR3VRTm5jZ0k1c01zRDVRRlFSV3Q1LVR1bkl0NUQwRExoSW9KZw?oc=5",
+    "date": "2026-08-18T12:30:34.000Z",
+    "source": "Gasgoo",
+    "image": "https://imagecn.gasgoo.com/moblogo/VideoLogo/1920_1080/2026/8/20260818082413.jpg",
     "category": "auto"
   },
   {
@@ -486,6 +513,24 @@
     "source": "华尔街日报中文网",
     "image": "",
     "category": "phone"
+  },
+  {
+    "title": "小米上半年经调整净利润122.91亿元 同比下降42.8%",
+    "description": "小米上半年经调整净利润122.91亿元 同比下降42.8%",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OeS1uUWMwYnBJVTdRaHRhZnRYNlFndjBqUnJ6NjJxeVlKZm5HNXFqM2ZoLWVFY0tHWWJ4S2lnTHdLZS1EMmdGYlhrM0FxZw?oc=5",
+    "date": "2026-08-18T12:08:56.000Z",
+    "source": "观点网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米二季度智能电动汽车收入239亿元 创新业务收入同比增长17.1%",
+    "description": "小米二季度智能电动汽车收入239亿元 创新业务收入同比增长17.1%",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ueVNuVXpPemhnS0lDMmNDYzhEUlE3aVh2THUtbDJhVkFwZHlYQlh0Ynh3dU4yRjh1YnFWd3ZYOHk2M2ZENlZtZXZhb1FJR0Z0Mm53Ylh4WTVWakIyWXRRemJB?oc=5",
+    "date": "2026-08-18T12:07:31.000Z",
+    "source": "观点网",
+    "image": "",
+    "category": "iot"
   },
   {
     "title": "Xiaomi’s next phone set to smash European battery records",
@@ -647,7 +692,11 @@
     "date": "2026-08-18T10:51:00.000Z",
     "source": "news.mydrivers.com",
     "image": "https://img1.mydrivers.com/img/20260818/S04cbb4fd35c14a5f8943f94b3b71fe68.jpg",
-    "category": "software"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "stable",
+    "isUpdate": true
   },
   {
     "title": "小米MiMo-V2.5周调用量登顶OpenRouter 达10.5万亿Token",
@@ -861,7 +910,7 @@
     "description": "Xiaomi Profit Falls After Memory Crunch Hits Smartphone Demand",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHJHN3l4T1hSeWp3VlQ2eXZ2VXdiOUdZeWpUN1Frdl8zRFZncWxQU1p0QnZ2clBUQ2FZcE5mbVctUTRsSnIydDJFcDNUUVJoLXNENTNpaUFzOTZSQzZBbkJmdV9IdXdxVERGRGFocDhSMXY4MnQ1YzdaRURRR0tQWVNpSFpPd3BjQkRTT0N2XzI3TVFxaFd2bUZVVE5SWkVuYzVGdXVLTmUtM0xJSkRwSEFSWQ?oc=5",
     "date": "2026-08-18T09:38:19.000Z",
-    "source": "bloomberg.com",
+    "source": "Bloomberg.com",
     "image": "",
     "category": "phone"
   },
@@ -1462,7 +1511,7 @@
     "description": "Xiaomi Earnings Key to Extending Stock’s Best Rally In a Year",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWhfWm83VnVWOHRwVXJjQ01XV2pVUmJOLTZ6Qm50WUlBTWFDNzlOdkN6ZDdYbDYzamNSeWh1MGk3QjhoTEF3c003MGFmMWRnb05WVERmLXJva2pzY2ljRnZOWG81bTJnYTJtWWFQNHl4ejRNZ1B1WEg5X0JEOWpvcDdxdmVqZzVqSEk4MU5DM0RuVnAycVhPWDdmb3FSbS1MQ3RHNHRNMTdoeDNPdjRCb2Vn?oc=5",
     "date": "2026-08-18T00:00:00.000Z",
-    "source": "bloomberg.com",
+    "source": "Bloomberg.com",
     "image": "",
     "category": "phone"
   },
@@ -4526,55 +4575,6 @@
     "date": "2026-08-15T04:58:13.000Z",
     "source": "新浪网",
     "image": "https://n.sinaimg.cn/spider20260815/550/w820h530/20260815/3775-d775397e9a67eee15178e57d472c4957.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi HyperOS 4 Beta Starts Rolling Out",
-    "description": "Xiaomi HyperOS 4 Beta Starts Rolling Out",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxSG1YcjFsV052NjBJajBOWjBHQ2l0aWFKMkRrMUxoZUVtaHVXWnFTN1htQ3ppcnh5ZlY0UGRhcThKZERUREVDX1B2cF9CYjRDd2VOZVR4MVNob2JIeG5vZ3F2VTdHSkV4ZXpkSFJVa2ZvbEhB?oc=5",
-    "date": "2026-08-15T04:43:11.000Z",
-    "source": "ManilaShaker Philippines",
-    "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/08/xiaomi-hyperos-4-beta-starts-rolling-out.png?fit=848%2C494&#038;ssl=1",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "beta",
-    "isUpdate": true
-  },
-  {
-    "title": "碰一碰传文件手机有哪些？华为/小米/OV等5大品牌支持机型全对比+FAQ",
-    "description": "碰一碰传文件手机有哪些？华为/小米/OV等5大品牌支持机型全对比+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zaW5SS2pxclZEZnNHWVJjb1dCY2tYOXE0a2ljMUlYLXdqT0F2U0dobnQwMktnRGxIYUFyOHZWNDVCczlCalJFNFFFWWZVREx5ZThzVDVxX0piMWhCam5uai1haXphTmNTV20xOXVQR1ZRQQ?oc=5",
-    "date": "2026-08-15T04:41:35.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_010.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "比劳斯莱斯更高级？小米升降车标专利曝光：两个车标自由切换",
-    "description": "比劳斯莱斯更高级？小米升降车标专利曝光：两个车标自由切换",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSkJNQ0VSdGJHYkk4OFFNa2JXNkVqRncyMGlyWGZ2N2xSdUV1YWtIUFpEMkVSeFBRSkVZUVFobENsMWlUN096b2dMVlNxVlJISjRUenpVbUNVWm5ZdXhpdVBnQy1iQ0pJNFhrdVNQXzZpTEdFdmVSdU1EcHNQbW9vNjUzOUxRVWl0OVVmVjZNRi00Y21la2N3a0ZhcElVYUUtQTE4MU9vVFJQMXA5aGdveWJVejZ5djRYSnVaYzVBbDlFV2pHdGNBNkhLMkF0QlFwckI1eW5kVk9aeVV5Qm1DVmo3M3VLbWl6M3AzNVRNWlRIOWs4NVhtRHVUcndFdw?oc=5",
-    "date": "2026-08-15T03:45:00.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/kHEh-fzihnep5208598.png",
-    "category": "phone"
-  },
-  {
-    "title": "有AI功能的手机推荐哪款",
-    "description": "有AI功能的手机推荐哪款",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVV9uT3VVSmNRczhhelRFUUNYQkh2SW1kbGZRd2J2SFpDc3ZObG1LcTNpWXZkQ3BWcFBWZENkZE0tcHpFQVZIbkNXRjVkSXFzZHJxTlJZck00MFRxN2ZhOE1Cc01OWmR0NXp2bFRVdEFqSWFtVlJQTDF1c01ZT0RQUg?oc=5",
-    "date": "2026-08-15T03:22:16.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260815ac/350/w690h460/20260815/3e3e-deb57733c9f1eece7399af8e8f5e1bbc.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "比劳斯莱斯更高级？小米升降车标专利曝光：两个车标自由切换",
-    "description": "比劳斯莱斯更高级？小米升降车标专利曝光：两个车标自由切换",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sRHZHTGtfdU5lX1hIcTlpYTlQaVZiRFg4MmM5TndpeldITFRRaVd0N3pOMjZQV21Ib0ZKNkw3dTdGTTA2aURyd1diVEt5MmI2aURWbkJqcXg1MmkwTXlDeGFCZDB1QzRnM1U4eE5ZQmJ6a2RUV0VTcXNSSEVGUVk?oc=5",
-    "date": "2026-08-15T03:06:00.000Z",
-    "source": "新浪网",
-    "image": "//n.sinaimg.cn/spider20260815/553/w1053h300/20260815/8f4f-b0fbdac8afa250bd4e43ce0e4b014dca.png",
     "category": "phone"
   }
 ]
