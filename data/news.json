@@ -1,5 +1,54 @@
 [
   {
+    "title": "小米半年报：雷军失没失眠我不知道，但这数据确实让人睡不着！",
+    "description": "小米半年报：雷军失没失眠我不知道，但这数据确实让人睡不着！",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0RES21Zbl9SMGI2eERqem1nNkhaSlltd28wMS04Z1ZybG10T09hT19zaG5VeDE0akhNSVJ2enUybUNwYzZRQ0JZY19YMWw1eS1jWnh5RjZOc01abjdqa25BdHlxUVcwVjVuM2k3RlNrcXJ4NFNyWEZtTGNmT2hXZnowQQ?oc=5",
+    "date": "2026-08-21T15:26:53.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260820s/581/w856h525/20260820/1bd6-c2ab68f76efa6f89fdf9c6bd1b9d7e91.jpg",
+    "category": "people"
+  },
+  {
+    "title": "Xiaomi releases HyperOS Launcher update 8.01.02.5378 with key bug fixes",
+    "description": "Xiaomi has released a new update for the official HyperOS Launcher, part of its HyperOS ecosystem. The update, identified by the build number Release-8.01.02.5378-260807-08171729-R, focuses on resolving bugs to improve stability. Update Details and Installation This HyperOS Launcher version is extra",
+    "link": "https://ximitime.com/xiaomi-releases-hyperos-launcher-update-8-01-02-5378-with-key-bug-fixes-99837/",
+    "date": "2026-08-21T15:14:31.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/05/HyperOS-4-Launcher-1-1024x512.jpg",
+    "category": "software",
+    "updateVersion": "8.01.02.5378",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Eleven car brands, including Tesla and Xiaomi, affected by record wave of recalls in China",
+    "description": "Eleven car brands, including Tesla and Xiaomi, affected by record wave of recalls in China",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdV80TmxkTzNIZHJVS1c1d0xicGNmQkJaSEpZZlgzRV9RbUFaaTA1SFYtdkFVdUZfNDNLUkxBMm42WWFPTV91RDBLeEt2b1lpWTFRdVNkdEthSTltOW5YQURHaDFrT2Z4U3kyZEdjd21XOU8ycjI2Z0FfbGxOb2EyekRuZnk2VGtaUHY5Um1pWlZVRENVTWQxaFNaZXZobU9CdjR4emRsNWoyYmZ1ck5ON1V0NGJ6VUJpM3JrV0d1ejhoWkpKck1mcElJOXpueTlsSTdhdE93VWI?oc=5",
+    "date": "2026-08-21T15:01:04.000Z",
+    "source": "L'Orient Today",
+    "image": "https://s.lorientlejour.com/storage/attachments/1546/2026-08-21T121251Z_1740266024_RC2AOMATIFGF_RTRMADP_3_CHINA-AUTOS-RECALL_131660_644601.jpg/r/800/2026-08-21T121251Z_1740266024_RC2AOMATIFGF_RTRMADP_3_CHINA-AUTOS-RECALL_131660_644601.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "Are You Safe? These Budget Android Phones Could Be Hacked With A Simple Video Call",
+    "description": "Are You Safe? These Budget Android Phones Could Be Hacked With A Simple Video Call",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQczVUUVVFX3FYaHdYaDlkTzg3bzdJSmdDSkpxNFZXVExWTDcxQVNndDdtcmlYbXR2RTFEaVFwUFJIS3VRMUtKNUhobXRPYkxOaFRuTENRY3RxTk5PcUVuQ0U1by1SNk1kblQ0STNCRmF6VHU4WXVDWTJxcnpIemZqYXd6OTlBOGNnc1pnV0g0Y2cydEJfdHFEVUl3aUI3NmNnUHV0OWdEb0VvMml1M3NFREpJUFQ4OFE?oc=5",
+    "date": "2026-08-21T15:00:59.000Z",
+    "source": "Ubergizmo",
+    "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/08/Android-Budget-Phone-scaled.jpg",
+    "category": "software"
+  },
+  {
+    "title": "Massive recall in China affects Tesla, Xiaomi and others",
+    "description": "Massive recall in China affects Tesla, Xiaomi and others",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZnJWYjlCamFZVmZoZmdzbDFuSGtCY2lKR0hCREItbW9vMkJ6bV9BdEJTU2daYjNoTl9BRF9Xc2ltc3J0TGM5UEpDUUxJYkF5a1hfbkllVWFGQjEyOTA5WU40OEp6b2hGVG5xbUFFMVQ0OWR1ZjRSWHpBbUthbzc0S1lmQjNqWFYzTWVVcEJTd1BsRXFlVVk1Sw?oc=5",
+    "date": "2026-08-21T15:00:00.000Z",
+    "source": "electrive.com",
+    "image": "https://www.electrive.com/media/2024/04/byd-denza-n7-produktion-production-china-2024-01-min.jpg",
+    "category": "software"
+  },
+  {
     "title": "雷军称小米机器人动作非遥操自主理解执行",
     "description": "雷军称小米机器人动作非遥操自主理解执行",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oZHBZV0JneHBSMWY5eUYyRUM5YWhEbmdJX294ei1Ca1RNX0QydVY4V1IzdWNqdklFR1kyb0tCdEVVMURNZXgzZEthV0oyM3BxV1NYdVk0MkNSYWhtdDU0Y0pSTGxiVnROUWY0OTlyR3otYWRUVzJVYlptNGt1dw?oc=5",
@@ -225,6 +274,15 @@
     "category": "software"
   },
   {
+    "title": "小米机器人，闷声干大事",
+    "description": "小米机器人，闷声干大事",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmZUx1c2lGdEN0SzI4alprWnZOLVdOUGI4NlA4MzlleW8ycU43eFhnZnVXcDVXV29iOEpRYkZaTHdXcWpFWWhjNGRRZTJkZDdOUlNYUndadmxBVEt2S1pYY01DNDZqRUhXWVlYQ1N6WGVFcjNBS2VuYTUxQ1I?oc=5",
+    "date": "2026-08-21T10:34:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260821/779/w660h119/20260821/0f58-7c89302867056b063dcace005581148f.jpg",
+    "category": "phone"
+  },
+  {
     "title": "Xiaomi posts further loss in Q2 with its EV division",
     "description": "Xiaomi posts further loss in Q2 with its EV division",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUtqTURjMkRSRzRwN0lnV1F4c213NDJYUFpoVlI1NWxVbWQzcnZaWkJ6VW9qemxySGo5T2p2OGl6UkhPTVhLc3VfODUwQVBNeHN3dm1LTWNpNlFvdU94THNqdlVJMkRGQ3F3Qy1pRTVCVWQ5YllQNDBId25HV0EzOF9UamIxaVZRODdiWV9NcnMyVVlP?oc=5",
@@ -256,7 +314,7 @@
     "description": "【网通社快报】小米汽车召回逾33.9万辆2024款SU7纯电动车",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50QTJ5am5aamFHVFpfWjA1dE0xQzdHS0JuNVVGU2VDQ09BcU9pdFF1MjdseFdjYUx1Mmltei00TkxURVA0aUNsOGNBM0I?oc=5",
     "date": "2026-08-21T10:14:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/AFE3F9F38739135EAD527BBFCD0E92F7A0E7BBB3_size111_w1365_h910.jpg",
     "category": "auto"
   },
@@ -364,7 +422,7 @@
     "description": "预售29.99万元，小米澎程N90成都车展首发！7座增程SUV，外观大气",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWWkdPRkxRN1J0ZWduRFhiREQ2aGtoc1c5Um9YWXZaZ1dmQmhOUnI4NnFLX0VZRUJMLUh5a0RfTkx3dUdDTF91aHBOUnE?oc=5",
     "date": "2026-08-21T08:10:24.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/EB86CC6A3F169C8F3AF2E535C954EEC84AEDD9DE_size48_w720_h380.webp",
     "category": "phone"
   },
@@ -4506,60 +4564,6 @@
     "date": "2026-08-18T08:58:00.000Z",
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260818/3f50112ddd884bcb80c06401ac8dea23.png",
-    "category": "phone"
-  },
-  {
-    "title": "Redmi K100 Pro Max and K90 Pro Max have a secret second NFC antenna",
-    "description": "Redmi K100 Pro Max and K90 Pro Max have a secret second NFC antenna",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmtOTnVsc3oxbTlnY0lwQ2lCM0gwRWxRMGlROEotY0lTYWcyeFllaFN6cWVNWThYamIyaFVEZi1tZ0N1M0p1QTFldTkzZXkweVhYWlZmT2Q4X2x1SGpWYzJvMDNWQzFodjAyNGs4ZUNYOExDZEtoaFZIbXhJRzhfSDFmUUVHaEFvbHF1UE55amZ2Vjk5aWZuQndKNEtpY1FJ0gGmAUFVX3lxTE9nX3lfLTFvNVBjRlJTUTRFMTlnQ01wRUhmajNhYWxrdlJESHI4YjJjQnRiM2tQNDM1eGlHbWoxZWdYODF5a0JOZmV3Q1VhdS1wT05pQ3FsZVc1QnMzekpXM0R5NlJyLW9wX0hKVmcxVmRmdTlCMVhrc0lXX0MtY01BdWhhSlg4Z1BsOFMwNkVvNjhoaDRja2hJQUJxVUF3bldhUlU2dHc?oc=5",
-    "date": "2026-08-18T08:46:10.000Z",
-    "source": "Gagadget.com",
-    "image": "https://gagadget.com/media/cache/8c/de/8cde5ff57a41c3a108b82e8492d406da.webp",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi Redmi Watch 6 Lite and Active Surface With Budget-Friendly Pricing",
-    "description": "Xiaomi Redmi Watch 6 Lite and Active Surface With Budget-Friendly Pricing",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVndNQXNpTkpGVVlMNGg1X2ZZcGVjLW5MNmlkUlFNbzh4UGRpQWtHNFVsMDNIaEl2dUJkbWNVVmh4ZmYxNDRHSHZBM1RqRWt5ODJSWktrMVp1S3pBamhoajRkbkFwM0JlRDlUcktySDNsZ014Q0hmbk1kUS1VU1ZHcFl0VkVybG4zdjJReWJWb3dDbFFObHBnREFJS0g?oc=5",
-    "date": "2026-08-18T08:32:37.000Z",
-    "source": "hi-Tech.ua",
-    "image": "https://hi-tech.ua/wp-content/uploads/2026/08/981d0a6082653d1a2032dfa138622f33-e1786992861990.webp",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi SU7 deliveries surpass 500,000 in 28.5 months",
-    "description": "Xiaomi SU7 deliveries surpass 500,000 in 28.5 months",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjV5bXVrNEpSS2ZHdHNpT2czWjc3d19ndUpYTHhpRDhJV2wzRnNMaWctN0tHa1pIYTJPUXlmQ2F1SmFwV2t5eV9zcWRYQTRSWkpsZGprazRPcjJ3TngxUWNnVEhuTGRvRW56cUFna3oySGZHYWI1TkxzUUNPQ211U0RwUDJaUGl6TW5ZUEhjZmxZbk9ESFVDWnM3UTlnRkZZZDlNVlBhTEo2OEJMN044?oc=5",
-    "date": "2026-08-18T08:26:03.000Z",
-    "source": "Gasgoo",
-    "image": "https://gascloud.gasgoo.com/production/2026/08/b184a731-cd91-4bae-9789-26cffa1376ac-1787070261.png",
-    "category": "auto"
-  },
-  {
-    "title": "2026音乐发烧友手机推荐：华为小米苹果，无线无损谁更强+FAQ",
-    "description": "2026音乐发烧友手机推荐：华为小米苹果，无线无损谁更强+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13NzlHWWx6RWNlN25UQkFlQ1BiU1JTZHFkUHZJck5IeFJoX0Q4bTY0SlptQmhWMHJYTTQwZWV5YmE5WEg2WjRaeU1GMm9WMEtWanBJZ21wVm1MV2l0a2JJaFY2aXNid2dFcEZPand5OGZmUQ?oc=5",
-    "date": "2026-08-18T08:22:05.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_008.jpeg",
-    "category": "phone"
-  },
-  {
-    "title": "小米集团午后现五笔大手交易 涉资3851.5万港元",
-    "description": "小米集团午后现五笔大手交易 涉资3851.5万港元",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PQzRPXzFSN09PT3RBWkZjMzhJZGdJanpyUC1EQktyS29WRE1BX0xQcWhNZEFmNXJfc2t6dVJwVWdjS1FVTUt5Mk1GM001QQ?oc=5",
-    "date": "2026-08-18T08:02:13.000Z",
-    "source": "观点网",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "小米集团午后现五笔大手交易 涉资3851.5万港元",
-    "description": "小米集团午后现五笔大手交易 涉资3851.5万港元",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44TDRfU19NVm84cVM0emlpdnIwV25UNTBBUmp5azhPUUlrUXktZzhENWRZWk51MVhQbF8yd3hRZlphS19rZFVKRzhSN3hxWGptRG12ZWVFSm9sN2dQdkNlVHNn?oc=5",
-    "date": "2026-08-18T08:02:13.000Z",
-    "source": "观点网",
-    "image": "",
     "category": "phone"
   }
 ]
