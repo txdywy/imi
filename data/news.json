@@ -1,5 +1,14 @@
 [
   {
+    "title": "Xiaomi to Raise Prices on 11 Smartphone and Tablet Models by Up to ¥20,000 Starting September",
+    "description": "Xiaomi to Raise Prices on 11 Smartphone and Tablet Models by Up to ¥20,000 Starting September",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3NEhNa0diUkF4M0NXbU0yLUlwUzJoc05Wb3JZb1Z2bk9RbzBDUlQtdUNtWk1NNUlldnNEcEJVNHd2aks5VjBHQ1BHMU4wQzAyN2hQUXRKbnpXOWtYb1F0T21FazRRVGp4WTRnZ3VYZWNSRERGTVE?oc=5",
+    "date": "2026-08-21T23:35:00.000Z",
+    "source": "finance.biggo.com",
+    "image": "https://img.biggo.com/cu9JCPdBQRcFJe4J4vAPEG6MWFIeuBniUoA3DTCje1Y/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzIyNzU4YmMzLWYwYzItNDUyZC1iNWUzLTA3ZWNhNDAzYWJhZV8xNzg3MzU1NjAxX2RlZmF1bHQuanBn.jpg",
+    "category": "phone"
+  },
+  {
     "title": "小米澎程网友最关心的27个问题 我们替雷军答了",
     "description": "小米澎程网友最关心的27个问题 我们替雷军答了",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eFlLUWh0WHJieWNTdVgzV0xqVV9Vd1psVlFCNm41d2IwX0FZLWJrbHhSVkRLcmhMSEZpSEhublhSa2p1Zm11RnRWdmJQYlVfcDk0UGxyRGk?oc=5",
@@ -25,6 +34,15 @@
     "source": "手机新浪网",
     "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_001.jpeg",
     "category": "phone"
+  },
+  {
+    "title": "小米Su7 Ultra",
+    "description": "小米Su7 Ultra",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iYWkyS0hnNXRRSlNuWWhOcURwYkQwVGtGUTZJeVBTRUhRVXBTc2JQLW5kM3B4bk9jMTN6QVV6UGJBQVMzTjEwNFBZWGtSVWQxYnJsN2JLck9vdzRFdWRVUDFWNTgtRWNBTGRzNEoxMGx5dw?oc=5",
+    "date": "2026-08-21T22:21:30.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260821ac/386/w690h496/20260821/6857-66037cea74e54f2dac6f58057fd6c70a.jpg",
+    "category": "auto"
   },
   {
     "title": "小米YU7 Max值得买吗？32.99万满配纯电SUV，3个维度说清+FAQ",
@@ -262,7 +280,10 @@
     "date": "2026-08-21T14:15:04.000Z",
     "source": "nokiapoweruser.com",
     "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/HyperOS.jpeg",
-    "category": "iot"
+    "category": "software",
+    "osType": "HyperOS",
+    "updateType": "beta",
+    "isUpdate": true
   },
   {
     "title": "小米自研玄戒芯片即将发布：给苹果上点压力",
@@ -440,7 +461,7 @@
     "description": "小米汽车召回小米SU7系列纯电动汽车 共计超39万辆",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6T3VuV2dqeWhJeFlqMEhEY3hObndJQk1haWpDRWRKRjdkNmQ5Z0tmVXJ3SVJ5LTRybWRKanUtQVhNajBnYjN2NnRHQzc?oc=5",
     "date": "2026-08-21T12:11:22.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/8C16A3AE9E22F75DAC19EA131E1413B8988468FB_size74_w800_h1066.jpg",
     "category": "auto"
   },
@@ -575,7 +596,7 @@
     "description": "【网通社快报】小米汽车召回逾33.9万辆2024款SU7纯电动车",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50QTJ5am5aamFHVFpfWjA1dE0xQzdHS0JuNVVGU2VDQ09BcU9pdFF1MjdseFdjYUx1Mmltei00TkxURVA0aUNsOGNBM0I?oc=5",
     "date": "2026-08-21T10:14:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/AFE3F9F38739135EAD527BBFCD0E92F7A0E7BBB3_size111_w1365_h910.jpg",
     "category": "auto"
   },
@@ -3436,6 +3457,15 @@
     "category": "phone"
   },
   {
+    "title": "Xiaomi’s first EV just passed half a million deliveries",
+    "description": "Xiaomi’s first EV just passed half a million deliveries",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PLWVyMnVFbF9rSDdKT1pFZmw2b3I3QjNmemstSDhIUEZveF84UkpPeXBmbXpGaEk3c3c0ZDZzVmxMV3ItOTFtaXl6TFUwbHY4Wm52UmJ6bk5ZWlZiWml6NUV1MkdWUi0xbUhaODU0b1JrZkFuMlln?oc=5",
+    "date": "2026-08-18T23:11:41.000Z",
+    "source": "The Next Web",
+    "image": "https://media.thenextweb.com/2026/06/xiaomi-robotic-charging-arm-ev-home-garage-tesla-snake.jpg",
+    "category": "auto"
+  },
+  {
     "title": "小米MiMo首款个人桌面端应用即将发布：办公、生活任务一站式搞定",
     "description": "小米MiMo首款个人桌面端应用即将发布：办公、生活任务一站式搞定",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DNWZSY25VTDZLbExNY1ZvU0c3bThjajZTVzVLeGFFdlJQT2pfX2l5N2d6aVhtMU9kcVVWckxEOHFpNmp3TUJZVTVWYmROcGRGVzM3dDRqa1Q?oc=5",
@@ -4534,32 +4564,5 @@
     "source": "新浪网",
     "image": "http://n.sinaimg.cn/sinakd20118/40/w480h360/20260818/5601-9e966565f1cae039be0311063528197b.jpg",
     "category": "phone"
-  },
-  {
-    "title": "Xiaomi's EV and AI business posts second straight quarterly loss",
-    "description": "Xiaomi's EV and AI business posts second straight quarterly loss",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10R3dZS2s2NzJybDEzVWJSa2E3QXFCQW9xUGR6Q3I4YjJlbWF2eEwwZWVZMW1UdWhPQVZjeUFxZ3ZUU3Z6R0Z3dC1ROUxldXl2VE5Xd1JpZ3NIVTBOcXdQX2ZIaWhEYzc4b2VyLWhPRnlSNDJRc3c?oc=5",
-    "date": "2026-08-18T10:16:42.000Z",
-    "source": "CnEVPost",
-    "image": "https://cnevpost.com/wp-content/uploads/2026/08/2026081810115888.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "Xiaomi’s Q2 profit slides 42.6% on component cost pressure",
-    "description": "Xiaomi’s Q2 profit slides 42.6% on component cost pressure",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPanV0N2ZKN01FdHdYS08tTXVST3dtS3Q1VVlKT19Vd3lEMGZOVlJ2N0dVWHU2Tmk3ZzJyTkdJWUhaT2NMeWROSjdvZFphU1I3cDI3dUEwZmszNWhJbGxBM1hsb1VHYmJnak5Fa1pkQmpVcFNkbDFyb3VKcU9pUGsyWVIxZFU0aDFPQ09mTDBn?oc=5",
-    "date": "2026-08-18T10:10:35.000Z",
-    "source": "WTAQ",
-    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/18/2026-08-18T094252Z_2_LYNXMPEM7H0LJ_RTROPTP_3_XIAOMI-AUTOS.JPG",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi’s Q2 profit slides 42.6% on component cost pressure",
-    "description": "Xiaomi’s Q2 profit slides 42.6% on component cost pressure",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTJIZXVpdFlHdUFFX0dGTGhsX3dpZFF5WUhXWGhxNHFVYmhlRS01akhkRmJUZXJFZVJmYXJ1MWRjS1BIZ1hTMjd4VHRObTBLSTVsTXBuaWkwVzVWQjBFMENBajRKSkZaalZ5QkFDZmlQVjFpOFBrMUFuSjhuaXhMejdObE52VnVoVXdJVDB3?oc=5",
-    "date": "2026-08-18T10:06:18.000Z",
-    "source": "KELO-AM",
-    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/18/2026-08-18T094252Z_2_LYNXMPEM7H0LJ_RTROPTP_3_XIAOMI-AUTOS.JPG",
-    "category": "iot"
   }
 ]
