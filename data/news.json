@@ -1,5 +1,50 @@
 [
   {
+    "title": "雷军宣布小米芯片“三弹齐发”：覆盖AI手机、端侧模型与智驾",
+    "description": "雷军宣布小米芯片“三弹齐发”：覆盖AI手机、端侧模型与智驾",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hb2VkTlJScUpxNTBZUUc1TXF5cC1jUS16bERwZjViQWVmSVZLcUl6bW5yb3dnSEJUTXEwMjZZa1M1aFE5UU5qUVdwREZUaW9tQlZSaTFaWnZEdVVfLWdpdw?oc=5",
+    "date": "2026-08-24T11:15:00.000Z",
+    "source": "thepaper.cn",
+    "image": "",
+    "category": "people"
+  },
+  {
+    "title": "玄戒O3来了！小米一次端上三颗芯：「芯片+OS+AI」大会师",
+    "description": "玄戒O3来了！小米一次端上三颗芯：「芯片+OS+AI」大会师",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oam1NZ0lwMnZ2OFNjQndPMTFtZVQ4TFRzQ203Zy1JVnZEa0NQMVFTNm0tTDFkc2cyNmZXYlBPNVhlb05GY1JUUk1tZGtpR1hlTWQ4MVZsNTZtdWNjQ1ljbFhYdmd2Zl9CcjBLU0xLNE1NZDEtSFhxM3g0Zkh1TXM?oc=5",
+    "date": "2026-08-24T11:04:25.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260824s/744/w1268h1076/20260824/a852-3644ec6839b55a23ef30a923aefb6ca3.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi’s XRING 03 Goes Official On TSMC’s 3nm N3P Process, Sports 24 Billion Transistors, First Smartphone SoC To Support LPDDR6 RAM, All-Big-Core CPU Design & More",
+    "description": "Xiaomi’s XRING 03 Goes Official On TSMC’s 3nm N3P Process, Sports 24 Billion Transistors, First Smartphone SoC To Support LPDDR6 RAM, All-Big-Core CPU Design & More",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBadUxzNXpiZ0xGcnItd1RxRzBTM05Xa0JpeVF6Y29tWmIzMWlwSmRnUzFCQTVOeGhoMlJWcHllRlU1OTdSQzdTMkctdlIwQTFJVXNnUndsNHE2ZW1BbW94MWJoTWRQcUFiTTdQMWdoVk5WZWFHT1Zib1R30gF_QVVfeXFMT0ZCbG9mOUhaaXJCcTFYYk44S0N0QlJvLWstalhETEc0eU5iOUtLenpRMF85bDlFRF9remEway1BQ2Fmanl1d0JFRUZBRF9jM3N5dkg5UGt1ZHRNbWR6SG5WWjhDeEh4Qk8xUDBJVlIydDdjNVU4UnVXYi15ckx5Yw?oc=5",
+    "date": "2026-08-24T10:58:08.000Z",
+    "source": "Wccftech",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Xiaomi-XRING-03-6.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi unveils new Xring chip, teams up with TSM for manufacturing: report",
+    "description": "Xiaomi unveils new Xring chip, teams up with TSM for manufacturing: report",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ014dVhxck1aV0ljbjl4Z1lEbEJHYVJtdEY2NFMxVkRmdHBhZWVIOVZoX2p0UFR4cU1LV2dCTnJIX3BoQXN5T3E2Q25ScGlYLU1OanpCbWQzNnM5cE5aa21MdHJFLUpPSEhObFBiUHhmUnZ4RUR0STZ1NDNpekhTYkZnalNLajdHTkRXd3ZSNE81RjZRdlUyNGJBcjJKNloxX3Z3bG5n?oc=5",
+    "date": "2026-08-24T10:53:04.000Z",
+    "source": "Seeking Alpha",
+    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178747834/image_2178747834.jpg?io=getty-c-w630",
+    "category": "phone"
+  },
+  {
+    "title": "小米连发三芯，自研芯片从手机打到汽车",
+    "description": "小米连发三芯，自研芯片从手机打到汽车",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Pa3lYZXhmem5pWER5UUJJZWFOR2JZNnNEdDA0eGh0VktOX0lpZjlhVlhZSVFDTVBOV2M1VTJkVUFEVnRQWTBBZmRiZVRmbzN4Wnhj?oc=5",
+    "date": "2026-08-24T10:42:57.000Z",
+    "source": "华尔街见闻",
+    "image": "https://wpimg-wscn.awtmt.com/content_default_10.jpg",
+    "category": "iot"
+  },
+  {
     "title": "Taiwan Semiconductor Manufacturing Partners With Xiaomi to Produce Smartphone Chips",
     "description": "Taiwan Semiconductor Manufacturing Partners With Xiaomi to Produce Smartphone Chips",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZ5VS1MeFRWa1pwY0I1MjA4MnU2eDV3eFNQOTZZeFlxQzNwbVpqd1F5TEw1bXR4dEtSRnFKbTlDYU9LTUhoQ2pDcEs4bGJOUk1LM1Bvc19aN0ROQlM5eGUxNFprWmd1T3ZYZ2ZIbGhkYVA3RmpaaXNQSnpmX2hJOHBVNl9KbjQzQWR6OS1YYWw4cERNY1Iwdm1sZXFSR0RJM0tVbm5TR1pzQ2lpdW1rRkVmbHpRM3RVNUdFdGRYNjN1WXozc3FpQUdQOXVJMmJnLUE?oc=5",
@@ -42,7 +87,7 @@
     "title": "构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
     "description": "构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBX2tJVmNhY0ppRFdMaUtPVnp2TzNZNjlKRjVHRzJIaWFBNUk2WUFNUE93MVM4SDFPTFVMYXlldGRBX09VMmcwTg?oc=5",
-    "date": "2026-08-24T10:29:19.000Z",
+    "date": "2026-08-24T10:29:29.000Z",
     "source": "品玩",
     "image": "https://cdn.pingwest.com/static/pingwest-logo-cn.jpg",
     "category": "ai"
@@ -154,6 +199,15 @@
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260824/f70b8352ded94b04872d85133fe8116f.png",
     "category": "phone"
+  },
+  {
+    "title": "小米雷军：当前国内高端汽车市场处于产品青黄不接状态",
+    "description": "小米雷军：当前国内高端汽车市场处于产品青黄不接状态",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHJQa3pRSFFBTmNLbFhWbmxDMnJfTFIxcUYyZVc5UmF4SHUzbTY0UWM1Qk1VdDVfQnlpNUFiOGJnMDZUbjl2elAzNGM0dEFHdWh6OXhyWmhTN2F0UWZFRUgtcWVLVWY0SFJXTm9nTy1PYXZiOWFUZHlXeXNOWW41TDdEZVVxWkVfbHpmZ2lVWUxQWFE5V1VkcmxsVW45WjQyMWlUUWNfUWZucmRCdHZackxn?oc=5",
+    "date": "2026-08-24T08:37:49.000Z",
+    "source": "新浪财经",
+    "image": "",
+    "category": "people"
   },
   {
     "title": "Xiaomi Unveils Xring O3 Chip as It Expands In-House Semiconductor Push",
@@ -716,6 +770,15 @@
   {
     "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
     "description": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTRvZlUtX2F0MmxnY2J0ZTdOZmI0eUR4VzhjcUpFelA0S0VDalVQOFRkdnNPWk9XcU1KU1R6cl9odHQzVkZrWU9kTHJMRm5fZ0VtSGxsYmE3bjY1eWx2TW51d2NTRG1DbXdLY25tbjhYLUc5WG5oMTY1R0l1S0ZUa0NmRFZOTEltWFhUMG1kVHRVcUVVQU83eXhuell1cThDa3MxcjF4SFV4ckoxTDljNnZtRWs0bGZkMTRjSGNNeHpub1Etd0x4RmFnV1NhR0JFSlIw?oc=5",
+    "date": "2026-08-24T06:22:21.000Z",
+    "source": "Yahoo Finance",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+    "description": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ0tTdG01SnluQ2l3b2tuTVVBczIzdENuaDAteDhublNLN0UyWC1FVWZNREZucjA2Yk45WjE4SXhJM25BSklmdlQ2d1ltMURoTFpGNVhfeVV1eEYzQUNtdXRMQ3J1SkxkZHNwY0hpRmctZUdDNnVTQnFtTncxMEFwZ1NpZ0twRkRQYjJUTzUwQ3Z6NXlzRXhGRm5rN2lySkx5SnhiRklwdmZXYnlvYWR6dW56c3BOU0FSby11TDhYN1I2SjhHM2RPREhnQTgtMTZhYXdVOXFKelpRekFQaXFZd0xlRENBbVhlbW8wNlVRZHMzZXZWbFZ0NTZ3QjNYS2VPU2dxX1Vyaw?oc=5",
     "date": "2026-08-24T06:22:21.000Z",
     "source": "The Lufkin Daily News",
@@ -1121,6 +1184,15 @@
     "source": "搜狐网",
     "image": "//q3.itc.cn/images01/20260824/28207c30a8644a6eaa33603e5d96accb.jpeg",
     "category": "iot"
+  },
+  {
+    "title": "Xiaomi Doubles Down On Homegrown Chips With Xring O3",
+    "description": "Xiaomi Doubles Down On Homegrown Chips With Xring O3",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0pleW1BMTRxRmw5Ukx6aFktaG51a1FTT0xzSzVUNGVYOGVMampzRDZaLWxUX3I1eDRzR01sSGF3clc1dll2aVNyWHgyVG5OSGtMZDRjbXVWeHdkZDBtSkdPMHdRdnF6TUdHcDVqR1JsQnFnc0Vla2ZhaS14SWEzcWQxTmdIRjdl?oc=5",
+    "date": "2026-08-24T00:09:38.000Z",
+    "source": "Finimize",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米18 Pro系列屏幕重磅升级：黑边不到1mm",
@@ -4483,78 +4555,6 @@
     "date": "2026-08-20T13:04:00.000Z",
     "source": "新浪财经",
     "image": "//n.sinaimg.cn/finance/crawl/117/w550h367/20260820/6242-a8825c56622772a01f59ce16e2404b85.png",
-    "category": "phone"
-  },
-  {
-    "title": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "description": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmUyeGQ2Vk91MjJjMG5IQVVqSk5NRmc5QlhtV3RMamRZSEo2YkNVZXQ4c3RnWGR3ZnhXM1FJY0xlMFVYX1h0SEhiMTlWMXlEdEM0ZjYtSEt5c3FIX3hJWVNPSkF1dU1oQXptM25zd1lUZkpCcF96NktQYUhUNlY5S0kyeTl1Qms5SEZEbHFXOVpUYUNjSkdPMHJBbWtuSDR5eFNpdHhPTW0xNUlncnFNLThPRVJoTVN6RThoZ3l1SXlhTnpNWmhQcHJvZ2dWYUhmU0pHdQ?oc=5",
-    "date": "2026-08-20T13:04:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/finance/crawl/117/w550h367/20260820/6242-a8825c56622772a01f59ce16e2404b85.png",
-    "category": "iot"
-  },
-  {
-    "title": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "description": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHdRRkJBWnZCY1dyeVJ6c2VOTTNqTUswQkw1cW1ZdGVhZ0hwYmstVXZMdjBtczRUbkRrYkdWdG42Z1ZCS1U2UVFYREh5RGV3QjAyVFZjMjhLNjFZMlV6VFFfbkJrR2szTC1OVjUzSDg2a0U5U2l2bEY3UXg3OFhwVWExVFlXTFMwQjdHSEhDV1BLYUhxRS1pV1VnZkdlRXhhOV9WMlJpcTRzWFRQWnpRV1lnNmZ4eFJTenlfQUh5c2c4UVZHcmpnZl82VHZNcmxGd05v?oc=5",
-    "date": "2026-08-20T13:04:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/finance/crawl/117/w550h367/20260820/6242-a8825c56622772a01f59ce16e2404b85.png",
-    "category": "iot"
-  },
-  {
-    "title": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "description": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDQtMnlOQ2VTRGFKcXNQYk53ejI4V3NyRlNRcE5YZXpXdV9lX1dXOWFCTHJJdVljbUI4b1YwcnpJRlpOOXhZRXdqUFhPczFoWlViSUNXWDNWRmpNOVJwZEtIUEN1NDFGTG9NYkI5Z2x1WXFhRzJDdUtnNGp0UExWYmV3OHRtemYtZzRpSEFmSFRCVGllZ1FGa1BvNy1VWHNQTEVDN09iRVR5TVN5V25mS1M5Nm5hcHB2R2ZRc19BTkpjOXNiMjNFWTdGbWVmdG0zaWk4?oc=5",
-    "date": "2026-08-20T13:04:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/finance/crawl/117/w550h367/20260820/6242-a8825c56622772a01f59ce16e2404b85.png",
-    "category": "iot"
-  },
-  {
-    "title": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "description": "二季度少赚46亿，小米遭遇“业绩坎”？",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2WFBPalo2ZXR6QXdPd3BPcEFBSlhhdWlaNGdtdGdqNHF6SHhPemRLQ0dYQTJqRmVJRk5zUUxWNGtjTHlRMjBQWEdJbmdodjlKMTVuYUFrMXZIbzZDcHNhQnJqc3pBX0hEVk5YRmViWTRQb3lyNnVBRFZrQ0I?oc=5",
-    "date": "2026-08-20T13:04:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/finance/crawl/117/w550h367/20260820/6242-a8825c56622772a01f59ce16e2404b85.png",
-    "category": "iot"
-  },
-  {
-    "title": "对标iPhone18！曝小米18标准版延后到 12 月发布，打破多年传统",
-    "description": "对标iPhone18！曝小米18标准版延后到 12 月发布，打破多年传统",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMng0UTV3TkZ6b2R1VHV6bDIzWGV3dFVJbzZwalBXNHY4VWZONTZUZ1lUaEFjSENMc3ZEODBlX3dUd25TbGlOdDhpcDhMc1FKQzFORVFkdTRyeVRFSjFwYUxxSXRHZVhqYWRLSFZpQzlrXzJxUW1ZcFN3RHVSeEZsbmkwQlM5dmFEU2xlMw?oc=5",
-    "date": "2026-08-20T12:27:00.000Z",
-    "source": "搜狐网",
-    "image": "//q4.itc.cn/q_70/images03/20260820/8ccc5969177741c0a46a3aab464130b9.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "华为智慧屏和小米电视哪个好",
-    "description": "华为智慧屏和小米电视哪个好",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BUmhsSkY3LXd1bXF0akoyZFlFVndzSENLUTA0Sk96LURkZ180ekU4N0VNNkxfTy1JWjNCV0FYOUR6VlZhQ005TXdCckMwRTYzOG1YMDRvSVBlQmZmZ0JYbEpuQXUtZjBTb19aempnRVZHdw?oc=5",
-    "date": "2026-08-20T12:05:31.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260819ac/278/w690h388/20260819/954e-491b933dabf5e95c76c935951f4a1089.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi Dual Zone Air Fryer 10L review – Bigger isn’t always better, but two baskets might be",
-    "description": "Xiaomi Dual Zone Air Fryer 10L review – Bigger isn’t always better, but two baskets might be",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVVTYjhQR2F6bFdpRHVJdXExM2tzdFpSSXNtSThCdWN5ZEUtN1NLaUdkdGZsaWNUNlpabF9OaDlGRjJNamIxVDNPaVlaeFZMYXZQMzFUeUlxWEpBNFdlTXJHemU4Ykh4MzJ1VEZXZ1V3NTgtaGRjdW5MdUZUaTJVNXNPSDEzM2dtV1dDY185bzg?oc=5",
-    "date": "2026-08-20T11:24:08.000Z",
-    "source": "Stuff South Africa",
-    "image": "https://stuff.co.za/wp-content/uploads/2026/08/Xiaomi-Dual-Zone-Air-Fryer-10L-review-header.png",
-    "category": "iot"
-  },
-  {
-    "title": "实训4个月后，小米新一代人形机器人亮相",
-    "description": "实训4个月后，小米新一代人形机器人亮相",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLU1VNLTRKXzFuYzZ4S0prd2R6cklmazBKeFdtNFNTNGp2YlFYWjBBQl9jbFQwMDNtcFVERDA0OGllbVVMaTlXV1NMcVlLakRocU12X1JObW44YjJkdlE?oc=5",
-    "date": "2026-08-20T11:02:38.000Z",
-    "source": "京报网",
-    "image": "https://img1.bjd.com.cn/2026/08/20/023200f350f8d43f77685deb229bed13fa22d648.jpeg",
     "category": "phone"
   }
 ]
