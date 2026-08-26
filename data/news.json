@@ -1,5 +1,59 @@
 [
   {
+    "title": "HyperOS 4 Beta Expands: Xiaomi Overhauls Smart Home and Auto Controls",
+    "description": "HyperOS 4 Beta Expands: Xiaomi Overhauls Smart Home and Auto Controls",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEdKYWdQSWplczBoWlZFa1JneDVVcXNxRXU4WVlDQXVLanlyTUJCU1VhbGF1UjZpSjAzWkw0MVdIVUxqcDlyZkZ4X2MwSDZldDZyRkp3cEtsb3VDYTdSazh2VVlfZG90c0JFS0FlTk9HNW80cGhNak1YUHpmeDctaVpOeUtSd2pMNS1YenFId0owVlpJamlqWG83MUdLNF96Qnc?oc=5",
+    "date": "2026-08-26T09:02:51.000Z",
+    "source": "Nokiamob",
+    "image": "https://nokiamob.net/wp-content/uploads/2026/08/HyperOS-4-device-center-1536x865.jpg.webp",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "beta",
+    "isUpdate": true
+  },
+  {
+    "title": "雷军:要勇于做中高端甚至超高端产品雷军#高端产品",
+    "description": "雷军:要勇于做中高端甚至超高端产品雷军#高端产品",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0Zoc3NRek56NENIY05wYXo5VGxIX2VpZFN3X0ZkdzMzN1lfWmtHRGNJMGZfX2RnM2NBMGZWYnpUS2VjS2lWcUFoMEx3WVJxVkwwTGNvdUhScmswVTM4MXZ3SEZ2dzFPaGd2dzFyUDd5THk3NDZpSWxRYTl3c0dUMg?oc=5",
+    "date": "2026-08-26T08:56:26.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260825ac/533/w480h853/20260825/925a-e33bd72dfd948ef8944699a2d526ae5d.jpg",
+    "category": "people"
+  },
+  {
+    "title": "Xiaomi updates HyperOS 4 camera app design",
+    "description": "Xiaomi’s camera app on HyperOS 4 has received a significant aesthetic update that aligns its design deeply with the system-wide style. Improvements include unified fonts and redesigned icons for a consistent look throughout the interface. However, this update applies only to non-Xiaomi 17 Ultra Leic",
+    "link": "https://ximitime.com/xiaomi-updates-hyperos-4-camera-app-design-99998/",
+    "date": "2026-08-26T08:55:19.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/HyperOS-4-camera-app-1024x577.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "Xiaomi 17 Ultra",
+    "isUpdate": true
+  },
+  {
+    "title": "​科技赋能“中国小米之乡” ——优质谷子新品种新技术观摩培训在河北武安举行",
+    "description": "​科技赋能“中国小米之乡” ——优质谷子新品种新技术观摩培训在河北武安举行",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiUi1FTXVVQVUyQUJrdTM0RXVOUHVHbk5yOVAzZUs1dXJMQWo1SlpyRFFKcE82ZVFlcTZXWWJ4d0FsVmFzQVVnVWFMNGtIdVdMZGdBamR2bVR2RjBCd0EtRE5ESENBUkZ6b0tzZHc5ejNFRWhwODFlajhHY1Q?oc=5",
+    "date": "2026-08-26T08:43:33.000Z",
+    "source": "中国日报网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "小米发布三款自研芯片，累计研发投入超210亿",
+    "description": "小米发布三款自研芯片，累计研发投入超210亿",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbEVLVWxLTjZ2ZEhQYjRIWHFrYkYtQk1rUEN5OUl3a3hLYVl1YkhRUE9zVk9BcG9FRHhqYmxuVUhtRVVvbFlCYUFiajNnZzBYWHA2YVhrXzJKeTlMU3pYOGp3c0Q5OE9WNkJCWVBIMERYMjBhejBFSVZ5WnJqWjlWMHZn?oc=5",
+    "date": "2026-08-26T08:40:57.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20260825ac/200/w640h360/20260825/c948-20b8c8a5a09927c94180075c21f15257.jpg",
+    "category": "phone"
+  },
+  {
     "title": "Xiaomi HyperOS 4 device center upgraded for easier use",
     "description": "Xiaomi has updated the device center in its HyperOS 4 system to enhance ecosystem management across cars, homes, and devices. The new center features a card-based layout designed to help users find devices quickly, no matter how many are connected. The update also adds support for switching between ",
     "link": "https://ximitime.com/xiaomi-hyperos-4-device-center-upgraded-for-easier-use-99990/",
@@ -29,9 +83,18 @@
     "description": "铁大进厂拧螺丝成功率98%！小米人形机器人，真要把工人饭碗抢了？",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0Q1dG01d0M0SGZGQlhMYS0zWW1ZVkxtMldHR0thUzQ5WDZiQV9qOGlkSDEwMEVLX3JDMkxBZjFicVJGT1BNXzEwMWwtZ3ZtRVRfUjYwWUZXNWVnSlotNTQ0RzVUaVpFV2xDWlZmcGQ0a25Va2J1ajZ0YWthUnFuV2lJODd4d2tEb3VuaGZGa3NrRklCWmNiVjBQbVhFRU43cUI5Sm9XOA?oc=5",
     "date": "2026-08-26T08:15:00.000Z",
-    "source": "新浪财经",
+    "source": "新浪网",
     "image": "https://n.sinaimg.cn/spider20260825/300/w660h440/20260825/bb29-f1be9c35e9888647b072e6442a398972.jpg",
     "category": "phone"
+  },
+  {
+    "title": "小米澎湃OS 4全新融合设备中心亮相，卡片布局优化、家庭可切换",
+    "description": "小米澎湃OS 4全新融合设备中心亮相，卡片布局优化、家庭可切换",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtTW5DWEFWYzZGaXJ2S2pXNFFzcS1GdGNOM1hwZ1otcDY0ckdCQS1ZQ181U1dsWVQ3d2hmbElXaGF6ejYwWXlDX0lwdTc?oc=5",
+    "date": "2026-08-26T08:09:31.000Z",
+    "source": "凤凰网科技",
+    "image": "https://x0.ifengimg.com/res/2026/BE81675C859D90D33D4023A4B079627617FED4A6_size7_w720_h380.webp",
+    "category": "software"
   },
   {
     "title": "首发玄戒O3！小米18 Fold阔折叠真机曝光：K100PM同款红色",
@@ -65,7 +128,7 @@
     "description": "【网通社快报】小米SU7隧道事故触发自动求助，售后人员连夜协助车主",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xa3g4a0NTTzduWlQzUnZVQVJneHByY0lBSHUxYUIyVnhrbTV1VHEyZzJOa3NxdnNTR1c2ZjN5eXY1eUZ2M0dfT2ZST2c?oc=5",
     "date": "2026-08-26T07:50:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/AFE3F9F38739135EAD527BBFCD0E92F7A0E7BBB3_size111_w1365_h910.jpg",
     "category": "auto"
   },
@@ -77,6 +140,24 @@
     "source": "风闻",
     "image": "",
     "category": "auto"
+  },
+  {
+    "title": "小米澎湃OS 4相机美学焕新，非Xiaomi 17 Ultra徕卡版可体验",
+    "description": "小米澎湃OS 4相机美学焕新，非Xiaomi 17 Ultra徕卡版可体验",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZaTlpM0ZUMDVSaDlzbTdHRG5FWjVKNWUtaU1KbGpiN0hlYkdqNHdzOVB6SWxtb1JjRW9xMUlBLTI2dU5PeU5WOTdrdE0?oc=5",
+    "date": "2026-08-26T07:49:18.000Z",
+    "source": "凤凰网科技",
+    "image": "https://x0.ifengimg.com/res/2026/B99E5630C43341795254A18860D85DD99F45C7EF_size25_w720_h380.webp",
+    "category": "software"
+  },
+  {
+    "title": "襄阳“考证哥”狂攒100本证书，目标进小米等车企工作- 湖北日报新闻客户端",
+    "description": "襄阳“考证哥”狂攒100本证书，目标进小米等车企工作- 湖北日报新闻客户端",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEYkUybXpicGdYd0duUVNXVGtOWEJLdGlzcWIzMVhFaFJDQWdQb19CdXRPUVhDMXhmeV9nclljVUVqZEhsN3pQSl9hanNRTW05aGxZa2FleEM?oc=5",
+    "date": "2026-08-26T07:47:54.000Z",
+    "source": "湖北日报传媒集团",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米汽车全系亮相成都车展，小米澎程双车开放上车体验",
@@ -155,7 +236,7 @@
     "description": "【网通社快报】小米发布两款搭载玄戒芯片的AI原型机",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNbW5vZTkxaDFyaE1ZZXE2V2xyT0RQd0xFT3QwY2UwYTNXakFEamlTelRKSmxSZkN3NElXZmlaZU5DNzk5TF9Zak5Db3Q?oc=5",
     "date": "2026-08-26T06:42:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
     "category": "phone"
   },
@@ -312,7 +393,7 @@
     "description": "连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUZLYTY3bjJoNjJudmNxVmtuOS1JcjZuUUlDeWUxTE1MNHBuS0VudWxCQnNJbEFiYWFwVEVRLTUtVV9LdWh4M2YyS0lrT0dNbVZyQlhLWlpRSW9Kajl5QjJFcms0RHl2c1VFX3haYnJvYnNlSTVLYm1qZXBBT19JYXFoSHVzc3JBZHJGaUpocXZELWFH?oc=5",
     "date": "2026-08-26T03:22:10.000Z",
-    "source": "新浪财经",
+    "source": "新浪网",
     "image": "https://n.sinaimg.cn/spider20260826/88/w1080h608/20260826/eab9-afe50500522f2b7ea815325fc79a09c6.jpg",
     "category": "iot"
   },
@@ -366,7 +447,7 @@
     "description": "【网通社快报】小米澎程全系标配低速慢行灯",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOQTNHN3NTMFllaXJ2WEw4R0xVa2s3LTlYWDJfQWZSUlcyQnEyQzk3Uktqd2JpTW4wdkRBUkVBU3VOUWZlQjU3aDgwbzU?oc=5",
     "date": "2026-08-26T02:43:00.000Z",
-    "source": "凤凰网汽车",
+    "source": "凤凰网",
     "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
     "category": "phone"
   },
@@ -546,7 +627,7 @@
     "description": "小米澎程N90汽车转弯半径仅5.95m，官方一镜到底实测视频公布",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWVwMjU4NVpLNi1iN3dwOUVpVEhjZjljQWptRWZyaVNzamtmZWlyZnBRMUQ0Z0VuS0FZZjdFWE1QS3dsWjBxZi1OS2dnSWFIbmhQSU1HR1BaUHdRMzZIbFYySkpyZm1RVkk2MW9VNElpZk5TcnFWckNzUGxZZk51bnAtZXJaQVdrZVJYXzRYeTdJWE5meXh3dFZMMVBrWS0zcGpsLVQtbw?oc=5",
     "date": "2026-08-26T00:07:32.000Z",
-    "source": "新浪财经",
+    "source": "新浪网",
     "image": "https://n.sinaimg.cn/spider20260825/740/w660h880/20260825/356c-2c1c73c204ee275ce5a7523d3361e8a2.jpg",
     "category": "phone"
   },
@@ -1855,8 +1936,8 @@
     "category": "iot"
   },
   {
-    "title": "China’s Biggest Auto Recall Targets 4.3 Million Teslas, Xiaomis, and Other Cars Over Door Handles - Road & Track",
-    "description": "China’s Biggest Auto Recall Targets 4.3 Million Teslas, Xiaomis, and Other Cars Over Door Handles Road & Track",
+    "title": "Tesla, Xiaomi, and 7 Other Brands Facing China’s Largest-Ever Auto Recall Over Flush Door Handles - Road & Track",
+    "description": "Tesla, Xiaomi, and 7 Other Brands Facing China’s Largest-Ever Auto Recall Over Flush Door Handles Road & Track",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk4bDJUeDNRU1Iya0FOcHJsZHNGUGZHVkpfQVp5T2YzdkZ0QWxubzk2ZHN6MjBPSHktdEJaZVV0R1ZKQ0J3R1BBWUg5N3ZGUEdIRFdDZm1VYm45eWZoRjdUUVBLWnRxOWdMNWNHZzhZX1ItalhqRk9nMWZJLUM5SzBEbkF1TENpcnJfN0hNcGUteFBYV180dF95MWMweENZM2lTcERmaENVeTdGYklIeHN2X1BIT0lpWkE?oc=5",
     "date": "2026-08-24T16:50:00.000Z",
     "source": "Road &amp; Track",
@@ -2566,7 +2647,7 @@
     "description": "Xiaomi Develops Its Own AI Mobile Chip in Challenge to Qualcomm",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzYxSmVFTk1JWktnTXdlUDR1R3g4WElMTmJPNHc5WFlNUjlQeXNMOXVLa3ZiQzItaURuc3pRVUNJWlJ0RjE3UDR6eHdUZkpfZzA4M2xjTTdLTmpaUkJiSVdIVGR2MU9xYkw3ZUNzUkRFcTFwZy1oemtGamN5cm5WOHdSR1NnLXVQeXlTc2RzV2I3d2s4WWthbHh3NVBoYi0zbGZhSjAxQklmQ1dSaTZDRjJnYko?oc=5",
     "date": "2026-08-24T09:36:09.000Z",
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "image": "",
     "category": "ai"
   },
@@ -4490,78 +4571,6 @@
     "date": "2026-08-23T04:22:15.000Z",
     "source": "手机新浪网",
     "image": "https://n.sinaimg.cn/default/f8781c75/20260807/qiche_020.jpeg",
-    "category": "auto"
-  },
-  {
-    "title": "小米汽车的自动驾驶技术达到了什么水平？",
-    "description": "小米汽车的自动驾驶技术达到了什么水平？",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xNXdRR1JDQ3h6UXZqaThkcGRIOTdMeENwOVU2eVl4VVhEN1dlNlRJZnJtMVo2cVFSbGtmMElBdU53RGtNRDZVamphZXVJQ0ZCYktZSjBzenRTWGtsd3R1SkpDeUpIdFo2Y0lMQ3djR1AxaEJXMVdCLTV1N1ZQZ0U?oc=5",
-    "date": "2026-08-23T03:58:00.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260823ac/172/w282h690/20260823/78fb-0cb93fb27091dce3fef1983dfa73b45b.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi TV FX Mini LED 55 review: An affordable TV that gets the basics right",
-    "description": "Xiaomi TV FX Mini LED 55 review: An affordable TV that gets the basics right",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUFRRTUdteHl5M2hHYUVJbzhpQUFnMEQ1Q3pkSVdFZV94amd1M2tmODFZRkdxUXl0N213bGMwZTdJaGhfVFRtaHJsNHUzRFVldnY1aXhJVVM5amRlODlHZXViRG5fTmFFdlpodzk2dzFrbkZ5RXp4Vkw4azdScGtGNzBvVks3NVBDTnRNRFhtc2xmT1d5TjVwSHVpNTllNDF4OW9lb2JWRHl0TGVWZFZ5Yzd6c2RWc1NZU2xSMm4tYmlfYjhWektuNmhVSkkyTXk3b08yZjk1c3hYZzDSAeIBQVVfeXFMTVJFX2I0d3ByblJMamliLXBNU3JlX2p5ZmJqV09mM21leHBQRXl6dDR4UlRVMFlzOWN4UFhfVE5va3ZfZ1gzb3dyYVQ0R0REN3pTRi1BLWFCY1JXbjFEZDVIakdDSVJTM2cwSS1WUUQyTW1reWpHdnk4bFhWQk1QT1F4cXVQNDFBSV83MS05eThHXzE5RHNHUEI3Tm55TkVXRy1HbTI3M1FndGEzbkM3bHJ0eGhyNVRXMEU1RFVaNmtGZmZDaEdFck5VR3Y3NUZtZ1VvSTQzTlU4WGlocW9EVk13dw?oc=5",
-    "date": "2026-08-23T03:41:56.000Z",
-    "source": "The Indian Express",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "AI功能实用的手机推荐哪款",
-    "description": "AI功能实用的手机推荐哪款",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVFGTTFkRE1QXzdsNmE1dmdlNE1ZTGhIQzVFQldDcTQtMGp1LWN6a19QQjlodG9jbjMzUEs4Umcwd2Y4MzE3S3ZGZnNjYXB0UVRRWmM4RVdUNWZHYmFkYTF3b3ZhQ1hBRUlWNmEySmt2bDVfcjNINnZOYmg0cUJkaA?oc=5",
-    "date": "2026-08-23T03:19:48.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260823ac/376/w690h486/20260823/4cf0-4206734389154a524847f7c078b1f4f0.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "30-40万预算，小米YU7的性价比如何？",
-    "description": "30-40万预算，小米YU7的性价比如何？",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OcWhOXy1ja3g2R0p6cE9qdTBlOFg4U3d4T0NFSWlOcHAtYk9zR2ZvSFBTczU2RHh0S0EtSzlXVVlHZ1lXTWlLWUZkTXZtVFhTcUkweDBzQnRXQ2lqMDRWLTMwRUtDNDEwLTBEZklyTmtvSVFSRVNKX3pfVzdoOXc?oc=5",
-    "date": "2026-08-23T03:19:00.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260823ac/235/w345h690/20260823/fbd3-11a606d67fc66c915ff73d55b30e1841.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米推出米家扫拖机器人7C：滚筒活水增压拖地，到手2069.1元|小米有品|拖布|地毯|小米AI|家居软装_手机新浪网",
-    "description": "小米推出米家扫拖机器人7C：滚筒活水增压拖地，到手2069.1元|小米有品|拖布|地毯|小米AI|家居软装_手机新浪网",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0pKd21SZEVoUzZoOEVQbm0zaFpNUVg0QmpGY1RzS1p3d2RtWGtPNV9zcndKNDBrYnlVYzVkLW9FXzRtcC1FdWFrUEoteVlLT3lnbmlHOHI1VnlmcHVLMVhSemtMYklXUDVvckVhNlJwcF9YV0RTbFpjLXdxdURvYWRuX1lQRUNqZ3dUS2VRMGFKcDJ2NGVMQnBUZzFPbm5vMmRxUXFzYw?oc=5",
-    "date": "2026-08-23T03:18:11.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260823/445/w660h585/20260823/56db-d21ebc7b72c16f5d015ab868233d5bbd.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "消息称某厂新机透明版设计回归，预计归属小米18系列",
-    "description": "消息称某厂新机透明版设计回归，预计归属小米18系列",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ed3BMdjVDV2ptNEZHMzZRX05zUEsyOTZsNlgwVDgyUUpfRFhQaXVBM0taVkQxVHRvZ2NsNG9aY180ZjBkMVVybFF3QkIxbVp2UHJHTXZUVTlXM29JLVVIUVdyTWtmN3E3NkQya1pDQ2xlQmdUcXlHX3RRZlc?oc=5",
-    "date": "2026-08-23T03:09:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260823/754/w660h894/20260823/fdf0-992d73477a87f11fe755d5e256bfff0b.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "拍夜景手机推荐2026：华为175分登顶，小米/vivo谁更强？+FAQ",
-    "description": "拍夜景手机推荐2026：华为175分登顶，小米/vivo谁更强？+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4NXdUZ25adHRRYkJZeXNMRWl3M2JhMHlhcVBVR0Mwdm1IVkFzc2FtOGpLdEprUEhmb2RTNGhUeGIzYjJIQzVTWmY4Z0xSV0IyVHhtVUM1YVNObVRoYS1tcm1lSkxjU1l6dTVablhIOEg4Zw?oc=5",
-    "date": "2026-08-23T03:05:18.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_015.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "小米汽车：澎程系列滑轨能阻挡大部分异物掉入",
-    "description": "小米汽车：澎程系列滑轨能阻挡大部分异物掉入",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWM3l5bjBobDJRQ3dGRV9aYm5mZTZMTE5iLU9BemVKcC1idGpybFF4S1k3Mk5pdG5Qa3NxRWFGdEREYVo2XzhCdXB5MVk?oc=5",
-    "date": "2026-08-23T02:59:32.000Z",
-    "source": "凤凰网",
-    "image": "https://x0.ifengimg.com/res/2026/236CDCDF3FB47993E8A4430F5C4CFEA000E7B420_size80_w800_h1066.jpg",
     "category": "auto"
   }
 ]
