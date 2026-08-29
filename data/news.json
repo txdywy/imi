@@ -1,5 +1,48 @@
 [
   {
+    "title": "祝贺长鑫实现LPDDR6内存量产！雷军官宣玄戒O3首家支持",
+    "description": "祝贺长鑫实现LPDDR6内存量产！雷军官宣玄戒O3首家支持",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTXc3WTN1WWQyb2ZMZ3Q5dGMwQ1VWTWNCMzJYY19FY0FQdG9MSnFyNFMxNlN1QnRVYVl6UFpNeE5EOV9Wc2hqTUJkblRubGRHMHZQU1B4bVNwR1lVSWk0SGdoRFJrdFFCampkUDBlM2NBWE9MTDhLMVNPT2Z5WlF5bw?oc=5",
+    "date": "2026-08-29T21:40:59.000Z",
+    "source": "新浪网",
+    "image": "http://n.sinaimg.cn/front20260829ac/55/w600h255/20260829/5241-ec4ef55a6cf2ce7cd713d4959af9484c.jpg",
+    "category": "people"
+  },
+  {
+    "title": "New Xiaomi Smart Privacy Display warns you when someone looks at your screen",
+    "description": "Xiaomi has showcased its upcoming Smart Privacy Display feature on a Global ROM device, likely an imminent flagship model. The feature aims to protect sensitive on-screen content from prying eyes by limiting visibility from side angles using pixel-level control and incorporating gaze detection techn",
+    "link": "https://ximitime.com/new-xiaomi-smart-privacy-display-warns-you-when-someone-looks-at-your-screen-100088/",
+    "date": "2026-08-29T21:00:50.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/Smart-privacy-display-1024x577.webp",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi’s new 13-inch flagship tablet to have soft-light screen",
+    "description": "A leak from Chinese blogger DCS reveals details about a new 13-inch flagship tablet, reportedly from Xiaomi. This model is said to offer a soft-light screen version with a red color option. The engineering sample starts with 8GB of RAM, while higher-end configurations include 16GB RAM paired with ei",
+    "link": "https://ximitime.com/xiaomis-new-13-inch-flagship-tablet-to-have-soft-light-screen-100070/",
+    "date": "2026-08-29T20:47:59.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/Xiaomi-Tablet-1024x577.webp",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi Q11A spotted with 10,000mAh battery and Snapdragon 8 Elite",
+    "description": "A new Xiaomi device with the codename yanan and model number Q11A has appeared in testing, revealing key hardware details and possible lineage. The device packs a large 10,000mAh battery and supports 100W fast charging. It is built upon the REDMI K90 Ultra platform, suggesting it might be an upcomin",
+    "link": "https://ximitime.com/xiaomi-q11a-spotted-with-10000mah-battery-and-snapdragon-8-elite-100071/",
+    "date": "2026-08-29T20:37:29.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/08/REDMI-K90-Ultra-1024x577.webp",
+    "category": "software",
+    "updateType": "update",
+    "device": "REDMI K90 Ultra",
+    "isUpdate": true
+  },
+  {
     "title": "《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司",
     "description": "《人民日报》为玄戒O3等点赞 雷军表态继续努力！小米已是中国半导体前三规模的公司",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTBrRG5MTWJVU21JNkhqemFEZ2pZajA5UlpyYWZfZlV1ekZ1WDNpLWo0eWgyRTJjc3cwOUJtdzF2ZmVMeS05b3QzLXgyWW1uengtMGppTEJ0bHVKbFhEQ0xxenZQZmdsNEI3UHcxN3pGemRlUVdtTEIwTjJpM04yd0VjeDF3T2dhWmNkaUZwTGlQekNV?oc=5",
@@ -24,6 +67,15 @@
     "date": "2026-08-29T15:59:00.000Z",
     "source": "驱动之家",
     "image": "https://img1.mydrivers.com/img/20260829/2f634efc43a547aebbc4ba17495b7a04.png",
+    "category": "people"
+  },
+  {
+    "title": "雷军发文祝贺长鑫 小米18 Fold首发搭载",
+    "description": "雷军发文祝贺长鑫 小米18 Fold首发搭载",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jSFJXdTBrNG4yTXB3MHRmUVF2bXhDdnRLU2kwMVZaV2RxWmt2cEFEQnRUVS1TSGxXSlN0bEwyMmkzZUx2MUlQVHRaRjZ0VExzMG4zTm5KZ1BxYVZMbG5aYXllOHhjS2U3WDVjS09aTUU?oc=5",
+    "date": "2026-08-29T15:30:02.000Z",
+    "source": "中华网",
+    "image": "",
     "category": "people"
   },
   {
@@ -230,7 +282,7 @@
     "description": "长鑫科技LPDDR6内存正式量产！雷军点赞，称小米首发搭载",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjQ4cm9aUEI2YUJvOTNvZEZhWFYwMG5lSFJuSmthbzhLbDNHLVFZWkJyNGdmS09KWUdLQ3VlbVlmZjJsdzRqSFFDNnlSc2stejZ2YmdOMGg5bUE2SFV6ZnJsdGhSRHpzS3B3MDBCOWZSY3pBeTRpbWVPTThaakV2TFZZdFRPV0dPRl9GUkVwQkpBam13SFJqQ25aYk9vSkZxZHRhSVZ2cw?oc=5",
     "date": "2026-08-29T08:48:00.000Z",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "image": "https://n.sinaimg.cn/spider20260829/520/w660h660/20260829/3354-ee2a0871a221da54bdc6f3748ae135b3.jpg",
     "category": "people"
   },
@@ -257,7 +309,7 @@
     "description": "小米造芯12年，造出的远不只一颗芯片|小米科技|长鑫存储|玄戒芯片|半导体|产业链_手机新浪网",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejlsdWtkdkVKZWhpc3JGTjVvTmJJa2FtZU9heUlzWndIMUZmSGNvb3d6a3NMcWYzOEhrUWt2Q0Y3LTRBSTItdE8xSmc5Ui1NMElaVTJ5Y3hIMDl5VUwwc0ZUOHY3QkV2RURBR25FVkhtalZzaWlrZ3cwWTV3RUc4UDRzRVhBV3JUU0RDaDZFUGp2TUk3cXJjdFNqcTNBMkhNZDkwX3NZRQ?oc=5",
     "date": "2026-08-29T08:15:00.000Z",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "image": "https://n.sinaimg.cn/spider20260829/300/w660h440/20260829/d947-62f4dfaa944778879487b72bb94e84f5.jpg",
     "category": "iot"
   },
@@ -338,7 +390,7 @@
     "description": "雷军：超过2600位车主将自己的小米汽车开到了10万公里",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTd2ZkdQRDVGTnM1d3NBSkV5OXJTOFB4cjhLd1Y0eWFGbkwzb0F4T3VVMXV2a1FmQzZUYzg1eWVWeGVHcEN5UTZLVkFrUGV6SEh1YzBRN1dJa0dXNUw5clJHYkRXTUJuLWFsM3NpTVFCc2ZQZ1duWFBOMEZvNnhnemdqOWIwR2Jhejh5ZjZmcDZXS2RFZ1k3RUktdHdZZURmTFBHQUVSZw?oc=5",
     "date": "2026-08-29T06:51:27.000Z",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "image": "https://n.sinaimg.cn/spider20260829/182/w660h322/20260829/2fb4-cc9f791c6884829035267805bfacc5da.jpg",
     "category": "auto"
   },
@@ -404,7 +456,7 @@
     "description": "长鑫LPDDR6内存正式量产，小米折叠手机首发搭载|长鑫存储|小米科技|长鑫科技|雷军|Xiaomi 18 Fold_手机新浪网",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnRReklXdEJFbm9JemphNmhXdzcwYnlrVEJ5dHVtZDFzdVZVM3JvdzY4c2QtcHIxdm52YTJublJORmdyXzV1SmtuUWF1c2o4ZE1vTmk5UUg1bVZEV0k4S0ZMRkpZQ2hmT20xSWF0di1ackZPdkxjbHhFM1RSMnlNWTExMFlTay1DaFdfU0ZxSXozaFo4MVh0MzVHM3N1UDZjcnZNRmVHTQ?oc=5",
     "date": "2026-08-29T05:25:03.000Z",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "image": "https://n.sinaimg.cn/spider20260829/740/w660h880/20260829/486d-7f0b8c44036cdb3799826c823adfe4a1.jpg",
     "category": "people"
   },
@@ -539,7 +591,7 @@
     "description": "长鑫官宣LPDDR6量产，雷军称小米将首发",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjE1SGY5U3NBVXA0MnFBRVBWdHJzc1Z4VFgtemxYV0ViU3JnVnh1MXNTU0NTY2lxT0JVZ2VkMW50NVFxY2NJWFg1NjlGbUZjVmhKc0Zhd1pQLTlzbTc0MVN2WE43TXRZN21GWE1sSE9rMzFTbnM3alFuaWhWZFc5VklWTzFldEtZYWZZNVZqbmpaSmgtMzdMLUI2QnJPckhsQTZ1QUNYVQ?oc=5",
     "date": "2026-08-29T03:28:37.000Z",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "image": "https://n.sinaimg.cn/spider20260829/273/w660h413/20260829/5d4a-04d5af22854d8d0646469ad252c4217a.jpg",
     "category": "people"
   },
@@ -4595,51 +4647,6 @@
     "date": "2026-08-24T14:51:00.000Z",
     "source": "Mezha",
     "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi’s Sleek Capsule Coffee Machine With Built-In Storage Revolutionizes Compact Brewing",
-    "description": "Xiaomi’s Sleek Capsule Coffee Machine With Built-In Storage Revolutionizes Compact Brewing",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWMwLXNyeUNyX3hiRTVrNnBkM2dYSW0xN2pwVjdSZXJBV21qanhtN0ctaUR0WTlxXzBuNWlCTDJxdVBmTU95RVRIY0lkeWpnU1RNZkpjNDJ2dzlaa0xhMV95V2pBb0xOQjQ2b2lrRTN4VUFVcy03YzBaZG82N0NJOXZLUHV5Zw?oc=5",
-    "date": "2026-08-24T14:50:13.000Z",
-    "source": "freeyork",
-    "image": "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/08/xiaomi-s-sleek-capsule-xiaomis-sleek-capsule-coffe-freeyork-1.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "三箭齐发！小米自研玄戒芯片批量上新_手机新浪网",
-    "description": "三箭齐发！小米自研玄戒芯片批量上新_手机新浪网",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVh3Y3Z1WFR1OURsVno1SlIwRGdxT2VfdVZtVDhIbWpXdV9NQ1pQZ3QxeEZ2WUtxVFBDV3A2N2c2eG1ZWTZYdHlkVDNKMGNPR1BGVFZ5MHR5WnhNNnA2dWh3NGF3TGRLVTducjhJRjhpREp4VEttOTVpOW1lR0ZkbDVEQUxJcU11UlIzRnotMzZnbE1ZdzZrSHpPdHZrWExK?oc=5",
-    "date": "2026-08-24T14:48:55.000Z",
-    "source": "新浪财经",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "“3000人做了3年”，小米一天发布3款自研芯片，雷军在打什么算盘？",
-    "description": "“3000人做了3年”，小米一天发布3款自研芯片，雷军在打什么算盘？",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zLWNxY0JPd3I4Z3c0R0lxNUQtalh6VERKSFFRc3piTGo0d1pVS09nUXNsME1VRTR2SGpyNlc5WUV3ZVNWTEcyOHFXZVA4RmJkQnFuQXdrY3hrSVBDYi1uRjVQZzlZQ3NZNlJpQkV1aktqR0g2YVZBOA?oc=5",
-    "date": "2026-08-24T14:32:00.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20260824/585/w1706h1279/20260824/bc26-789c22d4927e07dff1d0868f32bce15b.jpg",
-    "category": "people"
-  },
-  {
-    "title": "Xiaomi Taps TSMC For 3nm Xring O3 Chip With LPDDR6 To Battle Qualcomm",
-    "description": "Xiaomi Taps TSMC For 3nm Xring O3 Chip With LPDDR6 To Battle Qualcomm",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjhRNjRHUW1VaU5OemdZVjBjSGRnZlpIMlowaEF2d2ZOcGoxcWNlaWxRRmxJY2cydS1QempkWXN2Vi11T0VBb3gwbzY5eFNOWE9xbTVwMEx5TDBRTlFTNjJ2eDhiSGVCa1hWR2JtYXZTOG02cXE3OXJPbmVKY2FaUGFWUWFqdw?oc=5",
-    "date": "2026-08-24T14:27:00.000Z",
-    "source": "HotHardware",
-    "image": "https://hothardware.com/contentimages/NewsItem/71456/content/16x9_2135x1201_highres-xringo3-promo.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "业内人士：长鑫存储为小米玄戒O3的LPDDR6内存合作方",
-    "description": "业内人士：长鑫存储为小米玄戒O3的LPDDR6内存合作方",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMWlQTVhhdXNXbi1DemE0NzNUN2U4UXRfb3V3ZFhRelFIY01VXzU1Y2d2UjJnejQ4V1Job0JDZml1RHVicGVMblhobDRyc2NTOFFKaUVnVXBWLUdvbmVqcw?oc=5",
-    "date": "2026-08-24T14:22:58.000Z",
-    "source": "东方财富",
-    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
     "category": "iot"
   }
 ]
