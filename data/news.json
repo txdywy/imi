@@ -1,5 +1,43 @@
 [
   {
+    "title": "Qualcomm unveils Adreno GPU with matrix cores",
+    "description": "Qualcomm has revealed new details about its next-generation Adreno GPU, highlighting the addition of dedicated matrix cores designed to improve on-device AI processing. According to Android Authority, the GPU will feature three matrix cores aimed at reducing latency and power consumption for local A",
+    "link": "https://ximitime.com/qualcomm-unveils-adreno-gpu-with-matrix-cores-100178/",
+    "date": "2026-09-02T20:21:25.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/09/qualcomm-unveils-adreno-gpu-with-matrix-cores-to-boost-ai-and-graphics-1-1024x507.webp",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "小米18 Fold将于9月7日晚7点正式亮相",
+    "description": "小米18 Fold将于9月7日晚7点正式亮相",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDU3ZmczR1ZBcVVNRU9mTVA4RURXVlRVMlY4T2xyRzFHaGhKN3pvQ3JkSHpaY0xyVmIwUTY3Tmc1MGIyUnUyMFVubC1hUVQyang3LXNMUUh0Q3QxOE95M29xVUNQaGRBSURJS3c5X0NwbDdKb3Z4RW9EMVRTcW1lNDN5RzIyVjRYRjA2U0UxbmRoXzFleGZuQzRFNjNSYTdzblBxbWZXb3NNZw?oc=5",
+    "date": "2026-09-02T19:34:41.000Z",
+    "source": "finance.sina.com.cn",
+    "image": "//n.sinaimg.cn/default/2fb77759/20151125/320X320.png",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi 18 Fold Puts a Passport in One Hand and a Wide Screen in the Other",
+    "description": "Xiaomi 18 Fold Puts a Passport in One Hand and a Wide Screen in the Other",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YYlFaQ1EwM2ZCQ3JDWmFpT1NfRWRtVTlBZHFYSFB3YmxDb05yZ3BidktnTVNQb1d5TlREaXB5Sk9PMXpEdGNxTi1pS3dzeTMyYTVaX3ZyQm50VkJ0c1daeDlFWklzYTZYWWFfbFBDZ2VKb1VndXlZ?oc=5",
+    "date": "2026-09-02T18:29:43.000Z",
+    "source": "techeblog.com",
+    "image": "https://images.techeblog.com/wp-content/uploads/2026/09/02112541/xiaomi-18-fold-reveal.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "支持全国公交卡最多的手机是哪个品牌？华为330+城领跑，小米OPPO紧追，苹果仅35城+FAQ",
+    "description": "支持全国公交卡最多的手机是哪个品牌？华为330+城领跑，小米OPPO紧追，苹果仅35城+FAQ",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sRXlkX1lYNG8zNXFDVGo0TXVPQi1FZWNEa2xCT3BfZjJTUjl6T05JcmdwNVFIT05NWENCOXJyeWgzNEFYRGpUS1QyakoyLXpkeE1NWUNmdmZmcHpZRnk3enJsZHF5VG1rZDhfT3B0SmQ3QQ?oc=5",
+    "date": "2026-09-02T17:47:31.000Z",
+    "source": "新浪网",
+    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_011.jpeg",
+    "category": "phone"
+  },
+  {
     "title": "Xiaomi HyperOS 4 Launcher September Update Now Available for Download",
     "description": "Xiaomi has released a new update for the HyperOS 4 System Launcher, focusing primarily on enhancing stability. The update carries the build number RELEASE-8.01.02.6230-260818-09011224-R and comes with a simple changelog highlighting improved stability without additional new features. Compatibility a",
     "link": "https://ximitime.com/xiaomi-hyperos-4-launcher-september-update-now-available-for-download-100174/",
@@ -22,12 +60,21 @@
     "category": "people"
   },
   {
+    "title": "小米18 Fold搭载小爱灵感球！一拖即可识别图文 雷军：是不是超级棒",
+    "description": "小米18 Fold搭载小爱灵感球！一拖即可识别图文 雷军：是不是超级棒",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5bFF2a1dvZkR0SGZEUjJLUDV2c1JOUkVpRWpVeGkxNzNhb0owbGk5d2dsM0g0NndfY1hGcVM2WFFMMmpGallvcERUeV9SWFEyVFlEQjJ1RkRsYkJzS2pzMDVJRWJmUlMySFlud1ZzS3lDU1RU?oc=5",
+    "date": "2026-09-02T17:26:15.000Z",
+    "source": "手机新浪网",
+    "image": "https://n.sinaimg.cn/spider20260903/117/w600h1117/20260903/b5da-be4c648db67cb4d6d2fb55adeb6c13c2.png",
+    "category": "people"
+  },
+  {
     "title": "小米45W自带线充电宝开箱：新国标加持！",
     "description": "小米45W自带线充电宝开箱：新国标加持！",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04VGlrS1V2Vk1MT0VyTUFVZDdteUZHOXZ2RmViVmVST2J1aEhWWWE2clZSMzJhd00wRThjRF9rNUdlcmZZVmFZc01EMGxuMGVBX0RMWl9CcEo2Z1c1ZVpycElyS0F4TGM?oc=5",
     "date": "2026-09-02T16:38:36.000Z",
     "source": "充电头网",
-    "image": "",
+    "image": "https://static.chongdiantou.com/uploads/2025/01/01/d6q0vgomjblfkgz36b.png",
     "category": "phone"
   },
   {
@@ -94,6 +141,15 @@
     "category": "phone"
   },
   {
+    "title": "最高涨1000元！华为、小米等集中涨价，部分渠道仍有捡漏价格窗口",
+    "description": "最高涨1000元！华为、小米等集中涨价，部分渠道仍有捡漏价格窗口",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YT2JtTU5PQ2hRdjJ0Z0t1X0I4NF9DMGptSzN2c3Z5RklRaHJ2RjBCSDB0eGZtendCRW1zSm94ZFVPQkZ1a3JLSk1IcXFwN2ZSTzktNXA4N0RZa0pKWWc?oc=5",
+    "date": "2026-09-02T12:08:00.000Z",
+    "source": "jfdaily.com.cn",
+    "image": "",
+    "category": "phone"
+  },
+  {
     "title": "Xiaomi 18 Fold: Launch Confirmed for September 7 in China",
     "description": "Xiaomi 18 Fold: Launch Confirmed for September 7 in China",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjBFWEFMT3E5UmxlNzEwMHR3SUNqRGNwT3Eyc0ZQRTVQcC1Cb0xnSUdsNG11VWUzdWlyazFsLV82UmFBSTFrZVdPekhOQ0ZaejE1dktPT2JEOEVNZ2NDa084azV3eVpQUmtid3UtOGRQc2NSZnUzMUwxZmFsSWMzQ1FNaExFeEx1YURvM1RjZWJVcUZUTTNUc2MzWjA?oc=5",
@@ -152,7 +208,7 @@
     "description": "Xiaomi's 18 Fold and Pad 9 Pro Max to launch on September 7 with the Xring O3",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1VPejBkZmtoSzNtTjdoV3JFTEkyUVBEaVhGYTJBbnI2dklzaDJMMTF5aGY0aUdWdHRpS1FmUVhKZ2MxeWFsMU81SkVTMGlHR2tIZWpoeENnanJ6N3FhWS1YZFplUDNBVWZDWDBQTHlZeDI3QkZhbW10N3ZIVEM4YTZGbER2NFEyclZqVEdxM3NqTHFOa1VqYlcxV0c3M1FnUU5tU2drY1JEQS1laEJNRXdjODNCQjhHSkNpWTZYTQ?oc=5",
     "date": "2026-09-02T10:18:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/002p2Zyzly1igp68z7p7lj61jk1jkb2a02-1-2-1.jpg",
     "category": "phone"
   },
@@ -164,6 +220,15 @@
     "source": "新浪网",
     "image": "http://n.sinaimg.cn/sinakd20260901s/15/w572h243/20260901/b02b-5d96b8c6fb221db61b27cdacc3029060.jpg",
     "category": "phone"
+  },
+  {
+    "title": "Xiaomi beats Apple to market with wide Xiaomi 18 Fold reveal",
+    "description": "Xiaomi beats Apple to market with wide Xiaomi 18 Fold reveal",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGM1V3ZZLWZ1TjNYdVNTc1RSdVZqT0pySmJBQmNjT1ZiVlpCQmF0bmtGWHd1TmFfenZNOXBOTl9WUG82bzBlLU9ZQ2lrZ3B4TGxjdVFSWl9tbnFlUDFTbENveFB1NVhHc3A0UFczck1YZWppOHdtTFpuSQ?oc=5",
+    "date": "2026-09-02T09:36:00.000Z",
+    "source": "Android Authority",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Fold-official-image-Weibo.jpg",
+    "category": "software"
   },
   {
     "title": "Xiaomi 18 Fold gets its first official look ahead of September 7 launch - GSMArena.com news",
@@ -209,6 +274,15 @@
     "source": "Moomoo",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "小米首次亮相IFA：将正式规模化进入欧洲|小米18 Fold|小米科技|物理AI|玄戒芯片|小米汽车",
+    "description": "小米首次亮相IFA：将正式规模化进入欧洲|小米18 Fold|小米科技|物理AI|玄戒芯片|小米汽车",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnBQMllJcl9xUGtqcy13WnBsaFhDaUN0b2dISkdYZE1xWm5KZ3ZjSk8zR2VfTW04aE1kRWVRRElseEdKdkR2eVp6X2FHRWFkMUo5VmpKdTZib2REdlVBYXJHcXZlSHFuV2M5ODRXTFFwS1RCcnlGbzZUQzhORzV1UFREQ2xSRnoyOVJsbEl6NXZqa1pXM2tGR3pDUkc5SFMzRExHYUxuVTVSeWU2Yjhybmtn?oc=5",
+    "date": "2026-09-02T08:57:17.000Z",
+    "source": "finance.sina.com.cn",
+    "image": "https://n.sinaimg.cn/spider20260902/232/w660h372/20260902/2e90-9b07ae262f7207ed577d8b9c83ea2b14.jpg",
+    "category": "auto"
   },
   {
     "title": "雷军上手小米18 Fold：内外屏比例接近标准纸张 恰到好处",
@@ -259,13 +333,13 @@
     "category": "iot"
   },
   {
-    "title": "小米发布会定档9月7日！雷军首曝小米18 Fold“阔折叠”真机|小米科技|小米平板|旗舰处理器|玄戒芯片|新品发布",
-    "description": "小米发布会定档9月7日！雷军首曝小米18 Fold“阔折叠”真机|小米科技|小米平板|旗舰处理器|玄戒芯片|新品发布",
+    "title": "小米发布会定档9月7日！雷军首曝小米18 Fold“阔折叠”真机",
+    "description": "小米发布会定档9月7日！雷军首曝小米18 Fold“阔折叠”真机",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zc2ZLelE5c19lOG50ek9vZEFHOThENzBFUVBsejJFbVhfZHBSMWRDN2pxcmUxd0pseV9TRjdPWF9raEl2N01UMGdRUDQweWt6Y1JLNmljUTJKUzhDcHJ5UU1JSnhzTXZUenVZQVhUMlhGUQ?oc=5",
     "date": "2026-09-02T08:31:06.000Z",
     "source": "finance.sina.com.cn",
     "image": "https://n.sinaimg.cn/spider20260902/335/w500h635/20260902/f1cc-7c72a321036cc25b4ccf71340f49c2c8.png",
-    "category": "phone"
+    "category": "people"
   },
   {
     "title": "Xiaomi 17 Ultra creator wants to show you what else it can do, but only some will see it in real life",
@@ -322,12 +396,21 @@
     "category": "phone"
   },
   {
+    "title": "Xiaomi EV August Deliveries Exceed 30,000 Units",
+    "description": "Xiaomi EV August Deliveries Exceed 30,000 Units",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWZVZDBmYUxVZUVXVmxkTnBPRklYdVlUUVBzaV8yczA2MmItZEhxdUVCREd0YlVPWW1jSk9SN1lsMElVSXc5Ml9ONDY1Qk1PVkhPMFl6eE54aHRIdnp3WU9yZGx0VHVZbUM5N2xrTmx6UnhCSHNkQVVfX1FqZmw3d09GZ0hZOGRFV3VMR01QZ2EyNTdrRmJFeVFmZzFfalZSWkhlTnFsV0tHQQ?oc=5",
+    "date": "2026-09-02T08:06:55.000Z",
+    "source": "autonews.gasgoo.com",
+    "image": "https://gascloud.gasgoo.com/production/2026/09/ae8ae4fa-36d1-4ed5-a2a0-a1542ad7e040-1788359216.png",
+    "category": "auto"
+  },
+  {
     "title": "小米首次参展IFA：超3300平米展台亮相，小米18 Fold真机全球首秀",
     "description": "小米首次参展IFA：超3300平米展台亮相，小米18 Fold真机全球首秀",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhUXU1bm9FQU1HdG5WUUF5aGdYcTFJRUc2N2ZGX3NhY0dvcm1tOXdLajBzVW92MUpJZU9LUDE0LVB6WXIzMk9GdGpZYUs?oc=5",
     "date": "2026-09-02T08:06:51.000Z",
     "source": "凤凰网科技",
-    "image": "",
+    "image": "https://x0.ifengimg.com/ucms/2026_36/8AE5A857210779E31DDBFB91F42E68EF99432B51_size138_w1268_h714.png",
     "category": "phone"
   },
   {
@@ -389,7 +472,7 @@
     "description": "Xiaomi sets September 7 launch for 18 Fold foldable phone",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JaY2NTS3RGajgzWDhvTk5pS3FnNllVOTdPVGhRb2E1REpVUmJGOFluUXdrUmhXUHE3UUtTWGlFZFU2T1pGVXNNODJtSWRLYktKTllOZElzc3ljZ19FdDhtVDB1QXRaZmF3U3JRUFBDRTQ5Zi1SU2dmS0NjZThtUGlTUFZqcEdx?oc=5",
     "date": "2026-09-02T07:31:31.000Z",
-    "source": "technode.com",
+    "source": "TechNode",
     "image": "https://technode.com/wp-content/uploads/2026/09/微信图片_20260902152952_359_157.png",
     "category": "iot"
   },
@@ -416,7 +499,7 @@
     "description": "Xiaomi 18 Fold Specs Confirmed: LPDDR6, Leica Cameras, and Xring O3 Chip",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXRjQWtsY0ZEazRQWG10YkNvTE1TZUkwZTdlS0N5b1JUYWdCUWdyNXhMam5aUllmSnFrVUt1bHBPMmlLc0pNYTJuaElUbEJ0MEVJZy0wZ0RLTTdTbHJBdlhfa2dfdzhrNFNaM2haci15T25BZHd1djRYVzNKNm1CYU1VRmprLUNRU0xz?oc=5",
     "date": "2026-09-02T06:55:24.000Z",
-    "source": "Nokiamob",
+    "source": "nokiamob.net",
     "image": "https://nokiamob.net/wp-content/uploads/2026/09/Xiaomi-18-Fold-Design-Official.webp",
     "category": "ai"
   },
@@ -470,7 +553,7 @@
     "description": "卢伟冰预热小米18 Fold：数字系列定位最高、探索最前沿的顶级旗舰",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTzNtc0ZZVV9zSEFhd2lwei1mVm4tWThCSUFZNUw1RzlYQmlpajYySk16NTl5RWRDN18zTzJjU3VpaFBubU94WkNLY1NTNUQ4OW94cThGN0d4UHJRRVZyOGotZkRrN3NDT1E?oc=5",
     "date": "2026-09-02T06:33:10.000Z",
-    "source": "user.guancha.cn",
+    "source": "风闻",
     "image": "",
     "category": "people"
   },
@@ -705,7 +788,7 @@
     "description": "【网通社快报】小米官宣9月7日发布澎程N70 Pro/N70 Max/N90 Max三款新车",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1R1ZXX3BMZklyS0J0M095WG1yWnRJR0ZTT1lyMnVScnhzc3BTb3JzbFoxd0RPR1lyRXBDWkdEdjhjZFpnRXhVWF9BUjQ?oc=5",
     "date": "2026-09-02T02:18:10.000Z",
-    "source": "凤凰网汽车",
+    "source": "auto.ifeng.com",
     "image": "https://x0.ifengimg.com/res/2026/4FECDE3796C1BF837F35B32BDCC77DDA32950701_size75_w1024_h683.jpg",
     "category": "phone"
   },
@@ -804,7 +887,7 @@
     "description": "【网通社快报】小米秋季旗舰新品发布会定档9月7日，发布澎程系列新车及18 Fold折叠屏手机",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtV0lfVS05M01zM0FmYnFkQXY1bmNiVlNIeFZmX3d4cjlyYm5nVUxFQjNPR2V1aG1EMk90TWZZcU5CVi1LSXVGRzJKRlM?oc=5",
     "date": "2026-09-02T01:18:08.000Z",
-    "source": "凤凰网汽车",
+    "source": "auto.ifeng.com",
     "image": "https://x0.ifengimg.com/res/2026/4FECDE3796C1BF837F35B32BDCC77DDA32950701_size75_w1024_h683.jpg",
     "category": "iot"
   },
@@ -960,6 +1043,15 @@
     "source": "The Gadgeteer",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "Poco F9 Ultra review: Software and performance",
+    "description": "Poco F9 Ultra review: Software and performance",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jd0xWUHhpNmpiZ3J5OGNFazNueFgyQ1pVRzJKZVdobFduVVpTMEhEWUxRTmVFT29JZ0dtRXU5TURLM3dBVm82X0ZYWVdBT0pfMjNtQlphVndKYWdyYjItSTRnZnNHWEU?oc=5",
+    "date": "2026-09-01T21:19:56.000Z",
+    "source": "GSMArena.com",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/26/poco-f9-ultra/-728x314/gsmarena_001.jpg",
+    "category": "phone"
   },
   {
     "title": "华为、小米等多家手机厂商，集体调价",
@@ -1763,6 +1855,15 @@
   {
     "title": "小米汽车8月交付量超3万台",
     "description": "小米汽车8月交付量超3万台",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IbEZVMmJHeVlUTTFVdDN2UC1QUTJtUUdqZWVXNWRnNHFFNVFjaDc3R2N4WmtUbDZPTEQ4SHFTT01WMkgwYnFzUmVGZ1k1RzVGODNEa2Y4MTh5R3N4QS0wcw?oc=5",
+    "date": "2026-09-01T01:16:55.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "auto"
+  },
+  {
+    "title": "小米汽车8月交付量超3万台",
+    "description": "小米汽车8月交付量超3万台",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OeWdiczV0bDZrYzFNWV9RQUotSk5SbGJGM2hfVWZNOXhTU2NWS3M1VHI5SzVBVExnTXppbkJKTVZuUXdhajFnOTZBdmtlS0FRb0RtaXluUHVkbVNlZENMNG9yM0I3SWVqc0JUSnlaVEVUa05NTmtWdGdySVI4UmM?oc=5",
     "date": "2026-09-01T01:14:00.000Z",
     "source": "新浪网",
@@ -2044,7 +2145,7 @@
     "description": "CXMT Ships LPDDR6 First: Xiaomi 18 Fold Arrives With Chinese Memory Inside",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW9iaWl0TFBNekZzOXJ1SXhscFVJY1puTzNKMWV6cUVMNmh1QnJRZk9jOUFURkZJY1FKSDJ3dDgtalBZNnBYSHczckRrMHc4QWlfMFpoV0xLOVlSOWRtWWFSQjdtbW1NVWZoZkJWREc3emcyLVV1TU14OVdVaGhCX2lvdDBDb2NxYk9XNndockVxWHBNSk1za1NxeVQ4QjhQZGctanJuV3NTUmFuN2lWZXp1VThrVWc2NXB3aXUzMXc?oc=5",
     "date": "2026-08-31T14:18:45.000Z",
-    "source": "Tech Times",
+    "source": "techtimes.com",
     "image": "https://d.techtimes.com/en/full/474178/lu-weibing-president-xiaomi.jpg",
     "category": "phone"
   },
@@ -4011,7 +4112,7 @@
     "title": "China's CXMT to supply memory chip for Xiaomi's upcoming folding phone",
     "description": "China's CXMT to supply memory chip for Xiaomi's upcoming folding phone",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTdabFZxanFDSFVqRTE0OTBMQWdQNnRCOUN4aGFZdGt1dTdlbzNUYnNuVGg3X1pSVGh5OTJXT0Z6cVVXb19pX0dRbDFGamV0LVhvYzVzeEJTQldmMlltY2dEdlQ5dUpuM1QwQ2ZkanRTVWlqNU9XRWtXR01TNTdudUloQ29JZmF5cnVTWk9SaF9hRDV0VURpMEYzaFVDYlJXYmFXUmNwcEMzczBBQzhiS3djMks4bGM?oc=5",
-    "date": "2026-08-29T03:30:02.000Z",
+    "date": "2026-08-29T03:29:00.000Z",
     "source": "Reuters",
     "image": "",
     "category": "iot"
@@ -4048,7 +4149,7 @@
     "description": "Xiaomi Smart Band 11 could launch in four versions with a new premium option",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmI5aXR6dEttWWdRbUJxS0pxX2ZoSUd2YXdHS2pMVmt0UDZRNGdvR3kySVJ2aFhPTHYtNDQ3Y3ZIMmdGTnBoMER5UFp3NWpXZzcwTFlSVjUtNmk4SHZYTXk1b0ZtNGxwcnhITndnY3NGU1Y1WXFVbnRjVUMxV2pMMHJmZnpwenZXNGRZYU1LRjNpbFlqbVhPYzRiMkJ4NjJQNFJtNzNCckp5Mzh6NXVGQUI3SlFmRExFajZqeW9B?oc=5",
     "date": "2026-08-29T02:54:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Smart-Band-11-4-variants.jpg",
     "category": "iot"
   },
@@ -4365,7 +4466,7 @@
     "description": "Xiaomi HyperOS 4 Leak Reveals 'Smart Privacy Display' Feature",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTJoNGp3SjJRNFYyN3BDcmFwSHJrX0xKSWpTcDhNV3F6bjFsNlBsV2dtMWhURlUtQ3podWxrdXZWM0FVWlFPcUI3Tjk5SThrZk5qbjFDRTItR0w3ai1zMmVrdGp1dHM3RmQ1NHNQUU9LdEYwRGhSUmhKTzVZRHMzdWRQX0lrclNNQWtIeUVrajBQcTVUU1lyNlJyQTBlMWh1?oc=5",
     "date": "2026-08-28T14:01:50.000Z",
-    "source": "Nokiamob",
+    "source": "nokiamob.net",
     "image": "https://nokiamob.net/wp-content/uploads/2026/08/thumb7_0-31.jpg",
     "category": "software",
     "updateVersion": "4",
@@ -4501,108 +4602,6 @@
     "date": "2026-08-28T10:03:00.000Z",
     "source": "thepaper.cn",
     "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "01810：我现在看小米，已经不能只看手机了",
-    "description": "01810：我现在看小米，已经不能只看手机了",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUZPTmdSOUFkdmpnWWlFMk96ckpZZDFRMjVFVldvTnRnR183Q1Y1VkR1YTJkVUJxMmxuLWlUSUp0RGxZdTQ3NDMtN2RjN3J3dWNSbF9aNzBNU2N4eERwWmVDT0dkS0R6azlJVUp1dmwtS1dmZGk1RU5nQ25HTHhFRE5PaHVsVzhxOGljdElObElHVXBfQnJYMVp0Q1RGVkZOM3A1S3ZR?oc=5",
-    "date": "2026-08-28T09:56:51.000Z",
-    "source": "Moomoo",
-    "image": "https://ussnsimg.moomoo.com/sns_client_feed/77174536/20260828/web-1787910887807-ZJlP6xzvH6.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi Poco X8 Power shown in teaser video with 10,000 mAh battery, days before launch",
-    "description": "Xiaomi Poco X8 Power shown in teaser video with 10,000 mAh battery, days before launch",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVpIT3o3NWl2d1hQNXFUVi1XSWRpd29NbnBCUE5Fb1llVFhsWkR2ZEoyWFUwZU1XZWRWSE55UUlPX01rR3M5M1hWUmxPYS1RUGtScDdLdVBVSmZKdXVXY1NrTzd3OXd0NjlaYWFfeTctSGhYbUhDTTRSRVk5R3QyT0diOGI3UHpVdEFJQklNcjBPU3E3enpveFQzN0RUd3U4MGdmeFN6RWQyYjJ4ZUVZUDhlSW4tMUl2THpJREdjdzJXdVJNdzhwSzR3?oc=5",
-    "date": "2026-08-28T09:51:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Poco-X-Power2.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi SkyNomad, XCMG Group Complete Seat Rail Extreme Towing Challenge",
-    "description": "Xiaomi SkyNomad, XCMG Group Complete Seat Rail Extreme Towing Challenge",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmhmTk9aV3VnQXNBNDVldmRqNUJGZnRFUVhKdTBsNDZWTnFxMGRnZjZhWGZCX1dhZ09XTXhIbENqamxzZThWUjYtR01xVm43NWlNX1BLV3dhR3NDTEt0TWdhYV9MbEI4eDRwUFlCS1Z0bkN6NjdqNjc1VUFTazlSeFo0X3pkYUExYTRLeDNuekJDa0dOVFA0dGkwMmtiWmp2QjFBUDZYTzRHSUF2ZlVWVjdudWtIOGtlX2dWLVRybHREVzNzTjJGS1JkaUo?oc=5",
-    "date": "2026-08-28T09:17:31.000Z",
-    "source": "Gasgoo",
-    "image": "https://gascloud.gasgoo.com/production/2026/08/0e8568e9-ca1a-4f60-af3b-d2a2e2ffcddf-1787937114.png",
-    "category": "phone"
-  },
-  {
-    "title": "New Xiaomi 18 Fold Leaks Emerge Before The iPhone Ultra Launch",
-    "description": "New Xiaomi 18 Fold Leaks Emerge Before The iPhone Ultra Launch",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzdUTHNjb2tOMGw3b2pnYkZfRzZnY3A4QTlQUV9OT0VLSWRRTGZRSVJDRXF6MXl4eTdhRlJZeFVSMGJXRVlHQ1pkOF9KUXBKci0zM1lRVHRmamc1WHpQdlF5dVh6Nl82X1NoNWZZLUNDaTdLNjZRNXpyZlhMYlRLZzBNYkxRd3ZwcVlBTXcwU0xjQ20tekx4N29ZeGk?oc=5",
-    "date": "2026-08-28T09:17:17.000Z",
-    "source": "The Mac Observer",
-    "image": "https://www.macobserver.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-leak.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "首站入欧！小米汽车海外官网及社媒账号已上线卢伟冰：将在海外寻找合作伙伴|每日经济新闻|小米su7|小米澎程|出海|财报",
-    "description": "首站入欧！小米汽车海外官网及社媒账号已上线卢伟冰：将在海外寻找合作伙伴|每日经济新闻|小米su7|小米澎程|出海|财报",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEtGRVVrT2dSTmZwVEtUQUtDMGJwaV9tMkI2SE9kakdrQU1PNF80bFY2aUxXX19zNkJnRFc2azVYNkp1c19sdXhqMWlQRWZHVDJ5YkJBTmg4N01PajJWTkR4WlBzbGdPZXNJSTQ0NTRZTTdQUVgtek1fT2JNcG1RejFGbjNCUEZSS0NSOXBlSkNsaXlET2NNRHdOTnVXR1ExRWtyY2xiUQ?oc=5",
-    "date": "2026-08-28T08:21:01.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260828/337/w660h477/20260828/7e7e-2431614528e790e99f636c7ee8eb6712.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "New Xiaomi Pad 9 Pro rumored to pack 11000mAh battery",
-    "description": "A leak reveals partial specifications of a new Xiaomi tablet, widely believed to be the Xiaomi Pad 9 Pro. The device is said to feature a 12.5-inch LCD screen with 3.2K resolution and a 144Hz refresh rate. It reportedly runs on the Qualcomm Snapdragon 8 Gen5 (SM8845) chipset. The tablet will pack a ",
-    "link": "https://ximitime.com/new-xiaomi-pad-9-pro-rumored-to-pack-11000mah-battery-100041/",
-    "date": "2026-08-28T08:17:37.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/03/Xiaomi-tablet-1024x576.jpg",
-    "category": "software",
-    "updateType": "update",
-    "device": "Pad 9 Pro",
-    "isUpdate": true
-  },
-  {
-    "title": "Xiaomi: $29 Billion R&D Spending To Bolster Product Ecosystem",
-    "description": "Xiaomi: $29 Billion R&D Spending To Bolster Product Ecosystem",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWZwX3B5SFNMeEVhRE9jaW5JdUsxXzIweW9RVTM0VUZHTWVuX2hKSXUwY2JJQ2VIdnFQa2drMlpnZVR1dDNiYThDT3NFcmFJYTUwU2VlOTJZZWZYelFyWHVseVFwR05lbWdyNmJRYXRoWFllQVNUT2xhN2wyeDNWVjcwZnZZZ180OTFnX21FLWZBMXJzUHQ2V1ZuaFNSblY1RDhFazFCTQ?oc=5",
-    "date": "2026-08-28T07:43:50.000Z",
-    "source": "Seeking Alpha",
-    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1064117134/image_1064117134.jpg?io=getty-c-w1536",
-    "category": "phone"
-  },
-  {
-    "title": "《人民日报》点赞小米玄戒芯片：为业界探索出一条新路 雷军回应",
-    "description": "《人民日报》点赞小米玄戒芯片：为业界探索出一条新路 雷军回应",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YbktyY0tDSHA2NkZZRi1uTVZORHc0Mk9zNGZ6elowM0ZwUmZsQXRTMEJTQVdmak9wTzF0VXdNaTkxM0FPd19KV2RKRVExWG9Ic3ZxNGtqZ1Y?oc=5",
-    "date": "2026-08-28T07:36:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260828/076a592802eb4466b909da366be702d6.png",
-    "category": "iot"
-  },
-  {
-    "title": "首发玄戒O3 小米18 Fold未发先火：盲订数量远超往年",
-    "description": "首发玄戒O3 小米18 Fold未发先火：盲订数量远超往年",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUVaWVdDZl9GdnlLbVlEQVpXVHFCVnQ5WmYzRXpqOVA1WlRNRGhNSjdVUUlFbGU1dnF2eDVvbEhHVEczTmgwRVlaU2Q2ZERUVEFET1BzeE1PLUtXLVhzaER1SDRqcEN1Wjl4MmxkeEttZTZmR3NVcUdrdHhGcHJwMmsxN19nR29VS1RUV2FJQmo5VUc3d3BCVlRKcW5kN0FfaDZsYjE4aw?oc=5",
-    "date": "2026-08-28T07:33:51.000Z",
-    "source": "新浪财经",
-    "image": "https://n.sinaimg.cn/spider20260828/250/w600h450/20260828/6479-49301b5742616a8ea222e66c3c9b385e.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "全能无短板！小米18 Pro Max关键信息汇总",
-    "description": "全能无短板！小米18 Pro Max关键信息汇总",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QUEI0dy1na1Bodl9vOEFtUDhoWm9fdGlncVdfMzVhZUxqQ2V4Vy1UYjFyNzVKMXpJSzJfekNzRFNsekhPc0ZzUnJObVlGVnpnUWdwZjl2ZTA?oc=5",
-    "date": "2026-08-28T07:33:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260828/82d8f3bcad664a0f87535a09fd06b116.png",
-    "category": "phone"
-  },
-  {
-    "title": "从花鸟市场买的发财树，用小米澎程的极致大空间搬回家，妥妥滴",
-    "description": "从花鸟市场买的发财树，用小米澎程的极致大空间搬回家，妥妥滴",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3QtSUlsWWpuUkxtbmxMMHkzUmZfcmRldmgzMm1IcWpjdWFzc0hSOXZsazFTZW5BQWhGbi1DemdIOXdMdFhPamo2bU4wTnItaWpaY01oX2ZKUHVESXJKNm1EVjBpWnhGZWx1SUpYQzJQSkhxdkY2R2stM3pGWUw2Mw?oc=5",
-    "date": "2026-08-28T07:02:40.000Z",
-    "source": "新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20260827ac/723/w480h1043/20260827/80f3-30810889bd315898f4940db5d87d3500.jpg",
     "category": "phone"
   }
 ]
