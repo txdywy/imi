@@ -1,5 +1,14 @@
 [
   {
+    "title": "Anthropic accuses DeepSeek, Xiaomi, and Moonshot of misusing AI data (ANTHRO:Private)",
+    "description": "Anthropic accuses DeepSeek, Xiaomi, and Moonshot of misusing AI data (ANTHRO:Private)",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcW40NjQ1d2hLYjdsenVhT0lWcHZiVGxXNjZobTB2TG56VkM4VTBmT0FhNmRFRWhtSTk5cFVNV1NFYWtxQjF4QUZrNnB0MVNRZnNXZ1NPMmVkaDctWDdhSXJGSG1tNVU1M040Y3NWYnhlSlZjVG5UaEZuRDhOMEVld3pKVmFpa3lzNTkyQldyQlpmSGVUNzd0MDJQVzJra1JzcXZMWWFpVQ?oc=5",
+    "date": "2026-09-10T19:00:11.000Z",
+    "source": "Seeking Alpha",
+    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2270277028/image_2270277028.jpg?io=getty-c-w630",
+    "category": "ai"
+  },
+  {
     "title": "苹果华为小米72小时对决：万元旗舰扎堆登场，手机迎涨价潮拐点",
     "description": "苹果华为小米72小时对决：万元旗舰扎堆登场，手机迎涨价潮拐点",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0VjalZmQlhLTG12d2ZYMkwxNVZ5RlVCdGphN3BVdUNLeGxvXzNTYzFlZWEteFBYcnJYYWpQRUtlSE5PVXBSd3g0ekhWQV9xTVFFaS10cTVkamVwUklnUTNIZEpiemtOc3B6dTdiaWwza0pSenpJM3VEbGR4MDlJRl9UTHVRcE5TSks5cTVJTmRrY3dvcjNvUVpaa19zRGZJak1pYXZVem1sblRmbjhpSUotc2JZQkp4TzBDcUk0alpraGlHN2JpSDVhNVV1S3c3UFZGU1hB?oc=5",
@@ -12,10 +21,19 @@
     "title": "The Xiaomi 18 Fold is an iPhone Duo lookalike with one huge advantage",
     "description": "The Xiaomi 18 Fold is an iPhone Duo lookalike with one huge advantage",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBScHk5VDhPYWxsQXJDWkpYcW1Db0VuZ3g3T0U5UFNsSG5IbUo5TE0tUzkzLXpfUXk5RnlKYmVIcjNFbDFmTDhpdTJocTlGTlpRVGZ6THNEblpPZnVJQnhDZHdjVjNhUjNKTnZv?oc=5",
-    "date": "2026-09-10T16:28:24.000Z",
+    "date": "2026-09-10T16:51:15.000Z",
     "source": "Mashable",
     "image": "https://helios-i.mashable.com/imagery/articles/025HiBy3jOCNzbskHJFCxTT/hero-image.fill.size_1200x675.v1789056231.jpg",
     "category": "phone"
+  },
+  {
+    "title": "雷军称未来五年投入2000亿研发费用",
+    "description": "雷军称未来五年投入2000亿研发费用",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rMWstWklnN0I4eW52Qm54U29Kb0loSFc1Z1VFZkVySVhnNUlpYVpTV21JMERpd2hXdUdNdHRVM0RaYXRIVzN0bUZJZWtvLVg3VEkteFlTQmlfNWtfQ2JXYTYwTDI1RDJ5b3IxcUFseU1OSl9vVkxudw?oc=5",
+    "date": "2026-09-10T16:27:00.000Z",
+    "source": "新浪财经",
+    "image": "//n.sinaimg.cn/spider20260911/596/w783h613/20260911/c650-49aa2529d4b4ece364c7b9adc089b8cc.png",
+    "category": "iot"
   },
   {
     "title": "小米汽车答网友问（第 287 集）",
@@ -40,7 +58,7 @@
     "description": "首发高通最强芯片！小米18 Pro Max跑分出炉：多核成绩突破1.2万分",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9haXF0d0lzM09IV3Utd0VkLTdoRkY1YlRLd1gxNDhUNDhMa2J2V0o5eF9LM2JIOVM3TzFzczZqczVRSUw2ODh0ZXZGZnV2WkpjS0YzUTE2M1A?oc=5",
     "date": "2026-09-10T16:03:00.000Z",
-    "source": "驱动之家",
+    "source": "news.mydrivers.com",
     "image": "https://img1.mydrivers.com/img/20260911/b582fe4d795142fa81749f835f7cb8c8.png",
     "category": "phone"
   },
@@ -58,7 +76,7 @@
     "description": "Xiaomi’s Newest Robot Vacuum Wants to Climb the Obstacles Others Avoid | Xiaomi Robot Vacuum 6 Max",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGhsenFsWEF0VmhsWXVONU9qdnhOeHNQLW5qMTR2ZXBtY1duUmdSSHV5Q0lCRGpVLVotVXo0cDBxTXV2a1hYRm5SelZfelJfR3VFTGtyY2pVRDhhQm9zekk2OHI2Q2l0RVlSOHlfSVRzOFVtNm9xYXlIMU14SDcyZjkwYVB6TjEyRkZ3RDdGTm0wZFY2T0tnUVdIWQ?oc=5",
     "date": "2026-09-10T15:29:18.000Z",
-    "source": "The Gadgeteer",
+    "source": "the-gadgeteer.com",
     "image": "https://the-gadgeteer.com/wp-content/uploads/2026/09/Xiaomi-Robot-Vacuum-6-Max-Review.jpeg",
     "category": "iot"
   },
@@ -114,6 +132,15 @@
   {
     "title": "小米集团-W获南向资金连续4天净买入",
     "description": "小米集团-W获南向资金连续4天净买入",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRFZONWZaVXlQcDRaQVlablNDRE9BN0c1MVMyWVdCNlFFbWN5RXUtVFUyN1BFOEs1TXo4Ujh2dmJNM2VNbHFkLUFrN3VKSlp0aTVoVzJKNWVnZVJLU1hCLQ?oc=5",
+    "date": "2026-09-10T14:32:43.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
+    "category": "iot"
+  },
+  {
+    "title": "小米集团-W获南向资金连续4天净买入",
+    "description": "小米集团-W获南向资金连续4天净买入",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95OVBXYjFYbDhHUVQxcjlWOVVZbF9iWkdtR21faHNzX3RPSkVDSU1abldDU3J2QWdTS0p3RlJvc1VtZ2RwVGdDNzk5eVB6d1BjaF9wNWVjeUFNemJCTnZhcU1DQQ?oc=5",
     "date": "2026-09-10T14:31:32.000Z",
     "source": "东方财富",
@@ -156,13 +183,9 @@
     "description": "Xiaomi reveals first global phones eligible for initial HyperOS 4 update",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3ZGTEFicEs0Y2RIakpuWTVzU1VITlJoUk1ZQ2Y5V0hUckpZaUpQYXNhTzJSMXlsVDlJaXVwUU5JZjgzZWVBcXlKdl8wQUxieGxIUjZQeUtfUWFWTkp3QU1PVU5YVUJRN0luSHZ4bGhKNFRjM3ZxY1B2dEd5TGtGbGstTjhwLVIxVWF3NVNvay1TWThJcExGdkttS29ETzFDMHhuRHVCenRfNW43Z0ZTdDctWDJwTjdR?oc=5",
     "date": "2026-09-10T13:22:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-HyperOS-4-global-beta-announced.jpg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
+    "category": "iot"
   },
   {
     "title": "配套小米澎程N70！603049拿到新车型原配轮胎订单，累计发货380万元",
@@ -232,7 +255,7 @@
     "description": "雷军的第二场豪赌",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcnFMbVpqdFVwMWNwTzl3dEo3VE45QlpDM0xES0g0WHR6TFlXeGN4a1JRVHF3QWlSakNUV3FjaFFJNVV3YVFvWUNQYWhwWHg1VUc0?oc=5",
     "date": "2026-09-10T11:27:00.000Z",
-    "source": "电子工程专辑",
+    "source": "eet-china.com",
     "image": "",
     "category": "people"
   },
@@ -309,11 +332,11 @@
     "category": "iot"
   },
   {
-    "title": "印度又想坑小米！严重欺诈调查局建议发起调查，雷军曾拿下印度30%市场份额如今掉出前三，去年前10名中国占据7席，vivo、OPPO霸榜-手机",
+    "title": "印度又想坑小米！严重欺诈调查局建议发起调查，雷军曾拿下印度30%市场份额如今掉出前三，去年前10名中国占据7席，vivo、OPPO霸榜-手机金融界",
     "description": "印度又想坑小米！严重欺诈调查局建议发起调查，雷军曾拿下印度30%市场份额如今掉出前三，去年前10名中国占据7席，vivo、OPPO霸榜-手机金融界",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkbVRXWklacFdQUnU1VWRjQXU0LXBIX0RMeHdSNmdfbDZHMnpmWEN4bjFjeGdFTjdGMXBxWVplejJ5S25JU1lSU2tjelB1cTBuRElkQzB6UTYyZzJfWUJDdk1GWnR0ZGZqN0UtWjBHZzB6QQ?oc=5",
     "date": "2026-09-10T09:50:16.000Z",
-    "source": "金融界",
+    "source": "jrj.com.cn",
     "image": "",
     "category": "people"
   },
@@ -372,7 +395,7 @@
     "description": "Xiaomi’s answer to the iPhone 18 Pro Max surfaces on Geekbench with a 5.11GHz Snapdragon 8 Elite Gen 6 Pro",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXJnMGg4M1o2X3ZVd3MwZ19ZbHNJYW8yR1p1WjU2bzdwcHM4ZjR0SmRITVBuVVlabkFNaVRDa1l0eldjb3ExSk9Qc1h6a0x5eTNRS1hRSEVaVEdYUng1RTNZNnpGcDNjbjhHb0F1bWNyb3JjQWpDcTI3OV9HY0U1RGhQeTFEYnNCdXZET3pvbzF3VHB6ZzgtcExfc2w3aVFzamkxNDVaNnpVUjE5bWJfU0JKUWRUdHIwaV9SU2M1RU93VkQ1bTRwd2VtcU5MZUFDNy1yQzVXcS14d0ZqWVNyM0M4Z0RvUQ?oc=5",
     "date": "2026-09-10T09:03:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-Pro-und-Pro-Max-Erste-Leica-Kamera-Tests-im-Vergleich-mit-iPhone-17-Pro-Max-Xiaomi-15-Pro-und-Samsung-Galaxy-S25-Ultra-1-1.jpg",
     "category": "iot"
   },
@@ -381,7 +404,7 @@
     "description": "多项经营合规存疑！印度建议全面调查小米",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zRFhnLTF3V3dyVkZYYTlqVDQ5ZFNTY3gyX2NsaGFtUTdYTXVOR01sNWU1aTYwN0s2Y0dubWN5WGczTWNkWjNOTGNFZXhiOUdLVTVr?oc=5",
     "date": "2026-09-10T09:01:00.000Z",
-    "source": "电子工程专辑",
+    "source": "eet-china.com",
     "image": "",
     "category": "iot"
   },
@@ -619,7 +642,7 @@
     "description": "印度机构建议“详查”小米“新借口”：商业模式涉嫌违规！",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkQkFfaFBhOWFIZjVEaTVnV3Vad3VhNUVJeGVhNjEySDhYOWJKWnZPeWFORFJ4T1RzVS0tNFBEZlRGWDJEUTJNa0lZMzZVZWM5ZEFHZllBSlh1bmFn?oc=5",
     "date": "2026-09-10T02:11:46.000Z",
-    "source": "电子工程专辑",
+    "source": "eet-china.com",
     "image": "",
     "category": "iot"
   },
@@ -2147,7 +2170,7 @@
     "description": "Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pUHhPeGxCc1VBaXZEVHZZVDFjSUhlTmJ1d2RiWEtlNUR0RlFIeUx5Uk9MamdKQXBPSjBZaUZ4dG5OaWxpRGhqX2pZOFotaFNjWktxZnpXN3NzMXNnYUNWRjZPRUR5WF91M0JKMG1vbXgzQ2VO?oc=5",
     "date": "2026-09-08T07:16:20.000Z",
-    "source": "engadget.com",
+    "source": "Engadget",
     "image": "https://www.engadget.com/img/gallery/xiaomi-18-fold-hands-on-ifa-2026/l-intro-1788855807.jpg",
     "category": "software"
   },
@@ -2975,7 +2998,7 @@
     "description": "Xiaomi Announces Foldable iPhone Rival",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0tpNWtfeWpYNnpSOU0tTk1pNl9GeTJubVFKeXMwS1NmemxOci1ER21sUi13M0xNMm55cGlWM3NRTExDeGxSa2RNNnNtT00wVnNJeTQ0cnFzOGs2OGtHblM5SmM3MFlKejJSanZYQmQ4ZG1TS29DSlE3dmdmTmpTQVRn?oc=5",
     "date": "2026-09-07T15:26:11.000Z",
-    "source": "macrumors.com",
+    "source": "MacRumors",
     "image": "https://images.macrumors.com/t/b-gfTbl9Bv1kCJ5KDy74uAUbUFk=/1600x/article-new/2026/09/Xiaomi-18-Fold-image.jpeg",
     "category": "phone"
   },
@@ -4542,32 +4565,5 @@
     "source": "新浪网",
     "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_014.jpeg",
     "category": "phone"
-  },
-  {
-    "title": "雷军谈“增程汽车大有可为”：同行已不断证明 用户愿意为优秀增程车买单",
-    "description": "雷军谈“增程汽车大有可为”：同行已不断证明 用户愿意为优秀增程车买单",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1neW9QTDJ4S2luSWtzaVMxYW0xX1ZSNWRTeG5FUHVOdVQzN09NS25SSG1hVVRZQTlPRnJ2X1MwSnhiN05XdEJqMmttb3FQMTc0akNlSVFMeks?oc=5",
-    "date": "2026-09-06T08:38:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20260906/432ebb2f65274d9b9dac6a06ec8bd3dc.png",
-    "category": "people"
-  },
-  {
-    "title": "小米雷军谈“增程汽车大有可为”：理想等同行也不断证明，用户愿意为优秀的增程汽车买单",
-    "description": "小米雷军谈“增程汽车大有可为”：理想等同行也不断证明，用户愿意为优秀的增程汽车买单",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamNSZTBHVkNQN0JkYmZIUzh4MVhNbUo2WFl0TU9tTW1FTmVfVVVzeDFjRDZwcGhzV05yMU9tVjItbUJBSjFoVmdXaUkxME10NTE2NkdtY21ya1AxRnRoYTZ6NmZSUXhyZlcwZTJBUVdieG5rRllxbEhCcktkWWh0bThYZTRtVlJ1SUNNTVNXd3pOaTFL?oc=5",
-    "date": "2026-09-06T08:16:58.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/spider20260906/120/w1440h1080/20260906/0c76-71ff13bc80f604a5012a0c15857b661d.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米汽车、大家电已敲定出海计划，为何先去欧洲？卢伟冰：比我们当年开拓手机市场时好了太多",
-    "description": "小米汽车、大家电已敲定出海计划，为何先去欧洲？卢伟冰：比我们当年开拓手机市场时好了太多",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUEQyajJ5V3M4NzNEb2NFZS1ORS0zZmt1a2xQOWxKcndnMzkwVFo5bU1VT09wbWo2OVlzMTd2Z1Bob2xSaEtoZkdqNFl6bzJYQnR5NlFxUUw4WnFnb3kzRg?oc=5",
-    "date": "2026-09-06T08:13:15.000Z",
-    "source": "东方财富",
-    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
-    "category": "auto"
   }
 ]
