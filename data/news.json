@@ -40,7 +40,7 @@
     "description": "Xiaomi Bought Back 4.1 Million Type B Shares On Oct 2 For Hk$99.2 Million - HKEX Filing",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYWN4Q2NxT2FDakt2dDNxREJWd2JaY0pQWEpMb19UVWExMnpLS0xDdnMwYXlUdDJnN2lSa0ZzanhOYnBpbWcwS1I1LXR0cHNxSkZ4MUFwOWU0cU83d2FSb0RaZTNXMEJETGt2NERhSXF2aDN3MndhUWdDT2ZQWmttVUUzRzZMUGw0TURUdnQxaUVaMXFVbmdHazNMM24ydFZYS2pROXZLNHMtZ055Y0pRWURxeEpFVFNncnZUX2xrVFpZdVRCdXBqWW0zOFI2cUd3NG5UdGFNQjhwdFRhWkw2TWlDMWJ5dzVEUndJ?oc=5",
     "date": "2026-10-02T17:14:13.000Z",
-    "source": "tradingview.com",
+    "source": "TradingView",
     "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
     "category": "iot"
   },
@@ -91,7 +91,7 @@
     "description": "小米MIX Fold 3评测：折叠屏影像，也开始卷起来了？",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0YXlEUE5PelRjV08zdGRwTVFnc1ZSNTVYb0V1TlZNT1labTZjV1FMY1o3c0RBbE9oVk12dG1BZGs0NHV6ZDJUVC0yWUtURWxwNzVEME9Eak1nRTFKOC12cmJhRzlVM0Y0YWNoLS1KT0Q3NEREVnFaaA?oc=5",
     "date": "2026-10-02T14:39:00.000Z",
-    "source": "新浪财经",
+    "source": "手机新浪网",
     "image": "//n.sinaimg.cn/spider20261002/500/w320h180/20261002/3fa7-57e731097d4fe966cd63f3aa126b1171.png",
     "category": "phone"
   },
@@ -118,7 +118,7 @@
     "description": "Xiaomi releases new budget Poco phone in multiple countries with massive battery and 120 Hz display",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRXhKUV81T0VYSHkybzlza2REempPTVZxUGJxVkVlRklmS2N5OGZBWmJPZy04clc0SzhBaDNxMmQwdGt2Wmc3Mkk3VEx3SkF1Qzhma19qV05fd0o1WXJsdnVDSU1tNEtBTl9GOEtVLVQ4LW41Y0g2dWhVNEk2Vm4tazlxS3ZFajRPZm9TMGNnU3JESHdvR1BqRVh1U2NRLWc3Wk5TckJOaHBkRGlQWUJzNDJfRmdBOGtNNmxaQ0pEcHZlNnJkRTMzM3MyTmxHNlhvSGVRU3F5eDNlU0E3?oc=5",
     "date": "2026-10-02T13:28:00.000Z",
-    "source": "notebookcheck.net",
+    "source": "Notebookcheck",
     "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/poco-c95-pro-release-kv.jpg",
     "category": "phone"
   },
@@ -172,7 +172,7 @@
     "description": "小米集团－Ｗ：10月2日斥资9923.77万港元回购411.2万股",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YbWlrLUdFeUd1Ylk5UERqNzRXbEE4Umc3N0tqWlN5UEg2ck9maDlsd2NWalcxYkFNY3RkUk90R251QndPbzRQeE5SZWtKcTFNMEVLZUhTYmRwMllpdHpaZkFEZjc?oc=5",
     "date": "2026-10-02T11:52:12.000Z",
-    "source": "finance.eastmoney.com",
+    "source": "东方财富",
     "image": "",
     "category": "phone"
   },
@@ -249,6 +249,15 @@
     "category": "phone"
   },
   {
+    "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+    "description": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyMko4alN4eUFNanhiT3plV0laR2JNMkwzNlE3QkwzUElqU0pESFZETWUyc1Vqdkt0WmwzVjJNblppNDBBeVhKV2pFZl9POUtfZGZ6c2pUeDZKdjdqSWZlT0dEMTNpV2lkaTNYVUNLWXVlMEdZTE5wVw?oc=5",
+    "date": "2026-10-02T09:58:00.000Z",
+    "source": "手机新浪网",
+    "image": "//n.sinaimg.cn/sinakd20261002s/710/w1080h2030/20261002/0dcd-2a0ad5b9f6ff585aa6ebd04ee1cd1c6e.png",
+    "category": "phone"
+  },
+  {
     "title": "交付 19 天，小米澎程破万台，雷军又赢了。",
     "description": "交付 19 天，小米澎程破万台，雷军又赢了。",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDhpcUNwUDVFelJOQmVKdXp0S2tnUmRxdlBuZU1LLXFMeFNaNHh1UzlvX2xlQ2JsRlBRaG5md2R4SGNkN2pITjZTMEUtcEQwUHBjSFR1RmdTQ1ViTFVGT2ZQMmtUREdIeThjWmNBT2VnWHNxRDhXNEFqWkdBcngzMWFTMFBmUUEzSXB2WTJwUDNIelA1RDU0b3l3OGo2RnFscnBZalRHSURwbHN1TVgzSWx3?oc=5",
@@ -265,6 +274,15 @@
     "source": "手机新浪网",
     "image": "",
     "category": "iot"
+  },
+  {
+    "title": "20多万SUV买哪款？小米澎程N90真七座实测：第三排能坐成年人吗+FAQ",
+    "description": "20多万SUV买哪款？小米澎程N90真七座实测：第三排能坐成年人吗+FAQ",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80RlBNRFJMbHNTaERTb1FjZTBVNElSdE92aEZwV0ltWUlBOFBMeUNkWHJ6cXhyR0VjS2hPN3NPME4xNjZRRVoyV2RsUkdROXhEVlpfLV9NM2llcUlWOWdMaTcwV0hXWDZHVlJpcmxfcVlxZw?oc=5",
+    "date": "2026-10-02T09:06:00.000Z",
+    "source": "手机新浪网",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米、格力押注 机器人芯片厂商一微科技通过港交所聆讯",
@@ -437,7 +455,7 @@
     "description": "花旗：小米集团-W维持“买入”评级 目标价34港元",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN1llQXEydVlIMS1ab3RVa2VpVnZvMTN6V01MbGZmTU0wM0FyQ2FqQU1TM1pVSGpvWVhPVWQ4YkRrNjVFMzNTMnFISld4eEFRVW9Qd1Z4LW85QkpOUGtLMTdvQkJlb2QzN0xRanRmY1RSTzlxbGZnTWNRUW1PbFJOcHpVaW16N1ZDLUc4?oc=5",
     "date": "2026-10-02T05:18:00.000Z",
-    "source": "新浪财经",
+    "source": "手机新浪网",
     "image": "https://n.sinaimg.cn/finance/transform/700/w400h300/20261002/3ecd-d7c4cdebd4727a023babd7d3aa2e21dd.jpg",
     "category": "phone"
   },
@@ -1136,7 +1154,7 @@
     "description": "小米汽车：9月交付超4万辆汽车",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pSEM1LVFqWkhoOXFTWDhIcFgxbjJvVzcyTHRvaUFnX09YOFM5NGtuai00dEdqNktDUTViRV9wQzhPV05JYVhrZlJ0Z3lMMmNZbkM3clZxTWJ2VjVsay1xcDBKUGNadw?oc=5",
     "date": "2026-10-01T01:42:57.000Z",
-    "source": "finance.eastmoney.com",
+    "source": "东方财富",
     "image": "",
     "category": "auto"
   },
@@ -1145,7 +1163,7 @@
     "description": "小米汽车：9月交付量超过40000台",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TbDNHdnc4OF81SjRHOEZwQ0h5YnFFY1Zmb1IyME5lb3BZdndMN09IZVFPSGtUMEIyenVxMFFmX2hWc0FjWVNwdlRGVFc3UVNrbVlTZi0xbUNTaFdEWERTU0xaYVl4Zw?oc=5",
     "date": "2026-10-01T01:42:13.000Z",
-    "source": "finance.eastmoney.com",
+    "source": "东方财富",
     "image": "",
     "category": "auto"
   },
@@ -2384,7 +2402,7 @@
     "description": "Standard Xiaomi 18 said to offer dual 200MP cameras, complete specs tipped - GSMArena.com news",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2dUbklCUC1BbEs3ZkdiNmsxR0ZqeHJMSFRINnpYakpJaUU1MUhqRl9ZRkJBVmF6XzZISmtWSEVuTjRMWDZHUHVIYmk0MkY2QzF0UDZfaGdDb3pxT2FsWXdCNml4NmxYelgyaTBuUUp6RUUtdzVPQ0gxa1JGODJNUWdNNzUybVRyV3JEb1ZDenJxams5UksxQ1p0OEJIYV9FeEpneHFIVUl6X01TeVJwV0laTdIBrwFBVV95cUxPX2w2TTZFZDNoQzVYWVFTdUl1WXlzdFNWcVduTVF1bmc0Wk9ZQUxveDVFYTJ0VldZaktjaU05X3N6T0Q3WFJqSVpDaDE5THAydk9YWVI0S1ZpbGRTTHRsTnI0MEZaUUFhMXhZdzl6d1RtU0RLQkpmNGlraG43OXc0YWdIZDlSeUw5Y0xhLU8yTnlERS1DV2JDM3JfbXhPUUNadlBJX2k2bnVSOTFBZUtN?oc=5",
     "date": "2026-09-29T06:31:01.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-specs-leak/-952x498w6/gsmarena_00.jpg",
     "category": "iot"
   },
@@ -2658,7 +2676,7 @@
     "description": "I tried Xiaomi’s 18 Pro and Pro Max, and they’re playing a different flagship game",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQXzlkaC1ycG1sdkYxSXlkOWZUaWs0YXNmNnB5Y2RqT3JqLTI4TW5vcG9YVkg3RjMzbnJmdFBDd0JMTGJ1V3pVTDJsOUFPbFV1bFBFdjd5eEo5dEx1SkFFM195ZnVMSFU1bER6bTlRdlFxNU1vekwwWWVQZEttSUpSZUZZWnVSc0ZHOTZHQjJUWQ?oc=5",
     "date": "2026-09-28T21:32:07.000Z",
-    "source": "Digital Trends",
+    "source": "digitaltrends.com",
     "image": "https://www.digitaltrends.com/tachyon/2026/09/Xiaomi-18-Pro-Max-Rear-Display.jpg?resize=1200%2C630",
     "category": "phone"
   },
@@ -2979,7 +2997,7 @@
     "description": "I spent a week with the Xiaomi 18 Fold. It's the best passport-foldable phone right now, with a sad quirk.",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUVBNTYwc1pZU3BFZFM1aU5EbWUzdDd4TWJPUHFzV25BWllvVHMzcnZrV2xtS1dZOHI2MGliOTRVb2NqVnpvalZZZlk2VmQzSFZZdjZMcmRobXNzcVI2WE9JVE5CaWpMMWVZMFFtRXZKU3RrajVEajh2SFhXQzYzVnJzNlJfeVZCOTlYRUNUbmM1OW9aRWFwZjlwMi11WFdjWWVz?oc=5",
     "date": "2026-09-28T07:57:26.000Z",
-    "source": "Digital Trends",
+    "source": "digitaltrends.com",
     "image": "https://www.digitaltrends.com/tachyon/2026/09/DT-2026-09-28T103302.863.jpg?resize=1200%2C630",
     "category": "iot"
   },
@@ -3150,7 +3168,7 @@
     "description": "Xiaomi 18 Pro Should Sell a Version Without the Privacy Screen",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0E0SkM1bG5KX2x1NTFKRjl2SVdqa1hXTFpfV1NfX3lCR2FzdVZPLWczb0dieVo0SXZVRGZtV2lZd0hxZHVaMWdwcl9iT2Z2bWJaOG1VZm9BUzFrY1ZzNWpQdlVQNmdTdy16dnIxcEphS21HVDh0TFdBVHVPVExCZmNieEtMMHNEd2hMNlZ3?oc=5",
     "date": "2026-09-28T04:28:04.000Z",
-    "source": "Vocal",
+    "source": "vocal.media",
     "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/mbC8arlwIt6F0-5qXt8xVM6oXVw.jpg",
     "category": "iot"
   },
@@ -3456,7 +3474,7 @@
     "description": "Xiaomi 18 Pro/Pro Max, vivo X500, Pro/Pro Max are all official, Week 39 in review - GSMArena.com news",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3B6MHk3N2tCMFpKZUJ0V2hZMXhiWUxGR2tiOS1nemRUOXlPdE8wS2pOaFN3RzB1ZXBnbjJFcHJZX0xMUmF6REpIYkxaNC1LRHFMcUFnV2RSMks4M3JIcWEwLUtEZzVxSkNBUm1HRmxsV0txSmd4RVNWeUItSGQwVE1FZU40Yk9WMHhmLXIxUDFOOTI1bEtIcU5scU9jVVYwTVZVSzdJSXZfN3BxR2ZvWGRHRlBIeF9WZlHSAbYBQVVfeXFMTklyeTVxS1otekRyUVhISVM5X0VBZWpVbUtXT0FoaWdZM0R4RWdqVDgzdHQtT3RWRTI3YXBmUkUxeklUUVFMVFhoZzhBYXdJMVJERENaQzFDM3J1OFFhYzFWdTZtWUlJcUlFMi0zUFlPNzJkSkR4WnAtTm5qQWlVYURCZU5yNkcyaEprOUctOG1LSXlCZUJxVXZEVnBSNkZYR0pWR096MHpfdUpGcmNnRklJSDZYVkE?oc=5",
     "date": "2026-09-27T15:31:01.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/news/26/09/week-39-in-review/-952x498w6/gsmarena_000.jpg",
     "category": "iot"
   },
@@ -3675,7 +3693,7 @@
     "description": "Weekly poll: what do you think of the Xiaomi 18 Pro and Xiaomi 18 Pro Max? - GSMArena.com news",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkN1Tms0V1ZvdVNfYkxnUGpFY0pubGpNcDE0Z01XZVdieGZ0U0lIb1U2alNJMV9nUmpBLWp4YzRLZTBpQ0VfWmlJRkhfbUhlN1l3S3BLT2dwdXdzN0JiRGpqWXB0cnQ4YUtUcVhXQjgwMVRiSXJSbUZvSl91OHRjVGFXNFdsN0ozdGZ6RVpYUFJxa1ZJSE8xYk1QZVdQMU4tYmJ5OWxEanpMMnVMWC1jdHF30gGuAUFVX3lxTFBGZmFBUFY3MUdXTEktRUxNaTU1T1ZJRnphcW9HTDN0UzJlcmdRR085Rl95UmNPSW1BRzNWbWlHYVJsYUs4Z2dVVkNKLXlUdzJ4eU04SDRWOVJPZzZwQTlYWnFkT1FSbFp0dDF3YmFiTHotdGxLX1BIUW96SFdYaUJCMkw3UFRKMVNUTnlGNFJHRzJoQVJpUkY0WjRRcnBrYkZYdFlpT3QyazRqdEtYZw?oc=5",
     "date": "2026-09-27T08:31:02.000Z",
-    "source": "GSMArena.com",
+    "source": "gsmarena.com",
     "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-xiaomi-18-pro-18-pro-max/-952x498w6/gsmarena_000.jpg",
     "category": "phone"
   },
@@ -3999,11 +4017,11 @@
   },
   {
     "title": "Xiaomi rolls out HyperOS Security app update 13.6.3 with Game Turbo enhancements",
-    "description": "Xiaomi rolls out HyperOS Security app update 13.6.3 with Game Turbo enhancements",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjlyMEdJazdoTU1qRGJ5WFBfV0FiLWVvWGtsRHhNNWxXc3JnbzRGZVlSbEdrajJmekJtaWFGVFlJRlFhYTN1ck9LaVZoUC1GallTMHE0dFUwN3FSUEU5ZURlOHlDWk05OHZXNWNxZzZVWUFjV1czbEhDYXdCUlhMaUZuUlVUc2FoSVFDakF3QVVRbzcycnhOcHBYcjhsaWpXdV9zSjZORGkxNlMxLXc?oc=5",
+    "description": "Xiaomi has rolled out an update for the HyperOS Security app, version com.miui.securitycenter_13.6.3-260924.0.1. This update affects the Game Turbo applications, which function as an add-on to the Security app. When the Security app updates, Game Turbo updates along with it. Update Details and Regio",
+    "link": "https://ximitime.com/xiaomi-rolls-out-hyperos-security-app-update-13-6-3-with-game-turbo-enhancements-100967/",
     "date": "2026-09-26T16:35:37.000Z",
-    "source": "XiaomiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update.jpg",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update-1024x558.jpg",
     "category": "software",
     "updateVersion": "13.6.3",
     "osType": "HyperOS",
@@ -4012,11 +4030,11 @@
   },
   {
     "title": "Xiaomi rolls out HyperOS Security app update 13.6.3 with Game Turbo enhancements",
-    "description": "Xiaomi has rolled out an update for the HyperOS Security app, version com.miui.securitycenter_13.6.3-260924.0.1. This update affects the Game Turbo applications, which function as an add-on to the Security app. When the Security app updates, Game Turbo updates along with it. Update Details and Regio",
-    "link": "https://ximitime.com/xiaomi-rolls-out-hyperos-security-app-update-13-6-3-with-game-turbo-enhancements-100967/",
+    "description": "Xiaomi rolls out HyperOS Security app update 13.6.3 with Game Turbo enhancements",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjlyMEdJazdoTU1qRGJ5WFBfV0FiLWVvWGtsRHhNNWxXc3JnbzRGZVlSbEdrajJmekJtaWFGVFlJRlFhYTN1ck9LaVZoUC1GallTMHE0dFUwN3FSUEU5ZURlOHlDWk05OHZXNWNxZzZVWUFjV1czbEhDYXdCUlhMaUZuUlVUc2FoSVFDakF3QVVRbzcycnhOcHBYcjhsaWpXdV9zSjZORGkxNlMxLXc?oc=5",
     "date": "2026-09-26T16:35:37.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update-1024x558.jpg",
+    "source": "XiaomiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2024/07/Get-new-HyperOS-2.0-animations-with-HyperOS-Security-June-update.jpg",
     "category": "software",
     "updateVersion": "13.6.3",
     "osType": "HyperOS",
@@ -4551,24 +4569,6 @@
     "date": "2026-09-25T16:45:02.000Z",
     "source": "Forbes",
     "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi’s 18 Pro Max Is A Premium Phone That’s Part Of The Company’s Global Strategy",
-    "description": "Xiaomi’s 18 Pro Max Is A Premium Phone That’s Part Of The Company’s Global Strategy",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3BTR3RsUkVxbnhwaW9BZXNkMGRaQ3Z4MVJFNmVhbVc4WnhjU0FOSGJGZEhDWXZaTmFIeG1FWXFSbUVVTmNVUDg3cldPODdtcXZhQlB3UFhhYkg4cGJ0eGhrWmpaNFZWODhJN0hsTC1ISHFyaEp1LUJiX0xLVXFKQjU2ZVBwdw?oc=5",
-    "date": "2026-09-25T16:45:02.000Z",
-    "source": "tech.yahoo.com",
-    "image": "https://s.yimg.com/lo/mysterio/api/db9573832980bb11992bfaa246db647fb3d7ae0bca9863205c6e99d836f078db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F4d1beb8b96e8fa7d8ec6b0d4a23b49d9.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "小米手机好不好？2026年全系实测：系统翻身、续航封神，但品控仍有隐患+FAQ",
-    "description": "小米手机好不好？2026年全系实测：系统翻身、续航封神，但品控仍有隐患+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeTMweGRHNlYwd2dyRXpBVi1OaWZ2UjV0QXVRdlYzcjBvZ3pOTDZyb3gyVTlFUjN1MWw1amVOdGlWUEJWbmY0QlltS2hVdlBEMGNMN0ZKa1c5d2c4VHE1S0I0Um9NUW10NWZYa2R6TkljbExxaF9YWk5qY09CUUxKaA?oc=5",
-    "date": "2026-09-25T16:38:37.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_018.jpeg",
     "category": "phone"
   }
 ]
