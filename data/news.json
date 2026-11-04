@@ -1,5 +1,252 @@
 [
   {
+    "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
+    "description": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlsVE02aUd1U3ozeUxFNi1BdFljTU1FOVNtbXNXd0dmYnRSYUZiYUFkQXlpc0ZtZG8xOTFjc3V6aEZ5aklYd3Y5d3ZYTnExR2RsbnpEU1pIbWluWC1IZDhIYWowaWtBM1dGa3FydkNkZUxTWURWaHV5ZHlhU2lkY0NXUQ?oc=5",
+    "date": "2026-11-04T16:23:00.000Z",
+    "source": "Electrek",
+    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&strip=all&resize=1200,628",
+    "category": "auto"
+  },
+  {
+    "title": "HyperOS 4 Global Rollout: Is Your Xiaomi, Redmi, Or POCO Phone On The List?",
+    "description": "HyperOS 4 Global Rollout: Is Your Xiaomi, Redmi, Or POCO Phone On The List?",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YdnByMkpBdTRLSGp5eUNrUzR6a1M3SVZxaVFXNl9sbEFfQXVDYlN5a0NCcThkbGxNWXpEUUViejBobjR1aFE5SGRZWW14VlBRRmE3YjhoS212M0ZHWmFQNmlNRXR4ZXdtc3VN?oc=5",
+    "date": "2026-11-04T16:00:29.000Z",
+    "source": "Ubergizmo",
+    "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/09/hyperos-4-scaled-e1790002123430.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi Redmi Note 17 5G gaming test: Stuttering instead of gaming fun",
+    "description": "Xiaomi Redmi Note 17 5G gaming test: Stuttering instead of gaming fun",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFNXUmxJZXJ0dzhETWd5Y3Iyam1TZDUyWExjRDcwOXZoaW5WZ201QWtxbWpvR2kxNFM4ek51Q1p4d2p1RnR0R212R2JBTUZUR2hvZ0VoMDVmTGR2ZjYwWVdleFV2ZGstU1g3cmJLdDM2RG04MUhvZXJIZE1GcnhMN0JBTXc3TU0xa2xIYkRHS2U0Y3VFcXA5V2V6NFBJRkxweEdqbkY2THhJdnB4WjRGVzdjbw?oc=5",
+    "date": "2026-11-04T15:30:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Xiaomi/Redmi_Note_17_5G/aPic_Xiaomi_Redmi_Note_17_5G-3735.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "【视频】小米Su7后驱长续航灰外红内",
+    "description": "【视频】小米Su7后驱长续航灰外红内",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yWUZ1TktLS3JlRkEzLTE2RzA2aG9Uc2kzTklHWDk2UFJuc0RGZW00M1FBZm0wbzQxNm0weENqRVJtNXllMVlHVUVncWtzcE96OFR2VHBYOGJsR1dKSm1TRE9tRmd2X21vRW5z?oc=5",
+    "date": "2026-11-04T14:32:41.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "南方财经全媒体集团",
+    "description": "南方财经全媒体集团",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LbEpDXzdFY19RRkRrUVZjb1k4T0ctUWhkaUxOWjJqQUNMcUppQ1BKam0xQkE3endoXy1mR3E0X2FyaTRVSGxTVHlQMzJrbC1WaW1QbUNqRkYxSnA1ajVhX1U1THdGdw?oc=5",
+    "date": "2026-11-04T14:22:32.000Z",
+    "source": "南方财经",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "HyperOS 4 Rollout: Every Xiaomi, Redmi and POCO Device by Wave",
+    "description": "HyperOS 4 Rollout: Every Xiaomi, Redmi and POCO Device by Wave",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93M09mbkY1VWpqVlhDYmNsTFNPalNhS1hrUi1haGNtRGdMR3RMeTdNM1daeDBoejROWlp5MUdqZDN1V0llM2JGb2JabGJULTlKQ1FtVGthaw?oc=5",
+    "date": "2026-11-04T13:35:17.000Z",
+    "source": "ShiftDelete.Net",
+    "image": "https://ares.shiftdelete.net/static/en/2026/11/hyperos-4-rollout-xiaomi-phones.webp",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "device": "Redmi and POCO",
+    "isUpdate": true
+  },
+  {
+    "title": "中国信通院、华为、阿里、腾讯、小米等20家单位联合发布了《智能体发展自律公约》",
+    "description": "中国信通院、华为、阿里、腾讯、小米等20家单位联合发布了《智能体发展自律公约》",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQek8zM1BhV3U4NXRvbE1uMThrZnExS3NieXpidm5HMVhIdHVOWllKUUxYc2p5N19ueDQ4MEZIYVJVUXRiYXNEYkJTS3ExX3h3VlFPeXFFTHFDX00xMlZpcHRuM0pMelloaGt1VXVqbGFWNUpsZS1aU0JRYkg5UDJsT1ZwdHVBeEVoMmtRZ2NodDFjQmZpX1Uta0c2ZFVteE1xMFlacE8zM3MyOXdCek40Ym1MQ0FTQW5rWFlPU3I3X1lnWTZOWlVNZDJnekRuSktmWUc2Y1J6YnpOUVdueXVfSjVuTGQtd3pTSS1xdGJsMHpBMjRjc2tzb3BHZFNSYVZRNXpB?oc=5",
+    "date": "2026-11-04T12:54:00.000Z",
+    "source": "智慧城市行业分析",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "战宁王，分份额？欣旺达被小米们推上牌桌",
+    "description": "战宁王，分份额？欣旺达被小米们推上牌桌",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41RWFFMXJ0eTFZN28yY3lfTkFwbGVBY0xyeXdYc3pjWmliTnl0enRHZUZWaVY0aHFfNkxfeEt0bFpoZzhQRXljdjBTYllTUlNWMXZ5d3hETG1zMVNmVS1yOA?oc=5",
+    "date": "2026-11-04T11:45:58.000Z",
+    "source": "ThePaper.cn",
+    "image": "https://imgpai.thepaper.cn/newpai/image/1793799394679_xzKWPG_1793799394679.png",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi 18 Pro Heads to Southeast Asia — Which Countries Have Confirmed Launch Plans?",
+    "description": "Xiaomi 18 Pro Heads to Southeast Asia — Which Countries Have Confirmed Launch Plans?",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlJ4R0d0U3d0WHBibHVnME9tZXdlUnVkMTBsZ2dWemZlMXY0by0zRVpxa0dYUC1STU1KSnhlZThGVVpNWDYzWjlGZFo4a1RHcFFYTzJSZGptT05RWEVpTXlFZ3NkUHU3NGZnSzZPLU41ZmRxdDZyYUlPaHEyNFByZVNB?oc=5",
+    "date": "2026-11-04T11:27:14.000Z",
+    "source": "TechRepublic",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "雷军小米YU7价格23.35万起值得买吗？5个版本差价15万+FAQ",
+    "description": "雷军小米YU7价格23.35万起值得买吗？5个版本差价15万+FAQ",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PUUc0M3c5bC1nQVljYWxDM2FKcm5aMkRfWnpkVUNnTUtGTUlwZGpwQ1RtOHl3eE9XenZ6cVhsMG13elNjYU5rSlN6bVB1OWQwVGM1dFpueDNTczNDVXJB?oc=5",
+    "date": "2026-11-04T11:22:04.000Z",
+    "source": "新浪网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi unveils the HyperOS 4 update rollout schedule - GSMArena.com news",
+    "description": "Xiaomi unveils the HyperOS 4 update rollout schedule - GSMArena.com news",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRURmWThvUTRCU0FYd0xpSWhnTHd2TmJYUkhCVHFwWDYwZ3pOcmhleHVqWDNsN2R6ZjF4dExUX1UyZHZuZWJSelJIU3B4ZVBma2hJUDVuX29hNU5uZjZxQngwbld5NVZERnl3anRPQ0RjLUl0dDV5ZjUzM1kyTWZnSFJVZER1R0JKSWNfbEFMOV9NblHSAY8BQVVfeXFMUEQ2T3E2bHY0U093M0tXVFdnOS05LVRxalFSbDJ5aWZ2Mnl0MzFSSmVTYVFKOVJkeFo4NThaOTFyRE5PNTlzcUFUUHJUY3VvQk5JeUtwWVNQTTYtS3NwUlhGU3IxanJaQ1pzWGw3N1ZIcjEzOW9EWmxTaHp5aVdYOU9mbzdpYXFzUUYwLWJvX0U?oc=5",
+    "date": "2026-11-04T11:13:03.000Z",
+    "source": "GSMArena.com",
+    "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-hyperos-4-rollout-schedule/-952x498w6/gsmarena_000.jpg",
+    "category": "software"
+  },
+  {
+    "title": "Another major Android brand wants your next phone to be wider, not taller",
+    "description": "Another major Android brand wants your next phone to be wider, not taller",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fU2U5UjcwMlZFZWJ2VUJMT3dtMURCeEVqeGpxQkpKTG1Zd19SWFRMYmZEc2hsdjFfWFA2SXphcmlob010VlJ4VG9tel9DZUdFbTY1RFUwd3pRb3Bialp4b2xVMkgyeDB6WWx2V1BnM0RTUQ?oc=5",
+    "date": "2026-11-04T11:04:00.000Z",
+    "source": "Android Authority",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Z-Fold-8-Cover-dispay.jpg",
+    "category": "software"
+  },
+  {
+    "title": "离保时捷还差一点，新小米SU7 Ultra纽北圈速被曝光",
+    "description": "离保时捷还差一点，新小米SU7 Ultra纽北圈速被曝光",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JSDFNb3J0U3JEQkJ4ek1kcXBGbDRZdzg1M191YkRhQ09ESjc5dHg5em5PTHBDZFl2dS1xOWNuMUZDMkxfQ01ULTBpcVNFM3FXWEhRczVZcXdtcXM?oc=5",
+    "date": "2026-11-04T10:38:34.000Z",
+    "source": "汽车之家",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M04/C7/05/autohomecar__ChtpWGrq-gGAZ-fqAA45QViB6Kg418.png",
+    "category": "auto"
+  },
+  {
+    "title": "REDMI K100搭载小米WorldCast技术：一键生成3D运镜视频",
+    "description": "REDMI K100搭载小米WorldCast技术：一键生成3D运镜视频",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mekkyd2ptdU0zZ2JfRkxhZmZQcnh6R2VGMF80c0xJWVViekllS2VzZjNVUmZPYVRiTzFBb0Nkb1UzNzdkMEt0QVp0WDR4amprOFZPWDRkY0E?oc=5",
+    "date": "2026-11-04T10:35:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20261104/d32ca8c20f5449e58e172abcd0715d98.png",
+    "category": "phone"
+  },
+  {
+    "title": "不再是噱头？小米机器人进车厂干满8小时，迈出关键一步",
+    "description": "不再是噱头？小米机器人进车厂干满8小时，迈出关键一步",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10MjB2S2VvcVNZTEs1NGZHQW1OVWpuaTFpMVhOMExmNDBPNnhwZm1zVmRUYU5SRm90TFFlVklhMkMzUXV3MWFOYmh1NHpYU3dSLW40ODRyLVFhMGJDSklPWmIzSFA3NU82QzY3MklWaDBodw?oc=5",
+    "date": "2026-11-04T10:13:49.000Z",
+    "source": "新浪网",
+    "image": "https://k.sinaimg.cn/n/sinakd20261104s/576/w759h617/20261104/8d45-549e815959d4449d24f906d9fc070554.jpg/w700d1q75cms.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "【视频】24款小米SU7 后驱长续航智驾版",
+    "description": "【视频】24款小米SU7 后驱长续航智驾版",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFdnFldW54S3BzMXAwbEdxTGE4SkxWUXF1NVdvVHpDaHpBSnJOX1RndFFILUZMeVVRa1AyX2pwZ0xaVnd6S2dlNmxPUWdaUkJFX3dvUnJiMGtsOEU?oc=5",
+    "date": "2026-11-04T09:58:25.000Z",
+    "source": "汽车之家",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi's Redmi Turbo 6 Max tipped to pack massive 11,000mAh battery",
+    "description": "Xiaomi's Redmi Turbo 6 Max tipped to pack massive 11,000mAh battery",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2lPdXFmNFRpTkRPSUxUdWV2N3cwQWNLNEtDR0tLZlBYVW1vZWc0SFc5ekktdHkxOVN6WTVuTmNmTFlFY0M2cjVWckg5LUtlQVB6c3NIdTYyTmRHWjJMVGhpR2RsUUtVMzF6cjl5WnUtZjRVZDRPZENFQXd4djZCanA3UFdIeXhudnUyNkd0bmlLbFZiYXlqTkxGQ0hSd29JdXB6eHZrMzg5X0l1SGtRNHZR?oc=5",
+    "date": "2026-11-04T09:49:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/1403-197.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi HyperOS 4 Rollout Schedule Confirmed: Devices and Timeline",
+    "description": "Xiaomi HyperOS 4 Rollout Schedule Confirmed: Devices and Timeline",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVlkMjRzeElJRjVnWW0wWEdueTBXb1p0ZnJhWDNITWpFbGNBQ1FldVdvLTQtRDBBeVVBMmlNLUVYall0VGNvZm1qLUQxSUhqWDNTSzVmSzJHTEtyR3VRVWwzTkxVeHMzazdUVmxQaDFkZlVCZmVyRXdiY251SkdKSWd4WQ?oc=5",
+    "date": "2026-11-04T09:46:57.000Z",
+    "source": "TelecomTalk",
+    "image": "https://telecomtalk.info/wp-content/uploads/2026/11/xiaomi-hyperos-4-rollout-schedule-confirmed.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi's humanoid robot completes first full 8-hour shift on China production line as CyberOne 02 passes auto factory \"internship\"",
+    "description": "Xiaomi's humanoid robot completes first full 8-hour shift on China production line as CyberOne 02 passes auto factory \"internship\"",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oc19pVnc4TzR1VWx6UkppWUpVSWx5UjBITUZETF9OT0ZxMGVGMmZuUnRvSGZKVEpPdEZKeG9jNm1jc19paEJ1WEZLc1JoeGZfaGVaNC11YVFQOEVlQVU3X1NGRnhlYzJjYU00NlBaaS1SazJvaGc?oc=5",
+    "date": "2026-11-04T09:36:00.000Z",
+    "source": "BigGo Finance",
+    "image": "https://img.biggo.com/QSWy8S6aChKoEvsKQWp9AFQQJKUH1ID9DPz2wMKYbRw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzVlNWFiZDI5LTI4N2ItNDM0ZC05ZmI1LWIxYzE2NTYyYWI1OV8xNzkzNzg1NDU2X2RlZmF1bHQuanBn.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米机器人解锁新成就 产线级作业初步验证",
+    "description": "小米机器人解锁新成就 产线级作业初步验证",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5NF9pdXJOTUVrSkEtU2N4UmxBRmprNDRfTTNtRVd3ZTIxZzRzOUt6RU1BZjRsbDRGWWFMSXh1Y0FBYkFCVVFjcjlKbU1lM01ScmFPMHF3UEhqVHU3TUJKTUQxaVFNa0daQ0tkT2xCZmM?oc=5",
+    "date": "2026-11-04T09:19:05.000Z",
+    "source": "中华网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "华为、阿里、腾讯、小米、百度、火山引擎等20家单位：共同抵制利用智能体实施算法压榨、黑灰产等行为",
+    "description": "华为、阿里、腾讯、小米、百度、火山引擎等20家单位：共同抵制利用智能体实施算法压榨、黑灰产等行为",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lM3NkQWg4Qkt2c01HVGdOc0RrVXhwX21vc0tuUmFxbXdzcElhYkZoUEJzcmRFX2lDMzFZZURzVVFYSWliOVJlUVpVM0JKS1phbVVheldtem0?oc=5",
+    "date": "2026-11-04T08:57:04.000Z",
+    "source": "中国知识产权律师网",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "中国信通院、华为、阿里、腾讯、小米等联合发布公约",
+    "description": "中国信通院、华为、阿里、腾讯、小米等联合发布公约",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjZOR3RtT25NZVBGbWZxcXJJRm9pOFB5UnlUNGNpTlVQdjFBWEh1a2g2RFk5V090LTFpVFVpTFFmbVlRYkZvemZLLV9EdnJ3a1gyUWpHUU9tZ2VXWmtOUFJzNWdtYnF2RERqTXhuVlUwYWJTSm43N2VkUEdPOUN5UXM4bnNVcVNI?oc=5",
+    "date": "2026-11-04T08:45:21.000Z",
+    "source": "搜狐网",
+    "image": "https://q9.itc.cn/q_70/images03/20261104/0f3b161dc9c44cb59eb65a6656501ed1.png",
+    "category": "phone"
+  },
+  {
+    "title": "11月4日春光科技涨停：小米概念股，机器人，家电概念热股_个股掘金",
+    "description": "11月4日春光科技涨停：小米概念股，机器人，家电概念热股_个股掘金",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiNEJVUElIZzd3NjdBUGxyZzhRd191Z1JmdEdmRmotUl9PdW9ueWlUYzNZYXVPSmpsNEdTSXYwMW5id3g0YTRnekhtd2tuZ1RxRkRLd1pzaG9xZzFnM0FMLUN3?oc=5",
+    "date": "2026-11-04T08:45:19.000Z",
+    "source": "证券之星",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi Reveals Global HyperOS 4 Rollout Schedule; Over 30 Smartphones to Get Update This Month",
+    "description": "Xiaomi Reveals Global HyperOS 4 Rollout Schedule; Over 30 Smartphones to Get Update This Month",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTI5QW9TUTRncV9qSDVsZ3Z4TVFrMXdtVW1RMlVlblBJNzZ6ZUY2RjY0cjlhNDdkQ1VVYTUwVnhWZXBFS29vNERhOExLaVMtdVc5NkRaRnphY3FIcUtHV00zLWpQRUxwLUNmMXVyNTB5UjFSd3BCTmVGbVlXbGUxVFZ4VUh4VksxTUZtcG1XTGR5SnE3WUNuVnNUc1ZiNzhtWHhFdEpvdkp4dFVoOUt6MDIxUEttSzhGQWJnaUZ2dGlwZw?oc=5",
+    "date": "2026-11-04T08:43:37.000Z",
+    "source": "My Mobile India",
+    "image": "https://www.mymobileindia.com/wp-content/uploads/2026/11/xiaomi-2.webp",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Video: Xiaomi’s humanoid robots sort car parts for eight hours in factory demonstration",
+    "description": "Video: Xiaomi’s humanoid robots sort car parts for eight hours in factory demonstration",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhac0lOVHNSN3BzR1hGQ21hcThRaC14cnJTUTk0Y2taSHhXazlFdGRUbkY2ckJLeDJNQ19xNWF3X1hpOXl5YTBIdXB0aV95TlZzODkzUlZVMW5FQWtHbnZEWFowSnJ4aWxhWERfZWF5MnZJOHZKZEI1UWNiYnowME1XbFQ?oc=5",
+    "date": "2026-11-04T08:43:00.000Z",
+    "source": "Interesting Engineering",
+    "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "小米集团具身模型与应用部负责人孔涛发表主旨演讲",
+    "description": "小米集团具身模型与应用部负责人孔涛发表主旨演讲",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTHA3VTRsU1cybUtCTkpXY1VVQ1V0S2tZemhhN2VHQjFVM2xTM0NFMndocWFGRWUwOWZVZ1pPTE1YNERvekh4TDZyMTJBOTA5a1N5aVJmbi1HbFBrTmVoclN6dUVLUTNRU0tybFFwdFJDWndhZzNFQVBxdmg?oc=5",
+    "date": "2026-11-04T08:42:56.000Z",
+    "source": "中国日报网",
+    "image": "https://img3.chinadaily.com.cn/images/202611/04/6aeaf010e4b0e1427c730387.jpeg",
+    "category": "software"
+  },
+  {
     "title": "Xiaomi Begins Global Rollout Of HyperOS 4 With Android 17 And Soft Light Glass Design",
     "description": "Xiaomi Begins Global Rollout Of HyperOS 4 With Android 17 And Soft Light Glass Design",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3VsSk1QVWhaZnlRb2liWmRJbHBFVDV2NzlIVmRpLTlUQm9xTzhSd3FZVjdRSFFaR0pQZmJjTjZrWjZyWUF2U01lQ2picDFxbHc5Z1I3S0F3dWtkcHFrekd1cTN4eXdoZlFXR25fTVlzZFVNUHh5aEhJZkhxSzBLemUwRnZtbTU4MTN0N3VmU2FSRlF1cmV3NkZzWG8wa2FIRC15S1JIQzlVLVNjN1ZDVmJXSW4tUdIBuwFBVV95cUxObUo5VU9DOW4wZWFmYWM1czY0RjdIUUxPb2ZrX2dmTEJ6V1Vid0toNEVwVnZJdDE0Y0RudTRwYkZEdnUwRWxHYTVsZEY2M1B5UTBlMEhKai1RM2FGWGl5WS10ODYtcHZXZzdNcGEwb0RyVjFLU0Zqd21kX3Y0R3FBMmxBZXI1SUFEVDdmcUNTNU5rTXhrX05Pb2dpS3B5bmo4eVpFT05mdmd5STd0V2J4MWxVdGdZNGZSN0dV?oc=5",
@@ -33,6 +280,15 @@
   {
     "title": "合资都开始“致敬”小米了？别克新车尾部“撞脸”YU7",
     "description": "合资都开始“致敬”小米了？别克新车尾部“撞脸”YU7",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5veEZfdG9oaEdTNDc5Wkl0MV9VTmZ6cDdpYW1Jc0xVZzNDUGFEOXNTaW1qLWxCemxINDlOX055ajVNSXluOF91NzdieGlBRUE?oc=5",
+    "date": "2026-11-04T07:24:00.000Z",
+    "source": "热点科技",
+    "image": "https://www.itheat.com/img/300/225/6/D_DuploadD_DarticleD_D2026D_D11D_D6380d8388457449a9e9b454c92d42c8eE_Epng.png?_t=1793775830",
+    "category": "auto"
+  },
+  {
+    "title": "合资都开始“致敬”小米了？别克新车尾部“撞脸”YU7",
+    "description": "合资都开始“致敬”小米了？别克新车尾部“撞脸”YU7",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlRkRLOTZ5Z1k5UTZWamxiODVJWU5CcWJrRTdDOTM4a0hwaFFOTkd4Y2h3RVBCd092RTFDUVFMT1lZM20wNWRfb3dma2pwbWhSRHNndkFOSF9xWUFY?oc=5",
     "date": "2026-11-04T07:24:00.000Z",
     "source": "热点科技",
@@ -50,6 +306,24 @@
     "updateType": "update",
     "device": "REDMI K20 Pro",
     "isUpdate": true
+  },
+  {
+    "title": "华为、阿里、腾讯、小米等：共同抵制利用智能体实施算法压榨、黑灰产等行为",
+    "description": "华为、阿里、腾讯、小米等：共同抵制利用智能体实施算法压榨、黑灰产等行为",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85aVhYSXdTdDE1QXR5OEdOUG5CcG9peHFaR2xfWlFzSFhTV2Y0TW94Q21kR3dmYXJNYmk4aXFIWkhVRVNYaGtodFVKX3Z3ME9rUlBj?oc=5",
+    "date": "2026-11-04T06:55:00.000Z",
+    "source": "电子工程专辑EE Times China",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "人形机器人能在工厂上“整班”了！小米公布机器人新进展",
+    "description": "人形机器人能在工厂上“整班”了！小米公布机器人新进展",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrTHZfMHdTMVkwYVZNemRiRjRmRmlvTHhoQjJqdGZ5MzhZLTlHUk4yOFMyNXZBVENQUkJLLThtQ3dEZnRiZ2xHenNSaDNrRl9icGRiUUtTUEFZbzFRSmRnblRKUjE2Vm00U012ZWk3Sng?oc=5",
+    "date": "2026-11-04T06:53:30.000Z",
+    "source": "国际科技创新中心",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "【视频】小米黑武士su7升级内外Ultra全套大包围套件案例",
@@ -70,6 +344,19 @@
     "category": "iot"
   },
   {
+    "title": "Xiaomi unveils HyperOS 4 rollout schedule, over 30 smartphones to get the update this month",
+    "description": "Xiaomi unveils HyperOS 4 rollout schedule, over 30 smartphones to get the update this month",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WHgzTHVENzQ2bFRaWlNZMlozeTJKalI2aFZHNVE0cnM4V0VTNWh4S0R6UFRqb0pGMW9qZElNb3V3U2kzQVh6TFk0bjNvMWoxYm90WFZVREFYeDFrUXZITk95RWZCblZtZ3c5RjRZaXZ5OXZiU0h5R0F2Zmh2MEnSAYQBQVVfeXFMUHo0RGhPVmdIVWx4VS04bFlWZ2xJa1l1X1lzT0g3UnhwZE9QSGVCMDI4a2NqODllaXptU1FheUR4U3BCTDVyTV9sOF8wU3RQbFB6OUNVQ1RLSmlEUzhHUjIyRkowV3h3aFVxZkY1MEVNR0I1bDNETHFkNWVhRGVnZm9kbVNS?oc=5",
+    "date": "2026-11-04T05:59:06.000Z",
+    "source": "91Mobiles",
+    "image": "https://static.hub.91mobiles.com/wp-content/uploads/sites/9/2026/11/HyperOS-4-global-release-schedule-out.png?tr=q-70",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
     "title": "小米机器人进厂“通关” 具身智能赛道多股涨停最新高增长潜力股名单出炉_股市聚焦_市场",
     "description": "小米机器人进厂“通关” 具身智能赛道多股涨停最新高增长潜力股名单出炉_股市聚焦_市场",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tVGZWNko3X01sRl9jZHAzdVdXR0JrSG1zdHkwR1ZlRk1ETU5KUVAwRDlBVjQxcU10d08yY0NiSDNFYXdXWVdHdUhub2l0QUxDSVhFOWNEdTZoZllySi0yd1lmOG00RFpocnlKcXBR?oc=5",
@@ -77,6 +364,15 @@
     "source": "中金在线",
     "image": "http://images.cnfol.com/wx.jpg",
     "category": "iot"
+  },
+  {
+    "title": "小米机器人进厂“通关” 具身智能赛道多股涨停 最新高增长潜力股名单出炉",
+    "description": "小米机器人进厂“通关” 具身智能赛道多股涨停 最新高增长潜力股名单出炉",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yU1lGeFg0LVU5OTI1M2pyV2NGOXgzRm00OHh0dXlBWktyY3RCZ0NSekZkWW1pSjh6SHBJRTZqbzBPRzBXZ3p6SFpFWEhTRmZQdGZ0ZmlXRUxwZnphTEhUb25CYm5LY09GRFE?oc=5",
+    "date": "2026-11-04T05:42:15.000Z",
+    "source": "中金在线",
+    "image": "http://images.cnfol.com/wx.jpg",
+    "category": "phone"
   },
   {
     "title": "从MIMO到Giga-MIMO：一项基础技术如何走向6G",
@@ -116,6 +412,15 @@
     "osType": "HyperOS",
     "updateType": "update",
     "isUpdate": true
+  },
+  {
+    "title": "恒生科指反弹三日遭空头加仓 小米集团卖空股数激增超300%",
+    "description": "恒生科指反弹三日遭空头加仓 小米集团卖空股数激增超300%",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16MkNzWFlKOUVWRmI2NVZZUjZGcTA1SWdLY1EzQ0ZERG1iVURFekRCbzRnZF9hU2IzeWJXYk9fTS1WRmVZRjZ4UA?oc=5",
+    "date": "2026-11-04T03:43:00.000Z",
+    "source": "财联社",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
@@ -306,7 +611,7 @@
     "title": "HyperOS 4 update schedule: Every Xiaomi, Redmi, and POCO phone getting Android 17",
     "description": "HyperOS 4 update schedule: Every Xiaomi, Redmi, and POCO phone getting Android 17",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdi14SC1PYXZ2LVNYQVdGVXhsMUxYU2lwblF6WUtPejFZVDFfZmVsSEltWmlPR3IwY0dyXzJLMUZuRWhRRFhSM3J6endDS1JqVGpnTHFvdEpkTHVUUnFWaExnWmFZc0NmUnBaYnl0bXlscWo3UThta1BxYlliSlhQQVBkN3ZhVWVodnVJNDVSUEpTY1ZDOTN5bWFkdjN1MXY5TzVfWThqRVBfR1NYN2tCNzVUSVIzems0aTZFcUJHTUE?oc=5",
-    "date": "2026-11-04T00:37:23.000Z",
+    "date": "2026-11-04T00:42:52.000Z",
     "source": "Android Central",
     "image": "https://cdn.mos.cms.futurecdn.net/SAm74uvQGcZtgdyefiXGBL-2560-80.jpg",
     "category": "phone"
@@ -354,6 +659,15 @@
     "date": "2026-11-03T23:54:00.000Z",
     "source": "财联社",
     "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "中国信通院、华为、阿里、腾讯、小米、百度、抖音等，共同抵制→",
+    "description": "中国信通院、华为、阿里、腾讯、小米、百度、抖音等，共同抵制→",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PZ215bnlDT2lWVlZVQnQ5UXV6TWo4eUdQdnloZzBnbW5kWEJyUDdGZmxWbWMxUEhPdHNhSE1GQlNKYXpNaW1uRERaajdEUFRnaVZCQ3hUNVNwWEwzZnlBTg?oc=5",
+    "date": "2026-11-03T23:36:20.000Z",
+    "source": "东方财富",
+    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
     "category": "phone"
   },
   {
@@ -464,7 +778,11 @@
     "date": "2026-11-03T17:23:34.000Z",
     "source": "Android Headlines",
     "image": "https://www.androidheadlines.com/wp-content/uploads/2026/02/AH-Xiaomi-17-image-2.jpg",
-    "category": "software"
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
   },
   {
     "title": "Xiaomi introduces Smart Door Lock 5, priced at the equivalent of $165",
@@ -812,19 +1130,6 @@
     "source": "东方财富",
     "image": "",
     "category": "phone"
-  },
-  {
-    "title": "Xiaomi HyperOS 4 Rollout Schedule Is Official: Check When Your Phone Gets the Update!",
-    "description": "Xiaomi HyperOS 4 Rollout Schedule Is Official: Check When Your Phone Gets the Update!",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2ZYaXpWX09TUHZGLXZwenJIU2ZlVFZKVWdQUFl3cGlZeUhMQVc0Ulc2MmtxZGpMLXptQllrT3NWczZiSkc4SWFETEZQVlpydDZxY1ZaMVpYbXotNFRnYVpabllwWjRBSGxwTkxhS1NBQnkwRFVDRlZCQnNwX1Z3elBROTVDd2JDTHVfNW1kd1Q?oc=5",
-    "date": "2026-11-03T12:20:42.000Z",
-    "source": "nokiapoweruser.com",
-    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/06/Xiaomi-HyperOS-4-tech-preview.jpg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
   },
   {
     "title": "手滑闹乌龙 雷军误写小米YU7首付7.99元 网友疯狂玩梗",
@@ -2267,6 +2572,19 @@
     "category": "iot"
   },
   {
+    "title": "Xiaomi HyperOS 4 Rollout Schedule Is Official: Check When Your Phone Gets the Update!",
+    "description": "Xiaomi HyperOS 4 Rollout Schedule Is Official: Check When Your Phone Gets the Update!",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2ZYaXpWX09TUHZGLXZwenJIU2ZlVFZKVWdQUFl3cGlZeUhMQVc0Ulc2MmtxZGpMLXptQllrT3NWczZiSkc4SWFETEZQVlpydDZxY1ZaMVpYbXotNFRnYVpabllwWjRBSGxwTkxhS1NBQnkwRFVDRlZCQnNwX1Z3elBROTVDd2JDTHVfNW1kd1Q?oc=5",
+    "date": "2026-11-01T14:16:45.000Z",
+    "source": "nokiapoweruser.com",
+    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/06/Xiaomi-HyperOS-4-tech-preview.jpg",
+    "category": "software",
+    "updateVersion": "4",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
     "title": "10月新能源销量公布！比亚迪冲刺50万月销，小米小鹏起飞了",
     "description": "10月新能源销量公布！比亚迪冲刺50万月销，小米小鹏起飞了",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmOXJtdFpzREl0aGtvNWVoZG54bG5YWEtOdjlQUXlfUzFVcXNRbXNnUnZ2S0VYR2VFdVlrQWZIMktyMlFkcnA2UE5zN2htQQ?oc=5",
@@ -2588,19 +2906,19 @@
   {
     "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
     "description": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmNLNTJnbzI3NDdVQ0NJdlNYV1NTU0FNVDdhbEF2V0swdFJXdFBGOG50OV9wWG04NUZEMVVyUTlUejdVdXNSVDktbEh0RlpZMzRuRWM3LU4ycGp2MTl2QkhnYkJLcDRZYW91djRsLXNJZXFuNEdUTldsb29uZVNFbEJDQldCT0g0ZWtJQXc5eUgwaTVnX0NKTG1B?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDNvaF9EY043MFVWR2pSRVpvZEJqTVhCUjNnZTItREFmdXQtTFpBcHNyUFdKaEhwTG81TTltbGxvbFJGX1I3Q29LTEh2S0VSbWN2eWJQZHpCR0gtOFR0T3gtUFVrTjhTY0RCM2wwQ3JTcUN0bE9xMUdCbVJlcFU4X253VXI1dlE1U05fNHRfOV91TXVLekVOd2xRMmdBRUFULTFtZm5aRHBqV1ZFSzJ3OFFWdlYtenFXeGo0YTYzdW03VzF5MVFOTkFHbXdCazBTQUdWb0pBMDlqNFU5SDZjemxCdzZ1V1RYZ0gzU1o3S1NWcmc?oc=5",
     "date": "2026-11-01T07:41:36.000Z",
-    "source": "Yahoo Finance",
-    "image": "",
+    "source": "Central Oregon Daily",
+    "image": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/d/c3/dc3bc410-db65-53c4-b38e-e2abd249072e/6ae6eeaf0fe0f.image.jpg?crop=800%2C420%2C0%2C54",
     "category": "auto"
   },
   {
     "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
     "description": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDNvaF9EY043MFVWR2pSRVpvZEJqTVhCUjNnZTItREFmdXQtTFpBcHNyUFdKaEhwTG81TTltbGxvbFJGX1I3Q29LTEh2S0VSbWN2eWJQZHpCR0gtOFR0T3gtUFVrTjhTY0RCM2wwQ3JTcUN0bE9xMUdCbVJlcFU4X253VXI1dlE1U05fNHRfOV91TXVLekVOd2xRMmdBRUFULTFtZm5aRHBqV1ZFSzJ3OFFWdlYtenFXeGo0YTYzdW03VzF5MVFOTkFHbXdCazBTQUdWb0pBMDlqNFU5SDZjemxCdzZ1V1RYZ0gzU1o3S1NWcmc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmNLNTJnbzI3NDdVQ0NJdlNYV1NTU0FNVDdhbEF2V0swdFJXdFBGOG50OV9wWG04NUZEMVVyUTlUejdVdXNSVDktbEh0RlpZMzRuRWM3LU4ycGp2MTl2QkhnYkJLcDRZYW91djRsLXNJZXFuNEdUTldsb29uZVNFbEJDQldCT0g0ZWtJQXc5eUgwaTVnX0NKTG1B?oc=5",
     "date": "2026-11-01T07:41:36.000Z",
-    "source": "Central Oregon Daily",
-    "image": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/d/c3/dc3bc410-db65-53c4-b38e-e2abd249072e/6ae6eeaf0fe0f.image.jpg?crop=800%2C420%2C0%2C54",
+    "source": "Yahoo Finance",
+    "image": "",
     "category": "auto"
   },
   {
@@ -4318,307 +4636,6 @@
     "date": "2026-10-30T04:07:39.000Z",
     "source": "搜狐网",
     "image": "https://q9.itc.cn/q_70/images03/20261030/700115bfe26c4f5b8edf67dee6d2a25d.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi electric car: the complete range coming to Europe",
-    "description": "Xiaomi electric car: the complete range coming to Europe",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFp2aS0zVlgzX2htYUpZZFJuczQyN2RUYjRya19GM2hBRVF3VDB5WWxXSGhORXI1VE00NnU2QXR3Q25femp6dl9ncWNVM0VnbThkS2VOa2gwT3pRTk1PWGtDNkVUbWZpTDhuQkZzQm9EZElzSXVjbGtJbUd2VVZ1VVpELWtjY2IyOHhOdkV5Y0JmeUNMN1ZzUldFOA?oc=5",
-    "date": "2026-10-30T04:03:14.000Z",
-    "source": "Electra",
-    "image": "https://a.storyblok.com/f/236077/2000x1125/5d136c7fae/xiaomi-su7-yu7.webp/m/1200x627/smart",
-    "category": "phone"
-  },
-  {
-    "title": "小米18搭载骁龙8E6：今年唯一用上2nm芯片的标准版",
-    "description": "小米18搭载骁龙8E6：今年唯一用上2nm芯片的标准版",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uMS0tbXBBWldkXzA5WmtNbFNNQ3BCX1Vrc0pQSGJnZ3ZXcXlaWUg5Q1EybXVyMEhzYTdZSkRkdnN0dmlEOWNxRDVTZjRxODNpTkV6VFBJVDg?oc=5",
-    "date": "2026-10-30T04:00:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/053b0047a9824cf6a1607d0857f31c49.png",
-    "category": "phone"
-  },
-  {
-    "title": "欣旺达终止H股上市计划，子公司引入小米作为股东",
-    "description": "欣旺达终止H股上市计划，子公司引入小米作为股东",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGdUYjRDdlZqNDhIZGdQZnlYdkMybkJLbVc4ZUVQdGRKcXhOblFrWHAtb1NtNmlZbWpiOFB6MF81NGlzWFAtRVN1MU1CQm9URkhhU0dBUXRUVGNUdzZrX3M1MVU0SHFDcHRmRnk1cEE2dnQ1RzRhZGs2UVVkMklGb2hfYzdQbEJxNHpubQ?oc=5",
-    "date": "2026-10-30T03:56:00.000Z",
-    "source": "搜狐网",
-    "image": "https://q9.itc.cn/q_70/images03/20261030/bb9b9541c944447fa9901626a518a19e.jpeg",
-    "category": "phone"
-  },
-  {
-    "title": "小米出资17亿元入股欣旺达：仅次于理想成第三大股东",
-    "description": "小米出资17亿元入股欣旺达：仅次于理想成第三大股东",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OWk1OSF9ad2F2M0ZDM2R3RUd4NUpEUWtaczNMcTV6eXBYd2pQeHZFdjlRd0dLeU9mbzFvYUVEcjNTSUlZNVp3VDRlODJVYk5QRTUyYkhrTXU?oc=5",
-    "date": "2026-10-30T03:40:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/95326cbabbf848c7b132c1b3864dd409.png",
-    "category": "iot"
-  },
-  {
-    "title": "129元起！小米智能开关2 Pro开售：AG玻璃面板、单零火兼容",
-    "description": "129元起！小米智能开关2 Pro开售：AG玻璃面板、单零火兼容",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDeG16d0lNS0ZrSE9ycjhxZXdBQXpwc2NlaEJzcHFZaWJ6ZUVxcXpmMnBSNExyNEU5M01Dajd2WVJrd3g2OFY1WUZiNGMyQndIVG04ZjdRMXk?oc=5",
-    "date": "2026-10-30T03:37:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/8b09dfb5964343469e20d14542de7b72.png",
-    "category": "phone"
-  },
-  {
-    "title": "欣旺达：小米全资子公司拟17亿元增资欣旺达动力，持股5.34%",
-    "description": "欣旺达：小米全资子公司拟17亿元增资欣旺达动力，持股5.34%",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iem1QOS1hS0VnLW9RbFRaZEVZNktlVFpMMXBPOXZkMUg5cS1vX3ItVUdZTU8yS3BCY2ptRE81MHEzenVoT0s3dlVUQ08?oc=5",
-    "date": "2026-10-30T03:11:15.000Z",
-    "source": "凤凰网科技",
-    "image": "https://x0.ifengimg.com/ucms/2026_44/18DD2FF436639B5ED2086D166ABA8B8A6B6A1FCA_size103_w884_h498.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米澎湃OS 4正式版开启推送，覆盖小米17 Max等机型",
-    "description": "小米澎湃OS 4正式版开启推送，覆盖小米17 Max等机型",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGRZc2pVbEpUVXNzNUhpOHFZbUE0eXQzOVdWVXFPWVdnSkRnblhXcGVkbGZvUXJDb0hfR1lOeVZ4X0NUblpfQUdBTnY3NUhocjB4enlyQW1lSTBlZ1JpTjBON1IyckREenZVbkRVSFh1ZG5FQzRta0NscXdBNGh5UzNXVEM4Qkt1dW9B?oc=5",
-    "date": "2026-10-30T03:02:23.000Z",
-    "source": "搜狐网",
-    "image": "https://q5.itc.cn/q_70/images03/20261030/c706e92b676d44a08b2f11838e4095ac.jpeg",
-    "category": "software"
-  },
-  {
-    "title": "小米澎湃OS4正式版覆盖更多机型- 数码科技",
-    "description": "小米澎湃OS4正式版覆盖更多机型- 数码科技",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV0ppYW1QeUdaQkJWeGtyOWxqRkxOSmd0WXBoLVN4V1lYZkp3czdoNF9PdnR1TTJQdkhnREFZZFZFd0cwOEwycGdiZzdrV1NWc2diZ0RlbTg?oc=5",
-    "date": "2026-10-30T02:24:51.000Z",
-    "source": "智电网",
-    "image": "",
-    "category": "software"
-  },
-  {
-    "title": "小米澎湃OS 4正式版新一批推送：覆盖小米17T、K90、Turbo 5系列等",
-    "description": "小米澎湃OS 4正式版新一批推送：覆盖小米17T、K90、Turbo 5系列等",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LeElBMC1QdnUzQ2NqU3Fjamx1azY1UkJBUHdOamwtcXJpNFV3MDFKZllzWU5jcFVBOTdDMTh3dmRNbjh4VzRiWUMzLXdfUE1KTUEzVmZ2RlU?oc=5",
-    "date": "2026-10-30T02:14:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/c625c0c624aa482596048b65d18b9271.png",
-    "category": "software"
-  },
-  {
-    "title": "小米巨资入股电池公司！",
-    "description": "小米巨资入股电池公司！",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMnZxWTE5YlBkLTNKQ1BUSUY3WHExM3R2djJ6LVEzLUVNWE9EWTUyaTJJeEZkN3gwUkxMVndwNlZmeFdvVUQteGtwZS12N3lPR0xr?oc=5",
-    "date": "2026-10-30T02:06:00.000Z",
-    "source": "电子工程专辑",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "新低后奋起，小米集团领涨5%，港股互联网ETF华宝（513770）标的指数涨超2%！",
-    "description": "新低后奋起，小米集团领涨5%，港股互联网ETF华宝（513770）标的指数涨超2%！",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaDdzcGFWQUJVdV91ZWpDbGpFZHFqRm8wNGpTLWdKNkxpc3FHSHZyX1BaRWkyQ2I0TVEwNlowSWJHRWpPQnU5ZnlnTEVfaFNfVVEzSTdsamE5ZGFfbG5XWDNidEZ0NUkzQ3d3WVdZR2dsQW1TeU04R3pPQnRnVG9kdUFHTlRSSGp0dm9mS2RGbEVzTjI5OFpRQjRVZmlRVjBhWFNpMWZYVHN3QkZBVUpPNk1UTHFPUk5MbUpaUEpLSk1VX2xHM0tGTlc1d0l2VmNHUkxiOHBqZ3hSYS1QZFE?oc=5",
-    "date": "2026-10-30T02:01:40.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/finance/transform/773/w550h223/20261030/ddb5-544bdcf40bd66b0a3871fad36f7a5509.png",
-    "category": "iot"
-  },
-  {
-    "title": "300207，营收大幅增长，引入小米参股子公司",
-    "description": "300207，营收大幅增长，引入小米参股子公司",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1WlBTd3NTenBZalFEbEQtSFFfMUlKcTlSa3NQX2ZjTUhKY2M4d1N0OF92TERHd21KV2ZPQnBWUm9FRHJDT1hhc1ZfYjJpbWhvU0ZtNUlIS0hMbEpmcHFINXhRdFdBZw?oc=5",
-    "date": "2026-10-30T01:57:06.000Z",
-    "source": "东方财富",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "欣旺达：前三季度营收涨四成多，小米入股欣旺达动力",
-    "description": "欣旺达：前三季度营收涨四成多，小米入股欣旺达动力",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YS1hONURZVkFXd2VkRGZtMnFTVzR6cVUwcHNfRXVzWEUzS2I0aUoyQ0NYREVaNXd0TGVYTkduUEZQUmJ0RmM0NUpxUHAxSGpFTzJZa3hLVFRnSm4xOENrWW1EOS0?oc=5",
-    "date": "2026-10-30T01:43:00.000Z",
-    "source": "新京报",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "上市公司官宣！欣旺达动力再引小米17亿元增资",
-    "description": "上市公司官宣！欣旺达动力再引小米17亿元增资",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40OUJLZThrTFdDanZVMXY3T1ZpWTVIN29vRXZ1cGhnLXdCcml3NlVoZkFoYVJjVGJfMHZYbWtrbHp3TzQtU1FreDBlTXFJYmVfWWNvUVFES2xXRWdrM0xRVnRR?oc=5",
-    "date": "2026-10-30T01:20:00.000Z",
-    "source": "https://www.itdcw.com/",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "明年目标销量80万辆！小米多款高端新车曝光 新车客单价均价25万元",
-    "description": "明年目标销量80万辆！小米多款高端新车曝光 新车客单价均价25万元",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hOXA1ajQ5QmJlVHNnbTlWcHkwdDVucTMzSF9tZ3ZqcVJVRXNFb2ljSHJ2ZHZCTndQX24zUy1FekpiY1JMV2xILXhWMGNJVy1HclI2SmtCdTc?oc=5",
-    "date": "2026-10-30T00:37:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/b184fec315154220afa4d1c8fb8eea6b.png",
-    "category": "phone"
-  },
-  {
-    "title": "速查！你的文件夹里，可能埋着一颗“雷”……",
-    "description": "速查！你的文件夹里，可能埋着一颗“雷”……",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmZkV2xXcDJlUWJ2WV9PNDU3WDF4ZnptOG14NlN2MFJqUWlaYXVIbmZXc2MxcXJPR2pDeEhGN0N4QXVoVENURFI4QUtsbEhIWEhjWFMwdXdBdEdMWkVVQXg0S29UREZ1cDFHb0xLX1JRM2hmSzM0XzNlbEQ1cklZdEp5MUI0UHhHR19ZUw?oc=5",
-    "date": "2026-10-30T00:20:24.000Z",
-    "source": "搜狐网",
-    "image": "https://q3.itc.cn/q_70/images03/20261030/46cb844f7596436f99edc4c9669ac90f.jpeg",
-    "category": "phone"
-  },
-  {
-    "title": "300207，营收大幅增长，引入小米参股子公司",
-    "description": "300207，营收大幅增长，引入小米参股子公司",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90MTFXQUxvWUxUeGtfQ2U5VUw2ZzhMdVRncUlaOVVWMl96OEx0UjNRQWZHei1DRjZqa0FWSmxycGs2N1UxODNGSWVLRHh2b0hMOFA2dENXMkptZWV4d3I3OA?oc=5",
-    "date": "2026-10-30T00:20:00.000Z",
-    "source": "证券之星",
-    "image": "https://wap.stockstar.com/content/images/wxshare300.png",
-    "category": "phone"
-  },
-  {
-    "title": "中国消费级摄像头最新排名出炉：小米销量/销额双第一",
-    "description": "中国消费级摄像头最新排名出炉：小米销量/销额双第一",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnQWNkVGFwQTI0a3pCVFdnOHZsRmdVcGFCRjNaQ3JwUnhaMXVka0xySXRpeFVraktQLWxrUE5vNTQzNnE3NVVnUmZHUE1qLU5jNUZ6Tnc4TG4?oc=5",
-    "date": "2026-10-29T23:38:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/e39df08a44904cc8b81747d84b1ccb73.png",
-    "category": "phone"
-  },
-  {
-    "title": "小米雷军曾经的烦恼，何小鹏也遇到了！",
-    "description": "小米雷军曾经的烦恼，何小鹏也遇到了！",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aYXNieDBuX1FvMUpReGRWNmhmY1BoVERaOWNXeFNrRGN5V05sdjdLM2RDbWNQem1Xel9VZUlYaFRjNkF3MjdvUVNIbXRoTnVSSlE3bHhWSlNtSUk?oc=5",
-    "date": "2026-10-29T23:03:15.000Z",
-    "source": "汽车之家",
-    "image": "https://img3.autoimg.cn/chejiahaodfs/g34/M0B/67/F1/autohomecar__ChxpWGri-R6ASrOiAASEc2jqPos986.jpg",
-    "category": "people"
-  },
-  {
-    "title": "These Xiaomi open earbuds have five drivers and look like tech-jewelry",
-    "description": "These Xiaomi open earbuds have five drivers and look like tech-jewelry",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTIwZ3pFVldJWHBfZ0g0SERvZTdPRFdmVENTRWNDTVNhVVJneVhIREYyR1hMRnlOTmJtTFRPdlVXUWh1OXNEUzkzVnJlb2xQWTVyMFZ3VlFIQUp2YXphYzBzbGxrUXJJT0JSY2R5UFFOOHRZTjIybENBU0JKdFJQS1cxNk9ZbWhLWGVIb0NpUFpTWjROa2laRmpFRnZELUdLLUc0U3dyeXhNZXlaM1RR0gG0AUFVX3lxTE5yVG5Mbzhqd1BSVFJfTlJLX29HRFotR1pXa0xHQlp2cERyYzhqMlNBRTV4WkpUUlI0cGxWdkotZ3ZhYy1xOXV5ZGFWUkpOMXZhVl9WRFZQeFVjSW9PNjZkcDV6THJ3TmlZUm80MTkxVm1WMVNVR2oyWExlazVtZlFYNW5FUFI5RWVqTUp6azAwVXpRdUJ1Y3hfaEVTR2xHb2lRQnk5aHhERVAxWjNINHZmLWl6eg?oc=5",
-    "date": "2026-10-29T21:30:31.000Z",
-    "source": "Yanko Design",
-    "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/xiaomi_openwear_stereo_pro_1.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "Red Mi Airpods - Xiaomi Redmi AirDots The AirPods alternative that cost less than US 15 NotebookCheck News",
-    "description": "Red Mi Airpods - Xiaomi Redmi AirDots The AirPods alternative that cost less than US 15 NotebookCheck News",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMk9RV3h4OVBtdG1kd0JYS2VQX3hkZVpJRE1qVnNSS1JTNTJxSDdmX3pmMWxRRmp2NWVfRkxSdGRDdUpJMjFpVmp4aWduMlI5M2Zj?oc=5",
-    "date": "2026-10-29T20:56:48.000Z",
-    "source": "auroradesio.it",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "小米汽车2027年目标80万辆推三款高端新车，二手SU7车主残值要跌多少？",
-    "description": "小米汽车2027年目标80万辆推三款高端新车，二手SU7车主残值要跌多少？",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZV9xR3pXOUJaQVpzbTFiVWV5b29DWnJFbWpCclpQY1ZHMjZlLW5fUjlIOW43NWpwZUZaX24taUc3Ny1IUW5BVXpDbFBtYldBWWVjLUFKYzMwTWc?oc=5",
-    "date": "2026-10-29T20:50:11.000Z",
-    "source": "网通社",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米关联公司近期入股两家芯片企业",
-    "description": "小米关联公司近期入股两家芯片企业",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BM29FQzdLczE3VW04RHNyWVZTc3pENVBJZ1FOUkdVanBqamNXTHlWc3RtZGxCSGVVTUx6R2ZCY2NSRGk4SlhBc1lmMm5uRTlESDJOUlNTMjVjdUlLNUFwbV9vYmZSSTA2dzAzZWJsalRhQUpZSW1sTXVMR1dXZw?oc=5",
-    "date": "2026-10-29T20:48:45.000Z",
-    "source": "新浪网",
-    "image": "https://n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/Q0kQ-fzihnep5208662.png",
-    "category": "phone"
-  },
-  {
-    "title": "国产电视品牌排行榜2026谁第一？海信TCL小米创维四强占78%+FAQ",
-    "description": "国产电视品牌排行榜2026谁第一？海信TCL小米创维四强占78%+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekVzU2xnZUlZWDRwYVhRX1duRWFra0VVMEVxMUZwM1ZsZW9DMDI1Mk1TWXl6a0Qtc1VEZmxKNkFodVNXSEtWQmJuYzdRZ196YW5TNlFNZVA3ZURTQ09aQ1FXUU5nRlNxVkp5X3ZVc0Jlb1Q5a0pwYWpzTVl1WGg3Nw?oc=5",
-    "date": "2026-10-29T19:48:40.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/jiadian_010.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "老人直播用小米17 Pro Max打游戏散热好吗？3个维度实测说清+FAQ",
-    "description": "老人直播用小米17 Pro Max打游戏散热好吗？3个维度实测说清+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdzQ2bDRUWVRhVkpCNjZNZUw1dHpDOFhadXpZeEdfTmtiSzFvTUIxbzh5alhZbVN0VVdqbmk0M0lWV0RwR0xJTVdLeVpLZUY3ZV92endEQnhXN3lQRmo3TjJkMEc1VmpBZnlneG5qV2Jsd1k5T25ZTElpRFZ5Tnd0aQ?oc=5",
-    "date": "2026-10-29T19:43:26.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_014.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "小米17 Pro Max配件贵不贵售后点多吗？1090元换屏+1100家网点实测+FAQ",
-    "description": "小米17 Pro Max配件贵不贵售后点多吗？1090元换屏+1100家网点实测+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUi1ONHZSMUJjRUUxZDJDbjB0RU5OVDhLSEc1d2Zwck0tbll1RXJrZk5ZRkZLNExabXFZRldnUTUxcTlOU1dFYkI4VmktVjZTRkJJdGF3ZmZfWW5pcWI4TGF5ancwQzZzLWxqTUJ6Y1REV1EtQnFWS1pua0RCVDY1cA?oc=5",
-    "date": "2026-10-29T19:39:28.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/shouji_014.jpeg",
-    "category": "iot"
-  },
-  {
-    "title": "王腾向小米和雷军致谢",
-    "description": "王腾向小米和雷军致谢",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nS3ROckstZ3NOYVA0NlBCeld1LV8zYms5SElsQ1R2emNZZFc2dldqb1hZczgzeTZWT2VvbW95Y05KWEFsZzU5RHJ5ZTJiVFZPaGIxOW9EZFltQ2R4eE42a2ctTWVXcnVaVFV4NkNsdFlVSTZZLWc?oc=5",
-    "date": "2026-10-29T17:59:08.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20261030/203/w641h362/20261030/286e-4cab683213f2baf3a4326ba5293e5eba.png",
-    "category": "people"
-  },
-  {
-    "title": "小米、宁德时代同时入股 阿基米德踩中半导体新赛道",
-    "description": "小米、宁德时代同时入股 阿基米德踩中半导体新赛道",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdnMzYXIzdkNPSF9OV0JLTi1NZFFFd05BUUVOOTRMa3d6YnNjTFJKM19LQl9vc1dqUzUzOEJwb2FMNkxaRGlLNjJMTVp3VVRtejFYUk11ZzJPYVR4S1lXamFGeUFWRnphY3VhQ1VXYlUxRFhSX0VaeXZraW5lS2lSV2VTWEtiMVMwdlFv?oc=5",
-    "date": "2026-10-29T17:15:38.000Z",
-    "source": "搜狐网",
-    "image": "https://q0.itc.cn/q_70/images03/20261030/df65a7c243e8445f9881bddd68bc3c6d.png",
-    "category": "iot"
-  },
-  {
-    "title": "The Xiaomi 18 Pro Features A Rear OLED Display For Widgets, Wallpapers, And Media Controls",
-    "description": "The Xiaomi 18 Pro Features A Rear OLED Display For Widgets, Wallpapers, And Media Controls",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81d1AxbVMwdnNiX3pxcmMtajNuaGtsdTcxZ2hqNFBTYlI0cVVvWm5OVmxDZTBoSUR5Q2p0cWVkNDBGTzRkTFRENzlFV2tpOXpxZVNFTWduSUJHM1dOa0E5QUlrNk1fakF0VUl3Z2QxZ3FFZTNsSXB0a1h2c3E?oc=5",
-    "date": "2026-10-29T17:00:00.000Z",
-    "source": "Yahoo Tech",
-    "image": "https://s.yimg.com/lo/mysterio/api/51bb91285f3fc3b46b00d7c72792aaf9327cd80f7752acef9d87636960dd5aa8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_vertical_videos_741%2F64150b9bdf3b2a7466f5c8018315b664.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi HyperOS 4 Just Turned Your Gallery into an AI Video Studio",
-    "description": "Xiaomi HyperOS 4 Just Turned Your Gallery into an AI Video Studio",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlU5eC1rLXdheFFkQm5sbHF6ZC1zemZhdXNmcWFFdVNQS1FUejBLMmVQb2NwOHd4bmswUUsyOWlWYVB1b0NuS1pjNEcxa0tGdkFSSDVWVWd2UmpvLWgwdWFMbmJMZDh2OHp4blhVdnI0d2FmTXh4am4yWnAxSEJPcGdFQXZEZTlmMjNHcEV3?oc=5",
-    "date": "2026-10-29T16:16:40.000Z",
-    "source": "Nokiapoweruser",
-    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/xiaomi-hyperos-visual.jpeg",
-    "category": "software",
-    "updateVersion": "4",
-    "osType": "HyperOS",
-    "updateType": "update",
-    "isUpdate": true
-  },
-  {
-    "title": "年销量目标80万？替小米汽车捏把汗",
-    "description": "年销量目标80万？替小米汽车捏把汗",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KczRYTmo3dXBubXdabDhCNXprejMwTkxqcnNfM3JvN0MycTgyQVg0MDJjMzl4OWktbThyUnkwSGtKYVBXV01lLWJlbHRBWXB5X0ZIOU1jbTk2Q2c?oc=5",
-    "date": "2026-10-29T16:13:33.000Z",
-    "source": "汽车之家",
-    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M04/6C/A7/autohomecar__ChxpV2rjbNWADUx_AAo73gVFonA342.png",
-    "category": "auto"
-  },
-  {
-    "title": "王腾创业首秀感谢小米和雷军！回应蹭流量质疑：真心感激过往经历",
-    "description": "王腾创业首秀感谢小米和雷军！回应蹭流量质疑：真心感激过往经历",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90YWNVZ2pQXzZ2R1Jmd3BmcFI1Wmw0ejltZ0JJakFycktGVkx6X3dma2pRQm1rV2FwelctNlNvM3pIQkx4UmtQbHJhTHBuc1AtTXpfWmFkaXk?oc=5",
-    "date": "2026-10-29T16:00:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261030/b3497744fcc54a43b6b473e2adefa5a1.png",
-    "category": "people"
-  },
-  {
-    "title": "小米空调好不好？2026实测3个维度说清：中高端闭眼入+FAQ",
-    "description": "小米空调好不好？2026实测3个维度说清：中高端闭眼入+FAQ",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUxNcVZnZ0ZiaUZSbXJYOEN2cnpwWlM5bEtsZVhyc2RKOHh6Ynp2WXAxTlFaVVNFZE5MekJoczQ5b1FtUUc1UUdCT1RtbVVzdkhDNmNZN0NoOUhuYzNwVFBaTm1XaFdTdjh0VkQ0aFRoOTVJSXlsZUV1eU9RaU93Ug?oc=5",
-    "date": "2026-10-29T15:06:03.000Z",
-    "source": "手机新浪网",
-    "image": "https://n.sinaimg.cn/default/f8781c75/20260807/jiadian_015.jpeg",
     "category": "iot"
   }
 ]
