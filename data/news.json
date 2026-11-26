@@ -1,10 +1,416 @@
 [
   {
+    "title": "已买7辆小米汽车、总花费260万元！骨灰级米粉科技新一见到雷军",
+    "description": "已买7辆小米汽车、总花费260万元！骨灰级米粉科技新一见到雷军",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VRndWb1NaVVgyS2RnNmFZcHNweVBIRnNWOVZjRmppZWliN1U0MHZ1X3RzQ0s0VU9zTjhiYmx6ODBGWVNVb3lockhLd05CdGFRcjAwakp2SEc?oc=5",
+    "date": "2026-11-26T14:31:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20261126/e55051e74e8542ab94e5f255d789d6c5.png",
+    "category": "auto"
+  },
+  {
+    "title": "小米王晓雁分管生态链与大家电三季度IoT收入272亿元",
+    "description": "小米王晓雁分管生态链与大家电三季度IoT收入272亿元",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMWlNnV3Z4RWlYNndjN0xVUnVEb21QVzNwZjJiemt2Zml6bHctZkRiMW51QjBrN2h0UnpVZzhJX1lMMlJHWS1mVU83V1pNS2ZmenM4RW0zSXI4eC0zb0s3NF9n?oc=5",
+    "date": "2026-11-26T14:27:52.000Z",
+    "source": "观点网",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "里昂：小米集团-W维持“跑赢大市”评级 目标价35港元",
+    "description": "里昂：小米集团-W维持“跑赢大市”评级 目标价35港元",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEJwTDVYRHRTWHJRNjRzenlNSER6RW91aTl4dzdYLVptdE9pZkpoV213YlZ1QWt3Z2RCT2hmbU1Gd05DaVlXN0NTX29DaXZEVHlPMjcwUVFOTUxfcGdBa0xIYVp3cmtqcVVEMjZTdnpnWkw5bU5MMVNDSE40VXVZZzVDenNLNmZ0RFlWRXlyYXZKQk9Qc2hudldnRjlqVzJMUERSWWotQ3huUQ?oc=5",
+    "date": "2026-11-26T13:52:30.000Z",
+    "source": "新浪财经_金融信息服务商",
+    "image": "https://n.sinaimg.cn/finance/transform/700/w400h300/20261126/29c0-b05f5c80aea9889eec9e12533873f8e2.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi Sound INF: Large 150-watt speaker with Bluetooth 6.0 appears in Europe",
+    "description": "Xiaomi Sound INF: Large 150-watt speaker with Bluetooth 6.0 appears in Europe",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajBTai1HTjlLUllwRE9aNDRxdVdhMzdlSFBIWHNnQk9QQzZEUE1CQkV3cVZYUTFONElKalVucW5QbmNVZ005Qkp2WHg2Ym9hcTRUYVlYZHByaTR4UWdxakJTdEx0TVUweTdpZ0U3M2ZocjF5cEliakg5a3h5RFZMWTF3Q1hySDdYMzZzUGNab2tuRHd3anVkc0NMbzNSUk1SR2FnOUdvNnJPYjJJdUlPLUExNzllem0wT2FSeGRn?oc=5",
+    "date": "2026-11-26T13:50:00.000Z",
+    "source": "Notebookcheck",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomisoundinfteaser.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "微博员工欢迎博主雷军",
+    "description": "微博员工欢迎博主雷军",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XNDl6bXM2YUFOek1SNTF0M29kR0xVWXdTNk9LNzR4WHZ5VGwzVjF4Vko1bkpoUGZ0SFlBdjFJcWJoRWl3VUp5N0NHN1EtTGpNS05qekxacG9jdVFNU1lCVnlBSEdaQUt1Y0Z3cVFla0dJcVdxQUdtQklWaWgzdmc?oc=5",
+    "date": "2026-11-26T13:24:45.000Z",
+    "source": "新浪新闻_手机新浪网",
+    "image": "http://n.sinaimg.cn/front20261126ac/267/w1600h1067/20261126/2122-192783612f9985e1c584382524086f02.jpg",
+    "category": "people"
+  },
+  {
+    "title": "Xiaomi to Enter UK EV Market in 2028 with German Expansion",
+    "description": "Xiaomi to Enter UK EV Market in 2028 with German Expansion",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeEtrNTRwZUZzT2VpbE1ub2dKSmJ0QkhpVEE3WjhCelZBZzQ1YmhrdnhQQVFkdTgtelNnTnlMaFlVc2tsODE1RU9MMmdvbXdDTWM5ZHlacFNjelhaVS1VTXU4M2MxYmRPZ1I3Z201THFoaGZmUVUxbElQck5CMUJGaTBGQ01FREFpd1k0Smh3MjJFd2paczR4VXlncTdwY3BsMEQ2akhBQURSWFNoN21WUzNyLTl3QkZBNmxsU1FkYV85T0ViekxEV0VES0JuYjVmYWVv?oc=5",
+    "date": "2026-11-26T13:07:00.000Z",
+    "source": "Fuel Cells Works",
+    "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/xiaomi-targets-uk-ev-market-as-eight-german-dealer-agreements-support-2027-european-launch-2026-11-25T14%3A35%3A27-05%3A00-image.webp",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi targets Germany for its first European car launch in Q3 2027",
+    "description": "Xiaomi’s overseas car plans remain on schedule. Germany is expected to be its first market, in the third quarter of 2027. Xiaomi Group executives shared the target at the company’s third-quarter results meeting on November 24, saying work on overseas sales networks and vehicle testing is progressing",
+    "link": "https://ximitime.com/xiaomi-targets-germany-for-its-first-european-car-launch-in-q3-2027-101898/",
+    "date": "2026-11-26T12:43:29.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/11/Xiaomi-cars-EU--1024x576.jpg",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi’s 2027 phone shipment target falls 25% to 90 million",
+    "description": "A supply-chain report cited by Jiemian News puts Xiaomi’s 2027 smartphone shipment target at about 90 million, down from 120 million in 2026. It says most major phone makers have lowered their targets as memory-chip costs stay high. Xiaomi’s planned cut is among the steepest The reported reduction w",
+    "link": "https://ximitime.com/xiaomis-2027-phone-shipment-target-falls-25-to-90-million-101899/",
+    "date": "2026-11-26T12:37:21.000Z",
+    "source": "XimiTime",
+    "image": "",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi reports rising MiMo API use and AI revenue",
+    "description": "Xiaomi plans to invest CNY 16 billion in AI this year, CFO Lin Shiwei said during the company’s earnings call. Spending is progressing as planned, he added. API calls to Xiaomi’s MiMo model and AI-related revenue are both increasing. Lin said Xiaomi’s AI business is still in a large-scale investment",
+    "link": "https://ximitime.com/xiaomi-reports-rising-mimo-api-use-and-ai-revenue-101904/",
+    "date": "2026-11-26T12:36:32.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/03/Xiaomi-MiMo-logo-1024x576.jpg",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi SU7 Ultra filing confirms 1,138 kW and 318 km/h",
+    "description": "China’s latest vehicle approval filing puts official figures behind the Xiaomi SU7 Ultra’s headline performance. Three motors deliver a combined peak output of 1,138 kW, and the sedan is listed with a top speed of 318 km/h. The filing also covers two seating layouts and several tire and body configu",
+    "link": "https://ximitime.com/xiaomi-su7-ultra-filing-confirms-1138-kw-and-318-km-h-101911/",
+    "date": "2026-11-26T12:36:04.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/11/Xiaomi-SU7-Ultra-1024x576.jpg",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi Smart Door Lock 5 Face Edition Goes on Sale in China",
+    "description": "Xiaomi’s Smart Door Lock 5 Face Recognition Edition is now on sale in China for an effective price of CNY 1,799 (about $250). It combines hands-free 3D face unlocking and palm-vein recognition with a 2K video door viewer and remote visitor access. Face and palm-vein unlocking work in the dark AI-ass",
+    "link": "https://ximitime.com/xiaomi-smart-door-lock-5-face-edition-goes-on-sale-in-china-101922/",
+    "date": "2026-11-26T12:32:29.000Z",
+    "source": "XimiTime",
+    "image": "https://ximitime.com/wp-content/uploads/2026/11/Xiaomi-Smart-Door-Lock-5-1024x576.jpg",
+    "category": "software",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
+    "title": "Xiaomi prepares for EU market launch with test drives across Europe",
+    "description": "Xiaomi prepares for EU market launch with test drives across Europe",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGQ5QWxDTXlHY2RkRG5Jdl8xRTl0d29zb1lxc1FZdHBLdjZVUEJtZFJocGhOejZTUHN0cnM2WDFoTnBSVjVLVkV0WDlnOE15dDFxZWxtMGg0MXluSXRaQmExQ0U4V0ZmcjZOM0h3ZEhVSDh4c0oxNmtIOThaODBOMm90Yjl3eW1JTWVhYjBfdUdac1ozQkdSZGFXZ0NIQXFrYnMwSk5GMjE?oc=5",
+    "date": "2026-11-26T12:00:00.000Z",
+    "source": "electrive.com",
+    "image": "https://www.electrive.com/media/2025/02/xiaomi-su7-ultra-serie-2025-3.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "小米智造基金、蔚来资本等入股特创科技 注册资本增至约3337万元",
+    "description": "小米智造基金、蔚来资本等入股特创科技 注册资本增至约3337万元",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BelpZWkxobjhOWnVOREx2TTU5X2F1QTVMOXVKSHBhNC1ub0JSTDVBakZyY0piV3Y2dUxTUTRfaGVMMkhfMmMwU3oySkRCNXplMk12RW9XSkNaREl1eW9FNjh3?oc=5",
+    "date": "2026-11-26T11:28:46.000Z",
+    "source": "观点网",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "网友喊话挑战N70续航 雷军直言不敢：一跑就是28个多小时",
+    "description": "网友喊话挑战N70续航 雷军直言不敢：一跑就是28个多小时",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43U0FrVVRqNGVONjA0X29saFNtN0RHMG1jeDJqaFVUN2NmQ2k4bXRIMnJnRlZOUlNYUzhQXzRGbjZReWJlUHNoTURudEM4UWFrMW5sTEZiLTg?oc=5",
+    "date": "2026-11-26T11:24:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20261126/58de17867fdb4502a6441ae29b2419e9.png",
+    "category": "people"
+  },
+  {
+    "title": "Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living",
+    "description": "Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVBrSFdSckNHYjFiOWRYWEpZSkQxTjFjSkNSakR6VHc3azFVcXJtTlZ1YmxwMzY1R0lLYW0xdWppREhiY2JCNDJMQ3ZSblVYTFdWS3RyMW9vS3dnaWlRZnVEdklydUZrRE4xM0xwYzgxLVNRaUprUkh0aGtjTTNncVpod2p5TlMyeDAtSVhRZm9QUTA?oc=5",
+    "date": "2026-11-26T11:15:00.000Z",
+    "source": "Yahoo Finance Singapore",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "Xiaomi Corporation Partners With Singtel on Singapore AI Devices",
+    "description": "Xiaomi Corporation Partners With Singtel on Singapore AI Devices",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjZUWm1IalRzZ2NGaF9NT2VzbDZVcUdtcXczdkJZbGI0SDhVUWV6aF80Qkt3SHdDMmIyVkQyeHlnY3J1Z000VlFESi12bEIzSXJFNEpUMWpJVmotMml2V3Rwb1NxV0tCNlp0eWNYeXl5eGEyRnNOdmR6cG5YRE0xVHRUeWtUd1ZMRWN3dmNscHRDWmxlNlNvV2dfaDZaNzVqT09IMHZKN2lfWnZRQTBWRWtHMWFwbW9wUEVmX2tpdk9vZFll?oc=5",
+    "date": "2026-11-26T11:15:00.000Z",
+    "source": "TradingView",
+    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "category": "ai"
+  },
+  {
+    "title": "Lei Jun: Xiaomi Auto Thanksgiving Limited-Time Car Purchase Offer Includes Free Xiaomi AI Glasses With In-Stock Vehicle Purchase",
+    "description": "Lei Jun: Xiaomi Auto Thanksgiving Limited-Time Car Purchase Offer Includes Free Xiaomi AI Glasses With In-Stock Vehicle Purchase",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNmllOVNGV01Mb0g5b1lHbzNmYl9rdGhXWGJYLW9UR2UxMTc5TmhGXzJtbkk5VmhzM2JUOFFHT0J3bVNnQkNaWlF1LU91ZGJGOFVxMWxtc0dzaHdtYTExUmN2bXNWS0xrSjJCdEFsWmdCZG5LeDRkWGRfMXltWHhuVjVCUXVwWGYxeWQ1UUdmX2RiVzNIQjJiT0tUY2dYMHlwMGh3dXpwV2ROekItdXlGNWhUT0dvYnRZdEthb0xXdHJyRFJDd25SQTJYa2hGUTBqcjFzdXI5YUZkS3ExZnV2WXNOeFRNbGF6SjBVZ004LWo5QlFjbGZiMjVaajBPN2FYS2xfZmdoZEJ0bHRzeXdhR3BR?oc=5",
+    "date": "2026-11-26T10:35:28.000Z",
+    "source": "TradingView",
+    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi Built a 4K Monitor With an M Mode for Mac Owners",
+    "description": "Xiaomi Built a 4K Monitor With an M Mode for Mac Owners",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tNThoVmNWQUxXSGxfa2FYS3RCZC1Fam5oMXBRMFU0VFpRSlVuVDQ3bFhVeUZJMzRuNmhUZUgxWDZwWERCaVhKbWdya0xnOVRrUy1MV1NCMHV2aHo2bFJTRklWTTc1RXJOZTZhb3V0X3kxSHpRdkE?oc=5",
+    "date": "2026-11-26T10:30:00.000Z",
+    "source": "The Gadgeteer",
+    "image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/close.jpg",
+    "category": "phone"
+  },
+  {
+    "title": "Has Xiaomi's Profit Been Dragged Down by AI Technology? Impact Analysis & Latest Financial Performance",
+    "description": "Has Xiaomi's Profit Been Dragged Down by AI Technology? Impact Analysis & Latest Financial Performance",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZMjg0UE1LVnNTMWdjOTlLbmtobTNqRW5RSU5tTDZfX1hvclJDRmNFY0g2ZHRlN2M0MEVvZDQ4aEpmU0JreDJsajJOWHNKcFM4ZUlB?oc=5",
+    "date": "2026-11-26T10:04:58.000Z",
+    "source": "36Kr",
+    "image": "https://img.36krcdn.com/hsossms/20261126/v2_301c197a28c94a3d9567bf503dded88e@5888275@ai_oswg1111261oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+    "category": "ai"
+  },
+  {
+    "title": "小米营收站上千亿，利润为什么少了近一半？",
+    "description": "小米营收站上千亿，利润为什么少了近一半？",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBueHFBdEZCWFJRbEh4aHpqdkVVTnlMSWtTUG9Pdl9HRk9Gd04tSjBYRVN1UWptVXhCbGwzVjByckVlNE96YlJ2QzdWVkZFMkhUMkp2LUZ4THdvT3M?oc=5",
+    "date": "2026-11-26T10:03:20.000Z",
+    "source": "网通社",
+    "image": "",
+    "category": "iot"
+  },
+  {
+    "title": "享界V8新版型申报：小米澎程N90之后又有原生顶篷车",
+    "description": "享界V8新版型申报：小米澎程N90之后又有原生顶篷车",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YakctVzM5ME1Bem9QMHA2ck8zQ3NrTEhxTWxfOGZ1Y2VmWWlkRncyMzh0eHo3eUpZYjJGeFI1QThTamU1dVFyRFpWTjlaUUROUmNWNHI1Wl9wUmlKWWpYOExQVUFGdFI1UWRndUx3NEVNN0loYlc5dFhnbE5Ddw?oc=5",
+    "date": "2026-11-26T09:58:08.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20261126s/156/w600h356/20261126/d9b9-be49684009c979d25822c19db6250614.jpg",
+    "category": "iot"
+  },
+  {
+    "title": "冲上热搜！小米新一代SU7 Ultra完成申报",
+    "description": "冲上热搜！小米新一代SU7 Ultra完成申报",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS29XSmE1bm9JX3JpYTVLLTJ1RkZ3cVZwa1lFOFNBbFJ5UFM0d29jSEkxMldPOHY4UndhY2ZBbklZcXFDbElFdFA0dUZKRlZoOEFmeWlQaVpNOWJ3eFVybnpwZ2NqMFFoa204Vm1zZld1LXZ4VTg1eWdsVkk1dnEzTlVta1JvOWVmdFNCMXdxWQ?oc=5",
+    "date": "2026-11-26T09:56:21.000Z",
+    "source": "Sohu",
+    "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png",
+    "category": "auto"
+  },
+  {
+    "title": "雷军现身新浪总部王高飞陪同|雷总|小米科技|新浪总部大厦_新浪新闻",
+    "description": "雷军现身新浪总部王高飞陪同|雷总|小米科技|新浪总部大厦_新浪新闻",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWmpsSXB5aFY3TDJYUjAxS1MycURsYXJFVW9DdHp5a3dZN012S0pBM2g3eE9Dd3V4aEZHazhLalJGRlBERzdybjZnWmNvaUd0d29FUUEyenVvOWVaZG13YjdXQ1pfbVd2bTBzb3lDRDFHSDBFTFNhVElsOHlseE0?oc=5",
+    "date": "2026-11-26T09:25:59.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd/sni/54/w690h964/20261126/30c7-20b0bd388e9e1c3ed9e20532e702c1c3.jpg",
+    "category": "people"
+  },
+  {
+    "title": "XIAOMI-W Preparing to Tap into European EV Mkt, Hints at Possible Future UK Expansion",
+    "description": "XIAOMI-W Preparing to Tap into European EV Mkt, Hints at Possible Future UK Expansion",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDFsblRZclNpR3duTjc4WU5fSTR6dVc1Uk5WOVRraUtEMTVOOGt3Y3hOdllnT1NadHRqTW8wU2pTQzJSVWdQQ2dOWmF5MWdyemh2cFZkTVJCd3NyMTgza0FaZl82WjFxS0l5cXprdWFYeVVIVXNYem1mMGJZYWJYTVpuNGEzaHRmVmhtb3lMTUs4YlhjM0k0enJ6VmgtV0ROTnU5N1RHUEhXMXBGYXR3UFdCRmt3cHpzS0wyZU55QW0tb2JkTmJtRG5hSnVKTUZRQlVkMVpFdzY?oc=5",
+    "date": "2026-11-26T09:16:26.000Z",
+    "source": "TradingView",
+    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi Electric Vehicle Overseas Expansion Scheduled for Q3 2027: Can the Overseas Market Become Its Second Growth Driver Amid Rising Performance Pressure?",
+    "description": "Xiaomi Electric Vehicle Overseas Expansion Scheduled for Q3 2027: Can the Overseas Market Become Its Second Growth Driver Amid Rising Performance Pressure?",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQQlBmMnRLaG5CUWtXY2xzVS1Ga2VSbEEwRzVzMlJIRVN0UVJ0NHNybmtfMDZqZVEzMmhLYTFEY1ZYMFFheXRjRUZIWnQzc3FGLURr?oc=5",
+    "date": "2026-11-26T09:14:45.000Z",
+    "source": "36Kr",
+    "image": "https://img.36krcdn.com/hsossms/20261126/v2_929564fea2c54d10ac5d568b267c8d26@5888275@ai_oswg1047388oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi files for updated SU7 Ultra with 1,138 kW tri-motor powertrain, 5-seat and 2-seat options",
+    "description": "Xiaomi files for updated SU7 Ultra with 1,138 kW tri-motor powertrain, 5-seat and 2-seat options",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pRHdxTjNzdUdJSmREaWZzQnZBZnM0UzcwZHlubEdibjI2Wk1HT1B4dExoY1BDTXVOOFkwQWVhY0hBOS1uQUZsazZWRXJjOWhyYlNEY0dXakE0RjRIdWVEbWtfWE05WUw3Vmd3UHF4dl8?oc=5",
+    "date": "2026-11-26T09:02:39.000Z",
+    "source": "CnEVPost",
+    "image": "https://cnevpost.com/wp-content/uploads/2026/11/2026112608583910.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi Internet Launches Global Commercial Brand UMIADS: Make Global Growth Truly Visible",
+    "description": "Xiaomi Internet Launches Global Commercial Brand UMIADS: Make Global Growth Truly Visible",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2l5bVdQYzJkUjh0aG5pUndZOWk4ZlVwcU1TQzE0b2pOdkF5dmtlLXU4ZDQxeXN2U1BBTXRyQU4zS3g1YTd4cUk0TzlPeXd3VGNmZ0xtX19KakpwbEp2ajYxR0ZuSFRYV2prUW12Zk5wSzVmSTNJOHIzU3Y3ZHd5VUtRa3hoZy1OUUhIbm9GeTRfR1J4LUE?oc=5",
+    "date": "2026-11-26T08:58:00.000Z",
+    "source": "Yahoo! Finance Canada",
+    "image": "",
+    "category": "phone"
+  },
+  {
+    "title": "雷军到访新浪总部送微博员工小米汽车车模|小米科技|董事长|行程|企业文化|小米集团_手机新浪网",
+    "description": "雷军到访新浪总部送微博员工小米汽车车模|小米科技|董事长|行程|企业文化|小米集团_手机新浪网",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YQ21wQUU2Q0FZaU1pOHkyaDY5bVdYSmswNUNEQXFwTnBlNjNyNmlLYVdhWkJibTZjdTZmVzZoWDV4M2VUb1JENXNDSnpnNm9fVmVZOTdQdGdiZVVVS0JKT2VDWXUwY0ZkV24tWFZydHdsczB3Q0o5STcxRWJ2UTA?oc=5",
+    "date": "2026-11-26T08:43:04.000Z",
+    "source": "新浪新闻_手机新浪网",
+    "image": "http://n.sinaimg.cn/front20261126ac/774/w1080h3694/20261126/048c-75e533f748971e1a6048c75feee4aea3.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军到访新浪总部 送微博员工小米汽车车模",
+    "description": "雷军到访新浪总部 送微博员工小米汽车车模",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IS1o0UEY3NFhxQlpZUTg2djZkeWdlbGVYQ3czVF82ZGNmYnV3VU1Xbm5YWUdxbk52MnY1ajlET3FfMUV4ZWxrREEwenF4LXV6Wm00RVFPeTBtdlZsNnVnNHdXVU1VeF95Zk93N05QVlU?oc=5",
+    "date": "2026-11-26T08:29:51.000Z",
+    "source": "手机新浪网",
+    "image": "https://k.sinaimg.cn/n/sinakd/sni/774/w1080h3694/20261126/fa0d-1543127217eda272ef9ada5980e50710.jpg/w700d1q75cms.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "【网通社快报】小米玄戒O3芯片计划2027年搭载于小米汽车",
+    "description": "【网通社快报】小米玄戒O3芯片计划2027年搭载于小米汽车",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vcTYzRU1TN0RXSWJlazk2U0V0bzVBSDBlLVJzek9rWmhDd3E3V3RZMmF6R2paOFdVYUdLT25qZ0dCdGhIaEJja2lNdXM?oc=5",
+    "date": "2026-11-26T07:36:00.000Z",
+    "source": "凤凰网",
+    "image": "https://x0.ifengimg.com/res/2026/DE1E3C49A34D1113A3E3401E2EF6F6471DBCDEC4_size17_w600_h400.png",
+    "category": "auto"
+  },
+  {
+    "title": "小米集团：2026年三季度收入1072.4亿人民币，同比减少5.2%",
+    "description": "小米集团：2026年三季度收入1072.4亿人民币，同比减少5.2%",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TNDEtZVdaalNLaUJMV2ZpUG1KZndWaWdKV0pxNmQxSlJlMDA4ZEFjS3BzbTgtRG0tTGNpRGUyUWtYSlpBQmZQY2lBTG0wMl9HOU1GVXdiR0RBcFRrRTh2Sw?oc=5",
+    "date": "2026-11-26T07:30:21.000Z",
+    "source": "ThePaper.cn",
+    "image": "https://imgpai.thepaper.cn/newpai/image/1795677630083_mBF4RM_1795677631245.png",
+    "category": "phone"
+  },
+  {
+    "title": "小米自研芯片迈出关键一步！玄戒O3明年登陆小米汽车",
+    "description": "小米自研芯片迈出关键一步！玄戒O3明年登陆小米汽车",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Kd3VWMENzcHZuamFsSEQ2UFNNZWpMNjczcVpVX0tXdWVyTmtNTGtWS0NVTnhqWUh6ZUgtUXlEOFY0bVptaENoeTNXdTFMWlNaMmF1U1dCRVU?oc=5",
+    "date": "2026-11-26T07:20:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20261126/621b689a0d8d498c842606cbadad09dc.png",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi Auto loses RMB 3.4 billion in Q3 - and why that’s a good thing -",
+    "description": "Xiaomi Auto loses RMB 3.4 billion in Q3 - and why that’s a good thing - ArenaEV",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTFaa1dLUzRGZmpfdzI4UWFLdlB2SGpQQjRFSWZUeE1ZNkhSaFVKekljVTVxTzB2RlRybFFsUjdGd2I5Y1czY2ktU1VtdWhlRFc1cUVPQzItV0Q5RlhMNl9wanlCc191c0R0WEkxV05JcktYSmxpRVUxQVRBMTc1dG5kcmw2TnBlR3F1aVdmQW1iTjZVMGVYWXlpSnNucC1jUktmX2ZkONIBowFBVV95cUxPOHVnR0wtRE5fWnFiZVhJaUZEYV9VUUVsRlRpYVZPU285UEczMFNJclJMMWlrSl92ZnpUYXdIYmFHNjRGZ3pLQVd3VzI5cnh1Ny1oUzQ5SEkzaE00Rnc2S0NaaWxlS1dWRWxVUnkzRzE5d0NQSU1vYlA2RlIxNktLZjh5bjJRZUZ3TVJHc3JWTnNLZ1cyeG85dFp0SVhzQUhFSXBV?oc=5",
+    "date": "2026-11-26T07:16:01.000Z",
+    "source": "ArenaEV",
+    "image": "https://st.arenaev.com/news/26/11/xiaomi-auto-loses-rmb-3-4-billion-in-q3-and-thats-a-good-thing/-828x414/arenaev_000.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "雷军到访新浪总部！小米1老用户现场催更小米18",
+    "description": "雷军到访新浪总部！小米1老用户现场催更小米18",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jSmU0NEpKSHRDLXV2WjI5N25RRFZCcllNbzM3MEJEWUJsUlRSQTlnTkIybXJUTUhhbG1Fdm41bTJkOWVZS3hrYTZfMkdrakM2TmNQOW9zZVk?oc=5",
+    "date": "2026-11-26T07:09:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20261126/dd82e62d21184bb9bdfd98038d7e4394.png",
+    "category": "people"
+  },
+  {
+    "title": "雷军现身微博总部 微博CEO王高飞亲自接待",
+    "description": "雷军现身微博总部 微博CEO王高飞亲自接待",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IMGV2SFVzcHRWUG1qOTI4MlRqeVVLcjJQUW1PbGE2eWZPMFdtR212RTB1MW1JOHdjbjlSNGkxWW5za3JkWUx6MzhvTWRGdVJaWmFZMTBaR2VDZHlYMVY2MVE1dkp5ZTZqeFRyUklMR2tmdzZLVDVVUEF4MWFWQQ?oc=5",
+    "date": "2026-11-26T06:59:29.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd/sni/385/w1206h1579/20261126/930f-f925df33e1bcf285a2e11ac146330a9a.jpg",
+    "category": "people"
+  },
+  {
+    "title": "员工高呼雷布斯！雷军现身新浪总部：王高飞热情接待",
+    "description": "员工高呼雷布斯！雷军现身新浪总部：王高飞热情接待",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yRVk5bXRMMlp6Rm5iclRXVGRfa05Ha2IwMnluUlJMUnNvWjhTWlZZbFVvdlhBMlR5TUstQkZOaEYtQTRtZTVGV3AzaThfVjBxR0g2MEdyRE0?oc=5",
+    "date": "2026-11-26T06:50:00.000Z",
+    "source": "驱动之家",
+    "image": "https://img1.mydrivers.com/img/20261126/a69329609e3942faa5653d87eeb4498d.png",
+    "category": "iot"
+  },
+  {
+    "title": "Xiaomi's New SU7 Ultra Wants To Take The Taycan's Nurburgring Crown",
+    "description": "Xiaomi's New SU7 Ultra Wants To Take The Taycan's Nurburgring Crown",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xenYxUExlSXhWREtKaTVlV2ZVQ3dHMlNmd1didDR1VVRnSWo2RnFka3BtR0JTRTlNcTVzRlEyTGk1TDdDbFNSQTY3bUh4LWotMkZ0X3FPbG5VazZrYWh0MW1mdGlod3c?oc=5",
+    "date": "2026-11-26T06:49:56.000Z",
+    "source": "CarScoops",
+    "image": "https://www.carscoops.com/img/gallery/xiaomis-crazed-new-su7-ultra-is-real-and-goes-big-on-aero/l-intro-1795675567.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "新一代小米SU7 Ultra正式备案",
+    "description": "新一代小米SU7 Ultra正式备案",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YTlJzNkVZQ2dWYmtjNndILUpYeW9zTjRCTDlXVEFhRGVaN1JOdV80aDc1TTVWWHVmZ1U3MWFBNWZ2NkxzTVNsanFCSFFUMWt0N0JCTnBWSTFLVXVMa2pZajZJbkpPYkNTZHNLeHNHUkZHT0l2NzJXeUU0d2hkUQ?oc=5",
+    "date": "2026-11-26T06:47:00.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20114/399/w1280h719/20261126/060d-f8c7049be5008e3a68299f6996cdd570.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "【大咖观点】小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业",
+    "description": "【大咖观点】小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWUV0RTdNUGZKSlJZdV91ZVFDeUloZzBjT2g4c0JaZ1VtTTdrNldaN29wdnM3VGpockZDcXM1SXhsUVBkaWlod1o0UlhQSkVCS3pfTDNaM3huQnZSS1MycXVfTDN4RGpmX3ZMbWtBNHdnZw?oc=5",
+    "date": "2026-11-26T06:43:25.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/front20261126ac/224/w1280h544/20261126/86b6-6a604eeb220eb4ea636c88885212365e.jpg",
+    "category": "people"
+  },
+  {
+    "title": "新一代小米SU7 Ultra正式备案，配置外观曝光",
+    "description": "新一代小米SU7 Ultra正式备案，配置外观曝光",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTGtmSkpOY2ItMkhNeWNVdzNHdE9SdE1hZXJmYWg4U0NUYTRaNHFycnY3T1h6M2lBVGtneGtJM0dTbV9UV2h4WDdRME1SQmFEMjVmNmpGWGhaRmxaSVN5eWJ5ZDFkdXBsaEQyY0JlWjVRc3dvLUZmZVlBTkRycU9NX0FR?oc=5",
+    "date": "2026-11-26T06:23:23.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/sinakd20261126s/626/w1000h426/20261126/955a-f7c13b40aa6843f77f939541d5e344b5.jpg",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi files next-generation SU7 Ultra with 1,138kW tri-motor powertrain",
+    "description": "Xiaomi files next-generation SU7 Ultra with 1,138kW tri-motor powertrain",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRW9CZ2RJTExtMmhxSW5DenNVOG1yRXVxVDRwUTI0RWVsalJaRE5XWGJHSnRsdHZXOXpYMjBMamQ5WEQyZ09Dd1JoMUdvVHROUjRYTi15Vjh6VDJROHliei0weHozZFItUjRVZXg0Z2t4azVMWU9FM2lJa3VFdTcwSnJ5UlJWaXN5LWp2OWg0UlJ0ODQtT1hDMnpBd3d3ZE9uRTdIa0xBaw?oc=5",
+    "date": "2026-11-26T06:21:58.000Z",
+    "source": "TechNode",
+    "image": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+    "category": "auto"
+  },
+  {
+    "title": "Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch",
+    "description": "Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GTGlWNU44azhfTmZTMEpZTXZsa2ozc1FwZmJlVzZ4MzBEYWcyVzhuOGJXZkhUa0VqREtZNHpJcXBWMUxrRWJmZ3Y1TW1QZW4zSVlhMEtSaw?oc=5",
+    "date": "2026-11-26T05:40:23.000Z",
+    "source": "The Korea Herald",
+    "image": "https://wimg.heraldcorp.com/news/cms/2026/11/26/news-p.v1.20261126.b70f44fbbaac45b69984c755aaa043ff_P1.jpeg",
+    "category": "phone"
+  },
+  {
+    "title": "新款小米SU7 Ultra完成工信部申报，价格可能上调",
+    "description": "新款小米SU7 Ultra完成工信部申报，价格可能上调",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yYUlnYVRjQkVTT3ZTUkQ3bTA1NjJnc2xuUlhYLVg1OE5GOTdyU1loMTlHT1dESW0zNmJidWhGUWNlQlRaeXBNMl82UlBaN29WQmlMcUxHYmlySFJqemY4STkxeWVHcW9kS3NlcC15dXV6MDhBQ0V2OUlDblJaYVU?oc=5",
+    "date": "2026-11-26T04:36:00.000Z",
+    "source": "手机新浪网",
+    "image": "http://n.sinaimg.cn/spider20261126/83/w500h383/20261126/146b-d34362ab41144f6312616d7548cac610.jpg",
+    "category": "auto"
+  },
+  {
     "title": "小米汽车加码高性能电动车市场，新SU7 Ultra首次曝光冲上热搜",
     "description": "小米汽车加码高性能电动车市场，新SU7 Ultra首次曝光冲上热搜",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NSnAwSkJMVDFnQS1qT2VGTVhZUEhRNVVBUnE1RlJ5dmlXWm5Qd0dZZjAydFJpMWVUYjhIbXllcEVOLU5rcDU0NXAtcFZBeEpfY2F2NjlybDU3aWtYWlVHNUlrQTAxdw?oc=5",
     "date": "2026-11-26T04:09:44.000Z",
     "source": "东方财富网",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米汽车加码高性能电动车市场，新SU7 Ultra首次曝光冲上热搜",
+    "description": "小米汽车加码高性能电动车市场，新SU7 Ultra首次曝光冲上热搜",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDaWhCV00tVmZPaVRzZ0tXU2xhclpFSG0tcmdhcW1BUy1VUHhjNmIxSmNIZlRBUkIzLThUeU0wOEstTy1ZMUJGcXVkTzdHbndTOWJaNHFWdEJ2b1hVVVlRaXhvLTNGNGxKT2FSd1lZOWJETkZ6UGtqR1JR?oc=5",
+    "date": "2026-11-26T03:43:00.000Z",
+    "source": "中国基金报",
     "image": "",
     "category": "auto"
   },
@@ -34,6 +440,24 @@
     "source": "新浪财经",
     "image": "https://k.sinaimg.cn/n/sinakd20261126s/340/w170h170/20261126/b7fd-52d796eebf043f3ad6c9e09176fbc784.jpg/w700d1q75cms.jpg",
     "category": "iot"
+  },
+  {
+    "title": "小米汽车正在变成一家普通的汽车公司吗？",
+    "description": "小米汽车正在变成一家普通的汽车公司吗？",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GRkJESmU0SDBscllfcXIxcFJsSXBONk1BX1Z1QV9GS19XMEM3NmU3MksxQXNmVkxUYThGRFVzM2JOQQ?oc=5",
+    "date": "2026-11-26T03:02:24.000Z",
+    "source": "汽车商业评论",
+    "image": "",
+    "category": "auto"
+  },
+  {
+    "title": "小米要不要豪赌？",
+    "description": "小米要不要豪赌？",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXlCV3NtNUhJUXVOQjc1RUdFZ00zR1BDRjRoX1NfQjYyZlFOWmlCbzBqTzNneno5MkZldHE5VG81VE1URXdtUXYxQ0tta0JxZkJHMkcyOFFFWTBpelB3d24xUlhiY3JZNUNmZVE2Q3lXZUNVak9EQnE3azA3c0hQTWcwRnBXTGJ1OWt0U201Yw?oc=5",
+    "date": "2026-11-26T02:51:00.000Z",
+    "source": "21财经",
+    "image": "",
+    "category": "phone"
   },
   {
     "title": "小米要不要豪赌？",
@@ -516,6 +940,19 @@
     "isUpdate": true
   },
   {
+    "title": "Xiaomi HyperOS 4.0 Android 17 December 2026 Update 🔥 India & Global Release Date & Device List!",
+    "description": "Xiaomi HyperOS 4.0 Android 17 December 2026 Update 🔥 India & Global Release Date & Device List!",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94NE1XYnBOX2JJSnhPdUhIc0J5Q1NjM3hGY3ExZW5GYk05WUgzZmhtLUVqWmpvbDVYNTgycmJacXp1UQ?oc=5",
+    "date": "2026-11-25T12:40:27.000Z",
+    "source": "YouTube",
+    "image": "",
+    "category": "software",
+    "updateVersion": "4.0",
+    "osType": "HyperOS",
+    "updateType": "update",
+    "isUpdate": true
+  },
+  {
     "title": "小米根据2023年股份计划授出5783.09万股奖励股份",
     "description": "小米根据2023年股份计划授出5783.09万股奖励股份",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SQzdUb1VqOGVFTEhPRU1KZW5lSElCUGsyYnFmM0JsVFBZdXV3U05DODVVUkx1T284NXNVYnJFTGFOVWR1NzhLYmV6NEs3djJ3X1Z0eTBjdlRfbTFJVHVYS2JR?oc=5",
@@ -853,7 +1290,7 @@
     "description": "Xiaomi’s Sales Slip After Memory Shortages Weigh on Smartphones",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2dod004NmN4ZEUtVXdyQ2pud2dXanNMYkEtVlB5MzlBS2o1QlVOMzVaWE5QaWtsZHFSMW9mSUV6WDh4V0ctUHNBMC1XbFh5WmFuMDVhQW1raFVlOU4tVkpKRHZsTUtycUpNQ3lLS0lrTTc5ZzN3T0gzVXc0QllEcDBldUVES2diUzUwMHVINnBDWE11Zl9HMnlmVHJtMXplWGFWYlhjVjVZSXJIOHJvbldYU2s?oc=5",
     "date": "2026-11-25T03:14:00.000Z",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP7CZ2qC2mTc/v0/1200x800.jpg",
     "category": "phone"
   },
@@ -1353,8 +1790,8 @@
     "category": "iot"
   },
   {
-    "title": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027",
-    "description": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027",
+    "title": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027, report says",
+    "description": "Xiaomi Auto will start EU sales in Germany, Italy, Spain and Sweden in 2027, report says",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0pUeko5cm51RDZqMmRWRG9XTHgyOG1ndDlKeGhFN3poWmQzcTZXMmN4S3o2cmR6eGNQQ09tUm13cVlMRTI4UWQ2TW1oWi1pMVFCaEtjaEtnTGVDei14NTdseDlHR3MwZ1N3QnVtbTVWSmkyQzNNMVRFOFhuamd5cDBnNmxudUIzMUJMeUhodjI5WVQ0dS1OQ0Q1THk1TkZuY1hRU2hTX1VuNWczSTNJ?oc=5",
     "date": "2026-11-24T12:33:00.000Z",
     "source": "CarNewsChina.com",
@@ -3735,7 +4172,7 @@
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Y2hVNkFEcGNNVFJoNnctcXdNTnJLTUpqVWJiRGd6TS1uVWxvVG5wLVF1TGJYMmtuckhZVDIxYzJLN0o4T0lxaWRHZXdWME9wQTZyZXBKc0JnSkk?oc=5",
     "date": "2026-11-19T14:42:33.000Z",
     "source": "汽车之家",
-    "image": "",
+    "image": "https://www2.autoimg.cn/chejiahaodfs/g34/M0A/E9/08/autohomecar__ChxpV2rV0XSAGwATAASSaI8Qzbk627.jpg",
     "category": "software",
     "updateVersion": "1.18",
     "osType": "HyperOS",
@@ -4117,431 +4554,5 @@
     "source": "Sohu",
     "image": "//q1.itc.cn/q_70/images03/20261119/1a1ba35fd9dc4bc884561767e62b0765.png",
     "category": "iot"
-  },
-  {
-    "title": "斯波谈小米切尔砍24+6：他打出过这种表现 只是过去两年没人关注",
-    "description": "斯波谈小米切尔砍24+6：他打出过这种表现 只是过去两年没人关注",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPck1tWWJ4eG13MER2VTlHWjlnY1V4VVhlRkxrMjYyVS1MeE1SYk9DMnB0UzN1aXJWV2pzUVNoTkxvTUdmZ3J1MktGbnZXV25abFI1RFNwdHdnaEtRZ1p1Q3IwdVFuS0hRRHh3YzB2NHBmVmtMOEZTN0gtR0tMMDkyV0k3dDg?oc=5",
-    "date": "2026-11-19T04:32:58.000Z",
-    "source": "Sina Sports",
-    "image": "https://n.sinaimg.cn/spider20261119/400/w720h480/20261119/1f31-bd12e3ad32ce132ce1f678ab84ea7f4a.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "全系产品齐亮相小米汽车2026广州车展阵容曝光_新车上市",
-    "description": "全系产品齐亮相小米汽车2026广州车展阵容曝光_新车上市",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnZnRRWERXQUNhaFhtbG40MENiVXQ3amtIWWFrSUgzU2V6YXNaM1pkaEE3SVBXZWRJU2JaaTNvSmFySjFwNDRVandHSWZwVXh3eGJmMEdmUlRBZ3htbXk2LXJpYjdDVnFRb183Vg?oc=5",
-    "date": "2026-11-19T04:26:03.000Z",
-    "source": "中金在线",
-    "image": "http://images.cnfol.com/wx.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "雷军：小米汽车在深圳的渗透率很高 街上随处可见",
-    "description": "雷军：小米汽车在深圳的渗透率很高 街上随处可见",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZc2ZIRldaNUhiWXNiXzYzWDBIUlVnVVNoV21WVXhOd0l1bEo5Zi0tWUdEUElDOEJTUVhzSGNIOUdudzhMdVUyMzgtb2p3WTVUSUpFRlMyZ1c?oc=5",
-    "date": "2026-11-19T04:24:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261119/37b2b9e7b1b24139bab1d377eb8dbad2.png",
-    "category": "auto"
-  },
-  {
-    "title": "雷军金句视频竟出自“它”手",
-    "description": "雷军金句视频竟出自“它”手",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80LUM4QUt0UnFESXNueXQ1WUEzWGt4bmhpZW9JTVNMU3NIbmliXzBiaGtXWXhaREU1ZnNKOVFOVFJocnpGUUluTXNxdW1sa0l4ZWxUWEFNYUc?oc=5",
-    "date": "2026-11-19T04:17:10.000Z",
-    "source": "湖北日报传媒集团",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "Lei Jun Reveals Xiaomi 18 Smartphone in Advance",
-    "description": "Lei Jun Reveals Xiaomi 18 Smartphone in Advance",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbU10alBuQm9faDhDVkhEZ0R1YXl4YnE3Y192Y09lTzRTNUZrSjJEZjFCbEtRVlNYSEZ6UER2X2FCTlVVbmZPVnpGcm5kTlJMaEREbms4QmpSYTJ5R2lSaTlDeUhGaVN4blFDUE5XVnctZzF5QzE5MV94dEhCcmNncUJfRE9XNlV5bm14bkZpeUh2djdKejQ5LUxfNFl3bHB5a2dDTFBocw?oc=5",
-    "date": "2026-11-19T04:17:01.000Z",
-    "source": "TradingView",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi Smart Band 11 Unibody Edition: Specs, Prices, and Key Features",
-    "description": "Xiaomi Smart Band 11 Unibody Edition: Specs, Prices, and Key Features",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHB2YWRrLTZTMjhmcmtUV3JabUVlWFU1NzhZS3o1NWlJalZ4YzM2SVBwZlJRa2FicU1kbDV4TEdfaU9tQlZFaVEwQWw5TUcxb2JGcWtiOHBwaThMa1AyQVlWRkthUG1PekcwNkZCNjQ0VWlpcG5oMno1bXhNU0t0UUtDNi1qZGZrWDctX19fV1l3NFk?oc=5",
-    "date": "2026-11-19T04:02:14.000Z",
-    "source": "hi-Tech.ua",
-    "image": "https://hi-tech.ua/wp-content/uploads/2026/11/e7dedcec74769d58224e444bf8db5fdd-e1795032122205.webp",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi Watch S5 41mm Ceramic Edition unboxing and hands-on - GSMArena.com news",
-    "description": "Xiaomi Watch S5 41mm Ceramic Edition unboxing and hands-on - GSMArena.com news",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRE5tMmtqbUw5S283Tmt1emlqbk1ORy1VVDFhRVZac3NDRDkwUTM1d1JCVHlhOGZJODN1OFI0RDA1dXBNNkxVbnU1N1dSRHBOMzhyUENJUEk3clRjTmpCaHhsTU1oaHByWW1uUmxnZ0ZHVF9NMjUzbWhHNHVXZThFNEdLa9IBf0FVX3lxTE15MGxIWUc5bGFnekRjczIxQnZHSTd1NERoaWZ6ajRTcGhZV2o0QXh1NFUyS0xKMWRkZV9lVlFaSE91aXBCbXdtQUpTRE1iLWJacGdERTlLT05FN2k3VWJfLXB1S0laUkFwb0w1M1dFZ1RsZTdTZ2Npb2s5QWduS0k?oc=5",
-    "date": "2026-11-19T04:01:02.000Z",
-    "source": "GSMArena.com",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-watch-s5-41-unboxing/-952x498w6/gsmarena_000.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "我国新增34家领航级智能工厂 小米汽车等入选",
-    "description": "我国新增34家领航级智能工厂 小米汽车等入选",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WdUZMcmIwQXhodmJ4MGRsb1FUWVFmLUJxXzRWOU12alRRX3lQZDZHQVdIQ19Wdm1TTjNvRFVWTnRQTHNQMHlZY2Y4WFU0a1pLQUZ0VHFjM3VXSks4RnZRbElZejlaQUI4dUNWUVpocVc?oc=5",
-    "date": "2026-11-19T03:44:56.000Z",
-    "source": "手机新浪网",
-    "image": "https://k.sinaimg.cn/n/sinakd/sni/672/w2048h1024/20260522/769b-f70bef10a7de4a8a96b37be200871797.jpg/w700d1q75cms.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "我国新增34 家领航级智能工厂：小米汽车、赛力斯、一汽大众、歌尔股份、宁德新能源、中兴通讯等入选",
-    "description": "我国新增34 家领航级智能工厂：小米汽车、赛力斯、一汽大众、歌尔股份、宁德新能源、中兴通讯等入选",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zazV2VG1vcVdxcmxDN29jeTZxbVdIb2RRLVp3N3QtaDZWejhieVVnNFFycWY0dHVTN0JwMzB3UTVFMktVcXczNW9sQUg0UGpfMjhHVzZKTkk3NjBCa0JsNzE3UFFrYzlpSjB5aXdfeC1BU3RjMTlsS3VvWnV2a28?oc=5",
-    "date": "2026-11-19T03:42:05.000Z",
-    "source": "新浪财经",
-    "image": "//n.sinaimg.cn/spider20261119/672/w2048h1024/20261119/5410-5149189421ae20181240f35a362178e9.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "我国新增34家领航级智能工厂：小米汽车、赛力斯、一汽大众、歌尔股份、宁德新能源、中兴通讯等入选",
-    "description": "我国新增34家领航级智能工厂：小米汽车、赛力斯、一汽大众、歌尔股份、宁德新能源、中兴通讯等入选",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ZXFoMldnUHh4NHgyQ0tzdGlYLV9hWURlT2hlUzhNNjM2VnQ3aHlIeDlTX1BZQWJ2OUZkbm5qMjRuejFZSnVSMnpjTnZvdmNGa2Q0RWlRTndDODBfSEpKUFJPNGlCWlZrSTk5d3VZY2I?oc=5",
-    "date": "2026-11-19T03:42:05.000Z",
-    "source": "手机新浪网",
-    "image": "https://k.sinaimg.cn/n/sinakd20261119s/672/w2048h1024/20261119/c7c9-e18e29931e18c216779158184ac72c4a.jpg/w700d1q75cms.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "王传福谈“抢饭碗”、雷军说“焦虑”：这届APEC，大佬都聊啥？",
-    "description": "王传福谈“抢饭碗”、雷军说“焦虑”：这届APEC，大佬都聊啥？",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54djE3OTk0Q3JiZl9Jd29nNFFSaHhGbXc1OElUbXBDVF9BSjY4S1JnUDlnVjh3ellhVk01OTI2VVdtVHYtTEZsMWFlZ2pzQkR1UFpGQ0hqWDA0eTdVNFhZOGxfTjMxeFJNeXlVNEFtcU5sUQ?oc=5",
-    "date": "2026-11-19T03:33:09.000Z",
-    "source": "手机新浪网",
-    "image": "https://k.sinaimg.cn/n/sinakd20111/398/w1280h718/20261119/e622-2de765fe4bf206972632ba3c9ed486a1.jpg/w700d1q75cms.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "雷军，提前曝光！",
-    "description": "雷军，提前曝光！",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIR1BDT0RsQXpjQVNhcDV5VVg5RnVaUk13eHl0Y25OcHloRGNhaTE0WVh5M1g4bVJIZ3hYUGtSNVUxV0tQbHdJaFV6SlFOak5GVG1v?oc=5",
-    "date": "2026-11-19T03:30:00.000Z",
-    "source": "电子工程专辑EE Times China",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "雷军称小米汽车明年正式出海",
-    "description": "雷军称小米汽车明年正式出海",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wTktXZUVVUG5tNFZXZm5CUTU1LTNSYXIzUlFqZ3BlWEdua1B5TFBmaHlBc3RVckd6TnFVOFdrb0Q1Uy1LbGs5OFZrZFBLU1FmX0J5TnFFc1BvM3M?oc=5",
-    "date": "2026-11-19T03:29:16.000Z",
-    "source": "汽车之家",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米18曝光：有望12月发布 售价或5699元起",
-    "description": "小米18曝光：有望12月发布 售价或5699元起",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNGI4RFVYcGlfcVlfQzdyZjVhbVhOM1dHN1RVZHR4Z3Z2QUNVOERNRXo0eWpPUThYdUJINm5TZGs3bG1kSW5SSFdUR2RkU3cwYy13ekFVdHQ4Tkl3bEtOeEdoZDNYYklCajlGR193eVZQdw?oc=5",
-    "date": "2026-11-19T03:17:00.000Z",
-    "source": "中国经济网",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi 18 Pro Series launches in Australia with a rear display, dual 200MP Leica cameras and Snapdragon 8 Elite Gen 6",
-    "description": "Xiaomi 18 Pro Series launches in Australia with a rear display, dual 200MP Leica cameras and Snapdragon 8 Elite Gen 6",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcU91SHNNdHl1Q3hrRmJqZS1zcmV0Z3FxcUluQWRYZWVhZi1pbWhlZEF6VlByZ25fV3JVaTZyajI3OXNXRjRpSFRXTmRQNHQtLWU5NXk0S0paOFhLb0wxV2NpTkRHOWdsSTRkeHFCM1psWS1JaUc0elhzRHl2M1FrMVoyNWZhY0d3c2RrMGJTNDNWY295ZUV2UmdsYmMyazJEV0tYWjNseVFveVBWZ3NUVWNfOENZR2FRLVNNNFdQTzIyY0Z5cFpBVUMwUmNIdG41MFZIZlQ5NWpXeUpRQzBsbTdtSQ?oc=5",
-    "date": "2026-11-19T03:03:44.000Z",
-    "source": "Craving Tech",
-    "image": "https://www.cravingtech.com/blog/wp-content/uploads/2026/11/XIaomi-18-Pro.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "【图】全系产品齐亮相 小米汽车2026广州车展阵容曝光",
-    "description": "【图】全系产品齐亮相 小米汽车2026广州车展阵容曝光",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQOGtDMWdWQ1BlbWNaUmJIWHAydUlWajVqLXV2QUx2Q3ZVN01jbjFxekwwSUFPdkdCOGR1OGNqM2tuSGZUQTdxSFpXTGtlaHo2NTA0UGxEY1RteU91YlNjVmF3?oc=5",
-    "date": "2026-11-19T02:37:11.000Z",
-    "source": "汽车之家",
-    "image": "https://z.autoimg.cn/zixun/www/img/opg_400_400.png",
-    "category": "auto"
-  },
-  {
-    "title": "XIAOMI-W Repurchases 1.68M Shares Yesterday for Nearly HKD49.87M",
-    "description": "XIAOMI-W Repurchases 1.68M Shares Yesterday for Nearly HKD49.87M",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmpDWkMxY2dkb2szR2F6NDg2OGdrUWY0aDJUbTdhQ2s2REFodld6SW11UEtZbXptUzV6RU5FUTA1eXlRdmxQaTQyaVRoWW5PckZwdDhOdHZ2TjRlR1p4RHlLQlFwQ3NDLWJ3SmZ2MXVKM0pweEVlYWRWak5nVHJheGZMdkpuMmYyUGRsV2RGcmZFOW9KWUdBNnBNcTdiQ21nX1FrREgwRV93ckcybHVKMGIwZGNkOXMtZkQwNm1R?oc=5",
-    "date": "2026-11-19T01:55:00.000Z",
-    "source": "TradingView",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "雷军说面对AI大家都有点焦虑",
-    "description": "雷军说面对AI大家都有点焦虑",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYmVnSHhkYjJnUzJWRTZaVjBQTll6Z1R6d2p5cVhHeXM2VU5GRjZtZmdlNmR2ajB0aFFKS05KUHJzaDNDT3l0bXQzM3JqU2hKTldpeXZWQUo3TC0xVnAwZUp1cXEzZW5Tc21ZZVY3d3R1SDQyREJ3VEFLN1pjMjA?oc=5",
-    "date": "2026-11-19T01:37:03.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20261118ac/320/w480h640/20261118/47de-a749fe42d8dc5b453f47c4d8ee94eb34.jpg",
-    "category": "people"
-  },
-  {
-    "title": "如何看待技术竞争？AI落地有哪些想象空间？雷军在深圳回答了这些问题",
-    "description": "如何看待技术竞争？AI落地有哪些想象空间？雷军在深圳回答了这些问题",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JTlVtRXVabkIwcUNCTFhHR1dfRng1aFFHcEJ0Nkdrc1ZDUzFBRmlwU0xzazJkUHpJTTgxcjE4ZU5aTkNHMGt4YUZjdEstaDFhS1lJVTNNR1JvOE9oMFlydXlNZVVnTWdEeTZjSmR6UWRUZw?oc=5",
-    "date": "2026-11-19T01:12:00.000Z",
-    "source": "京报网",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "雷军：AI技术让小米单台手机等产品生产能耗下降10% 少用200万度电",
-    "description": "雷军：AI技术让小米单台手机等产品生产能耗下降10% 少用200万度电",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kd3puaTBEZnJ2eDJmdHpFQVkwT01ERHBFS2dkbV9oUm12STE4eXlhc1NZRHloTU9saHRPSWQyLWpPaEFVTHJHUEV4SktGOVBlWEc2NWlmcm4?oc=5",
-    "date": "2026-11-19T01:11:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261119/7432b5e62ecb4486acee93dde2668ad0.png",
-    "category": "people"
-  },
-  {
-    "title": "小米汽车：2026年......_7x24快讯_新浪财经",
-    "description": "小米汽车：2026年......_7x24快讯_新浪财经",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Hb3VoLWxDcUlvR0JDVjg3YVlsLXZzVnBMemNIbW5HSkhHNkNTQjg2R3d0bm8zSEt5SjZwUkY1RTdNVHRpM01acDdqOA?oc=5",
-    "date": "2026-11-19T01:07:54.000Z",
-    "source": "手机新浪网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "小米汽车、赛力斯等入选，2026年度领航级智能工厂培育名单公布",
-    "description": "小米汽车、赛力斯等入选，2026年度领航级智能工厂培育名单公布",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZeG9kLV9MMXY4elR6dkE4VU9YeVhySk1NQjR2cVFON1lyRHJfQThaSjMxOUxFb3J3RUpNQ3ZGYlc4QTMtUzJVZDZvZ0ozNnExR2RVN0l5ZjBrd29aVTZSanhiazNFZw?oc=5",
-    "date": "2026-11-19T00:21:32.000Z",
-    "source": "东方财富网",
-    "image": "",
-    "category": "auto"
-  },
-  {
-    "title": "雷军祝贺李田原获DFA亚洲设计先锋：从宝马iX到小米SU7、YU7",
-    "description": "雷军祝贺李田原获DFA亚洲设计先锋：从宝马iX到小米SU7、YU7",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOTEwU21EWGl0WW9LUkpFOVBGaXR1aXVFSnhtWnBLdHg3RFhjWWZSSURidnpTNzQxQ1oxRjlnM1daVE1UYkhXdURzREZGLV9mSTZIclQ0YWFReVdqbmxfYnpWSVFJLWdaR1hvd1FCWkltd2VsbGNpTGlJanZFT3pGQmVB?oc=5",
-    "date": "2026-11-18T23:17:33.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20261118s/625/w723h702/20261118/0ce1-e3c23c937c1c05671cee0043af22d08c.png",
-    "category": "auto"
-  },
-  {
-    "title": "雷军在深圳回答了这些问题",
-    "description": "雷军在深圳回答了这些问题",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pZVlaN0tCY0VxMm10Rm1qV0ZJcDhFb2UtUTM2MHdHM05wYTFyc1FKQzAtSG8tcHZsUjFrM0ZSaExhXzh6QjZKWVVyR29WbDB5UFJyMk9Hb1lmZw?oc=5",
-    "date": "2026-11-18T22:34:00.000Z",
-    "source": "上观新闻",
-    "image": "",
-    "category": "people"
-  },
-  {
-    "title": "小米18全面预测：没有背屏还有这些特色",
-    "description": "小米18全面预测：没有背屏还有这些特色",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fb2xzOTVHSy1tRzlvUVk1MkM1dG5Vd19TUERNckFmcmNXZUJMSncxOEpiZ3g3TVJkRlNsdG1vTkZVdnQ5aG9ObmRNTmZWWDVGVUlWWk5TeFo?oc=5",
-    "date": "2026-11-18T22:31:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261119/4f87887f1e414d43845f4650faa4de19.png",
-    "category": "iot"
-  },
-  {
-    "title": "Qwen4-Max 对比 MiMo v2.6 Pro：多付 12 倍账单，换来 13 分提升",
-    "description": "Qwen4-Max 对比 MiMo v2.6 Pro：多付 12 倍账单，换来 13 分提升",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJbFhpZDFVQ0hhVjE0dUQ3NTNSMXlhalZqeHRIaUJtcVVLRkRlMnlHNHVKVkNycmZrbDRlNHQ4ckszVjNYUUY5TGpJektqTmdBZktNVTktaVVlai1aUmx2NXVYTEd5TWNyMFRETkpOd2JEQQ?oc=5",
-    "date": "2026-11-18T20:34:53.000Z",
-    "source": "OrcaRouter",
-    "image": "https://cms.orcarouter.ai/api/media/file/1-4273-1200x630.png",
-    "category": "iot"
-  },
-  {
-    "title": "雷军在APEC泼冷水：AI投入太大落地难，可小米三年要砸600亿",
-    "description": "雷军在APEC泼冷水：AI投入太大落地难，可小米三年要砸600亿",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9acDJuVi01VDg1bFVIUDRQNEJXekFwZ0ZZWC1kYTdyamZIOUlpVVNwTWNTc2J5QkR0NWhoVkZqbzR0aGk5ZWQ1WXhjMER6VVVxenpfNlRxUmNJT2xSRkdPcG03c3VtUWFEV3dSQVJiN2x1UXpvejBwSG1Vdk5sNFE?oc=5",
-    "date": "2026-11-18T20:02:06.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20261118s/638/w1200h238/20261118/9448-748483fea178961b871c9f8c0b43fd65.jpg",
-    "category": "people"
-  },
-  {
-    "title": "Xiaomi 18 Pro Series Adds an AI App Builder for Its Rear Screen",
-    "description": "Xiaomi 18 Pro Series Adds an AI App Builder for Its Rear Screen",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFppV1pWSkE4dEdXRlhzamlWX210S1FNdEtMMkExLWlQQXN5QUdWZ2xqMGVlRmlkOVNTTDJuSW8xWkl6dTR4ZzA4c1pmQS10Y0Y5SDZqTHMwN2tOZlNrTHRnNHdMcTdtUUZxN2Y4b3hGbVQ0MDRiZG1CcnZHb1k3amxmNEVMRDA?oc=5",
-    "date": "2026-11-18T19:50:17.000Z",
-    "source": "TechRepublic",
-    "image": "https://assets.techrepublic.com/uploads/2026/11/unnamed-12-1-1024x576.png?f=jpeg",
-    "category": "ai"
-  },
-  {
-    "title": "Xiaomi 18 Pro Series Launches Globally With Dual Displays and Leica Cameras",
-    "description": "Xiaomi 18 Pro Series Launches Globally With Dual Displays and Leica Cameras",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlNfT0NtUVpBU01rbG9uU05XbEdEaUZucHNRMzFCSVdnMEZyYi1XU25zS2RxU0dtaVAySFVjZ2V6X3lmWkR0OUxyaDVpVExkNnJPX0VGNWlZZ0tOUG5oby1FY1k4VzhGYXJtcFhMWlQ1d28wTTJmNENSNkJycTNBb3BJSlJSYnZ0QnFvT3hGUVNOV2RjWGdsdExHTTUxcXlNRWJtZURMWWEtQ0JVQVhhekpCajc?oc=5",
-    "date": "2026-11-18T19:21:54.000Z",
-    "source": "Imaging Resource",
-    "image": "https://media.imaging-resource.com/2026/11/18192035/xiaomi-18-pro-launch.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi Pad 9 Pro delivers a surprise in our review: New chip, lower performance",
-    "description": "Xiaomi Pad 9 Pro delivers a surprise in our review: New chip, lower performance",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWlozZC03QU51MVoyREFxUDhudU51UUJMZ2ZCN0ZfT3JKRWdoclRqM3J3dEo5b2VxNmlqYVB3TGRlWjdYVExrMVlrV2tMWUJGbkw0WS0tU0REV1BzMXp6XzBnY0VlZFl1X1dZckYxYzc2VG9sN3BUOHctcm5TdzhEdU1VUkl4SjU4YnRwWnJZUGo1Sng1d3ZoUGJSLW1ibDU1MVFIdWdjOTJNV1AzeEF0SHF1SHVLZHRPaXhwdVl5dw?oc=5",
-    "date": "2026-11-18T19:21:00.000Z",
-    "source": "Notebookcheck",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Test_Xiaomi_Pad_9_Pro_5.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "雷军APEC现场挨个发名片，小米回应\"发言紧张\"：这么大的国际场合，紧张太正常啦",
-    "description": "雷军APEC现场挨个发名片，小米回应\"发言紧张\"：这么大的国际场合，紧张太正常啦",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQVczTTUtVHptR2xLbGd1cnJJV1o3YlphLWFtTDVTVmpaNUdHYWpYNVRENVVXNHU5SjduNU9nbTJVd0F6UTFRSVQ1UTB0SW5wc3JzQ2Vjd2xmTjFPY01XTGRZTHE1UHA4WGpQTnQza19ENXdtY1M1THJxQTdCZ1U?oc=5",
-    "date": "2026-11-18T19:14:04.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/sinakd20119/40/w480h360/20261118/ef6c-9feae5fbe7a87c52203ef66bcdfe9628.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "小米雷军：“AI+手机”“AI+具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
-    "description": "小米雷军：“AI+手机”“AI+具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsMEZweHVtRlBzVzFodndaTTZuX3RGN25SMlR6WUZVekF2VEhVcGV3Z1BjbWwyLWU1b3l1blRMSVNuRldPTjM5aktsbm9QQWg0WlExNzRmMzJ1ZHIyX2ZYVG1zQ0Ftc1J0enlUWVZ1ckkwdw?oc=5",
-    "date": "2026-11-18T17:56:43.000Z",
-    "source": "手机新浪网",
-    "image": "http://n.sinaimg.cn/spider20261118/740/w660h880/20261118/7637-76872ee3cdb6d638c94f6787fcc8c352.jpg",
-    "category": "people"
-  },
-  {
-    "title": "英特尔、小米退出，纳芯微4.87亿元押注一家未盈利标的",
-    "description": "英特尔、小米退出，纳芯微4.87亿元押注一家未盈利标的",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWUzMzJPT3A2eGxsVGpvMnA1SDBPRS0yMkVDTjkxSGZ0bVhMMDJsVDIzZktCcjlWVHhqMGs4VEdCWlQ3RENpRkRDb0p5NjZWUFhubW1wMGpvbkJDYmEyVXpybUJ5ZWxiOUFtYmszVlYyVGliMVNIRmQyTmFXMzdLX3VXNlBNdw?oc=5",
-    "date": "2026-11-18T17:02:57.000Z",
-    "source": "21财经",
-    "image": "",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi 18, REDMI Note 18 and Turbo 6 series to arrive early 2027",
-    "description": "Xiaomi is preparing several new phones ahead of the Lunar New Year, including the Xiaomi 18 standard edition and the REDMI Note 18 and REDMI Turbo 6 series. This information comes from supply chain certifications and a post by the popular tech leaker Digital Chat Station. New Models and Market Posit",
-    "link": "https://ximitime.com/xiaomi-18-redmi-note-18-and-turbo-6-series-to-arrive-early-2027-101844/",
-    "date": "2026-11-18T16:45:26.000Z",
-    "source": "XimiTime",
-    "image": "https://ximitime.com/wp-content/uploads/2026/02/REDMI-Turbo-5-Max-1024x576.jpg",
-    "category": "software",
-    "updateType": "update",
-    "device": "Xiaomi 18",
-    "isUpdate": true
-  },
-  {
-    "title": "2026年最强标准版！小米18有望12月发布：或5699元起售",
-    "description": "2026年最强标准版！小米18有望12月发布：或5699元起售",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wemI5RU5LQXpLX1ZHMHc3ODhqdEhUTzhvQXRBSzhldjVuOHk3UE9Bbk95WUM3SkxWXy15R2UzcHhUT3JVck1NOFNGT2dNZUMyM0U3cm54RmM?oc=5",
-    "date": "2026-11-18T16:18:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261119/e4c8e989140b46d7bb4643625c899319.png",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi Vision GT, SU7, and SU7 Ultra: A Glimpse into Xiaomi's Automotive Future!",
-    "description": "Xiaomi Vision GT, SU7, and SU7 Ultra: A Glimpse into Xiaomi's Automotive Future!",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BX1J1NFR3dWdkZkpld0JidURMV0sxOTMybUpISVI0VkxHWEJ6MUcwNE1aTzFhVHNnaTk4MGJ4T0dyWUhhWEhGUm1fTjlFc1VoV21nWjFPWm0xMzBqbG05R3ZOeHpfYjZsdUxRcWlHT2QwWG45eUxYdA?oc=5",
-    "date": "2026-11-18T15:30:00.000Z",
-    "source": "Yahoo Tech",
-    "image": "https://s.yimg.com/lo/mysterio/api/60b99a5336bcb25ab498477ade83675e32d481d5bab523551c97369a3267e9fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_vertical_videos_741%2F35f44132182c345654d4b35f6cc87679.jpg",
-    "category": "auto"
-  },
-  {
-    "title": "小米18预计12月发布 起售价5699元",
-    "description": "小米18预计12月发布 起售价5699元",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpQWg3TVlyU1hpbmJvbDAwODVMOEhGRW5ZdEhBMGVoclZKbFU0dnJ0NGFaa0lUcTBiLTRfeGs2TjZaMlpoVzg3TmV0Y2hoOTZlaGViOVVEcDZldVRDMHZNNGNRdw?oc=5",
-    "date": "2026-11-18T15:29:25.000Z",
-    "source": "东方财富",
-    "image": "https://g1.dfcfw.com/g4/202112/20211206191716.png",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi 18 Pro & Pro Max: Price, Specs, and Release Details!",
-    "description": "Xiaomi 18 Pro & Pro Max: Price, Specs, and Release Details!",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5SGlWbnBsSml0RVlYZTZJZ1VxcFlCOEh0YnE0YmZNc1V0N0tiYW5sRVJkRWhwdXBHcFEtYjdmYTJOb2UzRDF3eVAwMkdZOEgtWkZpUENGTFFvUVJOaFFpV2JocUpFVENqeHE1M0dURkJnR0NW?oc=5",
-    "date": "2026-11-18T15:00:00.000Z",
-    "source": "Yahoo Tech",
-    "image": "https://s.yimg.com/lo/mysterio/api/21371a001c2d99d152012dd4a5f68e949637aa05c0f0f8704989c7b399f8a33a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_vertical_videos_741%2Ffb6b419afadc0ae6d05f38d7e57a291e.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi's newest phone wants to be an iPhone 18 Pro but better. Is it?",
-    "description": "Xiaomi's newest phone wants to be an iPhone 18 Pro but better. Is it?",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJfZW5jbXJtTTMtcGVHYzRwM21WcndyOUFtZ0xHMGlOLTNQTUNzb3lseXE0T1hma0cxOUpKWUc2OUhjRk80aVBLR1BMd01zZUN2MFRSeUtXQlFsdGc2STNFei10cVpTZTUwV2lveXBUMzYzUXVhb1BiVmJOTEhyMmQ5TGw5ZWhwSWFJN1d5MnQ?oc=5",
-    "date": "2026-11-18T14:48:37.000Z",
-    "source": "Yahoo Tech",
-    "image": "https://s.yimg.com/lo/mysterio/api/2ec0b056d83528162d1feca11504892f58e5f5a68e13e6ae5b361dd923130e53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9cb9bc062a305f4aa89723bc0531bad2.jpg",
-    "category": "phone"
-  },
-  {
-    "title": "Xiaomi Watch S5 41mm Starts at €229.99 in Europe",
-    "description": "Xiaomi Watch S5 41mm Starts at €229.99 in Europe",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGxVc3NyNUNiUENGZWt3ZE1ua0R1dXdPWDh4MGE1a3R4QzdTb2NublJCTFBQVE1sMGNadHRhUjdEMmdCQmEzTURCb0ZCQ3hzbUpOTjZpSm5WWk5mTUVLZzhyeDFnV0VSTVNDQkZ1b2U5TjZlMW1zU0hxdW5FOEtaT2M0bGlQcHN4SHlYVEZzUQ?oc=5",
-    "date": "2026-11-18T14:36:01.000Z",
-    "source": "shattered.io",
-    "image": "https://shattered.io/wp-content/uploads/2026/11/xiaomi-watch-s5-41mm-xiaomi-clip-global-launch-price-229-99-euro-img13.webp",
-    "category": "iot"
-  },
-  {
-    "title": "雷军APEC发言紧张了吗？",
-    "description": "雷军APEC发言紧张了吗？",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12Wm5DT2Rqb25QNWE2U1drcVNRVEhhNFFYcXJ1OC1jbEsta3NBLWlXX0MxUWw2VzJfNzh6QzdYcU9OMVdYbHl0a3JlcGRRWXJNYnN3c1VWTXhhQUhLSVpxa3hMeFVaSmJDeFQ2U1lCSDIwdw?oc=5",
-    "date": "2026-11-18T14:26:22.000Z",
-    "source": "手机新浪网",
-    "image": "https://k.sinaimg.cn/n/sinakd20122/399/w1280h719/20261118/c655-e20a057a28c37e75a639dfda4d62c3c3.jpg/w700d1q75cms.jpg",
-    "category": "people"
-  },
-  {
-    "title": "Xiaomi 18 Pro Makes a Serious Play for iPhone Switchers",
-    "description": "Xiaomi 18 Pro Makes a Serious Play for iPhone Switchers",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWNTNjV2cHpFNm5FdzRNM2wtdTV4TjFDeFVYejhST19XanRDUTB1WWJSNTdSNzZpYWQ2UjJDSzYweGRQcVVTY2wtSjVfZE0xbWt1Mm54UmU3amVMRXJUNHpTaXcxOXp1cDRDWnBhZTlULU9RazVMcU94VzdndGFNdGk2SVllWER1RVdLV1dZUEIxSnF5VV9UWUg2S0FUNjF6Y0RRMkNkcw?oc=5",
-    "date": "2026-11-18T13:45:53.000Z",
-    "source": "Tech Advisor",
-    "image": "https://www.techadvisor.com/wp-content/uploads/2026/11/3288410-0-45679500-1795009529-Xiaomi-18-Pro-review-30.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "category": "iot"
-  },
-  {
-    "title": "雷军曝光小米18标准版 起售价5699元",
-    "description": "雷军曝光小米18标准版 起售价5699元",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YSFRUSWNqQWo3X0JXS2ZFcDZNVWlfbWdoUU1PNGV4V2pYWmFMekZzWUJPZ3FXNjQtVUpmVG9aaXpwS1AzWDczLU9BMk9aU3VPWmRpc09ncE9WNWxlRGFOTTRB?oc=5",
-    "date": "2026-11-18T13:29:31.000Z",
-    "source": "观点网",
-    "image": "",
-    "category": "iot"
-  },
-  {
-    "title": "单人实操超5小时 小米培养出162位国家B级赛车手",
-    "description": "单人实操超5小时 小米培养出162位国家B级赛车手",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PR2xkNVlGUEd4ckNRMDA4ZUhMMEFlMTZSem5JaHhPeHRPT243MWtMdWFEWklibWRMS2U1VTJXS2xfbWx2RWEzVUhDZk1jVXFCQy1wSTVvY1g?oc=5",
-    "date": "2026-11-18T13:15:00.000Z",
-    "source": "驱动之家",
-    "image": "https://img1.mydrivers.com/img/20261118/be3f426d7659437f96a6988326cf6fe6.png",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review",
-    "description": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkFhRGpnTWVQVDRTUEpUaWxVbkVZY0VxT1Frc1dLSnRrQ2d4bGdMeFJ2elZRUzZ0Z2tPd21GOXJsYThPb0lWWnBIS2hNWEFCZkRrMmhSQV9NUEZyNy1aSGNlNEZ6anJ4VUlhSjhFN2VXOUpIeWV3MzF2NmVrWnZ5cXFlUmRQN3hnZ2kzeTJ4OG9raFBz?oc=5",
-    "date": "2026-11-18T13:14:02.000Z",
-    "source": "GSMArena.com",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-smart-band-11-ifr/-952x498w6/gsmarena_000.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review - GSMArena.com news",
-    "description": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review - GSMArena.com news",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkFhRGpnTWVQVDRTUEpUaWxVbkVZY0VxT1Frc1dLSnRrQ2d4bGdMeFJ2elZRUzZ0Z2tPd21GOXJsYThPb0lWWnBIS2hNWEFCZkRrMmhSQV9NUEZyNy1aSGNlNEZ6anJ4VUlhSjhFN2VXOUpIeWV3MzF2NmVrWnZ5cXFlUmRQN3hnZ2kzeTJ4OG9raFBz0gGQAUFVX3lxTFBXc0FtQUhOQ0QwN1l4cFFIX0tQTE9LQlV3R051S20wbVNaV3hQdlUwQXZ0UEhMLUYwUUsxQjBaUFA2NUxiZ1NfQVh2UVYzYjR3T2Yzb19ITmNrTmQ2M2s3dThVeHBtZHVuVERSODdvUU16R0UyM28zVHNJTmlxQVR5TWs5c2JXLXRlVDhDazNUOQ?oc=5",
-    "date": "2026-11-18T13:14:02.000Z",
-    "source": "GSMArena.com",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-smart-band-11-ifr/-952x498w6/gsmarena_000.jpg",
-    "category": "iot"
-  },
-  {
-    "title": "Lei Jun: Xiaomi Auto to Officially Go Global Next Yr",
-    "description": "Lei Jun: Xiaomi Auto to Officially Go Global Next Yr",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0d4UVFHLUsyWk51VmwyQUU0OVRrTHVsTlZyU2Z4QWdwcTBwWHg3ekxNd1AzVnRBb3pvNG5PMlZjS0V0NHlaV3RVRGVYVUplMXdkYTZibU5jOTFhWWlrMUdJYzNFbXRMb0txOWJsTlJzWW9jSkZ3WFptVzFVdEFna2lQakhSalZsUHQyVTdwTndxVnpib0RrLWNuUG9sa1dLeVZpOU5OZTdJZFhN?oc=5",
-    "date": "2026-11-18T13:05:15.000Z",
-    "source": "TradingView",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "category": "auto"
   }
 ]
